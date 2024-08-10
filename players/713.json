@@ -1,0 +1,56 @@
+{
+  "name": "Geneva Frami",
+  "jerseyNumber": 90,
+  "description": "Number 90 Geneva Frami. Overall rating of 58.",
+  "external_url": "https://example.com/player/713",
+  "image": "ipfs://Qmf2K8KASiAWRDbjA6rEUA3Y1GG2jEdsHNp1hdKEAgN9Rs",
+  "tier": 4,
+  "overallRating": 58,
+  "skill": {
+    "multiplier": 1,
+    "speed": 53,
+    "shooting": 42,
+    "passing": 57,
+    "dribbling": 56,
+    "defense": 55,
+    "physical": 50,
+    "goalTending": 42
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 53
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 42
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 57
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 56
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 55
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 50
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 42
+    }
+  ]
+}

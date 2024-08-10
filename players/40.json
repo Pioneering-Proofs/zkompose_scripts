@@ -1,0 +1,56 @@
+{
+  "name": "Luz Stehr",
+  "jerseyNumber": 88,
+  "description": "Number 88 Luz Stehr. Overall rating of 97.",
+  "external_url": "https://example.com/player/40",
+  "image": "ipfs://QmWPvrrap99kovrtEf4jYiEt7sdR93stfymXJvuqNT2MNZ",
+  "tier": 0,
+  "overallRating": 97,
+  "skill": {
+    "multiplier": 1,
+    "speed": 84,
+    "shooting": 96,
+    "passing": 95,
+    "dribbling": 95,
+    "defense": 94,
+    "physical": 83,
+    "goalTending": 87
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 84
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 96
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 95
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 95
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 94
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 83
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 87
+    }
+  ]
+}

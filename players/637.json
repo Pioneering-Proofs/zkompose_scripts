@@ -1,0 +1,56 @@
+{
+  "name": "Walter Balistreri",
+  "jerseyNumber": 94,
+  "description": "Number 94 Walter Balistreri. Overall rating of 65.",
+  "external_url": "https://example.com/player/637",
+  "image": "ipfs://QmTcyY8ihpgBjg2ZQqg4WE8wEcUL5w2SUnaj2E3r1vEPFL",
+  "tier": 3,
+  "overallRating": 65,
+  "skill": {
+    "multiplier": 1,
+    "speed": 53,
+    "shooting": 60,
+    "passing": 61,
+    "dribbling": 61,
+    "defense": 61,
+    "physical": 45,
+    "goalTending": 50
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 53
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 60
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 61
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 61
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 45
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 50
+    }
+  ]
+}

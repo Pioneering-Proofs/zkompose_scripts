@@ -1,0 +1,56 @@
+{
+  "name": "Kim Hartmann",
+  "jerseyNumber": 5,
+  "description": "Number 5 Kim Hartmann. Overall rating of 73.",
+  "external_url": "https://example.com/player/894",
+  "image": "ipfs://QmQ3utVnbZ7HFHSa651v1XP1uJCCnpt3h7cT4CnD15hLkY",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 64,
+    "passing": 59,
+    "dribbling": 65,
+    "defense": 61,
+    "physical": 59,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 59
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 59
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

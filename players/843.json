@@ -1,0 +1,56 @@
+{
+  "name": "Mrs. Heidi Zboncak",
+  "jerseyNumber": 44,
+  "description": "Number 44 Mrs. Heidi Zboncak. Overall rating of 65.",
+  "external_url": "https://example.com/player/843",
+  "image": "ipfs://QmbrQ13aoqzCciQSbEtNW4dEZg9YaRWc9MoTRKcDsgJLJ1",
+  "tier": 3,
+  "overallRating": 65,
+  "skill": {
+    "multiplier": 1,
+    "speed": 58,
+    "shooting": 61,
+    "passing": 52,
+    "dribbling": 64,
+    "defense": 48,
+    "physical": 51,
+    "goalTending": 45
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 58
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 61
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 52
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 64
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 48
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 51
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 45
+    }
+  ]
+}

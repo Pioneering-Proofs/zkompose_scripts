@@ -1,0 +1,56 @@
+{
+  "name": "Agnes Grant",
+  "jerseyNumber": 3,
+  "description": "Number 3 Agnes Grant. Overall rating of 79.",
+  "external_url": "https://example.com/player/926",
+  "image": "ipfs://QmVfMiJ8jTeJj1BQsC7qZbdUnLQzMsPpgaTrE9uWvaPGNX",
+  "tier": 2,
+  "overallRating": 79,
+  "skill": {
+    "multiplier": 1,
+    "speed": 73,
+    "shooting": 77,
+    "passing": 76,
+    "dribbling": 62,
+    "defense": 76,
+    "physical": 66,
+    "goalTending": 71
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 73
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 77
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 76
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 62
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 76
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 66
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 71
+    }
+  ]
+}

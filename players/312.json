@@ -1,0 +1,56 @@
+{
+  "name": "Stanley Pacocha",
+  "jerseyNumber": 70,
+  "description": "Number 70 Stanley Pacocha. Overall rating of 88.",
+  "external_url": "https://example.com/player/312",
+  "image": "ipfs://QmQ4iqjFoh9s4JmiQQJpVM9jKciwhniT6Fh9ZAvLuQg9T2",
+  "tier": 1,
+  "overallRating": 88,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 71,
+    "passing": 85,
+    "dribbling": 80,
+    "defense": 76,
+    "physical": 72,
+    "goalTending": 71
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 71
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 85
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 80
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 76
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 71
+    }
+  ]
+}

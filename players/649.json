@@ -1,0 +1,56 @@
+{
+  "name": "Christie Becker",
+  "jerseyNumber": 12,
+  "description": "Number 12 Christie Becker. Overall rating of 89.",
+  "external_url": "https://example.com/player/649",
+  "image": "ipfs://QmdgjbaMixJvKU954tLkk1voyD1GuAoMuhnwR57Gntyjnp",
+  "tier": 1,
+  "overallRating": 89,
+  "skill": {
+    "multiplier": 1,
+    "speed": 75,
+    "shooting": 77,
+    "passing": 81,
+    "dribbling": 85,
+    "defense": 77,
+    "physical": 72,
+    "goalTending": 78
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 75
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 77
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 81
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 85
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 77
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 78
+    }
+  ]
+}

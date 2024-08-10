@@ -1,0 +1,56 @@
+{
+  "name": "Luke Mann",
+  "jerseyNumber": 9,
+  "description": "Number 9 Luke Mann. Overall rating of 73.",
+  "external_url": "https://example.com/player/41",
+  "image": "ipfs://QmUntK9VHoSHaAmhdqLm6UKUsQZPVw22rzW2Ta1za7C7gs",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 67,
+    "shooting": 66,
+    "passing": 72,
+    "dribbling": 54,
+    "defense": 61,
+    "physical": 60,
+    "goalTending": 65
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 54
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 65
+    }
+  ]
+}

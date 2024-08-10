@@ -1,0 +1,56 @@
+{
+  "name": "Armando Bahringer",
+  "jerseyNumber": 13,
+  "description": "Number 13 Armando Bahringer. Overall rating of 82.",
+  "external_url": "https://example.com/player/443",
+  "image": "ipfs://QmYdA8SRztXbrWjdLg5RSSmjqDhe3kvqvPStuapVr7es6j",
+  "tier": 1,
+  "overallRating": 82,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 63,
+    "passing": 74,
+    "dribbling": 81,
+    "defense": 69,
+    "physical": 62,
+    "goalTending": 80
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 63
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 81
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 69
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 62
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 80
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Neil Zemlak",
+  "jerseyNumber": 2,
+  "description": "Number 2 Neil Zemlak. Overall rating of 69.",
+  "external_url": "https://example.com/player/636",
+  "image": "ipfs://Qmei4jpHF879pQjF3MGZohPScQqCWxjGNnK6aqqmGAJw93",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 66,
+    "passing": 68,
+    "dribbling": 67,
+    "defense": 61,
+    "physical": 67,
+    "goalTending": 66
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 68
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 67
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 67
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 66
+    }
+  ]
+}

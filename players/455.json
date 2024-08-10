@@ -1,0 +1,56 @@
+{
+  "name": "Miss Bertha Abshire",
+  "jerseyNumber": 47,
+  "description": "Number 47 Miss Bertha Abshire. Overall rating of 68.",
+  "external_url": "https://example.com/player/455",
+  "image": "ipfs://QmV3iGM4hz45ndYkhMJKAPn4M63jKQZB6pJUALXJFGF33W",
+  "tier": 3,
+  "overallRating": 68,
+  "skill": {
+    "multiplier": 1,
+    "speed": 67,
+    "shooting": 56,
+    "passing": 61,
+    "dribbling": 48,
+    "defense": 63,
+    "physical": 55,
+    "goalTending": 60
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 56
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 61
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 48
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 63
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 55
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 60
+    }
+  ]
+}

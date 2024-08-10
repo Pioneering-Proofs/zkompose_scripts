@@ -1,0 +1,56 @@
+{
+  "name": "Marshall Dicki",
+  "jerseyNumber": 3,
+  "description": "Number 3 Marshall Dicki. Overall rating of 83.",
+  "external_url": "https://example.com/player/426",
+  "image": "ipfs://QmbFgoTGTDX19jAMGDBHWAtaKUCFr6NAmHs1YEynyzYyoi",
+  "tier": 1,
+  "overallRating": 83,
+  "skill": {
+    "multiplier": 1,
+    "speed": 78,
+    "shooting": 79,
+    "passing": 78,
+    "dribbling": 82,
+    "defense": 65,
+    "physical": 69,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 78
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 79
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 78
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 82
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 65
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

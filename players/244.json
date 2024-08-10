@@ -1,0 +1,56 @@
+{
+  "name": "Angelica Marquardt",
+  "jerseyNumber": 70,
+  "description": "Number 70 Angelica Marquardt. Overall rating of 69.",
+  "external_url": "https://example.com/player/244",
+  "image": "ipfs://QmURPKB9oSqBUhzgddZiKyRNkNazLX6sdoQbLEh29a2L2j",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 62,
+    "shooting": 57,
+    "passing": 65,
+    "dribbling": 53,
+    "defense": 54,
+    "physical": 64,
+    "goalTending": 62
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 62
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 57
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 65
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 53
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 54
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 62
+    }
+  ]
+}

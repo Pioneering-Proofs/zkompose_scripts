@@ -1,0 +1,56 @@
+{
+  "name": "Tricia Flatley",
+  "jerseyNumber": 92,
+  "description": "Number 92 Tricia Flatley. Overall rating of 77.",
+  "external_url": "https://example.com/player/545",
+  "image": "ipfs://QmWE65Uf2bq5vHcbGPrGD3gFpCTHDtrXaQV4y32wZ2F7MM",
+  "tier": 2,
+  "overallRating": 77,
+  "skill": {
+    "multiplier": 1,
+    "speed": 63,
+    "shooting": 75,
+    "passing": 58,
+    "dribbling": 73,
+    "defense": 73,
+    "physical": 62,
+    "goalTending": 66
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 63
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 75
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 73
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 62
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 66
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Ms. Hope Yost-Altenwerth",
+  "jerseyNumber": 20,
+  "description": "Number 20 Ms. Hope Yost-Altenwerth. Overall rating of 72.",
+  "external_url": "https://example.com/player/514",
+  "image": "ipfs://QmWDSTvMZKx7vuTda9cKsd2WArs5TGsvQ3AdxMFoiaarmp",
+  "tier": 2,
+  "overallRating": 72,
+  "skill": {
+    "multiplier": 1,
+    "speed": 53,
+    "shooting": 64,
+    "passing": 67,
+    "dribbling": 63,
+    "defense": 70,
+    "physical": 71,
+    "goalTending": 58
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 53
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 67
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 70
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 71
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 58
+    }
+  ]
+}

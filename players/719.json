@@ -1,0 +1,56 @@
+{
+  "name": "Carroll Lueilwitz",
+  "jerseyNumber": 64,
+  "description": "Number 64 Carroll Lueilwitz. Overall rating of 79.",
+  "external_url": "https://example.com/player/719",
+  "image": "ipfs://QmXEM1cEM1UcPkUi1jd3cSZ6V9Q4b9q44tx9BENAZvsudP",
+  "tier": 2,
+  "overallRating": 79,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 72,
+    "passing": 62,
+    "dribbling": 69,
+    "defense": 62,
+    "physical": 75,
+    "goalTending": 68
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 72
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 62
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 75
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 68
+    }
+  ]
+}

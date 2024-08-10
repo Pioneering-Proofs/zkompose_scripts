@@ -1,0 +1,56 @@
+{
+  "name": "Nick Stark",
+  "jerseyNumber": 46,
+  "description": "Number 46 Nick Stark. Overall rating of 69.",
+  "external_url": "https://example.com/player/447",
+  "image": "ipfs://QmSNrJmLEuxUUyqsSxoU6LH4Dniv768FcoTNCj37kD6zJr",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 55,
+    "passing": 65,
+    "dribbling": 64,
+    "defense": 67,
+    "physical": 50,
+    "goalTending": 61
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 65
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 64
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 67
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 50
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 61
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Rudy O'Reilly",
+  "jerseyNumber": 11,
+  "description": "Number 11 Rudy O'Reilly. Overall rating of 71.",
+  "external_url": "https://example.com/player/878",
+  "image": "ipfs://QmXd2estGVF3uFuqbBfXGyRNuXG5y3CYMoxGRj1Apymrwz",
+  "tier": 2,
+  "overallRating": 71,
+  "skill": {
+    "multiplier": 1,
+    "speed": 58,
+    "shooting": 53,
+    "passing": 51,
+    "dribbling": 67,
+    "defense": 56,
+    "physical": 56,
+    "goalTending": 58
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 58
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 53
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 51
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 67
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 56
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 56
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 58
+    }
+  ]
+}

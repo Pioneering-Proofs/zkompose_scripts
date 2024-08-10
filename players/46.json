@@ -1,0 +1,56 @@
+{
+  "name": "Mr. Percy Kulas V",
+  "jerseyNumber": 85,
+  "description": "Number 85 Mr. Percy Kulas V. Overall rating of 72.",
+  "external_url": "https://example.com/player/46",
+  "image": "ipfs://QmW5JPhoexag8d1Ejb83pU2S4cu9gWZkJSHqWPx9ytUNbx",
+  "tier": 2,
+  "overallRating": 72,
+  "skill": {
+    "multiplier": 1,
+    "speed": 60,
+    "shooting": 61,
+    "passing": 68,
+    "dribbling": 71,
+    "defense": 69,
+    "physical": 53,
+    "goalTending": 65
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 61
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 68
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 71
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 69
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 53
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 65
+    }
+  ]
+}

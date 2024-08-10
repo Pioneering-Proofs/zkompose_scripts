@@ -1,0 +1,56 @@
+{
+  "name": "Keith Hilll",
+  "jerseyNumber": 50,
+  "description": "Number 50 Keith Hilll. Overall rating of 73.",
+  "external_url": "https://example.com/player/705",
+  "image": "ipfs://QmYfReDY5pM3qzuuBG6xkaErA9TRZj9Cds2rEcQupqSYaZ",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 55,
+    "passing": 62,
+    "dribbling": 69,
+    "defense": 61,
+    "physical": 72,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

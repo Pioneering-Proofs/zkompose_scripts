@@ -1,0 +1,56 @@
+{
+  "name": "Jeannie Effertz",
+  "jerseyNumber": 27,
+  "description": "Number 27 Jeannie Effertz. Overall rating of 80.",
+  "external_url": "https://example.com/player/830",
+  "image": "ipfs://QmaBR1fwgPxvkg6Ynny5tHJzdBWhv6bt3ycun5uhqFYDtJ",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 64,
+    "shooting": 68,
+    "passing": 69,
+    "dribbling": 79,
+    "defense": 60,
+    "physical": 71,
+    "goalTending": 65
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 64
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 69
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 79
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 60
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 71
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 65
+    }
+  ]
+}

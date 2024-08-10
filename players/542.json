@@ -1,0 +1,56 @@
+{
+  "name": "Myron Carroll",
+  "jerseyNumber": 73,
+  "description": "Number 73 Myron Carroll. Overall rating of 66.",
+  "external_url": "https://example.com/player/542",
+  "image": "ipfs://QmWtPavnLiP8RPrugdFHMzqBTsGLogebCicUshUaa1py3K",
+  "tier": 3,
+  "overallRating": 66,
+  "skill": {
+    "multiplier": 1,
+    "speed": 60,
+    "shooting": 50,
+    "passing": 50,
+    "dribbling": 63,
+    "defense": 50,
+    "physical": 57,
+    "goalTending": 56
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 50
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 50
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 50
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 56
+    }
+  ]
+}

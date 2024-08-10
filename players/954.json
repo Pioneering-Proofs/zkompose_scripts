@@ -1,0 +1,56 @@
+{
+  "name": "Dustin Lowe",
+  "jerseyNumber": 10,
+  "description": "Number 10 Dustin Lowe. Overall rating of 51.",
+  "external_url": "https://example.com/player/954",
+  "image": "ipfs://QmQuEbgEy5eZEpRXfWMCSUpY5XZoh5FcFqD8KDSZvrmhBX",
+  "tier": 4,
+  "overallRating": 51,
+  "skill": {
+    "multiplier": 1,
+    "speed": 50,
+    "shooting": 33,
+    "passing": 45,
+    "dribbling": 49,
+    "defense": 44,
+    "physical": 47,
+    "goalTending": 44
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 33
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 45
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 49
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 44
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 47
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 44
+    }
+  ]
+}

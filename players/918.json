@@ -1,0 +1,56 @@
+{
+  "name": "Sherry Gislason",
+  "jerseyNumber": 52,
+  "description": "Number 52 Sherry Gislason. Overall rating of 91.",
+  "external_url": "https://example.com/player/918",
+  "image": "ipfs://QmQJQXxWFtZmB9DUwAhjTSrMKsCsVimJqfnJDph5brGcTy",
+  "tier": 0,
+  "overallRating": 91,
+  "skill": {
+    "multiplier": 1,
+    "speed": 87,
+    "shooting": 89,
+    "passing": 88,
+    "dribbling": 75,
+    "defense": 75,
+    "physical": 75,
+    "goalTending": 77
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 87
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 89
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 88
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 75
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 75
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 75
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 77
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Jessica Toy",
+  "jerseyNumber": 97,
+  "description": "Number 97 Jessica Toy. Overall rating of 75.",
+  "external_url": "https://example.com/player/980",
+  "image": "ipfs://QmUZGcSTsM8XdP9fTjg16dBqnv344hyr1PYPQF7VhVH7up",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 67,
+    "passing": 67,
+    "dribbling": 60,
+    "defense": 61,
+    "physical": 68,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 67
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 60
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 68
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

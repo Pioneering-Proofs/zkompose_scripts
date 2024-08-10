@@ -1,0 +1,56 @@
+{
+  "name": "Yolanda Hackett",
+  "jerseyNumber": 46,
+  "description": "Number 46 Yolanda Hackett. Overall rating of 63.",
+  "external_url": "https://example.com/player/84",
+  "image": "ipfs://QmRWtkChyow7W5U9X8RR5SaCJRrZFm1ioN48wUPyZVhABT",
+  "tier": 3,
+  "overallRating": 63,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 57,
+    "passing": 56,
+    "dribbling": 48,
+    "defense": 61,
+    "physical": 55,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 57
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 56
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 48
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 55
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

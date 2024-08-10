@@ -1,0 +1,56 @@
+{
+  "name": "Kelley Marks",
+  "jerseyNumber": 8,
+  "description": "Number 8 Kelley Marks. Overall rating of 77.",
+  "external_url": "https://example.com/player/656",
+  "image": "ipfs://QmYKPquZ5XpkEEoYx5HU7w211zk3TXDHs9DftMT2tEgU9A",
+  "tier": 2,
+  "overallRating": 77,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 59,
+    "passing": 59,
+    "dribbling": 69,
+    "defense": 76,
+    "physical": 57,
+    "goalTending": 62
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 59
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 59
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 76
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 62
+    }
+  ]
+}

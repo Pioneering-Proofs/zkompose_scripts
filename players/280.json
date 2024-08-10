@@ -1,0 +1,56 @@
+{
+  "name": "Dr. Troy Schmitt",
+  "jerseyNumber": 19,
+  "description": "Number 19 Dr. Troy Schmitt. Overall rating of 75.",
+  "external_url": "https://example.com/player/280",
+  "image": "ipfs://QmNyxpQX2TpH1NZGiPidkrusWND6h62ozqL2QYLzok4wj5",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 68,
+    "passing": 74,
+    "dribbling": 66,
+    "defense": 58,
+    "physical": 57,
+    "goalTending": 55
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 66
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 58
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 55
+    }
+  ]
+}

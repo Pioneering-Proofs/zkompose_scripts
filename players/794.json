@@ -1,0 +1,56 @@
+{
+  "name": "Deborah Schaefer Sr.",
+  "jerseyNumber": 75,
+  "description": "Number 75 Deborah Schaefer Sr.. Overall rating of 88.",
+  "external_url": "https://example.com/player/794",
+  "image": "ipfs://QmTXXBnAfiFjt7ddicdywh3am1SNaC2qEwyVEfWva5umHN",
+  "tier": 1,
+  "overallRating": 88,
+  "skill": {
+    "multiplier": 1,
+    "speed": 73,
+    "shooting": 85,
+    "passing": 77,
+    "dribbling": 88,
+    "defense": 82,
+    "physical": 74,
+    "goalTending": 77
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 73
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 85
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 77
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 88
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 82
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 74
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 77
+    }
+  ]
+}

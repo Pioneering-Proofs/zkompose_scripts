@@ -1,0 +1,56 @@
+{
+  "name": "Kendra Moen",
+  "jerseyNumber": 94,
+  "description": "Number 94 Kendra Moen. Overall rating of 80.",
+  "external_url": "https://example.com/player/782",
+  "image": "ipfs://QmWuGHs127QvLakS38zFqmfXz2cVa1sf1ZXqLCMffFJkZG",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 62,
+    "passing": 67,
+    "dribbling": 77,
+    "defense": 74,
+    "physical": 79,
+    "goalTending": 60
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 62
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 67
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 77
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 79
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 60
+    }
+  ]
+}

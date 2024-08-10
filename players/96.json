@@ -1,0 +1,56 @@
+{
+  "name": "Willis O'Conner",
+  "jerseyNumber": 63,
+  "description": "Number 63 Willis O'Conner. Overall rating of 77.",
+  "external_url": "https://example.com/player/96",
+  "image": "ipfs://QmaBRRWBK2wwPYahiL8X4c3J7cRUbYycbjzV68NhLdJRKL",
+  "tier": 2,
+  "overallRating": 77,
+  "skill": {
+    "multiplier": 1,
+    "speed": 60,
+    "shooting": 58,
+    "passing": 77,
+    "dribbling": 74,
+    "defense": 69,
+    "physical": 72,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 58
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 77
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 74
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 69
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

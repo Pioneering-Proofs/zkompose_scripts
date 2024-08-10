@@ -1,0 +1,56 @@
+{
+  "name": "Ethel Bogisich",
+  "jerseyNumber": 20,
+  "description": "Number 20 Ethel Bogisich. Overall rating of 91.",
+  "external_url": "https://example.com/player/741",
+  "image": "ipfs://QmRwEGGfjxBnxhxxFQFgTe9VUkoA2K8TZxag8MYQWoShGU",
+  "tier": 0,
+  "overallRating": 91,
+  "skill": {
+    "multiplier": 1,
+    "speed": 90,
+    "shooting": 88,
+    "passing": 85,
+    "dribbling": 77,
+    "defense": 83,
+    "physical": 72,
+    "goalTending": 82
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 90
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 88
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 85
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 77
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 83
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 82
+    }
+  ]
+}

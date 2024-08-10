@@ -1,0 +1,56 @@
+{
+  "name": "Matt Smith Sr.",
+  "jerseyNumber": 92,
+  "description": "Number 92 Matt Smith Sr.. Overall rating of 75.",
+  "external_url": "https://example.com/player/407",
+  "image": "ipfs://Qme1kcsoR8FhU65sjbcUCdUFYK5316vJfXgzaMCp6LUizv",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 75,
+    "shooting": 68,
+    "passing": 67,
+    "dribbling": 63,
+    "defense": 65,
+    "physical": 72,
+    "goalTending": 68
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 75
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 67
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 65
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 68
+    }
+  ]
+}

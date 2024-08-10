@@ -1,0 +1,56 @@
+{
+  "name": "Toby Larson",
+  "jerseyNumber": 98,
+  "description": "Number 98 Toby Larson. Overall rating of 85.",
+  "external_url": "https://example.com/player/923",
+  "image": "ipfs://QmR86YrFJCQi8sJZxaLBoXk8g1moNNmanHewmBSL6d79Ef",
+  "tier": 1,
+  "overallRating": 85,
+  "skill": {
+    "multiplier": 1,
+    "speed": 82,
+    "shooting": 78,
+    "passing": 81,
+    "dribbling": 78,
+    "defense": 84,
+    "physical": 67,
+    "goalTending": 71
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 82
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 78
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 81
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 78
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 84
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 67
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 71
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Shawn Lind",
+  "jerseyNumber": 60,
+  "description": "Number 60 Shawn Lind. Overall rating of 79.",
+  "external_url": "https://example.com/player/239",
+  "image": "ipfs://QmUiiXxGmTpUR2pmLsGkMF2yjBcKzNiE1UPyGMraGFCmoj",
+  "tier": 2,
+  "overallRating": 79,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 66,
+    "passing": 77,
+    "dribbling": 62,
+    "defense": 77,
+    "physical": 71,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 77
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 62
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 77
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 71
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

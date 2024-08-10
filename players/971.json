@@ -1,0 +1,56 @@
+{
+  "name": "Cecilia Turner",
+  "jerseyNumber": 51,
+  "description": "Number 51 Cecilia Turner. Overall rating of 73.",
+  "external_url": "https://example.com/player/971",
+  "image": "ipfs://QmY12HjCF5GbVhw4sdBKNBzbkt7gGcrdQXfrgjgKJ5KmZL",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 68,
+    "passing": 58,
+    "dribbling": 54,
+    "defense": 61,
+    "physical": 69,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 54
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

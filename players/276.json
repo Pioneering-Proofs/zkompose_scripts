@@ -1,0 +1,56 @@
+{
+  "name": "Laura Fahey-Kutch",
+  "jerseyNumber": 99,
+  "description": "Number 99 Laura Fahey-Kutch. Overall rating of 92.",
+  "external_url": "https://example.com/player/276",
+  "image": "ipfs://QmeYN4m4vLirF919nu7DdHcERwhoCMqCPCf8pNE8AEyxN3",
+  "tier": 0,
+  "overallRating": 92,
+  "skill": {
+    "multiplier": 1,
+    "speed": 87,
+    "shooting": 73,
+    "passing": 92,
+    "dribbling": 81,
+    "defense": 76,
+    "physical": 79,
+    "goalTending": 80
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 87
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 73
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 92
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 81
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 76
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 79
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 80
+    }
+  ]
+}

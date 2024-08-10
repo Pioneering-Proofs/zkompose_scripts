@@ -1,0 +1,56 @@
+{
+  "name": "Curtis Willms",
+  "jerseyNumber": 52,
+  "description": "Number 52 Curtis Willms. Overall rating of 83.",
+  "external_url": "https://example.com/player/308",
+  "image": "ipfs://QmWWCKNRyZYVsnrzZ9wiQvZfx3JE3LbF6GpibCNmcodnJn",
+  "tier": 1,
+  "overallRating": 83,
+  "skill": {
+    "multiplier": 1,
+    "speed": 83,
+    "shooting": 66,
+    "passing": 78,
+    "dribbling": 70,
+    "defense": 67,
+    "physical": 65,
+    "goalTending": 82
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 83
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 78
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 70
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 67
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 82
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Kara Toy",
+  "jerseyNumber": 99,
+  "description": "Number 99 Kara Toy. Overall rating of 89.",
+  "external_url": "https://example.com/player/982",
+  "image": "ipfs://Qmah4B5t8C2WFehyWZ7WTqJ86i3PkE6tzzgWiaNS4kjgtE",
+  "tier": 1,
+  "overallRating": 89,
+  "skill": {
+    "multiplier": 1,
+    "speed": 86,
+    "shooting": 85,
+    "passing": 76,
+    "dribbling": 73,
+    "defense": 83,
+    "physical": 75,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 86
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 85
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 76
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 83
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 75
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Ms. Erin Barton",
+  "jerseyNumber": 79,
+  "description": "Number 79 Ms. Erin Barton. Overall rating of 65.",
+  "external_url": "https://example.com/player/825",
+  "image": "ipfs://QmePx28ZH99ERsMFMCc3TGZb6uDyh9DeVgbDoicLvFgBUT",
+  "tier": 3,
+  "overallRating": 65,
+  "skill": {
+    "multiplier": 1,
+    "speed": 64,
+    "shooting": 58,
+    "passing": 64,
+    "dribbling": 51,
+    "defense": 49,
+    "physical": 64,
+    "goalTending": 47
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 64
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 58
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 64
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 51
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 49
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 47
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Tonya Reichel",
+  "jerseyNumber": 2,
+  "description": "Number 2 Tonya Reichel. Overall rating of 88.",
+  "external_url": "https://example.com/player/884",
+  "image": "ipfs://QmaYc1KdZq4tKs8GbKiJTSPAtPn7Hbnp7Lt8xvXUtXAMzs",
+  "tier": 1,
+  "overallRating": 88,
+  "skill": {
+    "multiplier": 1,
+    "speed": 84,
+    "shooting": 87,
+    "passing": 81,
+    "dribbling": 68,
+    "defense": 77,
+    "physical": 83,
+    "goalTending": 86
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 84
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 87
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 81
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 68
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 77
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 83
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 86
+    }
+  ]
+}

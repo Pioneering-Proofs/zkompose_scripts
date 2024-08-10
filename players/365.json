@@ -1,0 +1,56 @@
+{
+  "name": "June Jones",
+  "jerseyNumber": 68,
+  "description": "Number 68 June Jones. Overall rating of 66.",
+  "external_url": "https://example.com/player/365",
+  "image": "ipfs://QmZCVv1F78djrRkYSjynxdk4QsQDkQDYkxh8k6MJYYADi6",
+  "tier": 3,
+  "overallRating": 66,
+  "skill": {
+    "multiplier": 1,
+    "speed": 64,
+    "shooting": 46,
+    "passing": 51,
+    "dribbling": 50,
+    "defense": 55,
+    "physical": 56,
+    "goalTending": 55
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 64
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 46
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 51
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 50
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 55
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 56
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 55
+    }
+  ]
+}

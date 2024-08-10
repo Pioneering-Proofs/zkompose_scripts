@@ -1,0 +1,56 @@
+{
+  "name": "Dr. Elsie Stanton",
+  "jerseyNumber": 80,
+  "description": "Number 80 Dr. Elsie Stanton. Overall rating of 77.",
+  "external_url": "https://example.com/player/91",
+  "image": "ipfs://QmWq97poATDMX2Db6swNNCHGDGu9v7omUWvUDMbU76tNhw",
+  "tier": 2,
+  "overallRating": 77,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 69,
+    "passing": 62,
+    "dribbling": 73,
+    "defense": 67,
+    "physical": 73,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 69
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 67
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 73
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

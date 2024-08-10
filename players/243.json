@@ -1,0 +1,56 @@
+{
+  "name": "Marta Volkman",
+  "jerseyNumber": 88,
+  "description": "Number 88 Marta Volkman. Overall rating of 81.",
+  "external_url": "https://example.com/player/243",
+  "image": "ipfs://QmQxhQitg2CbZXtdiZVsfjdXX3fcxx97DChLPUWDWiazDj",
+  "tier": 1,
+  "overallRating": 81,
+  "skill": {
+    "multiplier": 1,
+    "speed": 79,
+    "shooting": 78,
+    "passing": 71,
+    "dribbling": 65,
+    "defense": 61,
+    "physical": 77,
+    "goalTending": 61
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 79
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 78
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 71
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 77
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 61
+    }
+  ]
+}

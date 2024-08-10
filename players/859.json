@@ -1,0 +1,56 @@
+{
+  "name": "Elijah Kessler",
+  "jerseyNumber": 39,
+  "description": "Number 39 Elijah Kessler. Overall rating of 77.",
+  "external_url": "https://example.com/player/859",
+  "image": "ipfs://QmVPpmwortnJSmMiXEhCvUFNwSdaU4WdsxetzN1eXfxJsB",
+  "tier": 2,
+  "overallRating": 77,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 76,
+    "passing": 74,
+    "dribbling": 68,
+    "defense": 72,
+    "physical": 64,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 76
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 68
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 72
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

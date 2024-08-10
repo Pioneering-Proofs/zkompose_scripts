@@ -1,0 +1,56 @@
+{
+  "name": "Milton MacGyver II",
+  "jerseyNumber": 98,
+  "description": "Number 98 Milton MacGyver II. Overall rating of 60.",
+  "external_url": "https://example.com/player/141",
+  "image": "ipfs://QmPkQjCa9BHB6nPwF38SSvN9eh4Ss6U42Ah7yPGX75R2UT",
+  "tier": 3,
+  "overallRating": 60,
+  "skill": {
+    "multiplier": 1,
+    "speed": 57,
+    "shooting": 59,
+    "passing": 48,
+    "dribbling": 40,
+    "defense": 51,
+    "physical": 45,
+    "goalTending": 45
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 57
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 59
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 48
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 40
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 51
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 45
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 45
+    }
+  ]
+}

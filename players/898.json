@@ -1,0 +1,56 @@
+{
+  "name": "Dr. Crystal Beier",
+  "jerseyNumber": 23,
+  "description": "Number 23 Dr. Crystal Beier. Overall rating of 51.",
+  "external_url": "https://example.com/player/898",
+  "image": "ipfs://QmRukvsGQDvRtkWo5JPcKTcTZX1F1zf3jeJNCG39Ts5XbT",
+  "tier": 4,
+  "overallRating": 51,
+  "skill": {
+    "multiplier": 1,
+    "speed": 50,
+    "shooting": 40,
+    "passing": 33,
+    "dribbling": 32,
+    "defense": 40,
+    "physical": 35,
+    "goalTending": 47
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 40
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 33
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 32
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 40
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 35
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 47
+    }
+  ]
+}

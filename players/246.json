@@ -1,0 +1,56 @@
+{
+  "name": "Dr. Harvey Jacobson",
+  "jerseyNumber": 32,
+  "description": "Number 32 Dr. Harvey Jacobson. Overall rating of 81.",
+  "external_url": "https://example.com/player/246",
+  "image": "ipfs://Qmf4fbLTcC9Jj9N2a2Rre6kZbJeN7bvhPLTZdP1zppMnbF",
+  "tier": 1,
+  "overallRating": 81,
+  "skill": {
+    "multiplier": 1,
+    "speed": 70,
+    "shooting": 75,
+    "passing": 68,
+    "dribbling": 65,
+    "defense": 80,
+    "physical": 70,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 70
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 75
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 68
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 80
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 70
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

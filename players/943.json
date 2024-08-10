@@ -1,0 +1,56 @@
+{
+  "name": "Damon Glover",
+  "jerseyNumber": 13,
+  "description": "Number 13 Damon Glover. Overall rating of 82.",
+  "external_url": "https://example.com/player/943",
+  "image": "ipfs://QmNb6BDXuBvnokK7ism6cYxapxxz2ZDmWWib24iFzh6Bpp",
+  "tier": 1,
+  "overallRating": 82,
+  "skill": {
+    "multiplier": 1,
+    "speed": 79,
+    "shooting": 79,
+    "passing": 80,
+    "dribbling": 73,
+    "defense": 69,
+    "physical": 73,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 79
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 79
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 80
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 69
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 73
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Marshall Hyatt",
+  "jerseyNumber": 3,
+  "description": "Number 3 Marshall Hyatt. Overall rating of 74.",
+  "external_url": "https://example.com/player/928",
+  "image": "ipfs://QmWm73B3pEfG72LidP9QjsaJhSao7CdCe2d3xHXN4k6ijS",
+  "tier": 2,
+  "overallRating": 74,
+  "skill": {
+    "multiplier": 1,
+    "speed": 70,
+    "shooting": 73,
+    "passing": 58,
+    "dribbling": 67,
+    "defense": 73,
+    "physical": 60,
+    "goalTending": 70
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 70
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 73
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 67
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 73
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 70
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Tara Schuster",
+  "jerseyNumber": 98,
+  "description": "Number 98 Tara Schuster. Overall rating of 82.",
+  "external_url": "https://example.com/player/351",
+  "image": "ipfs://QmQJcefpxw5EhEzXuZam13Dv2M3h4Zgp2zgNV1Mbn592yZ",
+  "tier": 1,
+  "overallRating": 82,
+  "skill": {
+    "multiplier": 1,
+    "speed": 66,
+    "shooting": 67,
+    "passing": 78,
+    "dribbling": 78,
+    "defense": 75,
+    "physical": 74,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 78
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 78
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 75
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 74
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

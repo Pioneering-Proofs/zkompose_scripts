@@ -1,0 +1,56 @@
+{
+  "name": "Arlene Donnelly",
+  "jerseyNumber": 47,
+  "description": "Number 47 Arlene Donnelly. Overall rating of 88.",
+  "external_url": "https://example.com/player/606",
+  "image": "ipfs://QmYPJFM27At75T3kogMb2R3gHk4fhkzFNVqmiyuL3KdLN2",
+  "tier": 1,
+  "overallRating": 88,
+  "skill": {
+    "multiplier": 1,
+    "speed": 82,
+    "shooting": 79,
+    "passing": 72,
+    "dribbling": 87,
+    "defense": 88,
+    "physical": 86,
+    "goalTending": 87
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 82
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 79
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 87
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 88
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 86
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 87
+    }
+  ]
+}

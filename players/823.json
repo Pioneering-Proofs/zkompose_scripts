@@ -1,0 +1,56 @@
+{
+  "name": "Annie Reinger Sr.",
+  "jerseyNumber": 16,
+  "description": "Number 16 Annie Reinger Sr.. Overall rating of 69.",
+  "external_url": "https://example.com/player/823",
+  "image": "ipfs://QmYSrLxBMhXYQsiJtaEY7FD3Jo1kB7fkRgacGGoN5gBZjy",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 56,
+    "shooting": 67,
+    "passing": 57,
+    "dribbling": 49,
+    "defense": 64,
+    "physical": 60,
+    "goalTending": 62
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 56
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 57
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 49
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 62
+    }
+  ]
+}

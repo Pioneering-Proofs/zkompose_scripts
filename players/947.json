@@ -1,0 +1,56 @@
+{
+  "name": "Miss Connie Green",
+  "jerseyNumber": 35,
+  "description": "Number 35 Miss Connie Green. Overall rating of 89.",
+  "external_url": "https://example.com/player/947",
+  "image": "ipfs://QmNuNPwJn1gCtF1zqh158WbgbxPbVT4CAUQSpKDnjSKVQn",
+  "tier": 1,
+  "overallRating": 89,
+  "skill": {
+    "multiplier": 1,
+    "speed": 87,
+    "shooting": 75,
+    "passing": 80,
+    "dribbling": 85,
+    "defense": 78,
+    "physical": 70,
+    "goalTending": 80
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 87
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 75
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 80
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 85
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 78
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 70
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 80
+    }
+  ]
+}

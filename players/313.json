@@ -1,0 +1,56 @@
+{
+  "name": "Andrea Rohan",
+  "jerseyNumber": 27,
+  "description": "Number 27 Andrea Rohan. Overall rating of 56.",
+  "external_url": "https://example.com/player/313",
+  "image": "ipfs://QmXhBz8JaWSWc3p6EBoM4BfFDunqjAWezidsTfvyTX6Ctw",
+  "tier": 4,
+  "overallRating": 56,
+  "skill": {
+    "multiplier": 1,
+    "speed": 53,
+    "shooting": 52,
+    "passing": 47,
+    "dribbling": 38,
+    "defense": 52,
+    "physical": 51,
+    "goalTending": 49
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 53
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 52
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 47
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 38
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 52
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 51
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 49
+    }
+  ]
+}

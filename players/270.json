@@ -1,0 +1,56 @@
+{
+  "name": "Shelly Mitchell",
+  "jerseyNumber": 88,
+  "description": "Number 88 Shelly Mitchell. Overall rating of 54.",
+  "external_url": "https://example.com/player/270",
+  "image": "ipfs://QmTeX2S7Fv5z7rWEzfEdx8okQzZdueNbFFdZnrzfXcjcHp",
+  "tier": 4,
+  "overallRating": 54,
+  "skill": {
+    "multiplier": 1,
+    "speed": 36,
+    "shooting": 46,
+    "passing": 47,
+    "dribbling": 52,
+    "defense": 38,
+    "physical": 46,
+    "goalTending": 37
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 36
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 46
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 47
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 52
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 38
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 46
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 37
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Charles Ruecker",
+  "jerseyNumber": 24,
+  "description": "Number 24 Charles Ruecker. Overall rating of 49.",
+  "external_url": "https://example.com/player/699",
+  "image": "ipfs://QmbPQdPZjm4eTDwgKnH62WArukphUh2N8DKiSKz88RyfBJ",
+  "tier": 4,
+  "overallRating": 49,
+  "skill": {
+    "multiplier": 1,
+    "speed": 47,
+    "shooting": 45,
+    "passing": 34,
+    "dribbling": 42,
+    "defense": 46,
+    "physical": 43,
+    "goalTending": 30
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 47
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 45
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 34
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 42
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 46
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 43
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 30
+    }
+  ]
+}

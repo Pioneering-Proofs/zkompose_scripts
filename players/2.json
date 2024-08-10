@@ -1,0 +1,56 @@
+{
+  "name": "Dr. Lee O'Hara",
+  "jerseyNumber": 47,
+  "description": "Number 47 Dr. Lee O'Hara. Overall rating of 80.",
+  "external_url": "https://example.com/player/2",
+  "image": "ipfs://Qmd4yVPGjXaaBQK9zbEeCtL7ghDmnunpG77Cm1yMbvi3rR",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 76,
+    "passing": 63,
+    "dribbling": 62,
+    "defense": 73,
+    "physical": 75,
+    "goalTending": 62
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 76
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 63
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 62
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 73
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 75
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 62
+    }
+  ]
+}

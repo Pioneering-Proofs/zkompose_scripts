@@ -1,0 +1,56 @@
+{
+  "name": "Alma Vandervort DVM",
+  "jerseyNumber": 39,
+  "description": "Number 39 Alma Vandervort DVM. Overall rating of 75.",
+  "external_url": "https://example.com/player/410",
+  "image": "ipfs://QmdTFVBfF3rJYArjf1drCUJcnAeqYm3wBo4HG13C4HsUWX",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 66,
+    "shooting": 74,
+    "passing": 62,
+    "dribbling": 58,
+    "defense": 75,
+    "physical": 68,
+    "goalTending": 66
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 74
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 75
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 68
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 66
+    }
+  ]
+}

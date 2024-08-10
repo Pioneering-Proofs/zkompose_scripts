@@ -1,0 +1,56 @@
+{
+  "name": "Julio Jakubowski",
+  "jerseyNumber": 62,
+  "description": "Number 62 Julio Jakubowski. Overall rating of 81.",
+  "external_url": "https://example.com/player/541",
+  "image": "ipfs://QmQ4iWt84GiSSyJxdwLSVSGf7Pc37J4Y5Bti1oyA9PvvVX",
+  "tier": 1,
+  "overallRating": 81,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 81,
+    "passing": 76,
+    "dribbling": 80,
+    "defense": 66,
+    "physical": 71,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 81
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 76
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 80
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 66
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 71
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

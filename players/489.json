@@ -1,0 +1,56 @@
+{
+  "name": "Lola Trantow",
+  "jerseyNumber": 43,
+  "description": "Number 43 Lola Trantow. Overall rating of 74.",
+  "external_url": "https://example.com/player/489",
+  "image": "ipfs://QmZJ2mf2FppzzhhoX678RtniWjPVDuUBRpnuV6REpmnd8A",
+  "tier": 2,
+  "overallRating": 74,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 57,
+    "passing": 61,
+    "dribbling": 58,
+    "defense": 71,
+    "physical": 65,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 57
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 61
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 71
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

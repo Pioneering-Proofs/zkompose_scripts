@@ -1,0 +1,56 @@
+{
+  "name": "Mrs. Terri Mayer",
+  "jerseyNumber": 15,
+  "description": "Number 15 Mrs. Terri Mayer. Overall rating of 68.",
+  "external_url": "https://example.com/player/424",
+  "image": "ipfs://QmXS4WH9c8nmv8v8NVN5Au3TnKQN9M9FDjw8kP7XPXmoLy",
+  "tier": 3,
+  "overallRating": 68,
+  "skill": {
+    "multiplier": 1,
+    "speed": 66,
+    "shooting": 64,
+    "passing": 62,
+    "dribbling": 64,
+    "defense": 56,
+    "physical": 64,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 64
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 56
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

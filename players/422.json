@@ -1,0 +1,56 @@
+{
+  "name": "Georgia Boyle",
+  "jerseyNumber": 13,
+  "description": "Number 13 Georgia Boyle. Overall rating of 69.",
+  "external_url": "https://example.com/player/422",
+  "image": "ipfs://QmYtWoFNeVLnyjwQKoXEsSDEFcV91PZEmGdCJqH5V4gikL",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 58,
+    "shooting": 66,
+    "passing": 60,
+    "dribbling": 58,
+    "defense": 63,
+    "physical": 55,
+    "goalTending": 68
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 58
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 60
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 63
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 55
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 68
+    }
+  ]
+}

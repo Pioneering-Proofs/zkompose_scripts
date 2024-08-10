@@ -1,0 +1,56 @@
+{
+  "name": "Shannon Heidenreich",
+  "jerseyNumber": 74,
+  "description": "Number 74 Shannon Heidenreich. Overall rating of 78.",
+  "external_url": "https://example.com/player/581",
+  "image": "ipfs://QmeoiJvDvU9xWM2ruwWHioxCUwCsNBmu12RwArGonkbxTR",
+  "tier": 2,
+  "overallRating": 78,
+  "skill": {
+    "multiplier": 1,
+    "speed": 62,
+    "shooting": 59,
+    "passing": 74,
+    "dribbling": 58,
+    "defense": 78,
+    "physical": 74,
+    "goalTending": 62
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 62
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 59
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 78
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 74
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 62
+    }
+  ]
+}

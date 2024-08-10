@@ -1,0 +1,56 @@
+{
+  "name": "Della Mante",
+  "jerseyNumber": 72,
+  "description": "Number 72 Della Mante. Overall rating of 85.",
+  "external_url": "https://example.com/player/490",
+  "image": "ipfs://QmdUv9cqBQqiiV5LGtXJVzy1jEc57tnZ6d5K1qMrAgSFen",
+  "tier": 1,
+  "overallRating": 85,
+  "skill": {
+    "multiplier": 1,
+    "speed": 82,
+    "shooting": 80,
+    "passing": 74,
+    "dribbling": 72,
+    "defense": 85,
+    "physical": 76,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 82
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 80
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 72
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 85
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 76
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

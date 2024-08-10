@@ -1,0 +1,56 @@
+{
+  "name": "Ella Medhurst",
+  "jerseyNumber": 28,
+  "description": "Number 28 Ella Medhurst. Overall rating of 63.",
+  "external_url": "https://example.com/player/804",
+  "image": "ipfs://QmdbWR1W8qifwB8F8gjpxJ6bpd5WtYoB1N695N7KWZLH9f",
+  "tier": 3,
+  "overallRating": 63,
+  "skill": {
+    "multiplier": 1,
+    "speed": 54,
+    "shooting": 44,
+    "passing": 54,
+    "dribbling": 61,
+    "defense": 49,
+    "physical": 60,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 54
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 44
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 54
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 61
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 49
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

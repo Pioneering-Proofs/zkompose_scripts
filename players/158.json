@@ -1,0 +1,56 @@
+{
+  "name": "Sonia Fahey",
+  "jerseyNumber": 48,
+  "description": "Number 48 Sonia Fahey. Overall rating of 73.",
+  "external_url": "https://example.com/player/158",
+  "image": "ipfs://QmX4iGqAWXMUzgoAA73CwVhr15ZvkohdhGmrC4PAwWr1bC",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 73,
+    "passing": 58,
+    "dribbling": 71,
+    "defense": 65,
+    "physical": 63,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 73
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 71
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 65
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 63
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

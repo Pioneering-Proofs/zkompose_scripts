@@ -1,0 +1,56 @@
+{
+  "name": "Diane Mann",
+  "jerseyNumber": 96,
+  "description": "Number 96 Diane Mann. Overall rating of 81.",
+  "external_url": "https://example.com/player/512",
+  "image": "ipfs://QmZ92zhYb9oLamPyxrH4mTfLiAiAtRqnkncz2iTUzWhpJF",
+  "tier": 1,
+  "overallRating": 81,
+  "skill": {
+    "multiplier": 1,
+    "speed": 75,
+    "shooting": 67,
+    "passing": 62,
+    "dribbling": 77,
+    "defense": 62,
+    "physical": 76,
+    "goalTending": 77
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 75
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 77
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 62
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 76
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 77
+    }
+  ]
+}

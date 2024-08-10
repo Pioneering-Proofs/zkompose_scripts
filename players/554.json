@@ -1,0 +1,56 @@
+{
+  "name": "Barbara Beahan",
+  "jerseyNumber": 93,
+  "description": "Number 93 Barbara Beahan. Overall rating of 53.",
+  "external_url": "https://example.com/player/554",
+  "image": "ipfs://QmS7iyiQVi1vRLh3jzCpXZRDXKwkU7uMrN7rsruUwRw1V6",
+  "tier": 4,
+  "overallRating": 53,
+  "skill": {
+    "multiplier": 1,
+    "speed": 42,
+    "shooting": 45,
+    "passing": 42,
+    "dribbling": 41,
+    "defense": 33,
+    "physical": 45,
+    "goalTending": 49
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 42
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 45
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 42
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 41
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 33
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 45
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 49
+    }
+  ]
+}

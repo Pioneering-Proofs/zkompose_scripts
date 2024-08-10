@@ -1,0 +1,56 @@
+{
+  "name": "Victor Stehr",
+  "jerseyNumber": 92,
+  "description": "Number 92 Victor Stehr. Overall rating of 52.",
+  "external_url": "https://example.com/player/969",
+  "image": "ipfs://QmfH3dM7UpbkYjVmnbGP9HrrdDM2TwN2XWkDVXwQ7QaSzD",
+  "tier": 4,
+  "overallRating": 52,
+  "skill": {
+    "multiplier": 1,
+    "speed": 38,
+    "shooting": 47,
+    "passing": 40,
+    "dribbling": 33,
+    "defense": 34,
+    "physical": 48,
+    "goalTending": 36
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 38
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 47
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 40
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 33
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 34
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 48
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 36
+    }
+  ]
+}

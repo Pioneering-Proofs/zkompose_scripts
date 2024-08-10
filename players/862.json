@@ -1,0 +1,56 @@
+{
+  "name": "Omar O'Keefe",
+  "jerseyNumber": 49,
+  "description": "Number 49 Omar O'Keefe. Overall rating of 75.",
+  "external_url": "https://example.com/player/862",
+  "image": "ipfs://QmdSgWPZqGoHMHrG976FLgHD9CxNvonYcKCruKX1NY3mKu",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 71,
+    "passing": 62,
+    "dribbling": 74,
+    "defense": 72,
+    "physical": 67,
+    "goalTending": 68
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 71
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 74
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 72
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 67
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 68
+    }
+  ]
+}

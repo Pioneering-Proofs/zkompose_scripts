@@ -1,0 +1,56 @@
+{
+  "name": "Bert Cassin",
+  "jerseyNumber": 1,
+  "description": "Number 1 Bert Cassin. Overall rating of 87.",
+  "external_url": "https://example.com/player/194",
+  "image": "ipfs://QmWWQJDo7yn3jMjNa2wL1yqHNY2NZGKJU8dETusjjWrWt5",
+  "tier": 1,
+  "overallRating": 87,
+  "skill": {
+    "multiplier": 1,
+    "speed": 85,
+    "shooting": 72,
+    "passing": 86,
+    "dribbling": 76,
+    "defense": 86,
+    "physical": 67,
+    "goalTending": 80
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 85
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 72
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 86
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 76
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 86
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 67
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 80
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Ms. Dorothy Schamberger",
+  "jerseyNumber": 26,
+  "description": "Number 26 Ms. Dorothy Schamberger. Overall rating of 87.",
+  "external_url": "https://example.com/player/428",
+  "image": "ipfs://Qmb7NzSfcVJMr6eSGy5d4VcD8hpUsNYrz4uJv3VouXH43n",
+  "tier": 1,
+  "overallRating": 87,
+  "skill": {
+    "multiplier": 1,
+    "speed": 67,
+    "shooting": 74,
+    "passing": 72,
+    "dribbling": 85,
+    "defense": 69,
+    "physical": 78,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 74
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 85
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 69
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 78
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

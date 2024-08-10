@@ -1,0 +1,56 @@
+{
+  "name": "Shaun MacGyver",
+  "jerseyNumber": 45,
+  "description": "Number 45 Shaun MacGyver. Overall rating of 73.",
+  "external_url": "https://example.com/player/439",
+  "image": "ipfs://Qmcjqq9r3cjP4guuAmVncFg6DunnCeq5kL8ufiwN7M8Uhu",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 57,
+    "shooting": 66,
+    "passing": 60,
+    "dribbling": 65,
+    "defense": 70,
+    "physical": 53,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 57
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 60
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 70
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 53
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

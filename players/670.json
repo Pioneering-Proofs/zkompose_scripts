@@ -1,0 +1,56 @@
+{
+  "name": "Harold Ondricka",
+  "jerseyNumber": 96,
+  "description": "Number 96 Harold Ondricka. Overall rating of 79.",
+  "external_url": "https://example.com/player/670",
+  "image": "ipfs://QmSJdJ7uyKDC2dM2MvHXoWoHeFSboDKBUVS7oJvCAuNA2p",
+  "tier": 2,
+  "overallRating": 79,
+  "skill": {
+    "multiplier": 1,
+    "speed": 73,
+    "shooting": 60,
+    "passing": 65,
+    "dribbling": 65,
+    "defense": 78,
+    "physical": 65,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 73
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 60
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 65
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 78
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

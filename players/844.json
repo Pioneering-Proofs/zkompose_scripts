@@ -1,0 +1,56 @@
+{
+  "name": "Jeanne Paucek",
+  "jerseyNumber": 36,
+  "description": "Number 36 Jeanne Paucek. Overall rating of 74.",
+  "external_url": "https://example.com/player/844",
+  "image": "ipfs://QmSxzr1uWC2A1miY9hseR9pqJG5sursYWZMYiyqDjcVN8v",
+  "tier": 2,
+  "overallRating": 74,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 57,
+    "passing": 69,
+    "dribbling": 57,
+    "defense": 66,
+    "physical": 68,
+    "goalTending": 58
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 57
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 69
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 57
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 66
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 68
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 58
+    }
+  ]
+}

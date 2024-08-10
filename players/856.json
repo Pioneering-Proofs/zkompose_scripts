@@ -1,0 +1,56 @@
+{
+  "name": "Lorenzo Sipes III",
+  "jerseyNumber": 23,
+  "description": "Number 23 Lorenzo Sipes III. Overall rating of 69.",
+  "external_url": "https://example.com/player/856",
+  "image": "ipfs://QmWweZZj3iEAXhLzNvHWM6WVhpGBiGVLXh68LC3Gm27p1m",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 58,
+    "shooting": 61,
+    "passing": 49,
+    "dribbling": 67,
+    "defense": 52,
+    "physical": 57,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 58
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 61
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 49
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 67
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 52
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

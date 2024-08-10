@@ -1,0 +1,56 @@
+{
+  "name": "Nathaniel Lang",
+  "jerseyNumber": 29,
+  "description": "Number 29 Nathaniel Lang. Overall rating of 76.",
+  "external_url": "https://example.com/player/922",
+  "image": "ipfs://Qmf9QRP3zLJVgKo7iKGTaFFdgr6fQmn97mti2cJ4wPqMwt",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 72,
+    "passing": 67,
+    "dribbling": 68,
+    "defense": 73,
+    "physical": 62,
+    "goalTending": 73
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 72
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 67
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 68
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 73
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 62
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 73
+    }
+  ]
+}

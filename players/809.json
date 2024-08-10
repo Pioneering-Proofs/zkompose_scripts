@@ -1,0 +1,56 @@
+{
+  "name": "Lynn Kuhn",
+  "jerseyNumber": 70,
+  "description": "Number 70 Lynn Kuhn. Overall rating of 75.",
+  "external_url": "https://example.com/player/809",
+  "image": "ipfs://QmUyZFDcM83EwPh9PPkT9hYt8p2zd4pd9sp7FcxDSFoagm",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 75,
+    "shooting": 55,
+    "passing": 61,
+    "dribbling": 58,
+    "defense": 64,
+    "physical": 61,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 75
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 61
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 61
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Sam Kreiger Sr.",
+  "jerseyNumber": 10,
+  "description": "Number 10 Sam Kreiger Sr.. Overall rating of 73.",
+  "external_url": "https://example.com/player/139",
+  "image": "ipfs://QmYGuSaSS6MqDXZUfXfBoi869CT67JEwZg6C88PL7Pu7M1",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 55,
+    "shooting": 55,
+    "passing": 67,
+    "dribbling": 72,
+    "defense": 61,
+    "physical": 65,
+    "goalTending": 70
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 55
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 67
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 72
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 70
+    }
+  ]
+}

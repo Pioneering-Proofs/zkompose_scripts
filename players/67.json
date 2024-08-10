@@ -1,0 +1,56 @@
+{
+  "name": "Emilio Gorczany",
+  "jerseyNumber": 85,
+  "description": "Number 85 Emilio Gorczany. Overall rating of 76.",
+  "external_url": "https://example.com/player/67",
+  "image": "ipfs://QmUpDKih6Th6tSwY5URb8RJyDR65PC4soDHWSg4Nddp4Nt",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 56,
+    "shooting": 61,
+    "passing": 75,
+    "dribbling": 63,
+    "defense": 74,
+    "physical": 60,
+    "goalTending": 67
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 56
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 61
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 75
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 67
+    }
+  ]
+}

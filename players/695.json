@@ -1,0 +1,56 @@
+{
+  "name": "Bradley Gorczany",
+  "jerseyNumber": 13,
+  "description": "Number 13 Bradley Gorczany. Overall rating of 69.",
+  "external_url": "https://example.com/player/695",
+  "image": "ipfs://QmdfXH6WL8LyCAUVYRGENQwBf8aw65D3t9MfbfaYmuuSfk",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 66,
+    "passing": 65,
+    "dribbling": 67,
+    "defense": 53,
+    "physical": 67,
+    "goalTending": 50
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 65
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 67
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 53
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 67
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 50
+    }
+  ]
+}

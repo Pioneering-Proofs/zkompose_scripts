@@ -1,0 +1,56 @@
+{
+  "name": "Ronnie Bosco",
+  "jerseyNumber": 43,
+  "description": "Number 43 Ronnie Bosco. Overall rating of 75.",
+  "external_url": "https://example.com/player/454",
+  "image": "ipfs://QmcGNNtFLSZr18hgdYiCzed8CUs1Y4Brp1BA1L5vMotzir",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 60,
+    "passing": 59,
+    "dribbling": 73,
+    "defense": 63,
+    "physical": 72,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 60
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 59
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 63
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

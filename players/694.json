@@ -1,0 +1,56 @@
+{
+  "name": "Paulette Beier V",
+  "jerseyNumber": 17,
+  "description": "Number 17 Paulette Beier V. Overall rating of 60.",
+  "external_url": "https://example.com/player/694",
+  "image": "ipfs://QmU2Q4e8sxiqTMkWKCykauTnWt5Ey41NKFqFmW8gs14pJ3",
+  "tier": 3,
+  "overallRating": 60,
+  "skill": {
+    "multiplier": 1,
+    "speed": 55,
+    "shooting": 48,
+    "passing": 45,
+    "dribbling": 48,
+    "defense": 56,
+    "physical": 49,
+    "goalTending": 41
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 55
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 48
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 45
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 48
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 56
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 49
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 41
+    }
+  ]
+}

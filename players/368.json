@@ -1,0 +1,56 @@
+{
+  "name": "Joyce O'Hara",
+  "jerseyNumber": 39,
+  "description": "Number 39 Joyce O'Hara. Overall rating of 75.",
+  "external_url": "https://example.com/player/368",
+  "image": "ipfs://QmNbwo8WSA7qDY4orQayKFZYtCg8a9Q8dZW2kG86SB2gYN",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 59,
+    "shooting": 66,
+    "passing": 62,
+    "dribbling": 59,
+    "defense": 63,
+    "physical": 75,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 59
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 59
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 63
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 75
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

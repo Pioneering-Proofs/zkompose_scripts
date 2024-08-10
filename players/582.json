@@ -1,0 +1,56 @@
+{
+  "name": "Lorraine Langosh",
+  "jerseyNumber": 36,
+  "description": "Number 36 Lorraine Langosh. Overall rating of 61.",
+  "external_url": "https://example.com/player/582",
+  "image": "ipfs://Qma3Snp9BufieXcVmrB4HyiLJpcZqFLnEuTFVGHNk5kCKE",
+  "tier": 3,
+  "overallRating": 61,
+  "skill": {
+    "multiplier": 1,
+    "speed": 55,
+    "shooting": 42,
+    "passing": 54,
+    "dribbling": 51,
+    "defense": 54,
+    "physical": 60,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 55
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 42
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 54
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 51
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 54
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

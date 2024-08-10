@@ -1,0 +1,56 @@
+{
+  "name": "Lisa Herman IV",
+  "jerseyNumber": 82,
+  "description": "Number 82 Lisa Herman IV. Overall rating of 92.",
+  "external_url": "https://example.com/player/751",
+  "image": "ipfs://QmZ2HsCsvWdDxyhziL2AFA8iKsEp6oTYbd3h6WMYdDPjKQ",
+  "tier": 0,
+  "overallRating": 92,
+  "skill": {
+    "multiplier": 1,
+    "speed": 90,
+    "shooting": 84,
+    "passing": 90,
+    "dribbling": 91,
+    "defense": 91,
+    "physical": 92,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 90
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 84
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 90
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 91
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 91
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 92
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Cindy Parisian-Rowe",
+  "jerseyNumber": 34,
+  "description": "Number 34 Cindy Parisian-Rowe. Overall rating of 83.",
+  "external_url": "https://example.com/player/854",
+  "image": "ipfs://QmZfjiFuigDDUwTRgrZYpxeUU97XAUzPfGmbR3gnXkbEti",
+  "tier": 1,
+  "overallRating": 83,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 81,
+    "passing": 72,
+    "dribbling": 72,
+    "defense": 66,
+    "physical": 79,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 81
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 72
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 66
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 79
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

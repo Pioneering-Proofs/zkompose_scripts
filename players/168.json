@@ -1,0 +1,56 @@
+{
+  "name": "Alton Macejkovic",
+  "jerseyNumber": 80,
+  "description": "Number 80 Alton Macejkovic. Overall rating of 84.",
+  "external_url": "https://example.com/player/168",
+  "image": "ipfs://Qmc9TX1QMrLJEeL3FsZBVXd1TaFg3n4EiFA4JxrcJjN932",
+  "tier": 1,
+  "overallRating": 84,
+  "skill": {
+    "multiplier": 1,
+    "speed": 73,
+    "shooting": 65,
+    "passing": 74,
+    "dribbling": 65,
+    "defense": 65,
+    "physical": 83,
+    "goalTending": 67
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 73
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 65
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 65
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 83
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 67
+    }
+  ]
+}

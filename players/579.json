@@ -1,0 +1,56 @@
+{
+  "name": "Noah Baumbach",
+  "jerseyNumber": 13,
+  "description": "Number 13 Noah Baumbach. Overall rating of 90.",
+  "external_url": "https://example.com/player/579",
+  "image": "ipfs://QmNsULbq246Erb5nPG9YGBWC8WDTEZsV8EexubEe7xGob5",
+  "tier": 0,
+  "overallRating": 90,
+  "skill": {
+    "multiplier": 1,
+    "speed": 81,
+    "shooting": 85,
+    "passing": 88,
+    "dribbling": 79,
+    "defense": 77,
+    "physical": 70,
+    "goalTending": 87
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 81
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 85
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 88
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 79
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 77
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 70
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 87
+    }
+  ]
+}

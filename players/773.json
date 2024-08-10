@@ -1,0 +1,56 @@
+{
+  "name": "Danny Rogahn",
+  "jerseyNumber": 9,
+  "description": "Number 9 Danny Rogahn. Overall rating of 84.",
+  "external_url": "https://example.com/player/773",
+  "image": "ipfs://QmXxNnd14Q4JgrpyrPSvCuGm167HXNTAbjYLXpZQdmnPoq",
+  "tier": 1,
+  "overallRating": 84,
+  "skill": {
+    "multiplier": 1,
+    "speed": 69,
+    "shooting": 64,
+    "passing": 76,
+    "dribbling": 72,
+    "defense": 74,
+    "physical": 80,
+    "goalTending": 79
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 69
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 76
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 72
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 80
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 79
+    }
+  ]
+}

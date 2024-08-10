@@ -1,0 +1,56 @@
+{
+  "name": "Lisa Shields",
+  "jerseyNumber": 80,
+  "description": "Number 80 Lisa Shields. Overall rating of 86.",
+  "external_url": "https://example.com/player/966",
+  "image": "ipfs://QmdNkzzCj3j3E87n8U6eXLM6SeCqBs6kFavnKvQexagv2B",
+  "tier": 1,
+  "overallRating": 86,
+  "skill": {
+    "multiplier": 1,
+    "speed": 79,
+    "shooting": 73,
+    "passing": 83,
+    "dribbling": 81,
+    "defense": 70,
+    "physical": 73,
+    "goalTending": 82
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 79
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 73
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 83
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 81
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 70
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 73
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 82
+    }
+  ]
+}

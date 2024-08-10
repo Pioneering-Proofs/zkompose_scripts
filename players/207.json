@@ -1,0 +1,56 @@
+{
+  "name": "Mildred Stark",
+  "jerseyNumber": 43,
+  "description": "Number 43 Mildred Stark. Overall rating of 78.",
+  "external_url": "https://example.com/player/207",
+  "image": "ipfs://QmaaJEo48MKyyjgfca7yHspDJi9MmRoLzXFr7MgsuLmynB",
+  "tier": 2,
+  "overallRating": 78,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 77,
+    "passing": 73,
+    "dribbling": 73,
+    "defense": 73,
+    "physical": 65,
+    "goalTending": 76
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 77
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 73
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 73
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 76
+    }
+  ]
+}

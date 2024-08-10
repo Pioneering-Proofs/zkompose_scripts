@@ -1,0 +1,56 @@
+{
+  "name": "Luke Feest-Runte",
+  "jerseyNumber": 86,
+  "description": "Number 86 Luke Feest-Runte. Overall rating of 68.",
+  "external_url": "https://example.com/player/453",
+  "image": "ipfs://QmaLBn6c6EakT2XbkPkWR8wRUPWn4X4PBdLRWgSKgRbVEv",
+  "tier": 3,
+  "overallRating": 68,
+  "skill": {
+    "multiplier": 1,
+    "speed": 50,
+    "shooting": 67,
+    "passing": 50,
+    "dribbling": 64,
+    "defense": 49,
+    "physical": 49,
+    "goalTending": 66
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 50
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 64
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 49
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 49
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 66
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Thelma Schultz",
+  "jerseyNumber": 99,
+  "description": "Number 99 Thelma Schultz. Overall rating of 63.",
+  "external_url": "https://example.com/player/275",
+  "image": "ipfs://QmRv4rzN6PfvAb4T4F5fohZ7514KPA5383kQ7FX1Kp5Gyo",
+  "tier": 3,
+  "overallRating": 63,
+  "skill": {
+    "multiplier": 1,
+    "speed": 58,
+    "shooting": 56,
+    "passing": 60,
+    "dribbling": 44,
+    "defense": 58,
+    "physical": 57,
+    "goalTending": 49
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 58
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 56
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 60
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 44
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 58
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 49
+    }
+  ]
+}

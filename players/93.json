@@ -1,0 +1,56 @@
+{
+  "name": "Laurence Lesch II",
+  "jerseyNumber": 10,
+  "description": "Number 10 Laurence Lesch II. Overall rating of 72.",
+  "external_url": "https://example.com/player/93",
+  "image": "ipfs://QmXhB9R6iGecavobTykEQJ9ToeSvDi2bKARd7k8skJZNHx",
+  "tier": 2,
+  "overallRating": 72,
+  "skill": {
+    "multiplier": 1,
+    "speed": 59,
+    "shooting": 68,
+    "passing": 58,
+    "dribbling": 57,
+    "defense": 70,
+    "physical": 62,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 59
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 57
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 70
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 62
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

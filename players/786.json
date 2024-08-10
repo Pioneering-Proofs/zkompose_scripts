@@ -1,0 +1,56 @@
+{
+  "name": "Rene Kerluke",
+  "jerseyNumber": 44,
+  "description": "Number 44 Rene Kerluke. Overall rating of 56.",
+  "external_url": "https://example.com/player/786",
+  "image": "ipfs://QmQvxPPTTGTm6BcbxcdB5wH1aze4j8TG6xekrTdBPd5ER7",
+  "tier": 4,
+  "overallRating": 56,
+  "skill": {
+    "multiplier": 1,
+    "speed": 43,
+    "shooting": 54,
+    "passing": 49,
+    "dribbling": 36,
+    "defense": 43,
+    "physical": 55,
+    "goalTending": 36
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 43
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 54
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 49
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 36
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 43
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 55
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 36
+    }
+  ]
+}

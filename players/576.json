@@ -1,0 +1,56 @@
+{
+  "name": "Terri Jacobi",
+  "jerseyNumber": 67,
+  "description": "Number 67 Terri Jacobi. Overall rating of 64.",
+  "external_url": "https://example.com/player/576",
+  "image": "ipfs://QmTXj8AZpxbxypDhkhf2QLnxRrDbogaNbiy3Qcx95ArPiJ",
+  "tier": 3,
+  "overallRating": 64,
+  "skill": {
+    "multiplier": 1,
+    "speed": 44,
+    "shooting": 60,
+    "passing": 48,
+    "dribbling": 50,
+    "defense": 53,
+    "physical": 54,
+    "goalTending": 50
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 44
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 60
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 48
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 50
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 53
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 54
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 50
+    }
+  ]
+}

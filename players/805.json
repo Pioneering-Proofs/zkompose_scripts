@@ -1,0 +1,56 @@
+{
+  "name": "Rita Koepp IV",
+  "jerseyNumber": 95,
+  "description": "Number 95 Rita Koepp IV. Overall rating of 93.",
+  "external_url": "https://example.com/player/805",
+  "image": "ipfs://QmbqFMPFmJ2Dv7mD2AVZgHK7XBWJ7a72Z9L1kgGLGM4RgT",
+  "tier": 0,
+  "overallRating": 93,
+  "skill": {
+    "multiplier": 1,
+    "speed": 76,
+    "shooting": 83,
+    "passing": 83,
+    "dribbling": 89,
+    "defense": 77,
+    "physical": 82,
+    "goalTending": 93
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 76
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 83
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 83
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 89
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 77
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 82
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 93
+    }
+  ]
+}

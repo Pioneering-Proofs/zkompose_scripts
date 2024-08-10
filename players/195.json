@@ -1,0 +1,56 @@
+{
+  "name": "Al Buckridge I",
+  "jerseyNumber": 75,
+  "description": "Number 75 Al Buckridge I. Overall rating of 72.",
+  "external_url": "https://example.com/player/195",
+  "image": "ipfs://QmaFNtgw7LKR9UCYxv1F3kuJnEMrHMp7H4FhVjwGMT242z",
+  "tier": 2,
+  "overallRating": 72,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 62,
+    "passing": 53,
+    "dribbling": 69,
+    "defense": 68,
+    "physical": 54,
+    "goalTending": 56
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 62
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 53
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 68
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 54
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 56
+    }
+  ]
+}

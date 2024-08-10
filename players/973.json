@@ -1,0 +1,56 @@
+{
+  "name": "Patsy D'Amore IV",
+  "jerseyNumber": 95,
+  "description": "Number 95 Patsy D'Amore IV. Overall rating of 65.",
+  "external_url": "https://example.com/player/973",
+  "image": "ipfs://QmeHeh7k655rApAS5hzDQKM7PEF6LgvLhZ9phPKaYuKAY4",
+  "tier": 3,
+  "overallRating": 65,
+  "skill": {
+    "multiplier": 1,
+    "speed": 51,
+    "shooting": 63,
+    "passing": 52,
+    "dribbling": 58,
+    "defense": 51,
+    "physical": 51,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 51
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 63
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 52
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 51
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 51
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

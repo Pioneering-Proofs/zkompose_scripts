@@ -1,0 +1,56 @@
+{
+  "name": "Gerald Pacocha",
+  "jerseyNumber": 1,
+  "description": "Number 1 Gerald Pacocha. Overall rating of 86.",
+  "external_url": "https://example.com/player/127",
+  "image": "ipfs://QmTTckCYerZ2LT9wAAjjUdcyC8GpKyDYCCq3AGrgu9DHw6",
+  "tier": 1,
+  "overallRating": 86,
+  "skill": {
+    "multiplier": 1,
+    "speed": 67,
+    "shooting": 81,
+    "passing": 76,
+    "dribbling": 83,
+    "defense": 75,
+    "physical": 82,
+    "goalTending": 70
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 81
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 76
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 83
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 75
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 82
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 70
+    }
+  ]
+}

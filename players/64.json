@@ -1,0 +1,56 @@
+{
+  "name": "Marcia Considine",
+  "jerseyNumber": 11,
+  "description": "Number 11 Marcia Considine. Overall rating of 62.",
+  "external_url": "https://example.com/player/64",
+  "image": "ipfs://QmafhgRPteAMeMAoVwqbapM8Jt38SpTTtwZyCqJQsNMhrs",
+  "tier": 3,
+  "overallRating": 62,
+  "skill": {
+    "multiplier": 1,
+    "speed": 60,
+    "shooting": 50,
+    "passing": 52,
+    "dribbling": 48,
+    "defense": 52,
+    "physical": 60,
+    "goalTending": 53
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 50
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 52
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 48
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 52
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 53
+    }
+  ]
+}

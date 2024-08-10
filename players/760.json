@@ -1,0 +1,56 @@
+{
+  "name": "Rickey Rowe I",
+  "jerseyNumber": 28,
+  "description": "Number 28 Rickey Rowe I. Overall rating of 83.",
+  "external_url": "https://example.com/player/760",
+  "image": "ipfs://QmSdUt9fKNts5YwXRajdzvcBB4YMYxaR7Bux1zMBmKukdx",
+  "tier": 1,
+  "overallRating": 83,
+  "skill": {
+    "multiplier": 1,
+    "speed": 76,
+    "shooting": 80,
+    "passing": 63,
+    "dribbling": 69,
+    "defense": 82,
+    "physical": 68,
+    "goalTending": 77
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 76
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 80
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 63
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 82
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 68
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 77
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Anne Herman",
+  "jerseyNumber": 79,
+  "description": "Number 79 Anne Herman. Overall rating of 88.",
+  "external_url": "https://example.com/player/762",
+  "image": "ipfs://QmU28q7JjMnH8a81cBcadnxMtaxwsrFHautMBkDhNtTPW2",
+  "tier": 1,
+  "overallRating": 88,
+  "skill": {
+    "multiplier": 1,
+    "speed": 86,
+    "shooting": 85,
+    "passing": 87,
+    "dribbling": 81,
+    "defense": 84,
+    "physical": 76,
+    "goalTending": 87
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 86
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 85
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 87
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 81
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 84
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 76
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 87
+    }
+  ]
+}

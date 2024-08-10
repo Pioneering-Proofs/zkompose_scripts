@@ -1,0 +1,56 @@
+{
+  "name": "Arlene Welch",
+  "jerseyNumber": 96,
+  "description": "Number 96 Arlene Welch. Overall rating of 70.",
+  "external_url": "https://example.com/player/650",
+  "image": "ipfs://QmSVKEFiK9XpDJDELv6F7GpUvSy7FCqmfEvh4DTDW4fvxb",
+  "tier": 2,
+  "overallRating": 70,
+  "skill": {
+    "multiplier": 1,
+    "speed": 52,
+    "shooting": 60,
+    "passing": 69,
+    "dribbling": 52,
+    "defense": 60,
+    "physical": 69,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 52
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 60
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 69
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 52
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 60
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

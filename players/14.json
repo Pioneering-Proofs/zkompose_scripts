@@ -1,0 +1,56 @@
+{
+  "name": "Rose Hauck",
+  "jerseyNumber": 91,
+  "description": "Number 91 Rose Hauck. Overall rating of 79.",
+  "external_url": "https://example.com/player/14",
+  "image": "ipfs://QmQwMYkv2XcWPuNadC9WGPVZrq11962Jqcvb13bHEKqrNZ",
+  "tier": 2,
+  "overallRating": 79,
+  "skill": {
+    "multiplier": 1,
+    "speed": 75,
+    "shooting": 77,
+    "passing": 59,
+    "dribbling": 60,
+    "defense": 78,
+    "physical": 78,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 75
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 77
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 59
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 60
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 78
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 78
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

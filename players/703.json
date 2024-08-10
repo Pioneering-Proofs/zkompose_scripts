@@ -1,0 +1,56 @@
+{
+  "name": "Brendan Jacobson",
+  "jerseyNumber": 32,
+  "description": "Number 32 Brendan Jacobson. Overall rating of 87.",
+  "external_url": "https://example.com/player/703",
+  "image": "ipfs://QmZdYCXQMLVRHyD5ze6yQVEvXD9poP942KijFgmXas4y2z",
+  "tier": 1,
+  "overallRating": 87,
+  "skill": {
+    "multiplier": 1,
+    "speed": 80,
+    "shooting": 77,
+    "passing": 86,
+    "dribbling": 82,
+    "defense": 74,
+    "physical": 83,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 80
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 77
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 86
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 82
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 83
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

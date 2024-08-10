@@ -1,0 +1,56 @@
+{
+  "name": "Craig Koch",
+  "jerseyNumber": 22,
+  "description": "Number 22 Craig Koch. Overall rating of 59.",
+  "external_url": "https://example.com/player/265",
+  "image": "ipfs://QmcjTA8cGnEDPMJkyfYwyAV9TfvaEe17wCrGJmHY9jSdkj",
+  "tier": 4,
+  "overallRating": 59,
+  "skill": {
+    "multiplier": 1,
+    "speed": 51,
+    "shooting": 42,
+    "passing": 48,
+    "dribbling": 55,
+    "defense": 47,
+    "physical": 46,
+    "goalTending": 43
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 51
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 42
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 48
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 55
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 47
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 46
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 43
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Meghan Mueller",
+  "jerseyNumber": 51,
+  "description": "Number 51 Meghan Mueller. Overall rating of 72.",
+  "external_url": "https://example.com/player/370",
+  "image": "ipfs://QmYzKgMjbyF8HZYnaqC6xSXeAyS8Hni8suW9X96a4o4CUo",
+  "tier": 2,
+  "overallRating": 72,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 57,
+    "passing": 62,
+    "dribbling": 68,
+    "defense": 58,
+    "physical": 64,
+    "goalTending": 54
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 57
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 68
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 58
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 54
+    }
+  ]
+}

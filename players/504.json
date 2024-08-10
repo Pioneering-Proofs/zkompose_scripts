@@ -1,0 +1,56 @@
+{
+  "name": "Rosemary Fadel",
+  "jerseyNumber": 46,
+  "description": "Number 46 Rosemary Fadel. Overall rating of 55.",
+  "external_url": "https://example.com/player/504",
+  "image": "ipfs://QmWzfrz4G2fGEMUGwuRXwWSvBcjsDqXYXJsjnaZRWpcrcj",
+  "tier": 4,
+  "overallRating": 55,
+  "skill": {
+    "multiplier": 1,
+    "speed": 46,
+    "shooting": 50,
+    "passing": 38,
+    "dribbling": 38,
+    "defense": 54,
+    "physical": 43,
+    "goalTending": 52
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 46
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 50
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 38
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 38
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 54
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 43
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 52
+    }
+  ]
+}

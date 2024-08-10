@@ -1,0 +1,56 @@
+{
+  "name": "Phillip Jacobi",
+  "jerseyNumber": 30,
+  "description": "Number 30 Phillip Jacobi. Overall rating of 80.",
+  "external_url": "https://example.com/player/92",
+  "image": "ipfs://QmZfjBwFZ2GRcGpgS23ktiRdxkx8Th4Njwcf2fY3Nswf5D",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 76,
+    "shooting": 62,
+    "passing": 62,
+    "dribbling": 64,
+    "defense": 66,
+    "physical": 60,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 76
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 62
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 64
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 66
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

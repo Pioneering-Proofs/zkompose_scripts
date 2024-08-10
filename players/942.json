@@ -1,0 +1,56 @@
+{
+  "name": "Constance Rau",
+  "jerseyNumber": 22,
+  "description": "Number 22 Constance Rau. Overall rating of 83.",
+  "external_url": "https://example.com/player/942",
+  "image": "ipfs://QmagATj1TZEAz4WGUTQQiFW332ZuzEZS757GmUY5Ze2eSZ",
+  "tier": 1,
+  "overallRating": 83,
+  "skill": {
+    "multiplier": 1,
+    "speed": 74,
+    "shooting": 75,
+    "passing": 82,
+    "dribbling": 69,
+    "defense": 77,
+    "physical": 76,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 74
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 75
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 82
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 77
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 76
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

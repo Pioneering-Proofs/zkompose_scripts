@@ -1,0 +1,56 @@
+{
+  "name": "Ms. Lola Brakus",
+  "jerseyNumber": 75,
+  "description": "Number 75 Ms. Lola Brakus. Overall rating of 87.",
+  "external_url": "https://example.com/player/352",
+  "image": "ipfs://QmWbXmVbGXrG2VCrFZXg4rfF3mgFgUNQ1ngmBevzQJ9mjW",
+  "tier": 1,
+  "overallRating": 87,
+  "skill": {
+    "multiplier": 1,
+    "speed": 73,
+    "shooting": 79,
+    "passing": 68,
+    "dribbling": 77,
+    "defense": 86,
+    "physical": 68,
+    "goalTending": 78
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 73
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 79
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 68
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 77
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 86
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 68
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 78
+    }
+  ]
+}

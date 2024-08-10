@@ -1,0 +1,56 @@
+{
+  "name": "Andrea Marquardt",
+  "jerseyNumber": 61,
+  "description": "Number 61 Andrea Marquardt. Overall rating of 75.",
+  "external_url": "https://example.com/player/988",
+  "image": "ipfs://QmcMUNKmpdw1dk8owpNSNPFPwaSM6kfD6RMAwUxV6WMAN6",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 57,
+    "passing": 71,
+    "dribbling": 69,
+    "defense": 69,
+    "physical": 60,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 57
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 71
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 69
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

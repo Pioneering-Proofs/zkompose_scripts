@@ -1,0 +1,56 @@
+{
+  "name": "Wm Schumm-Muller",
+  "jerseyNumber": 43,
+  "description": "Number 43 Wm Schumm-Muller. Overall rating of 88.",
+  "external_url": "https://example.com/player/789",
+  "image": "ipfs://QmdcbZkYfknUSaFEhDHt7PduMwZcYkFVqmWxkm3yuv3rv9",
+  "tier": 1,
+  "overallRating": 88,
+  "skill": {
+    "multiplier": 1,
+    "speed": 74,
+    "shooting": 78,
+    "passing": 74,
+    "dribbling": 75,
+    "defense": 85,
+    "physical": 83,
+    "goalTending": 73
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 74
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 78
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 75
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 85
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 83
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 73
+    }
+  ]
+}

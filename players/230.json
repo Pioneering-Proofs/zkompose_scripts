@@ -1,0 +1,56 @@
+{
+  "name": "Margarita Hartmann",
+  "jerseyNumber": 66,
+  "description": "Number 66 Margarita Hartmann. Overall rating of 69.",
+  "external_url": "https://example.com/player/230",
+  "image": "ipfs://QmNZpvZ5u4UVny9ZGqGjniwct1bT7NxGSguc74GF8zK8ja",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 55,
+    "shooting": 68,
+    "passing": 68,
+    "dribbling": 56,
+    "defense": 64,
+    "physical": 52,
+    "goalTending": 49
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 55
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 68
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 56
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 52
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 49
+    }
+  ]
+}

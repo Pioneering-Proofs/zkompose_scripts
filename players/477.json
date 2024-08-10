@@ -1,0 +1,56 @@
+{
+  "name": "Jamie Kuhn",
+  "jerseyNumber": 82,
+  "description": "Number 82 Jamie Kuhn. Overall rating of 82.",
+  "external_url": "https://example.com/player/477",
+  "image": "ipfs://QmPKSmrcwuVAg4NfCvG7qx4k6kwRAQ2npC64J9Ja365KFo",
+  "tier": 1,
+  "overallRating": 82,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 67,
+    "passing": 82,
+    "dribbling": 69,
+    "defense": 62,
+    "physical": 80,
+    "goalTending": 65
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 82
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 62
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 80
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 65
+    }
+  ]
+}

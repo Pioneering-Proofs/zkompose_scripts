@@ -1,0 +1,56 @@
+{
+  "name": "Travis Buckridge",
+  "jerseyNumber": 6,
+  "description": "Number 6 Travis Buckridge. Overall rating of 74.",
+  "external_url": "https://example.com/player/796",
+  "image": "ipfs://QmSN5nYVXmqQXBCXj2yYM5eNER25xTsrPJsAMdyLbf6krR",
+  "tier": 2,
+  "overallRating": 74,
+  "skill": {
+    "multiplier": 1,
+    "speed": 66,
+    "shooting": 55,
+    "passing": 55,
+    "dribbling": 64,
+    "defense": 73,
+    "physical": 57,
+    "goalTending": 71
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 55
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 64
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 73
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 71
+    }
+  ]
+}

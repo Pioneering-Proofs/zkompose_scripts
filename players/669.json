@@ -1,0 +1,56 @@
+{
+  "name": "Mr. Brendan Wisoky",
+  "jerseyNumber": 97,
+  "description": "Number 97 Mr. Brendan Wisoky. Overall rating of 73.",
+  "external_url": "https://example.com/player/669",
+  "image": "ipfs://QmW3mRkQeJ4MbapUtLVPxQYRMXstXPZD2Rx5rBnK66b3LG",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 66,
+    "passing": 63,
+    "dribbling": 71,
+    "defense": 72,
+    "physical": 72,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 63
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 71
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 72
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

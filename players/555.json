@@ -1,0 +1,56 @@
+{
+  "name": "Nina Little-Veum",
+  "jerseyNumber": 9,
+  "description": "Number 9 Nina Little-Veum. Overall rating of 85.",
+  "external_url": "https://example.com/player/555",
+  "image": "ipfs://QmV19ZD1ij6XYKhxdFKHUN2iiX5CEoATwmykWcUb86eAbs",
+  "tier": 1,
+  "overallRating": 85,
+  "skill": {
+    "multiplier": 1,
+    "speed": 80,
+    "shooting": 76,
+    "passing": 81,
+    "dribbling": 69,
+    "defense": 78,
+    "physical": 66,
+    "goalTending": 68
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 80
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 76
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 81
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 78
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 66
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 68
+    }
+  ]
+}

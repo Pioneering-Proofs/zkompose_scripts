@@ -1,0 +1,56 @@
+{
+  "name": "Shannon Rohan IV",
+  "jerseyNumber": 22,
+  "description": "Number 22 Shannon Rohan IV. Overall rating of 70.",
+  "external_url": "https://example.com/player/965",
+  "image": "ipfs://QmVREBRyqLzmi2jNNDg6dSvGDgTfdDHZyXSCwcGShozEMG",
+  "tier": 2,
+  "overallRating": 70,
+  "skill": {
+    "multiplier": 1,
+    "speed": 67,
+    "shooting": 64,
+    "passing": 67,
+    "dribbling": 51,
+    "defense": 57,
+    "physical": 64,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 67
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 51
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 57
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

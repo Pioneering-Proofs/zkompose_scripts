@@ -1,0 +1,56 @@
+{
+  "name": "Ms. Kay Torphy-Breitenberg",
+  "jerseyNumber": 48,
+  "description": "Number 48 Ms. Kay Torphy-Breitenberg. Overall rating of 89.",
+  "external_url": "https://example.com/player/191",
+  "image": "ipfs://QmVuRxGjSzRRUJABvki2q7q7kGtq5Bj6ZHA4MQNQfBhMHw",
+  "tier": 1,
+  "overallRating": 89,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 88,
+    "passing": 84,
+    "dribbling": 79,
+    "defense": 74,
+    "physical": 70,
+    "goalTending": 76
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 88
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 84
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 79
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 70
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 76
+    }
+  ]
+}

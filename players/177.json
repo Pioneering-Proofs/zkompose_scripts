@@ -1,0 +1,56 @@
+{
+  "name": "Alex Hermiston",
+  "jerseyNumber": 20,
+  "description": "Number 20 Alex Hermiston. Overall rating of 95.",
+  "external_url": "https://example.com/player/177",
+  "image": "ipfs://QmSxPMtB8GRgfnjkD39pAgLETREJjb5bFuD6UPw193hygE",
+  "tier": 0,
+  "overallRating": 95,
+  "skill": {
+    "multiplier": 1,
+    "speed": 90,
+    "shooting": 85,
+    "passing": 85,
+    "dribbling": 87,
+    "defense": 95,
+    "physical": 90,
+    "goalTending": 82
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 90
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 85
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 85
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 87
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 95
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 90
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 82
+    }
+  ]
+}

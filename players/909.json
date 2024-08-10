@@ -1,0 +1,56 @@
+{
+  "name": "Jenny Wilkinson",
+  "jerseyNumber": 46,
+  "description": "Number 46 Jenny Wilkinson. Overall rating of 79.",
+  "external_url": "https://example.com/player/909",
+  "image": "ipfs://QmcYuiL8P2bZCUVtUUUtb1bU2kv1Rztqg9aemySAGoEQsS",
+  "tier": 2,
+  "overallRating": 79,
+  "skill": {
+    "multiplier": 1,
+    "speed": 76,
+    "shooting": 78,
+    "passing": 79,
+    "dribbling": 75,
+    "defense": 64,
+    "physical": 65,
+    "goalTending": 73
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 76
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 78
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 79
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 75
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 73
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Mr. Hugo Balistreri",
+  "jerseyNumber": 52,
+  "description": "Number 52 Mr. Hugo Balistreri. Overall rating of 63.",
+  "external_url": "https://example.com/player/836",
+  "image": "ipfs://QmeFsdi5bF4SK9C3bkVFgNoqtasRp27ejEykJqqgnEhg7o",
+  "tier": 3,
+  "overallRating": 63,
+  "skill": {
+    "multiplier": 1,
+    "speed": 51,
+    "shooting": 55,
+    "passing": 55,
+    "dribbling": 46,
+    "defense": 46,
+    "physical": 55,
+    "goalTending": 61
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 51
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 55
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 46
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 46
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 55
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 61
+    }
+  ]
+}

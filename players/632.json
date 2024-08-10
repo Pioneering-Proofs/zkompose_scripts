@@ -1,0 +1,56 @@
+{
+  "name": "Raul Goodwin",
+  "jerseyNumber": 16,
+  "description": "Number 16 Raul Goodwin. Overall rating of 78.",
+  "external_url": "https://example.com/player/632",
+  "image": "ipfs://QmbiBjKtLKKfLjmPtE9NSbJ287hGRAAnr4WeMqTzL662XP",
+  "tier": 2,
+  "overallRating": 78,
+  "skill": {
+    "multiplier": 1,
+    "speed": 69,
+    "shooting": 61,
+    "passing": 71,
+    "dribbling": 75,
+    "defense": 68,
+    "physical": 66,
+    "goalTending": 70
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 69
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 61
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 71
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 75
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 68
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 66
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 70
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Luz Towne",
+  "jerseyNumber": 44,
+  "description": "Number 44 Luz Towne. Overall rating of 84.",
+  "external_url": "https://example.com/player/363",
+  "image": "ipfs://QmQNdGCY8yNCJhqU2t1w5BNH41EfZ6WZoP88skpayXtcZk",
+  "tier": 1,
+  "overallRating": 84,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 69,
+    "passing": 75,
+    "dribbling": 82,
+    "defense": 84,
+    "physical": 69,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 69
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 75
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 82
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 84
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

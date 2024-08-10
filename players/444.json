@@ -1,0 +1,56 @@
+{
+  "name": "Dan Jacobs",
+  "jerseyNumber": 79,
+  "description": "Number 79 Dan Jacobs. Overall rating of 74.",
+  "external_url": "https://example.com/player/444",
+  "image": "ipfs://QmYPo7LKhMDq5kmFhiMCxBhA2gdKJk5SPr1uSr2TELi1UD",
+  "tier": 2,
+  "overallRating": 74,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 73,
+    "passing": 69,
+    "dribbling": 65,
+    "defense": 60,
+    "physical": 56,
+    "goalTending": 70
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 73
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 69
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 60
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 56
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 70
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Latoya Nader IV",
+  "jerseyNumber": 19,
+  "description": "Number 19 Latoya Nader IV. Overall rating of 75.",
+  "external_url": "https://example.com/player/241",
+  "image": "ipfs://QmfL8HdZeakTMRjaLfGFhZyTpq1AkpeqhzPnF8arCfHMVB",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 56,
+    "shooting": 66,
+    "passing": 68,
+    "dribbling": 56,
+    "defense": 67,
+    "physical": 57,
+    "goalTending": 74
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 56
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 68
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 56
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 67
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 74
+    }
+  ]
+}

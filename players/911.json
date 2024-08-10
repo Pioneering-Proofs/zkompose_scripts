@@ -1,0 +1,56 @@
+{
+  "name": "Elvira Rodriguez",
+  "jerseyNumber": 71,
+  "description": "Number 71 Elvira Rodriguez. Overall rating of 74.",
+  "external_url": "https://example.com/player/911",
+  "image": "ipfs://QmZbgt6zmQP5C387Y2npewFYaaa6kNSg1AziZfwTro5zXg",
+  "tier": 2,
+  "overallRating": 74,
+  "skill": {
+    "multiplier": 1,
+    "speed": 74,
+    "shooting": 63,
+    "passing": 66,
+    "dribbling": 55,
+    "defense": 56,
+    "physical": 59,
+    "goalTending": 67
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 74
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 63
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 66
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 55
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 56
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 59
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 67
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Faith Medhurst",
+  "jerseyNumber": 59,
+  "description": "Number 59 Faith Medhurst. Overall rating of 76.",
+  "external_url": "https://example.com/player/538",
+  "image": "ipfs://QmYA7dE8j5gkp8qeXh6swmND1jp4yhXGGn5nowUqQCfEDk",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 56,
+    "passing": 75,
+    "dribbling": 65,
+    "defense": 73,
+    "physical": 69,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 56
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 75
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 73
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

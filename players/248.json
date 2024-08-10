@@ -1,0 +1,56 @@
+{
+  "name": "Jennifer Reichert",
+  "jerseyNumber": 60,
+  "description": "Number 60 Jennifer Reichert. Overall rating of 76.",
+  "external_url": "https://example.com/player/248",
+  "image": "ipfs://QmZ9Py35SZWSuw8kyckEDvasYVBbDHBBDSWtkE3Ve1jjng",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 66,
+    "shooting": 67,
+    "passing": 72,
+    "dribbling": 67,
+    "defense": 68,
+    "physical": 72,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 67
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 68
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

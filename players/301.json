@@ -1,0 +1,56 @@
+{
+  "name": "Terrence Schmeler",
+  "jerseyNumber": 37,
+  "description": "Number 37 Terrence Schmeler. Overall rating of 84.",
+  "external_url": "https://example.com/player/301",
+  "image": "ipfs://QmQWgLauvtW36zF7rypdgsz9BK4Z87N7jWKzvvcpFVuExB",
+  "tier": 1,
+  "overallRating": 84,
+  "skill": {
+    "multiplier": 1,
+    "speed": 67,
+    "shooting": 69,
+    "passing": 64,
+    "dribbling": 74,
+    "defense": 81,
+    "physical": 75,
+    "goalTending": 83
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 69
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 64
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 74
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 81
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 75
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 83
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Ryan Wehner",
+  "jerseyNumber": 54,
+  "description": "Number 54 Ryan Wehner. Overall rating of 67.",
+  "external_url": "https://example.com/player/285",
+  "image": "ipfs://QmZwNrnGn5QS8Do7ZG7ykvfPSGxf2ZkoYb5xwWtYEhqKDX",
+  "tier": 3,
+  "overallRating": 67,
+  "skill": {
+    "multiplier": 1,
+    "speed": 52,
+    "shooting": 64,
+    "passing": 58,
+    "dribbling": 63,
+    "defense": 55,
+    "physical": 55,
+    "goalTending": 47
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 52
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 55
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 55
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 47
+    }
+  ]
+}

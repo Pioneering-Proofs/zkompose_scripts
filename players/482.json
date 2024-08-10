@@ -1,0 +1,56 @@
+{
+  "name": "Al Pfeffer",
+  "jerseyNumber": 40,
+  "description": "Number 40 Al Pfeffer. Overall rating of 59.",
+  "external_url": "https://example.com/player/482",
+  "image": "ipfs://QmSTa7WS8NLwLCW5zTmsPKjjHaj5FF7ZTX85kZZuCMsrK3",
+  "tier": 4,
+  "overallRating": 59,
+  "skill": {
+    "multiplier": 1,
+    "speed": 41,
+    "shooting": 56,
+    "passing": 54,
+    "dribbling": 49,
+    "defense": 53,
+    "physical": 59,
+    "goalTending": 43
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 41
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 56
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 54
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 49
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 53
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 59
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 43
+    }
+  ]
+}

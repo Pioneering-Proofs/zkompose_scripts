@@ -1,0 +1,56 @@
+{
+  "name": "Angela Beahan-Kunze",
+  "jerseyNumber": 7,
+  "description": "Number 7 Angela Beahan-Kunze. Overall rating of 73.",
+  "external_url": "https://example.com/player/876",
+  "image": "ipfs://QmPhaTfT8igssBekjE6mWii9P7nNp6VaY3gpHmMKFTKyTC",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 60,
+    "shooting": 64,
+    "passing": 53,
+    "dribbling": 72,
+    "defense": 61,
+    "physical": 72,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 53
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 72
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Jose Schumm",
+  "jerseyNumber": 1,
+  "description": "Number 1 Jose Schumm. Overall rating of 99.",
+  "external_url": "https://example.com/player/808",
+  "image": "ipfs://QmduE3JNA5HqnN3js3381HDkFpCoV8wTRpvNkmskZH8oYM",
+  "tier": 0,
+  "overallRating": 99,
+  "skill": {
+    "multiplier": 1,
+    "speed": 95,
+    "shooting": 83,
+    "passing": 95,
+    "dribbling": 82,
+    "defense": 87,
+    "physical": 79,
+    "goalTending": 81
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 95
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 83
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 95
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 82
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 87
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 79
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 81
+    }
+  ]
+}

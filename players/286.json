@@ -1,0 +1,56 @@
+{
+  "name": "Malcolm Mueller",
+  "jerseyNumber": 49,
+  "description": "Number 49 Malcolm Mueller. Overall rating of 69.",
+  "external_url": "https://example.com/player/286",
+  "image": "ipfs://QmUdkuy39m6cTDjwfVx3vAzibR9rmWtKc6MGE3UNzWqgWp",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 57,
+    "shooting": 56,
+    "passing": 56,
+    "dribbling": 57,
+    "defense": 61,
+    "physical": 66,
+    "goalTending": 61
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 57
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 56
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 56
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 57
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 66
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 61
+    }
+  ]
+}

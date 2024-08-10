@@ -1,0 +1,56 @@
+{
+  "name": "Rick Braun",
+  "jerseyNumber": 12,
+  "description": "Number 12 Rick Braun. Overall rating of 48.",
+  "external_url": "https://example.com/player/22",
+  "image": "ipfs://QmX4hHCMxLeY9JvkNQpbEJWvngRFQM5UW5gh2kcaTzymkZ",
+  "tier": 4,
+  "overallRating": 48,
+  "skill": {
+    "multiplier": 1,
+    "speed": 46,
+    "shooting": 33,
+    "passing": 38,
+    "dribbling": 31,
+    "defense": 44,
+    "physical": 30,
+    "goalTending": 43
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 46
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 33
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 38
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 31
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 44
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 30
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 43
+    }
+  ]
+}

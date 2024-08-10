@@ -1,0 +1,56 @@
+{
+  "name": "Brendan Ullrich",
+  "jerseyNumber": 14,
+  "description": "Number 14 Brendan Ullrich. Overall rating of 69.",
+  "external_url": "https://example.com/player/101",
+  "image": "ipfs://QmctbT5EUT7BboFBmyHkwC4pckYcTvdxxnjC55qpC3cWLo",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 59,
+    "shooting": 51,
+    "passing": 50,
+    "dribbling": 60,
+    "defense": 49,
+    "physical": 54,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 59
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 51
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 50
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 60
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 49
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 54
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

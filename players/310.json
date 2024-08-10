@@ -1,0 +1,56 @@
+{
+  "name": "Dr. Kim Rutherford",
+  "jerseyNumber": 61,
+  "description": "Number 61 Dr. Kim Rutherford. Overall rating of 80.",
+  "external_url": "https://example.com/player/310",
+  "image": "ipfs://QmVwkrZpAy3my2f9WqZ6qy5sx6jbnuApCQbUtRZWVRPYFf",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 76,
+    "shooting": 77,
+    "passing": 73,
+    "dribbling": 73,
+    "defense": 62,
+    "physical": 64,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 76
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 77
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 73
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 62
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Guadalupe Will",
+  "jerseyNumber": 28,
+  "description": "Number 28 Guadalupe Will. Overall rating of 52.",
+  "external_url": "https://example.com/player/4",
+  "image": "ipfs://QmR2nqRQAgfpDjWX73UmtadvuAiYAddaEBXutkEzc6CKKS",
+  "tier": 4,
+  "overallRating": 52,
+  "skill": {
+    "multiplier": 1,
+    "speed": 50,
+    "shooting": 34,
+    "passing": 45,
+    "dribbling": 50,
+    "defense": 34,
+    "physical": 51,
+    "goalTending": 38
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 34
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 45
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 50
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 34
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 51
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 38
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Evan Shanahan",
+  "jerseyNumber": 2,
+  "description": "Number 2 Evan Shanahan. Overall rating of 78.",
+  "external_url": "https://example.com/player/586",
+  "image": "ipfs://QmaCPaiu3QmUQKCf4zff6PPQ3XQj2NGGvEXFPwwJ6LEQ8P",
+  "tier": 2,
+  "overallRating": 78,
+  "skill": {
+    "multiplier": 1,
+    "speed": 58,
+    "shooting": 72,
+    "passing": 73,
+    "dribbling": 63,
+    "defense": 74,
+    "physical": 61,
+    "goalTending": 60
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 58
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 72
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 73
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 61
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 60
+    }
+  ]
+}

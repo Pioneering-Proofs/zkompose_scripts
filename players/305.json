@@ -1,0 +1,56 @@
+{
+  "name": "Milton Hudson",
+  "jerseyNumber": 70,
+  "description": "Number 70 Milton Hudson. Overall rating of 61.",
+  "external_url": "https://example.com/player/305",
+  "image": "ipfs://QmbkzbHAeLiGZvdz2iWkdhg3ZEGaqHGFGdhL5sTu4XfaFr",
+  "tier": 3,
+  "overallRating": 61,
+  "skill": {
+    "multiplier": 1,
+    "speed": 49,
+    "shooting": 49,
+    "passing": 54,
+    "dribbling": 41,
+    "defense": 61,
+    "physical": 50,
+    "goalTending": 45
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 49
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 49
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 54
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 41
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 50
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 45
+    }
+  ]
+}

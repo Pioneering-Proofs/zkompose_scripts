@@ -1,0 +1,56 @@
+{
+  "name": "Vicki Stehr",
+  "jerseyNumber": 41,
+  "description": "Number 41 Vicki Stehr. Overall rating of 71.",
+  "external_url": "https://example.com/player/366",
+  "image": "ipfs://QmRUffrwH63dY5ofKLXaiP1YDdw1791oJuT73YRxzxYwTf",
+  "tier": 2,
+  "overallRating": 71,
+  "skill": {
+    "multiplier": 1,
+    "speed": 69,
+    "shooting": 68,
+    "passing": 62,
+    "dribbling": 58,
+    "defense": 64,
+    "physical": 62,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 69
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 62
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

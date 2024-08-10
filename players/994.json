@@ -1,0 +1,56 @@
+{
+  "name": "Joan Dicki V",
+  "jerseyNumber": 80,
+  "description": "Number 80 Joan Dicki V. Overall rating of 99.",
+  "external_url": "https://example.com/player/994",
+  "image": "ipfs://QmYAoVxaxPCckDoYJgyK7WkHuGSHPt9ipxEVoWWtf5hcp8",
+  "tier": 0,
+  "overallRating": 99,
+  "skill": {
+    "multiplier": 1,
+    "speed": 96,
+    "shooting": 87,
+    "passing": 95,
+    "dribbling": 90,
+    "defense": 85,
+    "physical": 92,
+    "goalTending": 80
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 96
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 87
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 95
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 90
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 85
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 92
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 80
+    }
+  ]
+}

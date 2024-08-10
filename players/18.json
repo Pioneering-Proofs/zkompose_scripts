@@ -1,0 +1,56 @@
+{
+  "name": "Clifford Emard",
+  "jerseyNumber": 45,
+  "description": "Number 45 Clifford Emard. Overall rating of 68.",
+  "external_url": "https://example.com/player/18",
+  "image": "ipfs://QmW7t3CSAqVroUgJ5RVrXWNyNysP3QhoFUKrubP2SmHrN6",
+  "tier": 3,
+  "overallRating": 68,
+  "skill": {
+    "multiplier": 1,
+    "speed": 54,
+    "shooting": 62,
+    "passing": 50,
+    "dribbling": 65,
+    "defense": 50,
+    "physical": 64,
+    "goalTending": 55
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 54
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 62
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 50
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 50
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 55
+    }
+  ]
+}

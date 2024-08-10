@@ -1,0 +1,56 @@
+{
+  "name": "Philip Ondricka",
+  "jerseyNumber": 57,
+  "description": "Number 57 Philip Ondricka. Overall rating of 60.",
+  "external_url": "https://example.com/player/320",
+  "image": "ipfs://QmRzZdPB5SSuBcDiQ43XqPDehsPowfNsDkgfyLZzQUqhTx",
+  "tier": 3,
+  "overallRating": 60,
+  "skill": {
+    "multiplier": 1,
+    "speed": 53,
+    "shooting": 45,
+    "passing": 51,
+    "dribbling": 47,
+    "defense": 52,
+    "physical": 52,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 53
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 45
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 51
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 47
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 52
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 52
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

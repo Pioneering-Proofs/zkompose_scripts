@@ -1,0 +1,56 @@
+{
+  "name": "Garrett Gerhold",
+  "jerseyNumber": 41,
+  "description": "Number 41 Garrett Gerhold. Overall rating of 55.",
+  "external_url": "https://example.com/player/584",
+  "image": "ipfs://Qmdrx7hmbhSaTkeM2M2P35TjMoXSeZjTMwnqfmNzFaD3Pn",
+  "tier": 4,
+  "overallRating": 55,
+  "skill": {
+    "multiplier": 1,
+    "speed": 47,
+    "shooting": 51,
+    "passing": 35,
+    "dribbling": 53,
+    "defense": 54,
+    "physical": 52,
+    "goalTending": 35
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 47
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 51
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 35
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 53
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 54
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 52
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 35
+    }
+  ]
+}

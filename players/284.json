@@ -1,0 +1,56 @@
+{
+  "name": "Chris Greenholt",
+  "jerseyNumber": 88,
+  "description": "Number 88 Chris Greenholt. Overall rating of 80.",
+  "external_url": "https://example.com/player/284",
+  "image": "ipfs://QmdxK2WGVpFpThfEw8Ju4CAtBR7EkYVS93cGko9emMuEui",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 79,
+    "shooting": 75,
+    "passing": 76,
+    "dribbling": 69,
+    "defense": 68,
+    "physical": 72,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 79
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 75
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 76
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 69
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 68
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

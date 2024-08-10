@@ -1,0 +1,56 @@
+{
+  "name": "Charlene Kreiger",
+  "jerseyNumber": 7,
+  "description": "Number 7 Charlene Kreiger. Overall rating of 64.",
+  "external_url": "https://example.com/player/578",
+  "image": "ipfs://QmWFEZzuc7U13ru8qFwSSRSmiPuEF2kC4p3UPxhUpSwJK7",
+  "tier": 3,
+  "overallRating": 64,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 44,
+    "passing": 56,
+    "dribbling": 52,
+    "defense": 53,
+    "physical": 56,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 44
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 56
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 52
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 53
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 56
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Darin Rosenbaum",
+  "jerseyNumber": 96,
+  "description": "Number 96 Darin Rosenbaum. Overall rating of 76.",
+  "external_url": "https://example.com/player/549",
+  "image": "ipfs://QmVQBvDp5P8osmD7XF3MCoosSw8qtGeFrmEq9pB56WHbME",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 72,
+    "passing": 62,
+    "dribbling": 58,
+    "defense": 58,
+    "physical": 61,
+    "goalTending": 58
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 72
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 58
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 61
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 58
+    }
+  ]
+}

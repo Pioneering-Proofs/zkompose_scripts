@@ -1,0 +1,56 @@
+{
+  "name": "Dolores Fadel",
+  "jerseyNumber": 53,
+  "description": "Number 53 Dolores Fadel. Overall rating of 86.",
+  "external_url": "https://example.com/player/268",
+  "image": "ipfs://Qme2WDcE4buD87EeGZp64KEfkkCGPc1H9LnPw2ppsZ9LwH",
+  "tier": 1,
+  "overallRating": 86,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 68,
+    "passing": 81,
+    "dribbling": 86,
+    "defense": 74,
+    "physical": 77,
+    "goalTending": 80
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 81
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 86
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 77
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 80
+    }
+  ]
+}

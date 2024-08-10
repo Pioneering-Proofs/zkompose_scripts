@@ -1,0 +1,56 @@
+{
+  "name": "Armando Schimmel PhD",
+  "jerseyNumber": 61,
+  "description": "Number 61 Armando Schimmel PhD. Overall rating of 82.",
+  "external_url": "https://example.com/player/345",
+  "image": "ipfs://QmSdNoVZ7o8VNnhTUWoD8apUdqKfq3dGfkMdXbEtQoy3QZ",
+  "tier": 1,
+  "overallRating": 82,
+  "skill": {
+    "multiplier": 1,
+    "speed": 62,
+    "shooting": 78,
+    "passing": 68,
+    "dribbling": 68,
+    "defense": 71,
+    "physical": 73,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 62
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 78
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 68
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 68
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 71
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 73
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

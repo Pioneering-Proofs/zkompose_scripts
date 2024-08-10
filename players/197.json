@@ -1,0 +1,56 @@
+{
+  "name": "Evan Brakus",
+  "jerseyNumber": 86,
+  "description": "Number 86 Evan Brakus. Overall rating of 67.",
+  "external_url": "https://example.com/player/197",
+  "image": "ipfs://Qmf5attKkUQ1ZDwwGqvw3M3j1ikRcBDwvAnsRAWL8pDz9i",
+  "tier": 3,
+  "overallRating": 67,
+  "skill": {
+    "multiplier": 1,
+    "speed": 59,
+    "shooting": 65,
+    "passing": 54,
+    "dribbling": 59,
+    "defense": 63,
+    "physical": 64,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 59
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 65
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 54
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 59
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 63
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

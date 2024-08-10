@@ -1,0 +1,56 @@
+{
+  "name": "Meghan Bartoletti",
+  "jerseyNumber": 97,
+  "description": "Number 97 Meghan Bartoletti. Overall rating of 77.",
+  "external_url": "https://example.com/player/417",
+  "image": "ipfs://QmVwe8g4SA2RbrZ8hPK5NGSQ37AGad9JoYcNsbBtccieJ2",
+  "tier": 2,
+  "overallRating": 77,
+  "skill": {
+    "multiplier": 1,
+    "speed": 73,
+    "shooting": 72,
+    "passing": 59,
+    "dribbling": 73,
+    "defense": 61,
+    "physical": 62,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 73
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 72
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 59
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 62
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

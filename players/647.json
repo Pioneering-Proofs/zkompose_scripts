@@ -1,0 +1,56 @@
+{
+  "name": "Norma Dicki",
+  "jerseyNumber": 31,
+  "description": "Number 31 Norma Dicki. Overall rating of 76.",
+  "external_url": "https://example.com/player/647",
+  "image": "ipfs://QmX6yusPq3NARBCKkwxNb46AFPVXqYAv2DSho9CL878ZLH",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 65,
+    "passing": 56,
+    "dribbling": 73,
+    "defense": 75,
+    "physical": 60,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 65
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 56
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 75
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Peggy Howell",
+  "jerseyNumber": 83,
+  "description": "Number 83 Peggy Howell. Overall rating of 49.",
+  "external_url": "https://example.com/player/709",
+  "image": "ipfs://QmSAA2GoXT6hfYcyzzLRtDr9rNPpZH5gMv7tSP6MsFTF8a",
+  "tier": 4,
+  "overallRating": 49,
+  "skill": {
+    "multiplier": 1,
+    "speed": 48,
+    "shooting": 46,
+    "passing": 41,
+    "dribbling": 44,
+    "defense": 29,
+    "physical": 44,
+    "goalTending": 46
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 48
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 46
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 41
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 44
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 29
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 44
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 46
+    }
+  ]
+}

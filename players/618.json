@@ -1,0 +1,56 @@
+{
+  "name": "Tamara Romaguera",
+  "jerseyNumber": 97,
+  "description": "Number 97 Tamara Romaguera. Overall rating of 73.",
+  "external_url": "https://example.com/player/618",
+  "image": "ipfs://QmaRpgiUvSxWwmRhN7JuqbZWVPLo8i5uQ9UhPydaeCiU4m",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 53,
+    "shooting": 57,
+    "passing": 56,
+    "dribbling": 56,
+    "defense": 70,
+    "physical": 68,
+    "goalTending": 55
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 53
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 57
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 56
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 56
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 70
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 68
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 55
+    }
+  ]
+}

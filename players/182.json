@@ -1,0 +1,56 @@
+{
+  "name": "Shane Rath IV",
+  "jerseyNumber": 28,
+  "description": "Number 28 Shane Rath IV. Overall rating of 80.",
+  "external_url": "https://example.com/player/182",
+  "image": "ipfs://QmcVYHs4UNio7TF3yijtg1VtCAwx2zR7aNbDY3yEAJvABm",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 67,
+    "passing": 67,
+    "dribbling": 73,
+    "defense": 77,
+    "physical": 63,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 67
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 77
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 63
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

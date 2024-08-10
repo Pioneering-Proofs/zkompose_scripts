@@ -1,0 +1,56 @@
+{
+  "name": "Alan Pouros",
+  "jerseyNumber": 67,
+  "description": "Number 67 Alan Pouros. Overall rating of 76.",
+  "external_url": "https://example.com/player/880",
+  "image": "ipfs://QmU5nFkSauj6zFq8uB4rtVn7frUC9TqXZ56cj6uXvYY3bq",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 63,
+    "passing": 74,
+    "dribbling": 68,
+    "defense": 62,
+    "physical": 69,
+    "goalTending": 64
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 63
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 68
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 62
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 64
+    }
+  ]
+}

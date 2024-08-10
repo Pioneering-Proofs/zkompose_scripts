@@ -1,0 +1,56 @@
+{
+  "name": "Marjorie Kiehn",
+  "jerseyNumber": 7,
+  "description": "Number 7 Marjorie Kiehn. Overall rating of 79.",
+  "external_url": "https://example.com/player/509",
+  "image": "ipfs://QmQ1V9er4JVjjApeKpuCBowJbqkvnsv5b5BgCDLWAa6XNq",
+  "tier": 2,
+  "overallRating": 79,
+  "skill": {
+    "multiplier": 1,
+    "speed": 60,
+    "shooting": 75,
+    "passing": 62,
+    "dribbling": 76,
+    "defense": 68,
+    "physical": 72,
+    "goalTending": 74
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 75
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 76
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 68
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 72
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 74
+    }
+  ]
+}

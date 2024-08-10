@@ -1,0 +1,56 @@
+{
+  "name": "Miss Annie Senger IV",
+  "jerseyNumber": 10,
+  "description": "Number 10 Miss Annie Senger IV. Overall rating of 80.",
+  "external_url": "https://example.com/player/790",
+  "image": "ipfs://QmdnDkihmaxodkFLNS35cAFbHJoPhu3KL4ydLRdpKSitYZ",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 72,
+    "shooting": 63,
+    "passing": 74,
+    "dribbling": 77,
+    "defense": 62,
+    "physical": 74,
+    "goalTending": 74
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 63
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 74
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 77
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 62
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 74
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 74
+    }
+  ]
+}

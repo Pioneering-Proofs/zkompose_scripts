@@ -1,0 +1,56 @@
+{
+  "name": "Tara Hoppe",
+  "jerseyNumber": 5,
+  "description": "Number 5 Tara Hoppe. Overall rating of 81.",
+  "external_url": "https://example.com/player/814",
+  "image": "ipfs://QmY4TnQTyDFbtP58uRRkyxvVzTF5pRy4aN1mjFGcwg4F7X",
+  "tier": 1,
+  "overallRating": 81,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 77,
+    "passing": 78,
+    "dribbling": 73,
+    "defense": 71,
+    "physical": 74,
+    "goalTending": 68
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 77
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 78
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 73
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 71
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 74
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 68
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Guadalupe Gulgowski",
+  "jerseyNumber": 25,
+  "description": "Number 25 Guadalupe Gulgowski. Overall rating of 72.",
+  "external_url": "https://example.com/player/117",
+  "image": "ipfs://QmNy88F5mS3FVPAUS8saESfJ7cASjSZzgo9nBjzmdaENYV",
+  "tier": 2,
+  "overallRating": 72,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 53,
+    "passing": 58,
+    "dribbling": 58,
+    "defense": 61,
+    "physical": 57,
+    "goalTending": 68
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 53
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 68
+    }
+  ]
+}

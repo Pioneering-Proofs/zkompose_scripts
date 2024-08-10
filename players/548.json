@@ -1,0 +1,56 @@
+{
+  "name": "Elizabeth Wilderman",
+  "jerseyNumber": 8,
+  "description": "Number 8 Elizabeth Wilderman. Overall rating of 94.",
+  "external_url": "https://example.com/player/548",
+  "image": "ipfs://QmQPA8vo7bS6md6BsX9VbeUEMC66kR5Wvut2dg9C6Kq3Lk",
+  "tier": 0,
+  "overallRating": 94,
+  "skill": {
+    "multiplier": 1,
+    "speed": 77,
+    "shooting": 88,
+    "passing": 86,
+    "dribbling": 92,
+    "defense": 81,
+    "physical": 90,
+    "goalTending": 90
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 77
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 88
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 86
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 92
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 81
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 90
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 90
+    }
+  ]
+}

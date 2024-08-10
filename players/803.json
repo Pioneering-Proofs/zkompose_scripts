@@ -1,0 +1,56 @@
+{
+  "name": "Aubrey Brown",
+  "jerseyNumber": 63,
+  "description": "Number 63 Aubrey Brown. Overall rating of 73.",
+  "external_url": "https://example.com/player/803",
+  "image": "ipfs://QmXKkFQjPSczG78rC3YNERKSNzL4ZzYgxbyzhf7x2wchMi",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 68,
+    "passing": 58,
+    "dribbling": 67,
+    "defense": 55,
+    "physical": 53,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 67
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 55
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 53
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

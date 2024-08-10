@@ -1,0 +1,56 @@
+{
+  "name": "Eula Metz",
+  "jerseyNumber": 5,
+  "description": "Number 5 Eula Metz. Overall rating of 66.",
+  "external_url": "https://example.com/player/970",
+  "image": "ipfs://QmRY9V6gU6Fi2Vj9v1tmtMJrsB2nthZ8kMg8ZYt9sbgZXH",
+  "tier": 3,
+  "overallRating": 66,
+  "skill": {
+    "multiplier": 1,
+    "speed": 50,
+    "shooting": 64,
+    "passing": 51,
+    "dribbling": 61,
+    "defense": 66,
+    "physical": 64,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 51
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 61
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 66
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

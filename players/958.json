@@ -1,0 +1,56 @@
+{
+  "name": "Nora Wintheiser",
+  "jerseyNumber": 35,
+  "description": "Number 35 Nora Wintheiser. Overall rating of 68.",
+  "external_url": "https://example.com/player/958",
+  "image": "ipfs://QmRn5JzBfSC8wvCmYo4NbvZdS1rSUtydz3XjeGVyaVhKew",
+  "tier": 3,
+  "overallRating": 68,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 66,
+    "passing": 58,
+    "dribbling": 60,
+    "defense": 53,
+    "physical": 66,
+    "goalTending": 48
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 60
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 53
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 66
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 48
+    }
+  ]
+}

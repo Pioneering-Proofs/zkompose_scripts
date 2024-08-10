@@ -1,0 +1,56 @@
+{
+  "name": "Peter Raynor",
+  "jerseyNumber": 11,
+  "description": "Number 11 Peter Raynor. Overall rating of 89.",
+  "external_url": "https://example.com/player/725",
+  "image": "ipfs://QmebmVE2BvrFpKeDzGKjGr7ZMzNZad4evp53335rwy6NEZ",
+  "tier": 1,
+  "overallRating": 89,
+  "skill": {
+    "multiplier": 1,
+    "speed": 88,
+    "shooting": 84,
+    "passing": 69,
+    "dribbling": 77,
+    "defense": 80,
+    "physical": 78,
+    "goalTending": 84
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 88
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 84
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 69
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 77
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 80
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 78
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 84
+    }
+  ]
+}

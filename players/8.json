@@ -1,0 +1,56 @@
+{
+  "name": "Bruce Koch",
+  "jerseyNumber": 49,
+  "description": "Number 49 Bruce Koch. Overall rating of 80.",
+  "external_url": "https://example.com/player/8",
+  "image": "ipfs://QmbxscHe6vzYk9LKiLirjd8pmASWLeemp1QLFFutS1rx5K",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 77,
+    "shooting": 69,
+    "passing": 71,
+    "dribbling": 68,
+    "defense": 64,
+    "physical": 60,
+    "goalTending": 76
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 77
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 69
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 71
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 68
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 60
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 76
+    }
+  ]
+}

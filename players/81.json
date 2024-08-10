@@ -1,0 +1,56 @@
+{
+  "name": "Sarah Mann-Farrell",
+  "jerseyNumber": 62,
+  "description": "Number 62 Sarah Mann-Farrell. Overall rating of 82.",
+  "external_url": "https://example.com/player/81",
+  "image": "ipfs://QmWbww4x2qYsFquyMRryjpWvYiaavst9WxZsoCF6pgLDE4",
+  "tier": 1,
+  "overallRating": 82,
+  "skill": {
+    "multiplier": 1,
+    "speed": 76,
+    "shooting": 80,
+    "passing": 72,
+    "dribbling": 81,
+    "defense": 70,
+    "physical": 77,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 76
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 80
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 81
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 70
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 77
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

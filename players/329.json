@@ -1,0 +1,56 @@
+{
+  "name": "Elena McCullough",
+  "jerseyNumber": 5,
+  "description": "Number 5 Elena McCullough. Overall rating of 86.",
+  "external_url": "https://example.com/player/329",
+  "image": "ipfs://QmcjgyryRqDkjvFgwiW4w4b6aQvNxmjcUKgvPsbQ3qUi4s",
+  "tier": 1,
+  "overallRating": 86,
+  "skill": {
+    "multiplier": 1,
+    "speed": 66,
+    "shooting": 74,
+    "passing": 83,
+    "dribbling": 76,
+    "defense": 69,
+    "physical": 78,
+    "goalTending": 66
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 74
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 83
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 76
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 69
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 78
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 66
+    }
+  ]
+}

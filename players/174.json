@@ -1,0 +1,56 @@
+{
+  "name": "Conrad Powlowski",
+  "jerseyNumber": 38,
+  "description": "Number 38 Conrad Powlowski. Overall rating of 72.",
+  "external_url": "https://example.com/player/174",
+  "image": "ipfs://QmaLgXi9zackzV4JVd7fs95p47dSM3HDEpHCk8Mn4xqcAo",
+  "tier": 2,
+  "overallRating": 72,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 70,
+    "passing": 65,
+    "dribbling": 63,
+    "defense": 66,
+    "physical": 59,
+    "goalTending": 54
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 70
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 65
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 66
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 59
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 54
+    }
+  ]
+}

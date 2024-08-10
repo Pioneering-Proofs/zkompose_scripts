@@ -1,0 +1,56 @@
+{
+  "name": "Lynne Terry",
+  "jerseyNumber": 57,
+  "description": "Number 57 Lynne Terry. Overall rating of 96.",
+  "external_url": "https://example.com/player/688",
+  "image": "ipfs://QmRC4TZamrRjaidSRMqhbDfNsxBAVn8br54Zou2u9hPUCH",
+  "tier": 0,
+  "overallRating": 96,
+  "skill": {
+    "multiplier": 1,
+    "speed": 96,
+    "shooting": 91,
+    "passing": 79,
+    "dribbling": 91,
+    "defense": 83,
+    "physical": 95,
+    "goalTending": 78
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 96
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 91
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 79
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 91
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 83
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 95
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 78
+    }
+  ]
+}

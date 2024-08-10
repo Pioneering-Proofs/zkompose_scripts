@@ -1,0 +1,56 @@
+{
+  "name": "Mr. Kyle Glover",
+  "jerseyNumber": 42,
+  "description": "Number 42 Mr. Kyle Glover. Overall rating of 63.",
+  "external_url": "https://example.com/player/173",
+  "image": "ipfs://QmNVcL6dUYh912HKgHtf1LaqofAS134p5qaLHC1yEY5pW6",
+  "tier": 3,
+  "overallRating": 63,
+  "skill": {
+    "multiplier": 1,
+    "speed": 60,
+    "shooting": 47,
+    "passing": 56,
+    "dribbling": 62,
+    "defense": 59,
+    "physical": 47,
+    "goalTending": 61
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 47
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 56
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 62
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 59
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 47
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 61
+    }
+  ]
+}

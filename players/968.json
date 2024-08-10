@@ -1,0 +1,56 @@
+{
+  "name": "Mr. Bob Goldner",
+  "jerseyNumber": 22,
+  "description": "Number 22 Mr. Bob Goldner. Overall rating of 76.",
+  "external_url": "https://example.com/player/968",
+  "image": "ipfs://QmQ15LXCXjxU2sm1GTyymsN2i5ytHa7HEqYqMu7XD54vkg",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 67,
+    "shooting": 67,
+    "passing": 59,
+    "dribbling": 64,
+    "defense": 74,
+    "physical": 58,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 67
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 59
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 64
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 58
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

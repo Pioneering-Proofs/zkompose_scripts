@@ -1,0 +1,56 @@
+{
+  "name": "Ramon Buckridge DDS",
+  "jerseyNumber": 60,
+  "description": "Number 60 Ramon Buckridge DDS. Overall rating of 73.",
+  "external_url": "https://example.com/player/129",
+  "image": "ipfs://QmQ2BZqk2dJe6uB33JzntVF1umcYxfnhE9Z33ByCtD9pqM",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 56,
+    "shooting": 55,
+    "passing": 63,
+    "dribbling": 63,
+    "defense": 63,
+    "physical": 69,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 56
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 63
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 63
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

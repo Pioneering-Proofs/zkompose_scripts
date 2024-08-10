@@ -1,0 +1,56 @@
+{
+  "name": "Theresa Barton-Sawayn",
+  "jerseyNumber": 97,
+  "description": "Number 97 Theresa Barton-Sawayn. Overall rating of 60.",
+  "external_url": "https://example.com/player/269",
+  "image": "ipfs://QmQUyQRoZX2iy3U1EkNG5frnTdEMGnt8jbjtvLC5ZLCrtt",
+  "tier": 3,
+  "overallRating": 60,
+  "skill": {
+    "multiplier": 1,
+    "speed": 58,
+    "shooting": 48,
+    "passing": 47,
+    "dribbling": 50,
+    "defense": 44,
+    "physical": 58,
+    "goalTending": 40
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 58
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 48
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 47
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 50
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 44
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 58
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 40
+    }
+  ]
+}

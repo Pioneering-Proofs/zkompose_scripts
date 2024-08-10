@@ -1,0 +1,56 @@
+{
+  "name": "Geneva Collier",
+  "jerseyNumber": 5,
+  "description": "Number 5 Geneva Collier. Overall rating of 60.",
+  "external_url": "https://example.com/player/674",
+  "image": "ipfs://QmSiqTM3mtwQxhSqR8Rk7XmNTK6pCMntwwkuykckygf16L",
+  "tier": 3,
+  "overallRating": 60,
+  "skill": {
+    "multiplier": 1,
+    "speed": 43,
+    "shooting": 59,
+    "passing": 55,
+    "dribbling": 56,
+    "defense": 54,
+    "physical": 56,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 43
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 59
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 55
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 56
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 54
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 56
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

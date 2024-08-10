@@ -1,0 +1,56 @@
+{
+  "name": "Walter Marvin",
+  "jerseyNumber": 85,
+  "description": "Number 85 Walter Marvin. Overall rating of 77.",
+  "external_url": "https://example.com/player/889",
+  "image": "ipfs://QmWav9MxTCcJrUJGcprN3WBdYRXGaHi7ciQmqMTKx57KPb",
+  "tier": 2,
+  "overallRating": 77,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 73,
+    "passing": 60,
+    "dribbling": 61,
+    "defense": 61,
+    "physical": 75,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 73
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 60
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 61
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 75
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

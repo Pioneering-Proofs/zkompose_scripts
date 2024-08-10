@@ -1,0 +1,56 @@
+{
+  "name": "Edmond Waters",
+  "jerseyNumber": 97,
+  "description": "Number 97 Edmond Waters. Overall rating of 69.",
+  "external_url": "https://example.com/player/931",
+  "image": "ipfs://QmdKpFkqs2tbqDSVB5mpXGq2H1btvtp7orcHeQ2eWM8Mp4",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 57,
+    "shooting": 51,
+    "passing": 51,
+    "dribbling": 49,
+    "defense": 61,
+    "physical": 65,
+    "goalTending": 53
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 57
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 51
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 51
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 49
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 53
+    }
+  ]
+}

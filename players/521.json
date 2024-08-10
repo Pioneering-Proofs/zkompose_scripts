@@ -1,0 +1,56 @@
+{
+  "name": "Dr. Marcos Rau-White",
+  "jerseyNumber": 99,
+  "description": "Number 99 Dr. Marcos Rau-White. Overall rating of 63.",
+  "external_url": "https://example.com/player/521",
+  "image": "ipfs://QmYWSM75DL7vM4qCf2F9iVVZ7xRprhtcJngda2QBuuHebD",
+  "tier": 3,
+  "overallRating": 63,
+  "skill": {
+    "multiplier": 1,
+    "speed": 47,
+    "shooting": 63,
+    "passing": 58,
+    "dribbling": 51,
+    "defense": 61,
+    "physical": 58,
+    "goalTending": 53
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 47
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 63
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 58
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 51
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 58
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 53
+    }
+  ]
+}

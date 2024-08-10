@@ -1,0 +1,56 @@
+{
+  "name": "Howard Borer",
+  "jerseyNumber": 74,
+  "description": "Number 74 Howard Borer. Overall rating of 75.",
+  "external_url": "https://example.com/player/26",
+  "image": "ipfs://QmPMn1b5qihth7BgGrM5anNX7kPokwVdcsGTYKj9vVETRt",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 68,
+    "passing": 72,
+    "dribbling": 70,
+    "defense": 58,
+    "physical": 55,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 68
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 70
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 58
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 55
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Lillie Marvin",
+  "jerseyNumber": 84,
+  "description": "Number 84 Lillie Marvin. Overall rating of 65.",
+  "external_url": "https://example.com/player/16",
+  "image": "ipfs://QmeVW4w35DdaDZGFT7gkLVSm5g8capDuMaCYjwKttX8CG2",
+  "tier": 3,
+  "overallRating": 65,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 64,
+    "passing": 55,
+    "dribbling": 46,
+    "defense": 45,
+    "physical": 46,
+    "goalTending": 49
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 55
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 46
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 45
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 46
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 49
+    }
+  ]
+}

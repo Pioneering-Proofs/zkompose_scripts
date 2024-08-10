@@ -1,0 +1,56 @@
+{
+  "name": "Kate Dickens",
+  "jerseyNumber": 96,
+  "description": "Number 96 Kate Dickens. Overall rating of 66.",
+  "external_url": "https://example.com/player/261",
+  "image": "ipfs://QmPv38p548Fhi5L3EVKd4m4g1taA7kHQoUi4ccBQCKAQ1C",
+  "tier": 3,
+  "overallRating": 66,
+  "skill": {
+    "multiplier": 1,
+    "speed": 47,
+    "shooting": 62,
+    "passing": 61,
+    "dribbling": 50,
+    "defense": 47,
+    "physical": 48,
+    "goalTending": 52
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 47
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 62
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 61
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 50
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 47
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 48
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 52
+    }
+  ]
+}

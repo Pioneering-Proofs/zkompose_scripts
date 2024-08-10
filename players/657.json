@@ -1,0 +1,56 @@
+{
+  "name": "Erik Hoeger",
+  "jerseyNumber": 66,
+  "description": "Number 66 Erik Hoeger. Overall rating of 67.",
+  "external_url": "https://example.com/player/657",
+  "image": "ipfs://QmWGJHmbpHV57JqXzcm6JZpUqKoVCaLRB3WWjHHiWHFBhV",
+  "tier": 3,
+  "overallRating": 67,
+  "skill": {
+    "multiplier": 1,
+    "speed": 63,
+    "shooting": 64,
+    "passing": 60,
+    "dribbling": 48,
+    "defense": 57,
+    "physical": 50,
+    "goalTending": 56
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 63
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 64
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 60
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 48
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 57
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 50
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 56
+    }
+  ]
+}

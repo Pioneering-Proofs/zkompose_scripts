@@ -1,0 +1,56 @@
+{
+  "name": "Wilma Johnson",
+  "jerseyNumber": 80,
+  "description": "Number 80 Wilma Johnson. Overall rating of 94.",
+  "external_url": "https://example.com/player/607",
+  "image": "ipfs://QmRnBR72NNzajWaVqzDLMeZHi7Ewv5hMzLTBBKA5cFHWqg",
+  "tier": 0,
+  "overallRating": 94,
+  "skill": {
+    "multiplier": 1,
+    "speed": 75,
+    "shooting": 84,
+    "passing": 76,
+    "dribbling": 88,
+    "defense": 85,
+    "physical": 92,
+    "goalTending": 80
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 75
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 84
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 76
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 88
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 85
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 92
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 80
+    }
+  ]
+}

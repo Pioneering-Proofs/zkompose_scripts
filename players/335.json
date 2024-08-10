@@ -1,0 +1,56 @@
+{
+  "name": "Derek Glover",
+  "jerseyNumber": 10,
+  "description": "Number 10 Derek Glover. Overall rating of 93.",
+  "external_url": "https://example.com/player/335",
+  "image": "ipfs://Qmf1T7DLa5CW7ywE8oXBD6h7gfPmi2Uispd7y9SJNWNfK4",
+  "tier": 0,
+  "overallRating": 93,
+  "skill": {
+    "multiplier": 1,
+    "speed": 85,
+    "shooting": 82,
+    "passing": 91,
+    "dribbling": 76,
+    "defense": 83,
+    "physical": 80,
+    "goalTending": 78
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 85
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 82
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 91
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 76
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 83
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 80
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 78
+    }
+  ]
+}

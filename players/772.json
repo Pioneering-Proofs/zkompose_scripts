@@ -1,0 +1,56 @@
+{
+  "name": "Bridget Gleason",
+  "jerseyNumber": 19,
+  "description": "Number 19 Bridget Gleason. Overall rating of 91.",
+  "external_url": "https://example.com/player/772",
+  "image": "ipfs://QmRSoWJvxWfyZfC6AvW5X26v2L8VvSsKC92vbrUGHxfwej",
+  "tier": 0,
+  "overallRating": 91,
+  "skill": {
+    "multiplier": 1,
+    "speed": 74,
+    "shooting": 75,
+    "passing": 72,
+    "dribbling": 72,
+    "defense": 78,
+    "physical": 91,
+    "goalTending": 82
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 74
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 75
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 72
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 78
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 91
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 82
+    }
+  ]
+}

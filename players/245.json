@@ -1,0 +1,56 @@
+{
+  "name": "Miss Laurie Rippin",
+  "jerseyNumber": 99,
+  "description": "Number 99 Miss Laurie Rippin. Overall rating of 53.",
+  "external_url": "https://example.com/player/245",
+  "image": "ipfs://QmaVToE182vDAPBMECsagaJAayvj3gLXW93SSKbvZ8A55M",
+  "tier": 4,
+  "overallRating": 53,
+  "skill": {
+    "multiplier": 1,
+    "speed": 52,
+    "shooting": 40,
+    "passing": 41,
+    "dribbling": 33,
+    "defense": 37,
+    "physical": 47,
+    "goalTending": 33
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 52
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 40
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 41
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 33
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 37
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 47
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 33
+    }
+  ]
+}

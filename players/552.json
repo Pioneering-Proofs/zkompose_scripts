@@ -1,0 +1,56 @@
+{
+  "name": "Guadalupe Turcotte",
+  "jerseyNumber": 49,
+  "description": "Number 49 Guadalupe Turcotte. Overall rating of 57.",
+  "external_url": "https://example.com/player/552",
+  "image": "ipfs://QmNYZt6zTbPAKnrqvRE8vFFTGRMsypVrBpjAbLcJuNkCRD",
+  "tier": 4,
+  "overallRating": 57,
+  "skill": {
+    "multiplier": 1,
+    "speed": 38,
+    "shooting": 45,
+    "passing": 55,
+    "dribbling": 55,
+    "defense": 54,
+    "physical": 45,
+    "goalTending": 56
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 38
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 45
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 55
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 55
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 54
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 45
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 56
+    }
+  ]
+}

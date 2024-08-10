@@ -1,0 +1,56 @@
+{
+  "name": "Toby Ebert",
+  "jerseyNumber": 1,
+  "description": "Number 1 Toby Ebert. Overall rating of 54.",
+  "external_url": "https://example.com/player/593",
+  "image": "ipfs://QmYBw7Vn7kv2oUpq2xKV35a5U6CptS6fd3KTSS2HzdJUQs",
+  "tier": 4,
+  "overallRating": 54,
+  "skill": {
+    "multiplier": 1,
+    "speed": 44,
+    "shooting": 52,
+    "passing": 54,
+    "dribbling": 38,
+    "defense": 49,
+    "physical": 52,
+    "goalTending": 45
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 44
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 52
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 54
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 38
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 49
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 52
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 45
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Emmett King-Boyle",
+  "jerseyNumber": 19,
+  "description": "Number 19 Emmett King-Boyle. Overall rating of 84.",
+  "external_url": "https://example.com/player/550",
+  "image": "ipfs://Qmb6B8vbNiKeXjQ5zD2tKe5WKq4fTgev7wgTXjSr44qJf9",
+  "tier": 1,
+  "overallRating": 84,
+  "skill": {
+    "multiplier": 1,
+    "speed": 80,
+    "shooting": 78,
+    "passing": 65,
+    "dribbling": 83,
+    "defense": 72,
+    "physical": 66,
+    "goalTending": 72
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 80
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 78
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 65
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 83
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 72
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 66
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 72
+    }
+  ]
+}

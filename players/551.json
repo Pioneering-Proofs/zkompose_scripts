@@ -1,0 +1,56 @@
+{
+  "name": "Melvin Hammes",
+  "jerseyNumber": 77,
+  "description": "Number 77 Melvin Hammes. Overall rating of 64.",
+  "external_url": "https://example.com/player/551",
+  "image": "ipfs://Qmc6yFw3H9ehA18hz1QwM4Ta9B45TwmTpQZZYJtpMPJkoB",
+  "tier": 3,
+  "overallRating": 64,
+  "skill": {
+    "multiplier": 1,
+    "speed": 56,
+    "shooting": 58,
+    "passing": 60,
+    "dribbling": 47,
+    "defense": 54,
+    "physical": 63,
+    "goalTending": 55
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 56
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 58
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 60
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 47
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 54
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 63
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 55
+    }
+  ]
+}

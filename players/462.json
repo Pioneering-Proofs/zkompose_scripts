@@ -1,0 +1,56 @@
+{
+  "name": "Angelica Ondricka",
+  "jerseyNumber": 8,
+  "description": "Number 8 Angelica Ondricka. Overall rating of 73.",
+  "external_url": "https://example.com/player/462",
+  "image": "ipfs://QmaVrEiiUAo16zcdkAYqTox6hbN4wWe7ddfmH1AeyQs2My",
+  "tier": 2,
+  "overallRating": 73,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 55,
+    "passing": 60,
+    "dribbling": 62,
+    "defense": 60,
+    "physical": 69,
+    "goalTending": 55
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 60
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 62
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 60
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 55
+    }
+  ]
+}

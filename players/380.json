@@ -1,0 +1,56 @@
+{
+  "name": "Janie Fritsch",
+  "jerseyNumber": 84,
+  "description": "Number 84 Janie Fritsch. Overall rating of 87.",
+  "external_url": "https://example.com/player/380",
+  "image": "ipfs://QmNzhCnZK1s3wdKVbpzRYZrt91DP5vdHnSmqKfpF4ez8Xk",
+  "tier": 1,
+  "overallRating": 87,
+  "skill": {
+    "multiplier": 1,
+    "speed": 67,
+    "shooting": 69,
+    "passing": 75,
+    "dribbling": 71,
+    "defense": 72,
+    "physical": 85,
+    "goalTending": 78
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 69
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 75
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 71
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 72
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 85
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 78
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Eunice Cummings",
+  "jerseyNumber": 19,
+  "description": "Number 19 Eunice Cummings. Overall rating of 86.",
+  "external_url": "https://example.com/player/166",
+  "image": "ipfs://Qma7afcPazgkZ4U8pwR93cK3TU8Kpy1mJrmqbjLgaG6A2R",
+  "tier": 1,
+  "overallRating": 86,
+  "skill": {
+    "multiplier": 1,
+    "speed": 82,
+    "shooting": 69,
+    "passing": 75,
+    "dribbling": 75,
+    "defense": 74,
+    "physical": 69,
+    "goalTending": 71
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 82
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 69
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 75
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 75
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 69
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 71
+    }
+  ]
+}

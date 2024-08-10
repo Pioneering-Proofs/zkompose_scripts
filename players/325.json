@@ -1,0 +1,56 @@
+{
+  "name": "Merle Feeney",
+  "jerseyNumber": 12,
+  "description": "Number 12 Merle Feeney. Overall rating of 83.",
+  "external_url": "https://example.com/player/325",
+  "image": "ipfs://QmUtAo7NtJ8GRe9aZuUn77qdpdQNTvgovapXpLoLKf1YEL",
+  "tier": 1,
+  "overallRating": 83,
+  "skill": {
+    "multiplier": 1,
+    "speed": 68,
+    "shooting": 77,
+    "passing": 80,
+    "dribbling": 75,
+    "defense": 83,
+    "physical": 76,
+    "goalTending": 70
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 77
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 80
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 75
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 83
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 76
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 70
+    }
+  ]
+}

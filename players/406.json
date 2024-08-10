@@ -1,0 +1,56 @@
+{
+  "name": "Roger Rath",
+  "jerseyNumber": 49,
+  "description": "Number 49 Roger Rath. Overall rating of 80.",
+  "external_url": "https://example.com/player/406",
+  "image": "ipfs://QmauVNxDk3btvK9jRQ1PThTMtn2b9n9VCcb86EdksCWLp5",
+  "tier": 1,
+  "overallRating": 80,
+  "skill": {
+    "multiplier": 1,
+    "speed": 70,
+    "shooting": 74,
+    "passing": 76,
+    "dribbling": 67,
+    "defense": 61,
+    "physical": 61,
+    "goalTending": 60
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 70
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 74
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 76
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 67
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 61
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 61
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 60
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Mildred Schroeder",
+  "jerseyNumber": 25,
+  "description": "Number 25 Mildred Schroeder. Overall rating of 69.",
+  "external_url": "https://example.com/player/184",
+  "image": "ipfs://QmZUGDPaMWZdfrgrNx6gddRWMjc1rYgjwsLYujBCg3hDNB",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 57,
+    "shooting": 59,
+    "passing": 50,
+    "dribbling": 54,
+    "defense": 66,
+    "physical": 65,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 57
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 59
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 50
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 54
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 66
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

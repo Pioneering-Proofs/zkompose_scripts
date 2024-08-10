@@ -1,0 +1,19 @@
+{
+  "name": "seed_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.2.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "crypto": "^1.0.1",
+    "ipfs-only-hash": "^4.0.0"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Steven Flatley",
+  "jerseyNumber": 56,
+  "description": "Number 56 Steven Flatley. Overall rating of 56.",
+  "external_url": "https://example.com/player/10",
+  "image": "ipfs://QmciVXvDXtixw4jJF2FiFuVF9sx7Ba78rstcRaqzewVUMd",
+  "tier": 4,
+  "overallRating": 56,
+  "skill": {
+    "multiplier": 1,
+    "speed": 46,
+    "shooting": 41,
+    "passing": 46,
+    "dribbling": 43,
+    "defense": 37,
+    "physical": 54,
+    "goalTending": 42
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 46
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 41
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 46
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 43
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 37
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 54
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 42
+    }
+  ]
+}

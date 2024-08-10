@@ -1,0 +1,56 @@
+{
+  "name": "Christopher Hartmann",
+  "jerseyNumber": 57,
+  "description": "Number 57 Christopher Hartmann. Overall rating of 78.",
+  "external_url": "https://example.com/player/913",
+  "image": "ipfs://QmRwnLuHvaM9USmmeKadTYeYosdtzFLpuM6yCKkJyRqzB7",
+  "tier": 2,
+  "overallRating": 78,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 70,
+    "passing": 62,
+    "dribbling": 75,
+    "defense": 64,
+    "physical": 75,
+    "goalTending": 66
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 70
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 62
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 75
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 75
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 66
+    }
+  ]
+}

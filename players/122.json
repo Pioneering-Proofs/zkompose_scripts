@@ -1,0 +1,56 @@
+{
+  "name": "Ken Waelchi",
+  "jerseyNumber": 74,
+  "description": "Number 74 Ken Waelchi. Overall rating of 63.",
+  "external_url": "https://example.com/player/122",
+  "image": "ipfs://QmRjA7BnpnuZcXA7smyS3eAuKERcWDtb1AmBDvEgEsVgZ9",
+  "tier": 3,
+  "overallRating": 63,
+  "skill": {
+    "multiplier": 1,
+    "speed": 45,
+    "shooting": 45,
+    "passing": 63,
+    "dribbling": 47,
+    "defense": 56,
+    "physical": 57,
+    "goalTending": 60
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 45
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 45
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 63
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 47
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 56
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 60
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Antonia Brakus MD",
+  "jerseyNumber": 87,
+  "description": "Number 87 Antonia Brakus MD. Overall rating of 82.",
+  "external_url": "https://example.com/player/77",
+  "image": "ipfs://QmX8BCKoGm4zKKGTgregqeCjvWZ9qenDxm5zbNPPrgZW5d",
+  "tier": 1,
+  "overallRating": 82,
+  "skill": {
+    "multiplier": 1,
+    "speed": 73,
+    "shooting": 82,
+    "passing": 65,
+    "dribbling": 79,
+    "defense": 69,
+    "physical": 79,
+    "goalTending": 69
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 73
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 82
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 65
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 79
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 69
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 79
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 69
+    }
+  ]
+}

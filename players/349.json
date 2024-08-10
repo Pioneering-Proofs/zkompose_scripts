@@ -1,0 +1,56 @@
+{
+  "name": "Charlene Osinski Jr.",
+  "jerseyNumber": 36,
+  "description": "Number 36 Charlene Osinski Jr.. Overall rating of 76.",
+  "external_url": "https://example.com/player/349",
+  "image": "ipfs://QmSzngvbYCJXrMCK4NCcGHmuH4x8THuLXxGiQQ2xLyeFQe",
+  "tier": 2,
+  "overallRating": 76,
+  "skill": {
+    "multiplier": 1,
+    "speed": 69,
+    "shooting": 63,
+    "passing": 57,
+    "dribbling": 63,
+    "defense": 72,
+    "physical": 70,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 69
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 63
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 57
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 63
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 72
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 70
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

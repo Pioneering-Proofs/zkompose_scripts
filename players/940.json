@@ -1,0 +1,56 @@
+{
+  "name": "Gustavo Cummerata",
+  "jerseyNumber": 93,
+  "description": "Number 93 Gustavo Cummerata. Overall rating of 67.",
+  "external_url": "https://example.com/player/940",
+  "image": "ipfs://QmTh45x8ADhnv1V9NbnehM4isCFoHk5iWA7T4ygujgiYxT",
+  "tier": 3,
+  "overallRating": 67,
+  "skill": {
+    "multiplier": 1,
+    "speed": 55,
+    "shooting": 60,
+    "passing": 54,
+    "dribbling": 48,
+    "defense": 57,
+    "physical": 65,
+    "goalTending": 50
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 55
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 60
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 54
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 48
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 57
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 65
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 50
+    }
+  ]
+}

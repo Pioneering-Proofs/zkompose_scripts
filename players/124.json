@@ -1,0 +1,56 @@
+{
+  "name": "Abraham Gutmann",
+  "jerseyNumber": 10,
+  "description": "Number 10 Abraham Gutmann. Overall rating of 86.",
+  "external_url": "https://example.com/player/124",
+  "image": "ipfs://QmT7ZuqgZkTknrTTR5fYHE43TXfu8cruDbeUY3KwfmApvr",
+  "tier": 1,
+  "overallRating": 86,
+  "skill": {
+    "multiplier": 1,
+    "speed": 79,
+    "shooting": 82,
+    "passing": 79,
+    "dribbling": 83,
+    "defense": 86,
+    "physical": 67,
+    "goalTending": 66
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 79
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 82
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 79
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 83
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 86
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 67
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 66
+    }
+  ]
+}

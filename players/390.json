@@ -1,0 +1,56 @@
+{
+  "name": "Erick Hammes",
+  "jerseyNumber": 20,
+  "description": "Number 20 Erick Hammes. Overall rating of 77.",
+  "external_url": "https://example.com/player/390",
+  "image": "ipfs://QmR65MBLL6LzJvYi5c3pzmLiVC3pzXY4XC6vY3J98ncni6",
+  "tier": 2,
+  "overallRating": 77,
+  "skill": {
+    "multiplier": 1,
+    "speed": 63,
+    "shooting": 66,
+    "passing": 70,
+    "dribbling": 74,
+    "defense": 68,
+    "physical": 67,
+    "goalTending": 67
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 63
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 66
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 70
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 74
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 68
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 67
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 67
+    }
+  ]
+}

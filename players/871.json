@@ -1,0 +1,56 @@
+{
+  "name": "Willis Jast III",
+  "jerseyNumber": 80,
+  "description": "Number 80 Willis Jast III. Overall rating of 68.",
+  "external_url": "https://example.com/player/871",
+  "image": "ipfs://QmQToZyQtdagFGThAHsnrAAXcrVwefTNjKfb2g615XzEs7",
+  "tier": 3,
+  "overallRating": 68,
+  "skill": {
+    "multiplier": 1,
+    "speed": 65,
+    "shooting": 65,
+    "passing": 57,
+    "dribbling": 58,
+    "defense": 64,
+    "physical": 49,
+    "goalTending": 59
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 65
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 57
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 58
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 49
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 59
+    }
+  ]
+}

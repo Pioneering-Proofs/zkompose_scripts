@@ -1,0 +1,56 @@
+{
+  "name": "Nicole Wisozk",
+  "jerseyNumber": 15,
+  "description": "Number 15 Nicole Wisozk. Overall rating of 59.",
+  "external_url": "https://example.com/player/613",
+  "image": "ipfs://QmceGVj3nz78v3iFyyuLSmjahY4Rs3ZnrZDDEc2T81yc4f",
+  "tier": 4,
+  "overallRating": 59,
+  "skill": {
+    "multiplier": 1,
+    "speed": 55,
+    "shooting": 46,
+    "passing": 54,
+    "dribbling": 54,
+    "defense": 49,
+    "physical": 55,
+    "goalTending": 58
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 55
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 46
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 54
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 54
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 49
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 55
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 58
+    }
+  ]
+}

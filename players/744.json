@@ -1,0 +1,56 @@
+{
+  "name": "Lucas Miller MD",
+  "jerseyNumber": 36,
+  "description": "Number 36 Lucas Miller MD. Overall rating of 74.",
+  "external_url": "https://example.com/player/744",
+  "image": "ipfs://QmUdueeqZMfghcS4VFMxBRMguR5knTyjr8a1d4YEQHLmth",
+  "tier": 2,
+  "overallRating": 74,
+  "skill": {
+    "multiplier": 1,
+    "speed": 69,
+    "shooting": 55,
+    "passing": 59,
+    "dribbling": 71,
+    "defense": 74,
+    "physical": 56,
+    "goalTending": 60
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 69
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 55
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 59
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 71
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 74
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 56
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 60
+    }
+  ]
+}

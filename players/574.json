@@ -1,0 +1,56 @@
+{
+  "name": "Ms. Shirley Wolff",
+  "jerseyNumber": 44,
+  "description": "Number 44 Ms. Shirley Wolff. Overall rating of 63.",
+  "external_url": "https://example.com/player/574",
+  "image": "ipfs://Qmaea29K5KWELfQoXbXSuakiqAxLSHfL2zde1vG63aCQe9",
+  "tier": 3,
+  "overallRating": 63,
+  "skill": {
+    "multiplier": 1,
+    "speed": 44,
+    "shooting": 52,
+    "passing": 46,
+    "dribbling": 62,
+    "defense": 50,
+    "physical": 61,
+    "goalTending": 63
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 44
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 52
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 46
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 62
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 50
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 61
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 63
+    }
+  ]
+}

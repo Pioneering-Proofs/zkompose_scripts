@@ -1,0 +1,56 @@
+{
+  "name": "Diane Rutherford",
+  "jerseyNumber": 88,
+  "description": "Number 88 Diane Rutherford. Overall rating of 82.",
+  "external_url": "https://example.com/player/652",
+  "image": "ipfs://QmNh2hCPfcFaKJeerVkE29Q9jhQkSDaKkw1PVaY7N5wcAG",
+  "tier": 1,
+  "overallRating": 82,
+  "skill": {
+    "multiplier": 1,
+    "speed": 71,
+    "shooting": 71,
+    "passing": 80,
+    "dribbling": 65,
+    "defense": 62,
+    "physical": 64,
+    "goalTending": 80
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 71
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 71
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 80
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 65
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 62
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 80
+    }
+  ]
+}

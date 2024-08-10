@@ -1,0 +1,56 @@
+{
+  "name": "Herbert Nienow",
+  "jerseyNumber": 30,
+  "description": "Number 30 Herbert Nienow. Overall rating of 68.",
+  "external_url": "https://example.com/player/907",
+  "image": "ipfs://QmacfpdxNZUZWMpKdLuCK6ize9nkomfWNokQPtLKpfb9x7",
+  "tier": 3,
+  "overallRating": 68,
+  "skill": {
+    "multiplier": 1,
+    "speed": 58,
+    "shooting": 52,
+    "passing": 48,
+    "dribbling": 53,
+    "defense": 65,
+    "physical": 57,
+    "goalTending": 62
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 58
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 52
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 48
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 53
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 65
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 57
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 62
+    }
+  ]
+}

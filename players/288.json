@@ -1,0 +1,56 @@
+{
+  "name": "Christine Gerlach",
+  "jerseyNumber": 75,
+  "description": "Number 75 Christine Gerlach. Overall rating of 87.",
+  "external_url": "https://example.com/player/288",
+  "image": "ipfs://QmPgWH9bHMGnoX9MQtUbr6F5ssNXGyEbtNDrd5anS9SZfB",
+  "tier": 1,
+  "overallRating": 87,
+  "skill": {
+    "multiplier": 1,
+    "speed": 84,
+    "shooting": 74,
+    "passing": 77,
+    "dribbling": 78,
+    "defense": 85,
+    "physical": 82,
+    "goalTending": 68
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 84
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 74
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 77
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 78
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 85
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 82
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 68
+    }
+  ]
+}

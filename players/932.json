@@ -1,0 +1,56 @@
+{
+  "name": "Sabrina Franey",
+  "jerseyNumber": 8,
+  "description": "Number 8 Sabrina Franey. Overall rating of 62.",
+  "external_url": "https://example.com/player/932",
+  "image": "ipfs://QmW9Htj3tbpL1Q4iR1rqcQm5camUiBtKkVtd6Q4G5fwzQA",
+  "tier": 3,
+  "overallRating": 62,
+  "skill": {
+    "multiplier": 1,
+    "speed": 61,
+    "shooting": 59,
+    "passing": 61,
+    "dribbling": 45,
+    "defense": 51,
+    "physical": 42,
+    "goalTending": 57
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 61
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 59
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 61
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 45
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 51
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 42
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 57
+    }
+  ]
+}

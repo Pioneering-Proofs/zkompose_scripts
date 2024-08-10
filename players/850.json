@@ -1,0 +1,56 @@
+{
+  "name": "Jim Ledner DVM",
+  "jerseyNumber": 49,
+  "description": "Number 49 Jim Ledner DVM. Overall rating of 75.",
+  "external_url": "https://example.com/player/850",
+  "image": "ipfs://QmRQnvHg45eim35XACCBm6o4epwA3Rc6az31GsFzs7jySu",
+  "tier": 2,
+  "overallRating": 75,
+  "skill": {
+    "multiplier": 1,
+    "speed": 70,
+    "shooting": 72,
+    "passing": 72,
+    "dribbling": 62,
+    "defense": 58,
+    "physical": 64,
+    "goalTending": 62
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 70
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 72
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 72
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 62
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 58
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 64
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 62
+    }
+  ]
+}

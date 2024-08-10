@@ -1,0 +1,56 @@
+{
+  "name": "Mr. Gordon Zemlak",
+  "jerseyNumber": 96,
+  "description": "Number 96 Mr. Gordon Zemlak. Overall rating of 56.",
+  "external_url": "https://example.com/player/155",
+  "image": "ipfs://QmWUiZTntKUw9h4BgEYMW9UDrz2sR8sUfj6KeeUAyhXkND",
+  "tier": 4,
+  "overallRating": 56,
+  "skill": {
+    "multiplier": 1,
+    "speed": 50,
+    "shooting": 56,
+    "passing": 52,
+    "dribbling": 41,
+    "defense": 52,
+    "physical": 49,
+    "goalTending": 55
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 56
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 52
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 41
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 52
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 49
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 55
+    }
+  ]
+}

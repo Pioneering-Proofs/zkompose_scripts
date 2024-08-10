@@ -1,0 +1,56 @@
+{
+  "name": "Marty Corwin PhD",
+  "jerseyNumber": 97,
+  "description": "Number 97 Marty Corwin PhD. Overall rating of 79.",
+  "external_url": "https://example.com/player/251",
+  "image": "ipfs://QmeitjYNNyJZ2a6rJWeHhP7fsvr9YPvJHmV43UbkhzWjjn",
+  "tier": 2,
+  "overallRating": 79,
+  "skill": {
+    "multiplier": 1,
+    "speed": 59,
+    "shooting": 75,
+    "passing": 65,
+    "dribbling": 76,
+    "defense": 76,
+    "physical": 68,
+    "goalTending": 75
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 59
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 75
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 65
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 76
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 76
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 68
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 75
+    }
+  ]
+}

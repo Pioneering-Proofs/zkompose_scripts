@@ -1,0 +1,56 @@
+{
+  "name": "Celia Nitzsche",
+  "jerseyNumber": 8,
+  "description": "Number 8 Celia Nitzsche. Overall rating of 69.",
+  "external_url": "https://example.com/player/189",
+  "image": "ipfs://QmNdbwQYhZujoSJxuKNnzskAcafZGdbf54q7qPS4zYr51W",
+  "tier": 3,
+  "overallRating": 69,
+  "skill": {
+    "multiplier": 1,
+    "speed": 60,
+    "shooting": 53,
+    "passing": 57,
+    "dribbling": 68,
+    "defense": 49,
+    "physical": 66,
+    "goalTending": 65
+  },
+  "attributes": [
+    {
+      "display_type": "speed",
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "display_type": "shooting",
+      "trait_type": "Shooting",
+      "value": 53
+    },
+    {
+      "display_type": "passing",
+      "trait_type": "Passing",
+      "value": 57
+    },
+    {
+      "display_type": "dribbling",
+      "trait_type": "Dribbling",
+      "value": 68
+    },
+    {
+      "display_type": "defense",
+      "trait_type": "Defense",
+      "value": 49
+    },
+    {
+      "display_type": "physical",
+      "trait_type": "Physical Strength",
+      "value": 66
+    },
+    {
+      "display_type": "goalTending",
+      "trait_type": "Goal Tending",
+      "value": 65
+    }
+  ]
+}
