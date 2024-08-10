@@ -1,31 +1,36 @@
 {
-  "name": "Olivia Watsica",
-  "jerseyNumber": 67,
-  "description": "Number 67 Olivia Watsica. Overall rating of 75.",
+  "name": "Geneva Nolan",
+  "jersey_number": 7,
+  "description": "Number 7 Geneva Nolan. Overall rating of 80.",
   "external_url": "https://example.com/player/537",
   "image": "ipfs://QmWAXehynfLBooSB28moZo5UHf8JM3XjuuBBScQL4WUxUA",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 74,
+    "speed": 77,
+    "shooting": 62,
     "passing": 70,
-    "dribbling": 74,
-    "defense": 70,
-    "physical": 71,
-    "goalTending": 74
+    "dribbling": 63,
+    "defense": 76,
+    "physical": 64,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 62
     },
     {
       "display_type": "passing",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 74
+      "value": 66
     }
   ]
 }

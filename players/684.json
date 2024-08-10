@@ -1,56 +1,61 @@
 {
-  "name": "Roy Satterfield-Marvin",
-  "jerseyNumber": 72,
-  "description": "Number 72 Roy Satterfield-Marvin. Overall rating of 81.",
+  "name": "Tracy Cummings",
+  "jersey_number": 92,
+  "description": "Number 92 Tracy Cummings. Overall rating of 78.",
   "external_url": "https://example.com/player/684",
   "image": "ipfs://QmVkNfqd5HWwJsfNbKerLQp5P2g84rMHjf5bBVKFaxSuix",
-  "tier": 1,
-  "overallRating": 81,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 72,
-    "passing": 63,
-    "dribbling": 73,
-    "defense": 80,
-    "physical": 72,
-    "goalTending": 80
+    "speed": 70,
+    "shooting": 73,
+    "passing": 58,
+    "dribbling": 74,
+    "defense": 78,
+    "physical": 69,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 70
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 73
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 63
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 80
+      "value": 78
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 80
+      "value": 66
     }
   ]
 }

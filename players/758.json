@@ -1,56 +1,61 @@
 {
-  "name": "Darryl Franey",
-  "jerseyNumber": 63,
-  "description": "Number 63 Darryl Franey. Overall rating of 77.",
+  "name": "Kristina Swift",
+  "jersey_number": 9,
+  "description": "Number 9 Kristina Swift. Overall rating of 94.",
   "external_url": "https://example.com/player/758",
   "image": "ipfs://QmbJL8Z1FYJvTVGmAU3yqiWDYFinpw5oLxFjaja2ZGBHHw",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 0,
+  "overall_rating": 94,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 70,
-    "shooting": 74,
-    "passing": 63,
-    "dribbling": 65,
-    "defense": 70,
-    "physical": 57,
-    "goalTending": 71
+    "speed": 92,
+    "shooting": 83,
+    "passing": 86,
+    "dribbling": 79,
+    "defense": 84,
+    "physical": 92,
+    "goal_tending": 79
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 70
+      "value": 92
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 83
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 63
+      "value": 86
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 79
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 92
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 79
     }
   ]
 }

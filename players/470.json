@@ -1,56 +1,61 @@
 {
-  "name": "Leigh Kilback",
-  "jerseyNumber": 93,
-  "description": "Number 93 Leigh Kilback. Overall rating of 71.",
+  "name": "Judy Schumm",
+  "jersey_number": 66,
+  "description": "Number 66 Judy Schumm. Overall rating of 76.",
   "external_url": "https://example.com/player/470",
   "image": "ipfs://Qmbtu4Gced55PKPzvo6nr7GuskH3ENhca6xNjcSdy4THH8",
   "tier": 2,
-  "overallRating": 71,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
-    "shooting": 53,
-    "passing": 60,
-    "dribbling": 56,
-    "defense": 69,
-    "physical": 58,
-    "goalTending": 57
+    "speed": 63,
+    "shooting": 58,
+    "passing": 64,
+    "dribbling": 67,
+    "defense": 56,
+    "physical": 72,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 53
+      "value": 58
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 67
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 56
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 69
     }
   ]
 }

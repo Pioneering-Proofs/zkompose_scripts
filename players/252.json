@@ -1,56 +1,61 @@
 {
-  "name": "Johnathan Runolfsdottir",
-  "jerseyNumber": 63,
-  "description": "Number 63 Johnathan Runolfsdottir. Overall rating of 85.",
+  "name": "Denise Dicki",
+  "jersey_number": 79,
+  "description": "Number 79 Denise Dicki. Overall rating of 63.",
   "external_url": "https://example.com/player/252",
   "image": "ipfs://QmUc4krJz7CdeVfzmeiiRViUCSahemTvpR2dFUEEycUaa3",
-  "tier": 1,
-  "overallRating": 85,
+  "tier": 3,
+  "overall_rating": 63,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 82,
-    "shooting": 73,
-    "passing": 71,
-    "dribbling": 67,
-    "defense": 71,
-    "physical": 71,
-    "goalTending": 77
+    "speed": 45,
+    "shooting": 43,
+    "passing": 46,
+    "dribbling": 45,
+    "defense": 59,
+    "physical": 53,
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 82
+      "value": 45
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 73
+      "value": 43
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 46
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 45
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 71
+      "value": 59
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 53
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 59
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "William Hoeger",
-  "jerseyNumber": 24,
-  "description": "Number 24 William Hoeger. Overall rating of 75.",
+  "name": "Ms. Roxanne Stark",
+  "jersey_number": 70,
+  "description": "Number 70 Ms. Roxanne Stark. Overall rating of 67.",
   "external_url": "https://example.com/player/234",
   "image": "ipfs://QmcQAchDfu4SsvUG7PitdYhuQMwzR7chkvbNmDQPsTfb3h",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 3,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
-    "shooting": 65,
-    "passing": 70,
-    "dribbling": 68,
-    "defense": 62,
-    "physical": 75,
-    "goalTending": 57
+    "speed": 63,
+    "shooting": 64,
+    "passing": 50,
+    "dribbling": 60,
+    "defense": 66,
+    "physical": 66,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 50
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 62
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 66
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Jeanne Paucek",
-  "jerseyNumber": 36,
-  "description": "Number 36 Jeanne Paucek. Overall rating of 74.",
+  "name": "Christian Kilback-O'Connell",
+  "jersey_number": 74,
+  "description": "Number 74 Christian Kilback-O'Connell. Overall rating of 81.",
   "external_url": "https://example.com/player/844",
   "image": "ipfs://QmSxzr1uWC2A1miY9hseR9pqJG5sursYWZMYiyqDjcVN8v",
-  "tier": 2,
-  "overallRating": 74,
+  "tier": 1,
+  "overall_rating": 81,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 57,
-    "passing": 69,
-    "dribbling": 57,
-    "defense": 66,
-    "physical": 68,
-    "goalTending": 58
+    "speed": 79,
+    "shooting": 78,
+    "passing": 61,
+    "dribbling": 72,
+    "defense": 76,
+    "physical": 74,
+    "goal_tending": 74
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 79
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 78
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 69
+      "value": 61
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 57
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 74
     }
   ]
 }

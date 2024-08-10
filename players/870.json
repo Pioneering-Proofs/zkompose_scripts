@@ -1,22 +1,27 @@
 {
-  "name": "Elizabeth Schroeder",
-  "jerseyNumber": 42,
-  "description": "Number 42 Elizabeth Schroeder. Overall rating of 60.",
+  "name": "Arthur Denesik",
+  "jersey_number": 29,
+  "description": "Number 29 Arthur Denesik. Overall rating of 69.",
   "external_url": "https://example.com/player/870",
   "image": "ipfs://QmYTbzqvPCv1QQ1YxmxUuLn7jjckfdr8mwYsA3HszfTHMN",
   "tier": 3,
-  "overallRating": 60,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 53,
-    "shooting": 58,
-    "passing": 53,
-    "dribbling": 52,
-    "defense": 48,
-    "physical": 48,
-    "goalTending": 54
+    "shooting": 49,
+    "passing": 69,
+    "dribbling": 66,
+    "defense": 61,
+    "physical": 64,
+    "goal_tending": 60
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 58
+      "value": 49
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 53
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 52
+      "value": 66
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 48
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 48
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 54
+      "value": 60
     }
   ]
 }

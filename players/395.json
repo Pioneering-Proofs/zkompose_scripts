@@ -1,56 +1,61 @@
 {
-  "name": "Donald Orn",
-  "jerseyNumber": 60,
-  "description": "Number 60 Donald Orn. Overall rating of 82.",
+  "name": "Sonia Moore",
+  "jersey_number": 91,
+  "description": "Number 91 Sonia Moore. Overall rating of 53.",
   "external_url": "https://example.com/player/395",
   "image": "ipfs://QmacX442T1dxdoBqjBZrwCmpgsDcgmZTTSMgNt7aujJXgi",
-  "tier": 1,
-  "overallRating": 82,
+  "tier": 4,
+  "overall_rating": 53,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 64,
-    "shooting": 81,
-    "passing": 65,
-    "dribbling": 78,
-    "defense": 77,
-    "physical": 70,
-    "goalTending": 70
+    "speed": 43,
+    "shooting": 43,
+    "passing": 39,
+    "dribbling": 40,
+    "defense": 51,
+    "physical": 39,
+    "goal_tending": 39
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 64
+      "value": 43
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 81
+      "value": 43
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 39
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 40
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 77
+      "value": 51
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 39
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 70
+      "value": 39
     }
   ]
 }

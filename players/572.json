@@ -1,56 +1,61 @@
 {
-  "name": "Marco Bogan-Wintheiser",
-  "jerseyNumber": 69,
-  "description": "Number 69 Marco Bogan-Wintheiser. Overall rating of 79.",
+  "name": "Douglas McLaughlin",
+  "jersey_number": 8,
+  "description": "Number 8 Douglas McLaughlin. Overall rating of 94.",
   "external_url": "https://example.com/player/572",
   "image": "ipfs://QmRocWgWtjRYtoEmZrwjMStWxYoKudY5CYsNkv1FN6HgQ5",
-  "tier": 2,
-  "overallRating": 79,
+  "tier": 0,
+  "overall_rating": 94,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 77,
-    "passing": 78,
-    "dribbling": 63,
-    "defense": 63,
-    "physical": 62,
-    "goalTending": 76
+    "speed": 89,
+    "shooting": 89,
+    "passing": 86,
+    "dribbling": 79,
+    "defense": 90,
+    "physical": 92,
+    "goal_tending": 91
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 89
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 77
+      "value": 89
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 78
+      "value": 86
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 79
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 63
+      "value": 90
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 92
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 91
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Miss Connie Green",
-  "jerseyNumber": 35,
-  "description": "Number 35 Miss Connie Green. Overall rating of 89.",
+  "name": "Megan D'Amore",
+  "jersey_number": 83,
+  "description": "Number 83 Megan D'Amore. Overall rating of 71.",
   "external_url": "https://example.com/player/947",
   "image": "ipfs://QmNuNPwJn1gCtF1zqh158WbgbxPbVT4CAUQSpKDnjSKVQn",
-  "tier": 1,
-  "overallRating": 89,
+  "tier": 2,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 87,
-    "shooting": 75,
-    "passing": 80,
-    "dribbling": 85,
-    "defense": 78,
-    "physical": 70,
-    "goalTending": 80
+    "speed": 51,
+    "shooting": 57,
+    "passing": 69,
+    "dribbling": 62,
+    "defense": 55,
+    "physical": 69,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 87
+      "value": 51
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 75
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 80
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 85
+      "value": 62
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 80
+      "value": 65
     }
   ]
 }

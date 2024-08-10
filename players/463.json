@@ -1,56 +1,61 @@
 {
-  "name": "Flora Rolfson",
-  "jerseyNumber": 71,
-  "description": "Number 71 Flora Rolfson. Overall rating of 76.",
+  "name": "Forrest Spencer",
+  "jersey_number": 65,
+  "description": "Number 65 Forrest Spencer. Overall rating of 72.",
   "external_url": "https://example.com/player/463",
   "image": "ipfs://QmXRt2Mr8MtNVgACvPUeEPR4SC4wmWNgVGtvzHY14v4fRH",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 59,
-    "passing": 67,
-    "dribbling": 74,
-    "defense": 67,
-    "physical": 56,
-    "goalTending": 76
+    "speed": 62,
+    "shooting": 67,
+    "passing": 58,
+    "dribbling": 69,
+    "defense": 70,
+    "physical": 52,
+    "goal_tending": 55
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 70
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 52
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 55
     }
   ]
 }

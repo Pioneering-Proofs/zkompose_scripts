@@ -1,56 +1,61 @@
 {
-  "name": "Hector Hermiston",
-  "jerseyNumber": 36,
-  "description": "Number 36 Hector Hermiston. Overall rating of 76.",
+  "name": "Julian Carroll",
+  "jersey_number": 61,
+  "description": "Number 61 Julian Carroll. Overall rating of 73.",
   "external_url": "https://example.com/player/691",
   "image": "ipfs://QmT21HpcquvfipZBiHUFvLcqqjgmYX9VMhbJ6V2GqPmZ9o",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 73,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 58,
-    "passing": 71,
-    "dribbling": 68,
-    "defense": 75,
-    "physical": 71,
-    "goalTending": 67
+    "speed": 68,
+    "shooting": 67,
+    "passing": 70,
+    "dribbling": 53,
+    "defense": 63,
+    "physical": 72,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 58
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 53
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 75
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 71
     }
   ]
 }

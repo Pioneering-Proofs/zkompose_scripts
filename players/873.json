@@ -1,22 +1,27 @@
 {
-  "name": "Elsie Weber",
-  "jerseyNumber": 87,
-  "description": "Number 87 Elsie Weber. Overall rating of 68.",
+  "name": "Charles Kuhlman",
+  "jersey_number": 7,
+  "description": "Number 7 Charles Kuhlman. Overall rating of 66.",
   "external_url": "https://example.com/player/873",
   "image": "ipfs://QmTzx4xswAkxD4t4knTXgdEYGwbdCRvFATA5Af75k6DL9D",
   "tier": 3,
-  "overallRating": 68,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 56,
-    "shooting": 66,
-    "passing": 67,
-    "dribbling": 48,
-    "defense": 53,
-    "physical": 50,
-    "goalTending": 66
+    "shooting": 50,
+    "passing": 47,
+    "dribbling": 62,
+    "defense": 62,
+    "physical": 59,
+    "goal_tending": 52
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 50
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 47
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 48
+      "value": 62
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 53
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 50
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 52
     }
   ]
 }

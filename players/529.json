@@ -1,56 +1,61 @@
 {
-  "name": "Karen Wiegand",
-  "jerseyNumber": 32,
-  "description": "Number 32 Karen Wiegand. Overall rating of 96.",
+  "name": "Miss Jodi Nader PhD",
+  "jersey_number": 68,
+  "description": "Number 68 Miss Jodi Nader PhD. Overall rating of 64.",
   "external_url": "https://example.com/player/529",
   "image": "ipfs://QmZGbx5aGYHfpf6tJN9ZNho1ih4mGCrcjhhbvEwPhFycXp",
-  "tier": 0,
-  "overallRating": 96,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
-    "shooting": 79,
-    "passing": 93,
-    "dribbling": 85,
-    "defense": 77,
-    "physical": 87,
-    "goalTending": 77
+    "speed": 63,
+    "shooting": 47,
+    "passing": 51,
+    "dribbling": 60,
+    "defense": 62,
+    "physical": 56,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 79
+      "value": 47
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 93
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 85
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 77
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 87
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 61
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Patsy D'Amore IV",
-  "jerseyNumber": 95,
-  "description": "Number 95 Patsy D'Amore IV. Overall rating of 65.",
+  "name": "Mr. Damon Fadel II",
+  "jersey_number": 85,
+  "description": "Number 85 Mr. Damon Fadel II. Overall rating of 66.",
   "external_url": "https://example.com/player/973",
   "image": "ipfs://QmeHeh7k655rApAS5hzDQKM7PEF6LgvLhZ9phPKaYuKAY4",
   "tier": 3,
-  "overallRating": 65,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 51,
-    "shooting": 63,
-    "passing": 52,
-    "dribbling": 58,
-    "defense": 51,
-    "physical": 51,
-    "goalTending": 59
+    "speed": 66,
+    "shooting": 58,
+    "passing": 46,
+    "dribbling": 47,
+    "defense": 58,
+    "physical": 61,
+    "goal_tending": 55
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 51
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 63
+      "value": 58
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 46
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 47
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 51
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 51
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 55
     }
   ]
 }

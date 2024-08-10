@@ -1,56 +1,61 @@
 {
-  "name": "Jeannette Dietrich",
-  "jerseyNumber": 98,
-  "description": "Number 98 Jeannette Dietrich. Overall rating of 77.",
+  "name": "Dr. Bennie Halvorson",
+  "jersey_number": 68,
+  "description": "Number 68 Dr. Bennie Halvorson. Overall rating of 68.",
   "external_url": "https://example.com/player/783",
   "image": "ipfs://Qmbi4Xb9dJsq8ozoRQtkNjUi11Y3nG5YZ9WGoDoDnkTyTw",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 3,
+  "overall_rating": 68,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
-    "shooting": 72,
-    "passing": 59,
-    "dribbling": 65,
-    "defense": 71,
-    "physical": 70,
-    "goalTending": 76
+    "speed": 62,
+    "shooting": 65,
+    "passing": 52,
+    "dribbling": 59,
+    "defense": 57,
+    "physical": 49,
+    "goal_tending": 55
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 52
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 71
+      "value": 57
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 49
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 55
     }
   ]
 }

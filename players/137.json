@@ -1,56 +1,61 @@
 {
-  "name": "Gregory Grady DVM",
-  "jerseyNumber": 27,
-  "description": "Number 27 Gregory Grady DVM. Overall rating of 73.",
+  "name": "Sara Baumbach",
+  "jersey_number": 14,
+  "description": "Number 14 Sara Baumbach. Overall rating of 82.",
   "external_url": "https://example.com/player/137",
   "image": "ipfs://QmTCWaSWGoKWMyMPrA8Xce4Dgpf76WSkHbcg3CQxojmxgF",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 1,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 68,
-    "passing": 63,
-    "dribbling": 68,
-    "defense": 57,
-    "physical": 60,
-    "goalTending": 60
+    "speed": 67,
+    "shooting": 64,
+    "passing": 69,
+    "dribbling": 74,
+    "defense": 78,
+    "physical": 71,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 67
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 63
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 78
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 69
     }
   ]
 }

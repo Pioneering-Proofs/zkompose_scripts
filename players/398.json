@@ -1,56 +1,61 @@
 {
-  "name": "Clint Kautzer",
-  "jerseyNumber": 91,
-  "description": "Number 91 Clint Kautzer. Overall rating of 68.",
+  "name": "Betty Swift",
+  "jersey_number": 15,
+  "description": "Number 15 Betty Swift. Overall rating of 86.",
   "external_url": "https://example.com/player/398",
   "image": "ipfs://QmQ2zShM8y2J6UhehfTxwZYvP195ymaUcr45sCfVLSzENT",
-  "tier": 3,
-  "overallRating": 68,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 67,
-    "passing": 66,
-    "dribbling": 65,
-    "defense": 67,
-    "physical": 55,
-    "goalTending": 65
+    "speed": 81,
+    "shooting": 70,
+    "passing": 83,
+    "dribbling": 75,
+    "defense": 86,
+    "physical": 75,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 81
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 67
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 66
+      "value": 83
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 86
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 55
+      "value": 75
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 70
     }
   ]
 }

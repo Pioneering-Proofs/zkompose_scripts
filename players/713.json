@@ -1,56 +1,61 @@
 {
-  "name": "Geneva Frami",
-  "jerseyNumber": 90,
-  "description": "Number 90 Geneva Frami. Overall rating of 58.",
+  "name": "Dr. Austin McLaughlin",
+  "jersey_number": 21,
+  "description": "Number 21 Dr. Austin McLaughlin. Overall rating of 79.",
   "external_url": "https://example.com/player/713",
   "image": "ipfs://Qmf2K8KASiAWRDbjA6rEUA3Y1GG2jEdsHNp1hdKEAgN9Rs",
-  "tier": 4,
-  "overallRating": 58,
+  "tier": 2,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 53,
-    "shooting": 42,
-    "passing": 57,
-    "dribbling": 56,
-    "defense": 55,
-    "physical": 50,
-    "goalTending": 42
+    "speed": 75,
+    "shooting": 74,
+    "passing": 76,
+    "dribbling": 68,
+    "defense": 70,
+    "physical": 69,
+    "goal_tending": 78
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 53
+      "value": 75
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 42
+      "value": 74
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 57
+      "value": 76
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 70
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 50
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 42
+      "value": 78
     }
   ]
 }

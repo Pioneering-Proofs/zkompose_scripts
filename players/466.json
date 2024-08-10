@@ -1,56 +1,61 @@
 {
-  "name": "Francisco Willms",
-  "jerseyNumber": 19,
-  "description": "Number 19 Francisco Willms. Overall rating of 79.",
+  "name": "Emma Dach",
+  "jersey_number": 77,
+  "description": "Number 77 Emma Dach. Overall rating of 52.",
   "external_url": "https://example.com/player/466",
   "image": "ipfs://QmUfGETdQZJxTbkoYdvjAEFSj6Mbf7XiJxPsEh392UYmXQ",
-  "tier": 2,
-  "overallRating": 79,
+  "tier": 4,
+  "overall_rating": 52,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 61,
-    "passing": 63,
-    "dribbling": 78,
-    "defense": 69,
-    "physical": 76,
-    "goalTending": 74
+    "speed": 49,
+    "shooting": 35,
+    "passing": 50,
+    "dribbling": 36,
+    "defense": 34,
+    "physical": 33,
+    "goal_tending": 45
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 49
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 35
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 63
+      "value": 50
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 36
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 34
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 76
+      "value": 33
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 74
+      "value": 45
     }
   ]
 }

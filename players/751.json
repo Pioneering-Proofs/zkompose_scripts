@@ -1,56 +1,61 @@
 {
-  "name": "Lisa Herman IV",
-  "jerseyNumber": 82,
-  "description": "Number 82 Lisa Herman IV. Overall rating of 92.",
+  "name": "Clint Kunze",
+  "jersey_number": 54,
+  "description": "Number 54 Clint Kunze. Overall rating of 61.",
   "external_url": "https://example.com/player/751",
   "image": "ipfs://QmZ2HsCsvWdDxyhziL2AFA8iKsEp6oTYbd3h6WMYdDPjKQ",
-  "tier": 0,
-  "overallRating": 92,
+  "tier": 3,
+  "overall_rating": 61,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 90,
-    "shooting": 84,
-    "passing": 90,
-    "dribbling": 91,
-    "defense": 91,
-    "physical": 92,
-    "goalTending": 75
+    "speed": 60,
+    "shooting": 47,
+    "passing": 55,
+    "dribbling": 61,
+    "defense": 52,
+    "physical": 57,
+    "goal_tending": 50
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 90
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 84
+      "value": 47
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 90
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 91
+      "value": 61
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 91
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 92
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 50
     }
   ]
 }

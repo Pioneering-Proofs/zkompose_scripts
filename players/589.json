@@ -1,56 +1,61 @@
 {
-  "name": "Kelley Halvorson",
-  "jerseyNumber": 15,
-  "description": "Number 15 Kelley Halvorson. Overall rating of 66.",
+  "name": "Lynda Hayes",
+  "jersey_number": 41,
+  "description": "Number 41 Lynda Hayes. Overall rating of 80.",
   "external_url": "https://example.com/player/589",
   "image": "ipfs://QmZhRGdrsckbfM3vYzQADMbCfGoy5HHBvDYY3n7cQh5t3z",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 54,
-    "shooting": 64,
-    "passing": 64,
-    "dribbling": 66,
-    "defense": 51,
-    "physical": 49,
-    "goalTending": 58
+    "speed": 78,
+    "shooting": 68,
+    "passing": 75,
+    "dribbling": 75,
+    "defense": 62,
+    "physical": 63,
+    "goal_tending": 80
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 54
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 68
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 51
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 49
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 80
     }
   ]
 }

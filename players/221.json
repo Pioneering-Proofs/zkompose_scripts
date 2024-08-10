@@ -1,56 +1,61 @@
 {
-  "name": "Mamie Mraz",
-  "jerseyNumber": 58,
-  "description": "Number 58 Mamie Mraz. Overall rating of 74.",
+  "name": "Timmy Goyette",
+  "jersey_number": 47,
+  "description": "Number 47 Timmy Goyette. Overall rating of 70.",
   "external_url": "https://example.com/player/221",
   "image": "ipfs://QmUzrWV1mksgdWmUVKWHVCmzTTuj46dSH3RQcSGzweVjMP",
   "tier": 2,
-  "overallRating": 74,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 56,
-    "passing": 73,
-    "dribbling": 65,
-    "defense": 55,
-    "physical": 70,
-    "goalTending": 72
+    "speed": 60,
+    "shooting": 63,
+    "passing": 65,
+    "dribbling": 50,
+    "defense": 67,
+    "physical": 57,
+    "goal_tending": 57
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 56
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 50
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 57
     }
   ]
 }

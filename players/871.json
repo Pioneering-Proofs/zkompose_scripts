@@ -1,22 +1,27 @@
 {
-  "name": "Willis Jast III",
-  "jerseyNumber": 80,
-  "description": "Number 80 Willis Jast III. Overall rating of 68.",
+  "name": "Jeannette Witting",
+  "jersey_number": 68,
+  "description": "Number 68 Jeannette Witting. Overall rating of 69.",
   "external_url": "https://example.com/player/871",
   "image": "ipfs://QmQToZyQtdagFGThAHsnrAAXcrVwefTNjKfb2g615XzEs7",
   "tier": 3,
-  "overallRating": 68,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 65,
-    "shooting": 65,
-    "passing": 57,
-    "dribbling": 58,
-    "defense": 64,
-    "physical": 49,
-    "goalTending": 59
+    "shooting": 54,
+    "passing": 65,
+    "dribbling": 49,
+    "defense": 66,
+    "physical": 66,
+    "goal_tending": 55
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 54
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 57
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 49
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 49
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 55
     }
   ]
 }

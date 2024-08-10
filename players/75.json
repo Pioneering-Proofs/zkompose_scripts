@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Jermaine Blanda",
-  "jerseyNumber": 57,
-  "description": "Number 57 Mr. Jermaine Blanda. Overall rating of 71.",
+  "name": "Dr. Frank Baumbach Jr.",
+  "jersey_number": 33,
+  "description": "Number 33 Dr. Frank Baumbach Jr.. Overall rating of 77.",
   "external_url": "https://example.com/player/75",
   "image": "ipfs://QmSyEidSrSK4BrLkapBc4sRQtRQGSK2o5ma1njhVDgS1Dg",
   "tier": 2,
-  "overallRating": 71,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 66,
-    "passing": 52,
-    "dribbling": 66,
-    "defense": 58,
-    "physical": 60,
-    "goalTending": 69
+    "speed": 58,
+    "shooting": 58,
+    "passing": 68,
+    "dribbling": 68,
+    "defense": 75,
+    "physical": 62,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 58
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 75
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 64
     }
   ]
 }

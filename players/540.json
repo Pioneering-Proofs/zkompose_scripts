@@ -1,31 +1,36 @@
 {
-  "name": "Wilma Klocko",
-  "jerseyNumber": 25,
-  "description": "Number 25 Wilma Klocko. Overall rating of 71.",
+  "name": "Luke Ernser",
+  "jersey_number": 15,
+  "description": "Number 15 Luke Ernser. Overall rating of 55.",
   "external_url": "https://example.com/player/540",
   "image": "ipfs://QmbxVSewijRGaidYwgsZpkBmz1s4ity5kfvNM2m5SkZkZR",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 4,
+  "overall_rating": 55,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 53,
+    "speed": 52,
+    "shooting": 35,
     "passing": 52,
-    "dribbling": 55,
-    "defense": 68,
-    "physical": 64,
-    "goalTending": 58
+    "dribbling": 40,
+    "defense": 42,
+    "physical": 36,
+    "goal_tending": 42
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 52
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 53
+      "value": 35
     },
     {
       "display_type": "passing",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 55
+      "value": 40
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 42
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 36
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 42
     }
   ]
 }

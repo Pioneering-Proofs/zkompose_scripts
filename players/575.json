@@ -1,56 +1,61 @@
 {
-  "name": "Sean Franecki",
-  "jerseyNumber": 63,
-  "description": "Number 63 Sean Franecki. Overall rating of 69.",
+  "name": "Janice Paucek",
+  "jersey_number": 19,
+  "description": "Number 19 Janice Paucek. Overall rating of 88.",
   "external_url": "https://example.com/player/575",
   "image": "ipfs://Qmec4BrrGK5Nkh7FeQxGLthLJSN52progcy9zTcUS6keXr",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 1,
+  "overall_rating": 88,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 58,
-    "shooting": 65,
-    "passing": 49,
-    "dribbling": 60,
-    "defense": 66,
-    "physical": 62,
-    "goalTending": 59
+    "speed": 87,
+    "shooting": 83,
+    "passing": 84,
+    "dribbling": 83,
+    "defense": 81,
+    "physical": 76,
+    "goal_tending": 83
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 58
+      "value": 87
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 83
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 49
+      "value": 84
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 83
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 81
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 76
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 83
     }
   ]
 }

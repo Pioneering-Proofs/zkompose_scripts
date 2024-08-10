@@ -1,41 +1,46 @@
 {
-  "name": "Rosemary Fadel",
-  "jerseyNumber": 46,
-  "description": "Number 46 Rosemary Fadel. Overall rating of 55.",
+  "name": "Victoria King",
+  "jersey_number": 88,
+  "description": "Number 88 Victoria King. Overall rating of 68.",
   "external_url": "https://example.com/player/504",
   "image": "ipfs://QmWzfrz4G2fGEMUGwuRXwWSvBcjsDqXYXJsjnaZRWpcrcj",
-  "tier": 4,
-  "overallRating": 55,
+  "tier": 3,
+  "overall_rating": 68,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 46,
-    "shooting": 50,
-    "passing": 38,
-    "dribbling": 38,
+    "speed": 49,
+    "shooting": 59,
+    "passing": 51,
+    "dribbling": 62,
     "defense": 54,
-    "physical": 43,
-    "goalTending": 52
+    "physical": 64,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 46
+      "value": 49
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 50
+      "value": 59
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 38
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 38
+      "value": 62
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 43
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 52
+      "value": 64
     }
   ]
 }

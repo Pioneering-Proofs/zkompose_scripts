@@ -1,31 +1,36 @@
 {
-  "name": "Mr. Brendan Wisoky",
-  "jerseyNumber": 97,
-  "description": "Number 97 Mr. Brendan Wisoky. Overall rating of 73.",
+  "name": "Bernice Spencer",
+  "jersey_number": 94,
+  "description": "Number 94 Bernice Spencer. Overall rating of 79.",
   "external_url": "https://example.com/player/669",
   "image": "ipfs://QmW3mRkQeJ4MbapUtLVPxQYRMXstXPZD2Rx5rBnK66b3LG",
   "tier": 2,
-  "overallRating": 73,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 66,
+    "speed": 78,
+    "shooting": 68,
     "passing": 63,
-    "dribbling": 71,
-    "defense": 72,
-    "physical": 72,
-    "goalTending": 69
+    "dribbling": 72,
+    "defense": 71,
+    "physical": 77,
+    "goal_tending": 77
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 68
     },
     {
       "display_type": "passing",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 72
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 77
     }
   ]
 }

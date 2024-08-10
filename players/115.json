@@ -1,26 +1,31 @@
 {
-  "name": "Robin Hoppe",
-  "jerseyNumber": 15,
-  "description": "Number 15 Robin Hoppe. Overall rating of 73.",
+  "name": "Ernest Hoppe",
+  "jersey_number": 64,
+  "description": "Number 64 Ernest Hoppe. Overall rating of 77.",
   "external_url": "https://example.com/player/115",
   "image": "ipfs://QmaNy39yy6GLZWMYVuvdvunJn8Dg6t4z91UkgZ1XBsffMT",
   "tier": 2,
-  "overallRating": 73,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 58,
+    "speed": 75,
     "shooting": 59,
     "passing": 68,
-    "dribbling": 66,
-    "defense": 73,
-    "physical": 65,
-    "goalTending": 66
+    "dribbling": 60,
+    "defense": 59,
+    "physical": 57,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 58
+      "value": 75
     },
     {
       "display_type": "shooting",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 59
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 71
     }
   ]
 }

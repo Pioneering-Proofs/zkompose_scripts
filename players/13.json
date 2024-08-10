@@ -1,22 +1,27 @@
 {
-  "name": "Julio Collier",
-  "jerseyNumber": 52,
-  "description": "Number 52 Julio Collier. Overall rating of 65.",
+  "name": "Darrel Gorczany PhD",
+  "jersey_number": 87,
+  "description": "Number 87 Darrel Gorczany PhD. Overall rating of 62.",
   "external_url": "https://example.com/player/13",
   "image": "ipfs://QmUi667MTmgrd2Qg6ZqAnbVBKvP3YjdjoaB9WbR92AQU5G",
   "tier": 3,
-  "overallRating": 65,
+  "overall_rating": 62,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 60,
-    "shooting": 64,
+    "shooting": 52,
     "passing": 60,
-    "dribbling": 62,
-    "defense": 64,
-    "physical": 61,
-    "goalTending": 52
+    "dribbling": 59,
+    "defense": 61,
+    "physical": 56,
+    "goal_tending": 50
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,7 +30,7 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 52
     },
     {
       "display_type": "passing",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 52
+      "value": 50
     }
   ]
 }

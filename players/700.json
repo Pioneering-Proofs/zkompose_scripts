@@ -1,26 +1,31 @@
 {
-  "name": "June Lehner",
-  "jerseyNumber": 1,
-  "description": "Number 1 June Lehner. Overall rating of 81.",
+  "name": "Dr. Lena Paucek I",
+  "jersey_number": 17,
+  "description": "Number 17 Dr. Lena Paucek I. Overall rating of 78.",
   "external_url": "https://example.com/player/700",
   "image": "ipfs://QmayRf2h5xHFWFJtttTpC2daXKZBAGr3FTrUhnUDyFmVBn",
-  "tier": 1,
-  "overallRating": 81,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 76,
+    "speed": 65,
     "shooting": 69,
     "passing": 70,
-    "dribbling": 63,
+    "dribbling": 76,
     "defense": 62,
-    "physical": 68,
-    "goalTending": 78
+    "physical": 64,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 76
+      "value": 65
     },
     {
       "display_type": "shooting",
@@ -35,7 +40,7 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 76
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 78
+      "value": 69
     }
   ]
 }

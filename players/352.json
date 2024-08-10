@@ -1,26 +1,31 @@
 {
-  "name": "Ms. Lola Brakus",
-  "jerseyNumber": 75,
-  "description": "Number 75 Ms. Lola Brakus. Overall rating of 87.",
+  "name": "Darin Windler",
+  "jersey_number": 80,
+  "description": "Number 80 Darin Windler. Overall rating of 94.",
   "external_url": "https://example.com/player/352",
   "image": "ipfs://QmWbXmVbGXrG2VCrFZXg4rfF3mgFgUNQ1ngmBevzQJ9mjW",
-  "tier": 1,
-  "overallRating": 87,
+  "tier": 0,
+  "overall_rating": 94,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 73,
+    "speed": 77,
     "shooting": 79,
-    "passing": 68,
-    "dribbling": 77,
-    "defense": 86,
-    "physical": 68,
-    "goalTending": 78
+    "passing": 81,
+    "dribbling": 90,
+    "defense": 91,
+    "physical": 90,
+    "goal_tending": 83
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 73
+      "value": 77
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 81
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 77
+      "value": 90
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 86
+      "value": 91
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 90
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 78
+      "value": 83
     }
   ]
 }

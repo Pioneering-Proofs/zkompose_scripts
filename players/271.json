@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Noel Wisoky",
-  "jerseyNumber": 84,
-  "description": "Number 84 Mr. Noel Wisoky. Overall rating of 90.",
+  "name": "Adrian Waelchi",
+  "jersey_number": 71,
+  "description": "Number 71 Adrian Waelchi. Overall rating of 74.",
   "external_url": "https://example.com/player/271",
   "image": "ipfs://QmNcfLhWQ5fZJ6H5bgGUiboqLT7XRZMLAxd6Ft2MAixQkT",
-  "tier": 0,
-  "overallRating": 90,
+  "tier": 2,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 85,
-    "shooting": 81,
-    "passing": 80,
-    "dribbling": 90,
-    "defense": 82,
-    "physical": 73,
-    "goalTending": 85
+    "speed": 65,
+    "shooting": 55,
+    "passing": 70,
+    "dribbling": 72,
+    "defense": 55,
+    "physical": 57,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 85
+      "value": 65
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 81
+      "value": 55
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 80
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 90
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 82
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 85
+      "value": 65
     }
   ]
 }

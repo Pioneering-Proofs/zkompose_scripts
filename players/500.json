@@ -1,56 +1,61 @@
 {
-  "name": "Muriel Mraz",
-  "jerseyNumber": 85,
-  "description": "Number 85 Muriel Mraz. Overall rating of 71.",
+  "name": "Arturo Baumbach I",
+  "jersey_number": 22,
+  "description": "Number 22 Arturo Baumbach I. Overall rating of 66.",
   "external_url": "https://example.com/player/500",
   "image": "ipfs://QmXyUJ699T2GeeDQS8w9cGNP7ghhFBNrn5FhYWrwvr8i8J",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 70,
-    "shooting": 70,
-    "passing": 53,
-    "dribbling": 58,
-    "defense": 68,
-    "physical": 51,
-    "goalTending": 61
+    "speed": 63,
+    "shooting": 56,
+    "passing": 47,
+    "dribbling": 65,
+    "defense": 61,
+    "physical": 46,
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 70
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 70
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 53
+      "value": 47
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 65
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 51
+      "value": 46
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 59
     }
   ]
 }

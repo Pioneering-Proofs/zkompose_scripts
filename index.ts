@@ -16,9 +16,9 @@ interface Player {
   description: string;
   external_url: string;
   image: `ipfs://${string}`;
-  jerseyNumber: number;
+  jersey_number: number;
   tier: number;
-  overallRating: number;
+  overall_rating: number;
 
   attributes: {
     display_type: string;
@@ -26,16 +26,15 @@ interface Player {
     value: number;
   }[];
 
+  skill_multiplier: number;
   skill: {
-    multiplier: number;
-
     speed: number;
     shooting: number;
     passing: number;
     dribbling: number;
     defense: number;
     physical: number;
-    goalTending: number;
+    goal_tending: number;
   }
 }
 
@@ -83,21 +82,21 @@ const generatePlayers = async () => {
     const overallRating = generateOverallRating();
     const skillScores = generateSkillScores(overallRating);
     const name = faker.person.fullName();
-    const jerseyNumber = faker.number.int({ min: 1, max: 99 });
+    const jersey_number = faker.number.int({ min: 1, max: 99 });
     const playerSvg = fs.readFileSync(`./player_svgs/${i}.svg`, 'utf-8');
     const svgHash = await Hash.of(playerSvg);
 
     const player: Player = {
       name,
-      jerseyNumber,
-      description: `Number ${jerseyNumber} ${name}. Overall rating of ${overallRating}.`,
+      jersey_number,
+      description: `Number ${jersey_number} ${name}. Overall rating of ${overallRating}.`,
       external_url: `https://example.com/player/${i}`,
       image: `ipfs://${svgHash}`,
       tier: calculateTier(overallRating),
-      overallRating: overallRating,
+      overall_rating: overallRating,
 
+      skill_multiplier: 1,
       skill: {
-        multiplier: 1,
 
         speed: skillScores[0],
         shooting: skillScores[1],
@@ -105,17 +104,18 @@ const generatePlayers = async () => {
         dribbling: skillScores[3],
         defense: skillScores[4],
         physical: skillScores[5],
-        goalTending: skillScores[6],
+        goal_tending: skillScores[6],
       },
 
       attributes: [
+        { display_type: 'skill_multiplier', trait_type: 'Skill Multiplier', value: 1 },
         { display_type: 'speed', trait_type: 'Speed', value: skillScores[0] },
         { display_type: 'shooting', trait_type: 'Shooting', value: skillScores[1] },
         { display_type: 'passing', trait_type: 'Passing', value: skillScores[2] },
         { display_type: 'dribbling', trait_type: 'Dribbling', value: skillScores[3] },
         { display_type: 'defense', trait_type: 'Defense', value: skillScores[4] },
         { display_type: 'physical', trait_type: 'Physical Strength', value: skillScores[5] },
-        { display_type: 'goalTending', trait_type: 'Goal Tending', value: skillScores[6] },
+        { display_type: 'goal_tending', trait_type: 'Goal Tending', value: skillScores[6] },
       ]
     };
 

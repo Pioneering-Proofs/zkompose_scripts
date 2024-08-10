@@ -1,54 +1,59 @@
 {
-  "name": "Casey Corwin",
-  "jerseyNumber": 52,
-  "description": "Number 52 Casey Corwin. Overall rating of 77.",
+  "name": "Paula Stoltenberg",
+  "jersey_number": 96,
+  "description": "Number 96 Paula Stoltenberg. Overall rating of 77.",
   "external_url": "https://example.com/player/738",
   "image": "ipfs://QmYkH5RfmSG16XetjCfTnRD8WaWAyZcW9bvXq317tSvuF4",
   "tier": 2,
-  "overallRating": 77,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 76,
-    "passing": 76,
-    "dribbling": 58,
-    "defense": 60,
-    "physical": 67,
-    "goalTending": 71
+    "speed": 74,
+    "shooting": 57,
+    "passing": 65,
+    "dribbling": 72,
+    "defense": 76,
+    "physical": 59,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 76
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 67
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 71
     }

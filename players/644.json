@@ -1,31 +1,36 @@
 {
-  "name": "Andre Hamill Sr.",
-  "jerseyNumber": 70,
-  "description": "Number 70 Andre Hamill Sr.. Overall rating of 77.",
+  "name": "Miss Alberta Cummerata",
+  "jersey_number": 67,
+  "description": "Number 67 Miss Alberta Cummerata. Overall rating of 73.",
   "external_url": "https://example.com/player/644",
   "image": "ipfs://QmWBjSnvFEF6r1m1eCB4zvjzTToy6hajQEh1qWhA7ZK2cd",
   "tier": 2,
-  "overallRating": 77,
+  "overall_rating": 73,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 58,
+    "speed": 63,
+    "shooting": 65,
     "passing": 62,
-    "dribbling": 57,
-    "defense": 74,
+    "dribbling": 59,
+    "defense": 71,
     "physical": 68,
-    "goalTending": 66
+    "goal_tending": 57
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 58
+      "value": 65
     },
     {
       "display_type": "passing",
@@ -35,12 +40,12 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 57
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 74
+      "value": 71
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 68
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 57
     }
   ]
 }

@@ -1,26 +1,31 @@
 {
-  "name": "Charlene Osinski Jr.",
-  "jerseyNumber": 36,
-  "description": "Number 36 Charlene Osinski Jr.. Overall rating of 76.",
+  "name": "Gertrude Barton",
+  "jersey_number": 76,
+  "description": "Number 76 Gertrude Barton. Overall rating of 64.",
   "external_url": "https://example.com/player/349",
   "image": "ipfs://QmSzngvbYCJXrMCK4NCcGHmuH4x8THuLXxGiQQ2xLyeFQe",
-  "tier": 2,
-  "overallRating": 76,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
+    "speed": 59,
     "shooting": 63,
-    "passing": 57,
-    "dribbling": 63,
-    "defense": 72,
-    "physical": 70,
-    "goalTending": 75
+    "passing": 59,
+    "dribbling": 60,
+    "defense": 46,
+    "physical": 61,
+    "goal_tending": 50
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 59
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 57
+      "value": 59
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 72
+      "value": 46
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 50
     }
   ]
 }

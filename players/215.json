@@ -1,56 +1,61 @@
 {
-  "name": "Rodney Olson",
-  "jerseyNumber": 53,
-  "description": "Number 53 Rodney Olson. Overall rating of 75.",
+  "name": "Doreen Ortiz",
+  "jersey_number": 7,
+  "description": "Number 7 Doreen Ortiz. Overall rating of 90.",
   "external_url": "https://example.com/player/215",
   "image": "ipfs://QmfD1xgAMj5Mp5HazBVDCjfFU9YLe91Ee7yyW7Ho2ichFt",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 0,
+  "overall_rating": 90,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 57,
-    "shooting": 69,
-    "passing": 62,
-    "dribbling": 58,
-    "defense": 75,
-    "physical": 58,
-    "goalTending": 71
+    "speed": 81,
+    "shooting": 89,
+    "passing": 75,
+    "dribbling": 85,
+    "defense": 90,
+    "physical": 76,
+    "goal_tending": 76
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 57
+      "value": 81
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 89
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 85
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 75
+      "value": 90
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 76
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 76
     }
   ]
 }

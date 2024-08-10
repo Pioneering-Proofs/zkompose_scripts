@@ -1,56 +1,61 @@
 {
-  "name": "Fred Monahan",
-  "jerseyNumber": 68,
-  "description": "Number 68 Fred Monahan. Overall rating of 72.",
+  "name": "Darryl Bashirian",
+  "jersey_number": 59,
+  "description": "Number 59 Darryl Bashirian. Overall rating of 72.",
   "external_url": "https://example.com/player/27",
   "image": "ipfs://QmPANsaAZwedNz6QjPT3kn5ZJGEymiF3RG3HrrLHdFXt3T",
   "tier": 2,
-  "overallRating": 72,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 62,
-    "passing": 63,
-    "dribbling": 67,
-    "defense": 69,
-    "physical": 65,
-    "goalTending": 59
+    "speed": 65,
+    "shooting": 66,
+    "passing": 71,
+    "dribbling": 52,
+    "defense": 58,
+    "physical": 56,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 65
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 62
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 63
+      "value": 71
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 52
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 63
     }
   ]
 }

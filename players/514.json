@@ -1,26 +1,31 @@
 {
-  "name": "Ms. Hope Yost-Altenwerth",
-  "jerseyNumber": 20,
-  "description": "Number 20 Ms. Hope Yost-Altenwerth. Overall rating of 72.",
+  "name": "Ruby Schimmel",
+  "jersey_number": 86,
+  "description": "Number 86 Ruby Schimmel. Overall rating of 79.",
   "external_url": "https://example.com/player/514",
   "image": "ipfs://QmWDSTvMZKx7vuTda9cKsd2WArs5TGsvQ3AdxMFoiaarmp",
   "tier": 2,
-  "overallRating": 72,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 53,
+    "speed": 77,
     "shooting": 64,
-    "passing": 67,
-    "dribbling": 63,
-    "defense": 70,
-    "physical": 71,
-    "goalTending": 58
+    "passing": 72,
+    "dribbling": 75,
+    "defense": 60,
+    "physical": 77,
+    "goal_tending": 76
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 53
+      "value": 77
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 72
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 60
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 76
     }
   ]
 }

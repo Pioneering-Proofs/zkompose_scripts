@@ -1,56 +1,61 @@
 {
-  "name": "Wilma Johnson",
-  "jerseyNumber": 80,
-  "description": "Number 80 Wilma Johnson. Overall rating of 94.",
+  "name": "April Gusikowski",
+  "jersey_number": 10,
+  "description": "Number 10 April Gusikowski. Overall rating of 77.",
   "external_url": "https://example.com/player/607",
   "image": "ipfs://QmRnBR72NNzajWaVqzDLMeZHi7Ewv5hMzLTBBKA5cFHWqg",
-  "tier": 0,
-  "overallRating": 94,
+  "tier": 2,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 75,
-    "shooting": 84,
-    "passing": 76,
-    "dribbling": 88,
-    "defense": 85,
-    "physical": 92,
-    "goalTending": 80
+    "speed": 64,
+    "shooting": 62,
+    "passing": 73,
+    "dribbling": 68,
+    "defense": 59,
+    "physical": 69,
+    "goal_tending": 75
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 75
+      "value": 64
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 84
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 76
+      "value": 73
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 88
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 85
+      "value": 59
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 92
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 80
+      "value": 75
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Maggie Ortiz",
-  "jerseyNumber": 42,
-  "description": "Number 42 Maggie Ortiz. Overall rating of 68.",
+  "name": "Brandon Wiegand",
+  "jersey_number": 32,
+  "description": "Number 32 Brandon Wiegand. Overall rating of 84.",
   "external_url": "https://example.com/player/205",
   "image": "ipfs://QmTvm6B9dXXpVwR4wUHpVeXZ1HtbT7o2nZoFbK7nPbYNdN",
-  "tier": 3,
-  "overallRating": 68,
+  "tier": 1,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 63,
-    "passing": 56,
-    "dribbling": 48,
-    "defense": 61,
-    "physical": 55,
-    "goalTending": 64
+    "speed": 71,
+    "shooting": 64,
+    "passing": 69,
+    "dribbling": 74,
+    "defense": 84,
+    "physical": 77,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 63
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 48
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 55
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 67
     }
   ]
 }

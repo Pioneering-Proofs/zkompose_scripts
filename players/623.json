@@ -1,56 +1,61 @@
 {
-  "name": "Oscar Stroman",
-  "jerseyNumber": 1,
-  "description": "Number 1 Oscar Stroman. Overall rating of 62.",
+  "name": "Dale Oberbrunner-Pacocha",
+  "jersey_number": 52,
+  "description": "Number 52 Dale Oberbrunner-Pacocha. Overall rating of 67.",
   "external_url": "https://example.com/player/623",
   "image": "ipfs://QmVAFdHYymXmJJFDgnmPe9oZrckc5d6ztnrF7vaB3qLU1N",
   "tier": 3,
-  "overallRating": 62,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 46,
-    "shooting": 59,
-    "passing": 58,
-    "dribbling": 42,
-    "defense": 55,
-    "physical": 49,
-    "goalTending": 55
+    "speed": 47,
+    "shooting": 63,
+    "passing": 61,
+    "dribbling": 63,
+    "defense": 48,
+    "physical": 66,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 46
+      "value": 47
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 61
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 42
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 48
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 49
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 55
+      "value": 66
     }
   ]
 }

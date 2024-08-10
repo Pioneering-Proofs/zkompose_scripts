@@ -1,56 +1,61 @@
 {
-  "name": "Dr. Otis Glover",
-  "jerseyNumber": 88,
-  "description": "Number 88 Dr. Otis Glover. Overall rating of 77.",
+  "name": "Henrietta Wolf",
+  "jersey_number": 75,
+  "description": "Number 75 Henrietta Wolf. Overall rating of 90.",
   "external_url": "https://example.com/player/111",
   "image": "ipfs://QmVep8eRcdNwgGi9yuUuAKbxHtJTDnbBG2VoC2Vra1bt24",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 0,
+  "overall_rating": 90,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
-    "shooting": 59,
-    "passing": 72,
-    "dribbling": 69,
-    "defense": 64,
-    "physical": 71,
-    "goalTending": 70
+    "speed": 88,
+    "shooting": 86,
+    "passing": 79,
+    "dribbling": 86,
+    "defense": 81,
+    "physical": 81,
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 88
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 86
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 79
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 69
+      "value": 86
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 81
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 81
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 70
+      "value": 73
     }
   ]
 }

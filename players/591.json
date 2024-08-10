@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Arturo Jaskolski",
-  "jerseyNumber": 34,
-  "description": "Number 34 Mr. Arturo Jaskolski. Overall rating of 79.",
+  "name": "Miss Sadie Hartmann",
+  "jersey_number": 46,
+  "description": "Number 46 Miss Sadie Hartmann. Overall rating of 79.",
   "external_url": "https://example.com/player/591",
   "image": "ipfs://QmcNHy354mqZvW4ir2t2LsbPBCDSFYtL6iM7tJUsk63SCH",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 78,
-    "shooting": 69,
-    "passing": 74,
-    "dribbling": 67,
-    "defense": 72,
-    "physical": 65,
-    "goalTending": 75
+    "speed": 60,
+    "shooting": 75,
+    "passing": 64,
+    "dribbling": 72,
+    "defense": 77,
+    "physical": 75,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 78
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 75
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 72
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 75
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 69
     }
   ]
 }

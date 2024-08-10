@@ -1,56 +1,61 @@
 {
-  "name": "Sophia Zulauf",
-  "jerseyNumber": 86,
-  "description": "Number 86 Sophia Zulauf. Overall rating of 69.",
+  "name": "Dr. Irvin Bailey",
+  "jersey_number": 88,
+  "description": "Number 88 Dr. Irvin Bailey. Overall rating of 76.",
   "external_url": "https://example.com/player/508",
   "image": "ipfs://QmPZtvD2eZVrDXUyyc37svMUoDP4FHR5Sh3A36xRDHqorT",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 66,
-    "passing": 56,
-    "dribbling": 66,
-    "defense": 64,
-    "physical": 60,
-    "goalTending": 50
+    "speed": 62,
+    "shooting": 69,
+    "passing": 69,
+    "dribbling": 57,
+    "defense": 69,
+    "physical": 74,
+    "goal_tending": 72
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 57
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 50
+      "value": 72
     }
   ]
 }

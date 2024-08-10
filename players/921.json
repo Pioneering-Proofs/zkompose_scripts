@@ -1,56 +1,61 @@
 {
-  "name": "Diane Swift",
-  "jerseyNumber": 85,
-  "description": "Number 85 Diane Swift. Overall rating of 89.",
+  "name": "Audrey Harris",
+  "jersey_number": 51,
+  "description": "Number 51 Audrey Harris. Overall rating of 53.",
   "external_url": "https://example.com/player/921",
   "image": "ipfs://QmfYhUYej76UjCpHSXL5t8b5khhM1MVCEkpTQ61wMBB4yi",
-  "tier": 1,
-  "overallRating": 89,
+  "tier": 4,
+  "overall_rating": 53,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 86,
-    "shooting": 80,
-    "passing": 82,
-    "dribbling": 82,
-    "defense": 71,
-    "physical": 84,
-    "goalTending": 71
+    "speed": 43,
+    "shooting": 49,
+    "passing": 40,
+    "dribbling": 33,
+    "defense": 41,
+    "physical": 43,
+    "goal_tending": 38
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 86
+      "value": 43
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 80
+      "value": 49
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 82
+      "value": 40
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 82
+      "value": 33
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 71
+      "value": 41
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 84
+      "value": 43
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 38
     }
   ]
 }

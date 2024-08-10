@@ -1,26 +1,31 @@
 {
-  "name": "Marcia Considine",
-  "jerseyNumber": 11,
-  "description": "Number 11 Marcia Considine. Overall rating of 62.",
+  "name": "Ernest Schmidt",
+  "jersey_number": 36,
+  "description": "Number 36 Ernest Schmidt. Overall rating of 66.",
   "external_url": "https://example.com/player/64",
   "image": "ipfs://QmafhgRPteAMeMAoVwqbapM8Jt38SpTTtwZyCqJQsNMhrs",
   "tier": 3,
-  "overallRating": 62,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
+    "speed": 54,
     "shooting": 50,
-    "passing": 52,
-    "dribbling": 48,
-    "defense": 52,
-    "physical": 60,
-    "goalTending": 53
+    "passing": 48,
+    "dribbling": 54,
+    "defense": 66,
+    "physical": 52,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 54
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 48
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 48
+      "value": 54
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 52
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 52
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 53
+      "value": 52
     }
   ]
 }

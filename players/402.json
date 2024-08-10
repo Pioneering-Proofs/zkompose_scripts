@@ -1,31 +1,36 @@
 {
-  "name": "Erma Keebler DDS",
-  "jerseyNumber": 90,
-  "description": "Number 90 Erma Keebler DDS. Overall rating of 83.",
+  "name": "Samuel Jaskolski",
+  "jersey_number": 36,
+  "description": "Number 36 Samuel Jaskolski. Overall rating of 77.",
   "external_url": "https://example.com/player/402",
   "image": "ipfs://QmcEELG4Uwq5tapiv9zN2NHAjPF2q1Pbi85DshhmsnpBAG",
-  "tier": 1,
-  "overallRating": 83,
+  "tier": 2,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 66,
+    "speed": 65,
+    "shooting": 59,
     "passing": 69,
-    "dribbling": 68,
-    "defense": 75,
-    "physical": 69,
-    "goalTending": 83
+    "dribbling": 74,
+    "defense": 59,
+    "physical": 73,
+    "goal_tending": 74
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 65
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 59
     },
     {
       "display_type": "passing",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 75
+      "value": 59
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 69
+      "value": 73
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 83
+      "value": 74
     }
   ]
 }

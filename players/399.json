@@ -1,56 +1,61 @@
 {
-  "name": "Ruth Feeney",
-  "jerseyNumber": 70,
-  "description": "Number 70 Ruth Feeney. Overall rating of 61.",
+  "name": "Milton Ernser-Osinski",
+  "jersey_number": 9,
+  "description": "Number 9 Milton Ernser-Osinski. Overall rating of 87.",
   "external_url": "https://example.com/player/399",
   "image": "ipfs://QmRvur7iEDoZJFsMZ1ApWL1QZPnDJTwKK2tBzP97MPzw27",
-  "tier": 3,
-  "overallRating": 61,
+  "tier": 1,
+  "overall_rating": 87,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 42,
-    "shooting": 55,
-    "passing": 60,
-    "dribbling": 53,
-    "defense": 58,
-    "physical": 61,
-    "goalTending": 41
+    "speed": 72,
+    "shooting": 76,
+    "passing": 85,
+    "dribbling": 80,
+    "defense": 84,
+    "physical": 83,
+    "goal_tending": 82
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 42
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 85
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 53
+      "value": 80
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 83
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 41
+      "value": 82
     }
   ]
 }

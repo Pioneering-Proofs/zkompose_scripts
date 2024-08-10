@@ -1,56 +1,61 @@
 {
-  "name": "Billy Howell Sr.",
-  "jerseyNumber": 97,
-  "description": "Number 97 Billy Howell Sr.. Overall rating of 85.",
+  "name": "Dr. Roberto Schmidt",
+  "jersey_number": 44,
+  "description": "Number 44 Dr. Roberto Schmidt. Overall rating of 91.",
   "external_url": "https://example.com/player/594",
   "image": "ipfs://QmUjzWHdeqgH4gSNmK4w6D5tnxafL8qmFEyR7pK52ABQkK",
-  "tier": 1,
-  "overallRating": 85,
+  "tier": 0,
+  "overall_rating": 91,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
-    "shooting": 73,
-    "passing": 80,
-    "dribbling": 68,
-    "defense": 81,
-    "physical": 81,
-    "goalTending": 74
+    "speed": 90,
+    "shooting": 81,
+    "passing": 81,
+    "dribbling": 84,
+    "defense": 91,
+    "physical": 89,
+    "goal_tending": 82
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 90
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 73
+      "value": 81
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 80
+      "value": 81
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 84
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 81
+      "value": 91
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 81
+      "value": 89
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 74
+      "value": 82
     }
   ]
 }

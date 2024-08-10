@@ -1,56 +1,61 @@
 {
-  "name": "Jacqueline Luettgen",
-  "jerseyNumber": 36,
-  "description": "Number 36 Jacqueline Luettgen. Overall rating of 82.",
+  "name": "Crystal Franecki",
+  "jersey_number": 43,
+  "description": "Number 43 Crystal Franecki. Overall rating of 64.",
   "external_url": "https://example.com/player/840",
   "image": "ipfs://Qmbm48RsHXhF4cqB9nSN575wK55LeeUx3pW8E21XwwSj6c",
-  "tier": 1,
-  "overallRating": 82,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 80,
-    "shooting": 65,
-    "passing": 65,
-    "dribbling": 71,
-    "defense": 69,
-    "physical": 64,
-    "goalTending": 67
+    "speed": 63,
+    "shooting": 54,
+    "passing": 61,
+    "dribbling": 54,
+    "defense": 59,
+    "physical": 62,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 80
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 54
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 61
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 54
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 59
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 54
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Kate Lynch",
-  "jerseyNumber": 81,
-  "description": "Number 81 Kate Lynch. Overall rating of 92.",
+  "name": "Dr. Lucas Schiller",
+  "jersey_number": 79,
+  "description": "Number 79 Dr. Lucas Schiller. Overall rating of 70.",
   "external_url": "https://example.com/player/496",
   "image": "ipfs://QmWu13eoLcU7zgD2LFcUwDPY5SDoEgaCodMK71cqrqjDEy",
-  "tier": 0,
-  "overallRating": 92,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 89,
-    "shooting": 76,
-    "passing": 76,
-    "dribbling": 78,
-    "defense": 78,
-    "physical": 79,
-    "goalTending": 90
+    "speed": 66,
+    "shooting": 52,
+    "passing": 51,
+    "dribbling": 63,
+    "defense": 67,
+    "physical": 64,
+    "goal_tending": 50
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 89
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 52
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 76
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 79
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 90
+      "value": 50
     }
   ]
 }

@@ -1,41 +1,46 @@
 {
-  "name": "Phillip Jacobi",
-  "jerseyNumber": 30,
-  "description": "Number 30 Phillip Jacobi. Overall rating of 80.",
+  "name": "Mrs. Holly Ankunding-Spinka",
+  "jersey_number": 20,
+  "description": "Number 20 Mrs. Holly Ankunding-Spinka. Overall rating of 70.",
   "external_url": "https://example.com/player/92",
   "image": "ipfs://QmZfjBwFZ2GRcGpgS23ktiRdxkx8Th4Njwcf2fY3Nswf5D",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 76,
-    "shooting": 62,
-    "passing": 62,
-    "dribbling": 64,
+    "speed": 59,
+    "shooting": 60,
+    "passing": 68,
+    "dribbling": 54,
     "defense": 66,
-    "physical": 60,
-    "goalTending": 63
+    "physical": 51,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 76
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 62
+      "value": 60
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 64
+      "value": 54
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 51
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 63
+      "value": 69
     }
   ]
 }

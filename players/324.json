@@ -1,56 +1,61 @@
 {
-  "name": "Tonya Herzog",
-  "jerseyNumber": 91,
-  "description": "Number 91 Tonya Herzog. Overall rating of 61.",
+  "name": "Adam Fadel",
+  "jersey_number": 79,
+  "description": "Number 79 Adam Fadel. Overall rating of 76.",
   "external_url": "https://example.com/player/324",
   "image": "ipfs://QmNzeANaqZ979NZG7DctNSxz259sQUTJDxnQ5SiziHHuAq",
-  "tier": 3,
-  "overallRating": 61,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 54,
-    "shooting": 41,
-    "passing": 49,
-    "dribbling": 61,
-    "defense": 58,
-    "physical": 51,
-    "goalTending": 43
+    "speed": 59,
+    "shooting": 73,
+    "passing": 75,
+    "dribbling": 60,
+    "defense": 56,
+    "physical": 58,
+    "goal_tending": 76
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 54
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 41
+      "value": 73
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 49
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 56
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 51
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 43
+      "value": 76
     }
   ]
 }

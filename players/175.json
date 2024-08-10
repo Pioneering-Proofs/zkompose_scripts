@@ -1,56 +1,61 @@
 {
-  "name": "Yolanda Homenick",
-  "jerseyNumber": 8,
-  "description": "Number 8 Yolanda Homenick. Overall rating of 63.",
+  "name": "Erika Denesik",
+  "jersey_number": 55,
+  "description": "Number 55 Erika Denesik. Overall rating of 70.",
   "external_url": "https://example.com/player/175",
   "image": "ipfs://QmTSJrLW5hPnrmomM7iPYz3Uy83RXHa5caK2C5PZr3dpbm",
-  "tier": 3,
-  "overallRating": 63,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 49,
-    "shooting": 48,
-    "passing": 51,
-    "dribbling": 60,
-    "defense": 61,
-    "physical": 54,
-    "goalTending": 53
+    "speed": 57,
+    "shooting": 69,
+    "passing": 57,
+    "dribbling": 55,
+    "defense": 55,
+    "physical": 64,
+    "goal_tending": 57
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 49
+      "value": 57
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 48
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 51
+      "value": 57
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 55
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 54
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 53
+      "value": 57
     }
   ]
 }

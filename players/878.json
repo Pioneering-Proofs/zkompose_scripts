@@ -1,41 +1,46 @@
 {
-  "name": "Rudy O'Reilly",
-  "jerseyNumber": 11,
-  "description": "Number 11 Rudy O'Reilly. Overall rating of 71.",
+  "name": "Alyssa Zemlak",
+  "jersey_number": 73,
+  "description": "Number 73 Alyssa Zemlak. Overall rating of 68.",
   "external_url": "https://example.com/player/878",
   "image": "ipfs://QmXd2estGVF3uFuqbBfXGyRNuXG5y3CYMoxGRj1Apymrwz",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 3,
+  "overall_rating": 68,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 58,
-    "shooting": 53,
-    "passing": 51,
-    "dribbling": 67,
+    "speed": 64,
+    "shooting": 61,
+    "passing": 67,
+    "dribbling": 55,
     "defense": 56,
-    "physical": 56,
-    "goalTending": 58
+    "physical": 60,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 58
+      "value": 64
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 53
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 51
+      "value": 67
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 55
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 60
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 66
     }
   ]
 }

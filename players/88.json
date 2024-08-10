@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Saul Pouros",
-  "jerseyNumber": 54,
-  "description": "Number 54 Mr. Saul Pouros. Overall rating of 66.",
+  "name": "Billy Denesik",
+  "jersey_number": 49,
+  "description": "Number 49 Billy Denesik. Overall rating of 73.",
   "external_url": "https://example.com/player/88",
   "image": "ipfs://QmPa8fGEoUsNNC4MLrKMiy8sFUFWcgw8AbBMu8rCweFWtK",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 2,
+  "overall_rating": 73,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 56,
-    "passing": 60,
-    "dribbling": 53,
-    "defense": 56,
-    "physical": 47,
-    "goalTending": 49
+    "speed": 68,
+    "shooting": 62,
+    "passing": 66,
+    "dribbling": 67,
+    "defense": 54,
+    "physical": 62,
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 56
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 53
+      "value": 67
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 56
+      "value": 54
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 47
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 49
+      "value": 73
     }
   ]
 }

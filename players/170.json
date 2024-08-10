@@ -1,56 +1,61 @@
 {
-  "name": "Sheila Leannon",
-  "jerseyNumber": 1,
-  "description": "Number 1 Sheila Leannon. Overall rating of 79.",
+  "name": "Tomas Schmeler",
+  "jersey_number": 75,
+  "description": "Number 75 Tomas Schmeler. Overall rating of 82.",
   "external_url": "https://example.com/player/170",
   "image": "ipfs://QmfXCNw8qYCgfcnMesXYGVEZqqopmoDLD7zbEuDHePS7Zm",
-  "tier": 2,
-  "overallRating": 79,
+  "tier": 1,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 60,
-    "passing": 65,
-    "dribbling": 61,
-    "defense": 77,
-    "physical": 75,
-    "goalTending": 78
+    "speed": 75,
+    "shooting": 78,
+    "passing": 76,
+    "dribbling": 80,
+    "defense": 62,
+    "physical": 74,
+    "goal_tending": 75
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 75
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 60
+      "value": 78
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 76
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 80
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 77
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 78
+      "value": 75
     }
   ]
 }

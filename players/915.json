@@ -1,56 +1,61 @@
 {
-  "name": "Amelia Hand",
-  "jerseyNumber": 47,
-  "description": "Number 47 Amelia Hand. Overall rating of 69.",
+  "name": "Kim McDermott V",
+  "jersey_number": 2,
+  "description": "Number 2 Kim McDermott V. Overall rating of 78.",
   "external_url": "https://example.com/player/915",
   "image": "ipfs://QmXGxEyCSPQGWei3y1ATLJ28Ax1yptr7QKzJgKbqVBEeWU",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 50,
-    "shooting": 68,
-    "passing": 68,
-    "dribbling": 68,
-    "defense": 59,
-    "physical": 68,
-    "goalTending": 49
+    "speed": 63,
+    "shooting": 62,
+    "passing": 63,
+    "dribbling": 75,
+    "defense": 62,
+    "physical": 77,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 50
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 59
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 49
+      "value": 70
     }
   ]
 }

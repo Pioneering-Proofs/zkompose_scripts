@@ -1,56 +1,61 @@
 {
-  "name": "Jenna Franecki",
-  "jerseyNumber": 60,
-  "description": "Number 60 Jenna Franecki. Overall rating of 68.",
+  "name": "Dr. Ira Hamill",
+  "jersey_number": 60,
+  "description": "Number 60 Dr. Ira Hamill. Overall rating of 78.",
   "external_url": "https://example.com/player/754",
   "image": "ipfs://QmPH7ZfeQ9rsYyqoqhyHf6wmw4ef1UFFrEaGfLkjMq7BWL",
-  "tier": 3,
-  "overallRating": 68,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 55,
-    "shooting": 51,
-    "passing": 67,
-    "dribbling": 58,
-    "defense": 52,
-    "physical": 55,
-    "goalTending": 49
+    "speed": 74,
+    "shooting": 75,
+    "passing": 59,
+    "dribbling": 64,
+    "defense": 76,
+    "physical": 62,
+    "goal_tending": 76
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 55
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 51
+      "value": 75
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 59
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 52
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 55
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 49
+      "value": 76
     }
   ]
 }

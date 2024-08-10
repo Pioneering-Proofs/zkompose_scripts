@@ -1,56 +1,61 @@
 {
-  "name": "Holly Mayert",
-  "jerseyNumber": 46,
-  "description": "Number 46 Holly Mayert. Overall rating of 79.",
+  "name": "Miranda Langosh",
+  "jersey_number": 33,
+  "description": "Number 33 Miranda Langosh. Overall rating of 56.",
   "external_url": "https://example.com/player/863",
   "image": "ipfs://QmefAR3NwwN3yZ7qdrNQ79bPqV9DGydCpYKzQv5gUYGNF4",
-  "tier": 2,
-  "overallRating": 79,
+  "tier": 4,
+  "overall_rating": 56,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 76,
-    "shooting": 77,
-    "passing": 69,
-    "dribbling": 61,
-    "defense": 60,
-    "physical": 61,
-    "goalTending": 72
+    "speed": 49,
+    "shooting": 54,
+    "passing": 42,
+    "dribbling": 53,
+    "defense": 41,
+    "physical": 56,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 76
+      "value": 49
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 77
+      "value": 54
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 69
+      "value": 42
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 53
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 41
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 54
     }
   ]
 }

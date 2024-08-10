@@ -1,56 +1,61 @@
 {
-  "name": "Danny Rogahn",
-  "jerseyNumber": 9,
-  "description": "Number 9 Danny Rogahn. Overall rating of 84.",
+  "name": "Ron Cremin",
+  "jersey_number": 13,
+  "description": "Number 13 Ron Cremin. Overall rating of 72.",
   "external_url": "https://example.com/player/773",
   "image": "ipfs://QmXxNnd14Q4JgrpyrPSvCuGm167HXNTAbjYLXpZQdmnPoq",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
-    "shooting": 64,
-    "passing": 76,
-    "dribbling": 72,
-    "defense": 74,
-    "physical": 80,
-    "goalTending": 79
+    "speed": 68,
+    "shooting": 53,
+    "passing": 62,
+    "dribbling": 59,
+    "defense": 58,
+    "physical": 71,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 53
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 76
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 72
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 74
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 80
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 79
+      "value": 52
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Lynn Donnelly",
-  "jerseyNumber": 66,
-  "description": "Number 66 Lynn Donnelly. Overall rating of 74.",
+  "name": "Roxanne Jacobi",
+  "jersey_number": 1,
+  "description": "Number 1 Roxanne Jacobi. Overall rating of 80.",
   "external_url": "https://example.com/player/858",
   "image": "ipfs://Qma353hB6TuFmL8o6GhJCB8HUJnZRAi1RPiwPkVXFLGi9h",
-  "tier": 2,
-  "overallRating": 74,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
-    "shooting": 60,
-    "passing": 59,
-    "dribbling": 63,
-    "defense": 72,
-    "physical": 68,
-    "goalTending": 69
+    "speed": 68,
+    "shooting": 61,
+    "passing": 63,
+    "dribbling": 74,
+    "defense": 61,
+    "physical": 72,
+    "goal_tending": 76
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 60
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 72
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 76
     }
   ]
 }

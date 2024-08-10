@@ -1,22 +1,27 @@
 {
-  "name": "Dr. Kenny Legros",
-  "jerseyNumber": 77,
-  "description": "Number 77 Dr. Kenny Legros. Overall rating of 78.",
+  "name": "Laverne Fritsch",
+  "jersey_number": 11,
+  "description": "Number 11 Laverne Fritsch. Overall rating of 85.",
   "external_url": "https://example.com/player/846",
   "image": "ipfs://QmNMkUiYtjD4R8yngQV6QbhbyseAHFtssn8utYaM5gsZMD",
-  "tier": 2,
-  "overallRating": 78,
+  "tier": 1,
+  "overall_rating": 85,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 75,
-    "shooting": 73,
+    "shooting": 81,
     "passing": 65,
-    "dribbling": 67,
-    "defense": 68,
-    "physical": 74,
-    "goalTending": 75
+    "dribbling": 83,
+    "defense": 84,
+    "physical": 81,
+    "goal_tending": 80
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,7 +30,7 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 73
+      "value": 81
     },
     {
       "display_type": "passing",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 83
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 74
+      "value": 81
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 80
     }
   ]
 }

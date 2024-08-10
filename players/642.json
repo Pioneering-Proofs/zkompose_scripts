@@ -1,26 +1,31 @@
 {
-  "name": "Silvia Boyer",
-  "jerseyNumber": 33,
-  "description": "Number 33 Silvia Boyer. Overall rating of 83.",
+  "name": "Monica Schmeler",
+  "jersey_number": 5,
+  "description": "Number 5 Monica Schmeler. Overall rating of 78.",
   "external_url": "https://example.com/player/642",
   "image": "ipfs://QmQxPsXKYGMomiZkQWnLzDZLQMSmhaW75Jy8gRxWnGkpNC",
-  "tier": 1,
-  "overallRating": 83,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
+    "speed": 73,
     "shooting": 77,
-    "passing": 79,
-    "dribbling": 72,
-    "defense": 79,
-    "physical": 71,
-    "goalTending": 82
+    "passing": 73,
+    "dribbling": 74,
+    "defense": 75,
+    "physical": 62,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 73
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 79
+      "value": 73
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 72
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 79
+      "value": 75
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 82
+      "value": 66
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Phillip Osinski",
-  "jerseyNumber": 89,
-  "description": "Number 89 Mr. Phillip Osinski. Overall rating of 84.",
+  "name": "Olive Grimes II",
+  "jersey_number": 20,
+  "description": "Number 20 Olive Grimes II. Overall rating of 85.",
   "external_url": "https://example.com/player/495",
   "image": "ipfs://QmUzXpmNFaAmqFU2xsaGJvr9yuEV6HK8uYu7qhwo24jAMi",
   "tier": 1,
-  "overallRating": 84,
+  "overall_rating": 85,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 67,
-    "passing": 82,
-    "dribbling": 75,
-    "defense": 82,
-    "physical": 66,
-    "goalTending": 80
+    "speed": 66,
+    "shooting": 69,
+    "passing": 84,
+    "dribbling": 68,
+    "defense": 65,
+    "physical": 78,
+    "goal_tending": 78
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 67
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 82
+      "value": 84
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 75
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 82
+      "value": 65
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 66
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 80
+      "value": 78
     }
   ]
 }

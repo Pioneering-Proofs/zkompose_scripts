@@ -1,26 +1,31 @@
 {
-  "name": "Gregory Hyatt Sr.",
-  "jerseyNumber": 59,
-  "description": "Number 59 Gregory Hyatt Sr.. Overall rating of 65.",
+  "name": "Roger Satterfield-Hirthe",
+  "jersey_number": 86,
+  "description": "Number 86 Roger Satterfield-Hirthe. Overall rating of 65.",
   "external_url": "https://example.com/player/340",
   "image": "ipfs://Qmdd76CLxv7miXhiXh817ygwHVfzwyS8fywEc4d7vS84aV",
   "tier": 3,
-  "overallRating": 65,
+  "overall_rating": 65,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 45,
+    "speed": 58,
     "shooting": 52,
-    "passing": 65,
-    "dribbling": 53,
-    "defense": 47,
+    "passing": 58,
+    "dribbling": 59,
+    "defense": 55,
     "physical": 59,
-    "goalTending": 54
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 45
+      "value": 58
     },
     {
       "display_type": "shooting",
@@ -30,17 +35,17 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 53
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 47
+      "value": 55
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 54
+      "value": 61
     }
   ]
 }

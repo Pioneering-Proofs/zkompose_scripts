@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Kyle Glover",
-  "jerseyNumber": 42,
-  "description": "Number 42 Mr. Kyle Glover. Overall rating of 63.",
+  "name": "Paulette Sawayn",
+  "jersey_number": 88,
+  "description": "Number 88 Paulette Sawayn. Overall rating of 62.",
   "external_url": "https://example.com/player/173",
   "image": "ipfs://QmNVcL6dUYh912HKgHtf1LaqofAS134p5qaLHC1yEY5pW6",
   "tier": 3,
-  "overallRating": 63,
+  "overall_rating": 62,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
-    "shooting": 47,
-    "passing": 56,
-    "dribbling": 62,
-    "defense": 59,
-    "physical": 47,
-    "goalTending": 61
+    "speed": 46,
+    "shooting": 46,
+    "passing": 44,
+    "dribbling": 50,
+    "defense": 50,
+    "physical": 59,
+    "goal_tending": 45
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 46
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 47
+      "value": 46
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 44
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 50
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 59
+      "value": 50
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 47
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 45
     }
   ]
 }

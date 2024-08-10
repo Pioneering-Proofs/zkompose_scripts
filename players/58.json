@@ -1,56 +1,61 @@
 {
-  "name": "Karen Hickle",
-  "jerseyNumber": 6,
-  "description": "Number 6 Karen Hickle. Overall rating of 73.",
+  "name": "Alan Lowe",
+  "jersey_number": 85,
+  "description": "Number 85 Alan Lowe. Overall rating of 61.",
   "external_url": "https://example.com/player/58",
   "image": "ipfs://QmQUXnhYv7sqwsLXMsWFo8t3rtWHTsXERGhcoc1y1tWtSH",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 3,
+  "overall_rating": 61,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 58,
-    "shooting": 59,
-    "passing": 59,
-    "dribbling": 65,
-    "defense": 69,
-    "physical": 71,
-    "goalTending": 59
+    "speed": 57,
+    "shooting": 48,
+    "passing": 58,
+    "dribbling": 43,
+    "defense": 55,
+    "physical": 50,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 58
+      "value": 57
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 48
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 43
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 50
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 52
     }
   ]
 }

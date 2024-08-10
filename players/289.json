@@ -1,56 +1,61 @@
 {
-  "name": "Esther Spinka",
-  "jerseyNumber": 11,
-  "description": "Number 11 Esther Spinka. Overall rating of 64.",
+  "name": "Jake Cartwright",
+  "jersey_number": 34,
+  "description": "Number 34 Jake Cartwright. Overall rating of 54.",
   "external_url": "https://example.com/player/289",
   "image": "ipfs://QmVE8viKzvR52GQL5yC24L6ridvjwngTLXBzD1zotsA4B4",
-  "tier": 3,
-  "overallRating": 64,
+  "tier": 4,
+  "overall_rating": 54,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 48,
-    "shooting": 44,
-    "passing": 52,
-    "dribbling": 44,
-    "defense": 60,
-    "physical": 46,
-    "goalTending": 58
+    "speed": 36,
+    "shooting": 52,
+    "passing": 35,
+    "dribbling": 51,
+    "defense": 39,
+    "physical": 37,
+    "goal_tending": 50
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 48
+      "value": 36
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 44
+      "value": 52
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 35
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 44
+      "value": 51
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 39
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 46
+      "value": 37
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 50
     }
   ]
 }

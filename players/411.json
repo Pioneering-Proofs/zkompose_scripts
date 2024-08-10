@@ -1,56 +1,61 @@
 {
-  "name": "Mildred Cummings",
-  "jerseyNumber": 99,
-  "description": "Number 99 Mildred Cummings. Overall rating of 59.",
+  "name": "Pete Lockman",
+  "jersey_number": 10,
+  "description": "Number 10 Pete Lockman. Overall rating of 78.",
   "external_url": "https://example.com/player/411",
   "image": "ipfs://QmUBjRUNQM96JLFmyHVBvWAvwv3gPncvqSv42mHELHjMgB",
-  "tier": 4,
-  "overallRating": 59,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 51,
-    "shooting": 40,
-    "passing": 58,
-    "dribbling": 56,
-    "defense": 45,
-    "physical": 48,
-    "goalTending": 55
+    "speed": 60,
+    "shooting": 74,
+    "passing": 67,
+    "dribbling": 70,
+    "defense": 67,
+    "physical": 61,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 51
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 40
+      "value": 74
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 67
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 45
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 48
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 55
+      "value": 67
     }
   ]
 }

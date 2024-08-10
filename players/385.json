@@ -1,56 +1,61 @@
 {
-  "name": "Nellie Cole",
-  "jerseyNumber": 73,
-  "description": "Number 73 Nellie Cole. Overall rating of 85.",
+  "name": "Erica Kuhn",
+  "jersey_number": 9,
+  "description": "Number 9 Erica Kuhn. Overall rating of 69.",
   "external_url": "https://example.com/player/385",
   "image": "ipfs://QmQYn8Unn756vcvsWVk7Kpb5tY17ygTZWoZjxGFtuTznjF",
-  "tier": 1,
-  "overallRating": 85,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 78,
-    "shooting": 82,
-    "passing": 72,
-    "dribbling": 78,
-    "defense": 82,
-    "physical": 68,
-    "goalTending": 71
+    "speed": 59,
+    "shooting": 50,
+    "passing": 63,
+    "dribbling": 66,
+    "defense": 58,
+    "physical": 67,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 78
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 82
+      "value": 50
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 66
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 82
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 67
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 65
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Dr. Benny Kreiger",
-  "jerseyNumber": 39,
-  "description": "Number 39 Dr. Benny Kreiger. Overall rating of 56.",
+  "name": "Gwen Goldner",
+  "jersey_number": 33,
+  "description": "Number 33 Gwen Goldner. Overall rating of 86.",
   "external_url": "https://example.com/player/872",
   "image": "ipfs://QmYtFqkS2NPU11xX9PUGj9GhiKZP5BvGNrE8KWtp5ugbws",
-  "tier": 4,
-  "overallRating": 56,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 36,
-    "shooting": 52,
-    "passing": 40,
-    "dribbling": 44,
-    "defense": 43,
-    "physical": 55,
-    "goalTending": 45
+    "speed": 76,
+    "shooting": 80,
+    "passing": 83,
+    "dribbling": 68,
+    "defense": 67,
+    "physical": 81,
+    "goal_tending": 72
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 36
+      "value": 76
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 52
+      "value": 80
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 40
+      "value": 83
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 44
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 43
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 55
+      "value": 81
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 45
+      "value": 72
     }
   ]
 }

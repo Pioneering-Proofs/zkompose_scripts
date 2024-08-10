@@ -1,56 +1,61 @@
 {
-  "name": "Maureen Connelly",
-  "jerseyNumber": 49,
-  "description": "Number 49 Maureen Connelly. Overall rating of 90.",
+  "name": "Hannah Koss I",
+  "jersey_number": 74,
+  "description": "Number 74 Hannah Koss I. Overall rating of 70.",
   "external_url": "https://example.com/player/290",
   "image": "ipfs://QmevRy9PcTXUgWdJpgTtzZx5yHdE98ebzmBbArcUWpJYiK",
-  "tier": 0,
-  "overallRating": 90,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 88,
-    "shooting": 83,
-    "passing": 83,
-    "dribbling": 89,
-    "defense": 74,
-    "physical": 87,
-    "goalTending": 85
+    "speed": 54,
+    "shooting": 65,
+    "passing": 65,
+    "dribbling": 59,
+    "defense": 68,
+    "physical": 56,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 88
+      "value": 54
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 83
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 83
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 89
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 74
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 87
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 85
+      "value": 66
     }
   ]
 }

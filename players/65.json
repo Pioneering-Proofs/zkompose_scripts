@@ -1,56 +1,61 @@
 {
-  "name": "Gerardo Kling",
-  "jerseyNumber": 89,
-  "description": "Number 89 Gerardo Kling. Overall rating of 74.",
+  "name": "Mr. Manuel Hoppe",
+  "jersey_number": 96,
+  "description": "Number 96 Mr. Manuel Hoppe. Overall rating of 96.",
   "external_url": "https://example.com/player/65",
   "image": "ipfs://QmQ7eS1TE3ZJosPrUEVL664zKEHrz67r7rq3en1K87CEoP",
-  "tier": 2,
-  "overallRating": 74,
+  "tier": 0,
+  "overall_rating": 96,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 57,
-    "passing": 57,
-    "dribbling": 73,
-    "defense": 56,
-    "physical": 71,
-    "goalTending": 55
+    "speed": 80,
+    "shooting": 81,
+    "passing": 76,
+    "dribbling": 90,
+    "defense": 94,
+    "physical": 77,
+    "goal_tending": 86
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 80
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 81
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 57
+      "value": 76
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 90
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 56
+      "value": 94
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 55
+      "value": 86
     }
   ]
 }

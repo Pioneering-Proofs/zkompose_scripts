@@ -1,56 +1,61 @@
 {
-  "name": "Tony Welch",
-  "jerseyNumber": 73,
-  "description": "Number 73 Tony Welch. Overall rating of 73.",
+  "name": "Matthew Pfannerstill PhD",
+  "jersey_number": 41,
+  "description": "Number 41 Matthew Pfannerstill PhD. Overall rating of 91.",
   "external_url": "https://example.com/player/34",
   "image": "ipfs://QmevcvhgkFDe2dmFKnD8BXRBPaXi5huZDpTQtVRj2q9MZU",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 0,
+  "overall_rating": 91,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
-    "shooting": 57,
-    "passing": 70,
-    "dribbling": 59,
-    "defense": 58,
-    "physical": 56,
-    "goalTending": 67
+    "speed": 85,
+    "shooting": 75,
+    "passing": 81,
+    "dribbling": 79,
+    "defense": 89,
+    "physical": 86,
+    "goal_tending": 72
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 85
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 75
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 81
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 59
+      "value": 79
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 89
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 86
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 72
     }
   ]
 }

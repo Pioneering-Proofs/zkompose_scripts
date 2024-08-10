@@ -1,54 +1,59 @@
 {
-  "name": "Geneva Macejkovic",
-  "jerseyNumber": 15,
-  "description": "Number 15 Geneva Macejkovic. Overall rating of 67.",
+  "name": "Mrs. Arlene Bogan",
+  "jersey_number": 33,
+  "description": "Number 33 Mrs. Arlene Bogan. Overall rating of 62.",
   "external_url": "https://example.com/player/441",
   "image": "ipfs://QmaxsvwuugAVFrFiuBFeo4WB9gGutucEJC7GUkb5outbsw",
   "tier": 3,
-  "overallRating": 67,
+  "overall_rating": 62,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 48,
-    "passing": 53,
-    "dribbling": 62,
-    "defense": 56,
-    "physical": 50,
-    "goalTending": 50
+    "speed": 43,
+    "shooting": 52,
+    "passing": 60,
+    "dribbling": 60,
+    "defense": 45,
+    "physical": 43,
+    "goal_tending": 50
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 43
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 48
+      "value": 52
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 53
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 56
+      "value": 45
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 50
+      "value": 43
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 50
     }

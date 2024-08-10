@@ -1,22 +1,27 @@
 {
-  "name": "Mr. Angelo Stark",
-  "jerseyNumber": 26,
-  "description": "Number 26 Mr. Angelo Stark. Overall rating of 73.",
+  "name": "Justin Bernier",
+  "jersey_number": 87,
+  "description": "Number 87 Justin Bernier. Overall rating of 77.",
   "external_url": "https://example.com/player/985",
   "image": "ipfs://QmdZqWXqm7QfAe96sp4kQnigkDzDJ48nk2R2VSGcyXNKsx",
   "tier": 2,
-  "overallRating": 73,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 70,
-    "shooting": 54,
-    "passing": 55,
-    "dribbling": 64,
-    "defense": 71,
-    "physical": 60,
-    "goalTending": 68
+    "shooting": 62,
+    "passing": 77,
+    "dribbling": 65,
+    "defense": 57,
+    "physical": 74,
+    "goal_tending": 74
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 54
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 55
+      "value": 77
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 64
+      "value": 65
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 71
+      "value": 57
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 74
     }
   ]
 }

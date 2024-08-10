@@ -1,56 +1,61 @@
 {
-  "name": "Armando Conroy",
-  "jerseyNumber": 5,
-  "description": "Number 5 Armando Conroy. Overall rating of 62.",
+  "name": "Verna Vandervort",
+  "jersey_number": 47,
+  "description": "Number 47 Verna Vandervort. Overall rating of 77.",
   "external_url": "https://example.com/player/963",
   "image": "ipfs://QmVyNiaef7F6at9chmzAiL1hr4A5XyhdwSTzLb6XdMKV34",
-  "tier": 3,
-  "overallRating": 62,
+  "tier": 2,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 46,
-    "shooting": 43,
-    "passing": 60,
-    "dribbling": 45,
-    "defense": 57,
-    "physical": 48,
-    "goalTending": 48
+    "speed": 62,
+    "shooting": 75,
+    "passing": 64,
+    "dribbling": 69,
+    "defense": 73,
+    "physical": 75,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 46
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 43
+      "value": 75
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 45
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 73
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 48
+      "value": 75
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 48
+      "value": 62
     }
   ]
 }

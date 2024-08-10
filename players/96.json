@@ -1,56 +1,61 @@
 {
-  "name": "Willis O'Conner",
-  "jerseyNumber": 63,
-  "description": "Number 63 Willis O'Conner. Overall rating of 77.",
+  "name": "Dr. Carlton Stiedemann",
+  "jersey_number": 17,
+  "description": "Number 17 Dr. Carlton Stiedemann. Overall rating of 85.",
   "external_url": "https://example.com/player/96",
   "image": "ipfs://QmaBRRWBK2wwPYahiL8X4c3J7cRUbYycbjzV68NhLdJRKL",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 1,
+  "overall_rating": 85,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
-    "shooting": 58,
-    "passing": 77,
-    "dribbling": 74,
-    "defense": 69,
-    "physical": 72,
-    "goalTending": 75
+    "speed": 83,
+    "shooting": 66,
+    "passing": 79,
+    "dribbling": 84,
+    "defense": 80,
+    "physical": 69,
+    "goal_tending": 77
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 83
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 58
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 77
+      "value": 79
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 84
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 80
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 77
     }
   ]
 }

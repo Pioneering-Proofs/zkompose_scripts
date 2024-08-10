@@ -1,22 +1,27 @@
 {
-  "name": "Cheryl Strosin",
-  "jerseyNumber": 31,
-  "description": "Number 31 Cheryl Strosin. Overall rating of 76.",
+  "name": "Clay Ratke",
+  "jersey_number": 54,
+  "description": "Number 54 Clay Ratke. Overall rating of 86.",
   "external_url": "https://example.com/player/853",
   "image": "ipfs://QmRwM4dKdcAngkoWgFuTgtJg9qNV7rsL9xZbiq9jqDUgrW",
-  "tier": 2,
-  "overallRating": 76,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 73,
-    "shooting": 59,
-    "passing": 68,
-    "dribbling": 73,
-    "defense": 63,
-    "physical": 58,
-    "goalTending": 72
+    "shooting": 71,
+    "passing": 85,
+    "dribbling": 72,
+    "defense": 68,
+    "physical": 72,
+    "goal_tending": 80
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 71
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 85
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 63
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 80
     }
   ]
 }

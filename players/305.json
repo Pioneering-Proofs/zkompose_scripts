@@ -1,56 +1,61 @@
 {
-  "name": "Milton Hudson",
-  "jerseyNumber": 70,
-  "description": "Number 70 Milton Hudson. Overall rating of 61.",
+  "name": "Kristina King",
+  "jersey_number": 34,
+  "description": "Number 34 Kristina King. Overall rating of 53.",
   "external_url": "https://example.com/player/305",
   "image": "ipfs://QmbkzbHAeLiGZvdz2iWkdhg3ZEGaqHGFGdhL5sTu4XfaFr",
-  "tier": 3,
-  "overallRating": 61,
+  "tier": 4,
+  "overall_rating": 53,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 49,
-    "shooting": 49,
-    "passing": 54,
-    "dribbling": 41,
-    "defense": 61,
-    "physical": 50,
-    "goalTending": 45
+    "speed": 45,
+    "shooting": 37,
+    "passing": 51,
+    "dribbling": 50,
+    "defense": 46,
+    "physical": 49,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 49
+      "value": 45
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 49
+      "value": 37
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 54
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 41
+      "value": 50
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 46
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 50
+      "value": 49
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 45
+      "value": 52
     }
   ]
 }

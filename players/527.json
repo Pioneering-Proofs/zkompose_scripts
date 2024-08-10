@@ -1,56 +1,61 @@
 {
-  "name": "Brandy Boyle",
-  "jerseyNumber": 58,
-  "description": "Number 58 Brandy Boyle. Overall rating of 66.",
+  "name": "Dr. Rosemarie Jast",
+  "jersey_number": 9,
+  "description": "Number 9 Dr. Rosemarie Jast. Overall rating of 86.",
   "external_url": "https://example.com/player/527",
   "image": "ipfs://QmS6oKKUuv7AHgKZamf2DApmp7ccGvbb5KJ6bxueNuqN5f",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 47,
-    "shooting": 54,
-    "passing": 61,
-    "dribbling": 65,
-    "defense": 66,
-    "physical": 50,
-    "goalTending": 65
+    "speed": 85,
+    "shooting": 80,
+    "passing": 66,
+    "dribbling": 79,
+    "defense": 84,
+    "physical": 69,
+    "goal_tending": 75
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 47
+      "value": 85
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 54
+      "value": 80
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 61
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 79
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 50
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 75
     }
   ]
 }

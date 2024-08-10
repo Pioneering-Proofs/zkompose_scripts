@@ -1,56 +1,61 @@
 {
-  "name": "Derek Glover",
-  "jerseyNumber": 10,
-  "description": "Number 10 Derek Glover. Overall rating of 93.",
+  "name": "Carolyn Prohaska",
+  "jersey_number": 78,
+  "description": "Number 78 Carolyn Prohaska. Overall rating of 67.",
   "external_url": "https://example.com/player/335",
   "image": "ipfs://Qmf1T7DLa5CW7ywE8oXBD6h7gfPmi2Uispd7y9SJNWNfK4",
-  "tier": 0,
-  "overallRating": 93,
+  "tier": 3,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 85,
-    "shooting": 82,
-    "passing": 91,
-    "dribbling": 76,
-    "defense": 83,
-    "physical": 80,
-    "goalTending": 78
+    "speed": 65,
+    "shooting": 66,
+    "passing": 65,
+    "dribbling": 56,
+    "defense": 61,
+    "physical": 63,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 85
+      "value": 65
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 82
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 91
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 76
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 83
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 80
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 78
+      "value": 65
     }
   ]
 }

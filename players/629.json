@@ -1,41 +1,46 @@
 {
-  "name": "Denise Franey",
-  "jerseyNumber": 22,
-  "description": "Number 22 Denise Franey. Overall rating of 88.",
+  "name": "Kristina Welch",
+  "jersey_number": 51,
+  "description": "Number 51 Kristina Welch. Overall rating of 79.",
   "external_url": "https://example.com/player/629",
   "image": "ipfs://Qmdr9CjQsr5tEoZQEfuvthb79L2zD5ZxYWZKfNfQ4b9SYz",
-  "tier": 1,
-  "overallRating": 88,
+  "tier": 2,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 84,
-    "shooting": 84,
-    "passing": 86,
-    "dribbling": 71,
+    "speed": 68,
+    "shooting": 66,
+    "passing": 74,
+    "dribbling": 62,
     "defense": 69,
     "physical": 76,
-    "goalTending": 83
+    "goal_tending": 60
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 84
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 84
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 86
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 62
     },
     {
       "display_type": "defense",
@@ -48,9 +53,9 @@
       "value": 76
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 83
+      "value": 60
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Josephine Runolfsdottir",
-  "jerseyNumber": 9,
-  "description": "Number 9 Josephine Runolfsdottir. Overall rating of 82.",
+  "name": "Vivian Russel",
+  "jersey_number": 27,
+  "description": "Number 27 Vivian Russel. Overall rating of 83.",
   "external_url": "https://example.com/player/842",
   "image": "ipfs://QmQ8Dcm9pufqTgBy1AWn738HzuxoQL3pPGGBZZkP6f3LMR",
   "tier": 1,
-  "overallRating": 82,
+  "overall_rating": 83,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 64,
-    "passing": 65,
-    "dribbling": 62,
-    "defense": 81,
-    "physical": 71,
-    "goalTending": 78
+    "speed": 63,
+    "shooting": 75,
+    "passing": 74,
+    "dribbling": 73,
+    "defense": 67,
+    "physical": 79,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 75
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 81
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 79
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 78
+      "value": 68
     }
   ]
 }

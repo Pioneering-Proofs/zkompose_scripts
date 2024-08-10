@@ -1,56 +1,61 @@
 {
-  "name": "Kelvin Ondricka",
-  "jerseyNumber": 13,
-  "description": "Number 13 Kelvin Ondricka. Overall rating of 66.",
+  "name": "Felipe Casper",
+  "jersey_number": 43,
+  "description": "Number 43 Felipe Casper. Overall rating of 58.",
   "external_url": "https://example.com/player/723",
   "image": "ipfs://QmbtYqpgkiDNWSruKhQobVHEAkoJ14SqiKTzsPcr9pdgXE",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 4,
+  "overall_rating": 58,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 50,
-    "passing": 50,
-    "dribbling": 56,
-    "defense": 47,
-    "physical": 65,
-    "goalTending": 63
+    "speed": 38,
+    "shooting": 43,
+    "passing": 57,
+    "dribbling": 49,
+    "defense": 48,
+    "physical": 42,
+    "goal_tending": 55
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 38
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 50
+      "value": 43
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 50
+      "value": 57
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 49
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 47
+      "value": 48
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 42
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 63
+      "value": 55
     }
   ]
 }

@@ -1,54 +1,59 @@
 {
-  "name": "Emmett Larkin",
-  "jerseyNumber": 72,
-  "description": "Number 72 Emmett Larkin. Overall rating of 75.",
+  "name": "Sonja Bradtke",
+  "jersey_number": 54,
+  "description": "Number 54 Sonja Bradtke. Overall rating of 82.",
   "external_url": "https://example.com/player/314",
   "image": "ipfs://QmSum23s3uvaHbXPY39VwnUGRPnPekpdzTWYjmLsmp3562",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 1,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 62,
-    "passing": 66,
-    "dribbling": 63,
-    "defense": 65,
-    "physical": 57,
-    "goalTending": 73
+    "speed": 82,
+    "shooting": 76,
+    "passing": 80,
+    "dribbling": 69,
+    "defense": 75,
+    "physical": 62,
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 82
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 62
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 66
+      "value": 80
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 65
+      "value": 75
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 73
     }

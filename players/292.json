@@ -1,56 +1,61 @@
 {
-  "name": "Allison Robel",
-  "jerseyNumber": 90,
-  "description": "Number 90 Allison Robel. Overall rating of 95.",
+  "name": "Jaime Hoeger",
+  "jersey_number": 25,
+  "description": "Number 25 Jaime Hoeger. Overall rating of 78.",
   "external_url": "https://example.com/player/292",
   "image": "ipfs://QmQzEaXWpuQedcb9BooPVumKMYA76UGSyKEE8hKZjPT6rP",
-  "tier": 0,
-  "overallRating": 95,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 87,
-    "shooting": 81,
-    "passing": 79,
-    "dribbling": 89,
-    "defense": 94,
-    "physical": 86,
-    "goalTending": 78
+    "speed": 73,
+    "shooting": 58,
+    "passing": 69,
+    "dribbling": 73,
+    "defense": 70,
+    "physical": 61,
+    "goal_tending": 76
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 87
+      "value": 73
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 81
+      "value": 58
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 79
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 89
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 94
+      "value": 70
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 86
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 78
+      "value": 76
     }
   ]
 }

@@ -1,31 +1,36 @@
 {
-  "name": "Tyrone Smitham",
-  "jerseyNumber": 98,
-  "description": "Number 98 Tyrone Smitham. Overall rating of 63.",
+  "name": "Bessie Kassulke",
+  "jersey_number": 43,
+  "description": "Number 43 Bessie Kassulke. Overall rating of 70.",
   "external_url": "https://example.com/player/707",
   "image": "ipfs://QmVfxBztKd5buMz6f4jbE7Cg4wpDKBqgTPdvVq2a44Aoc4",
-  "tier": 3,
-  "overallRating": 63,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 56,
+    "speed": 59,
+    "shooting": 66,
     "passing": 61,
-    "dribbling": 50,
-    "defense": 60,
-    "physical": 43,
-    "goalTending": 61
+    "dribbling": 63,
+    "defense": 69,
+    "physical": 53,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 56
+      "value": 66
     },
     {
       "display_type": "passing",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 50
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 43
+      "value": 53
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 56
     }
   ]
 }

@@ -1,41 +1,46 @@
 {
-  "name": "Lena Kertzmann",
-  "jerseyNumber": 58,
-  "description": "Number 58 Lena Kertzmann. Overall rating of 72.",
+  "name": "James Trantow",
+  "jersey_number": 14,
+  "description": "Number 14 James Trantow. Overall rating of 65.",
   "external_url": "https://example.com/player/633",
   "image": "ipfs://QmcdwX1cXuR1a6e6LVHPEk98UBz9TWYN52mGZybHSC13EJ",
-  "tier": 2,
-  "overallRating": 72,
+  "tier": 3,
+  "overall_rating": 65,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 55,
-    "shooting": 57,
-    "passing": 68,
-    "dribbling": 54,
+    "speed": 46,
+    "shooting": 46,
+    "passing": 64,
+    "dribbling": 59,
     "defense": 54,
-    "physical": 56,
-    "goalTending": 70
+    "physical": 61,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 55
+      "value": 46
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 46
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 54
+      "value": 59
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 70
+      "value": 54
     }
   ]
 }

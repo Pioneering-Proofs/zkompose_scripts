@@ -1,41 +1,46 @@
 {
-  "name": "Margaret Connelly",
-  "jerseyNumber": 94,
-  "description": "Number 94 Margaret Connelly. Overall rating of 87.",
+  "name": "Ed Wehner",
+  "jersey_number": 86,
+  "description": "Number 86 Ed Wehner. Overall rating of 87.",
   "external_url": "https://example.com/player/125",
   "image": "ipfs://QmNhCHsRw12o94eXkrJZYKB31pSsRBAP8fVKkgrYc26HLR",
   "tier": 1,
-  "overallRating": 87,
+  "overall_rating": 87,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 78,
-    "shooting": 76,
-    "passing": 74,
-    "dribbling": 76,
+    "speed": 70,
+    "shooting": 72,
+    "passing": 79,
+    "dribbling": 83,
     "defense": 81,
-    "physical": 83,
-    "goalTending": 75
+    "physical": 85,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 78
+      "value": 70
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 72
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 79
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 76
+      "value": 83
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 83
+      "value": 85
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 67
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Esther Padberg",
-  "jerseyNumber": 2,
-  "description": "Number 2 Esther Padberg. Overall rating of 66.",
+  "name": "Glenda Wintheiser",
+  "jersey_number": 57,
+  "description": "Number 57 Glenda Wintheiser. Overall rating of 87.",
   "external_url": "https://example.com/player/190",
   "image": "ipfs://QmQucDooHEvLr9jqfKz1FbBDMBJUPp2SkJCqYn2VSKNYxU",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 1,
+  "overall_rating": 87,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 50,
-    "passing": 52,
-    "dribbling": 51,
-    "defense": 62,
-    "physical": 64,
-    "goalTending": 51
+    "speed": 80,
+    "shooting": 84,
+    "passing": 83,
+    "dribbling": 73,
+    "defense": 78,
+    "physical": 78,
+    "goal_tending": 84
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 80
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 50
+      "value": 84
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 83
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 51
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 62
+      "value": 78
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 51
+      "value": 84
     }
   ]
 }

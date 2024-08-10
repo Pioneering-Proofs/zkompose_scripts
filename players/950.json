@@ -1,56 +1,61 @@
 {
-  "name": "Maurice Fahey",
-  "jerseyNumber": 45,
-  "description": "Number 45 Maurice Fahey. Overall rating of 69.",
+  "name": "Tracey Rice",
+  "jersey_number": 60,
+  "description": "Number 60 Tracey Rice. Overall rating of 84.",
   "external_url": "https://example.com/player/950",
   "image": "ipfs://QmbvXjkBwmVoBrR8dJsEytnhZWiQ2YLUyo9zQ3avoJuDQb",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 1,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 59,
-    "passing": 52,
-    "dribbling": 60,
-    "defense": 66,
-    "physical": 52,
-    "goalTending": 68
+    "speed": 71,
+    "shooting": 81,
+    "passing": 78,
+    "dribbling": 82,
+    "defense": 77,
+    "physical": 83,
+    "goal_tending": 75
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 81
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 78
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 82
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 52
+      "value": 83
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 75
     }
   ]
 }

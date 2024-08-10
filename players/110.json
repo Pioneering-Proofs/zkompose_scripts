@@ -1,56 +1,61 @@
 {
-  "name": "Holly Heathcote",
-  "jerseyNumber": 93,
-  "description": "Number 93 Holly Heathcote. Overall rating of 84.",
+  "name": "Denise Leuschke",
+  "jersey_number": 63,
+  "description": "Number 63 Denise Leuschke. Overall rating of 72.",
   "external_url": "https://example.com/player/110",
   "image": "ipfs://QmZDbsKjKQSBkLfGWkcuF2JhQtE3vDS9RVoE2vHYcNBfKA",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 80,
-    "passing": 83,
-    "dribbling": 77,
-    "defense": 72,
-    "physical": 64,
-    "goalTending": 83
+    "speed": 56,
+    "shooting": 63,
+    "passing": 69,
+    "dribbling": 58,
+    "defense": 60,
+    "physical": 56,
+    "goal_tending": 53
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 56
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 80
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 83
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 77
+      "value": 58
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 72
+      "value": 60
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 83
+      "value": 53
     }
   ]
 }

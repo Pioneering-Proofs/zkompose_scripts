@@ -1,56 +1,61 @@
 {
-  "name": "Jennifer Reichert",
-  "jerseyNumber": 60,
-  "description": "Number 60 Jennifer Reichert. Overall rating of 76.",
+  "name": "Monica Carter",
+  "jersey_number": 76,
+  "description": "Number 76 Monica Carter. Overall rating of 70.",
   "external_url": "https://example.com/player/248",
   "image": "ipfs://QmZ9Py35SZWSuw8kyckEDvasYVBbDHBBDSWtkE3Ve1jjng",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 67,
-    "passing": 72,
-    "dribbling": 67,
-    "defense": 68,
-    "physical": 72,
-    "goalTending": 64
+    "speed": 60,
+    "shooting": 68,
+    "passing": 51,
+    "dribbling": 51,
+    "defense": 52,
+    "physical": 58,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 67
+      "value": 68
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 51
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 61
     }
   ]
 }

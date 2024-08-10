@@ -1,56 +1,61 @@
 {
-  "name": "Sandra Kutch DDS",
-  "jerseyNumber": 98,
-  "description": "Number 98 Sandra Kutch DDS. Overall rating of 77.",
+  "name": "Homer Green",
+  "jersey_number": 80,
+  "description": "Number 80 Homer Green. Overall rating of 61.",
   "external_url": "https://example.com/player/944",
   "image": "ipfs://QmNoYhHDnTQxWsbWwTETwJJ4V2SPrrb9hpwr1mFwy6anZe",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 3,
+  "overall_rating": 61,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
-    "shooting": 72,
-    "passing": 73,
-    "dribbling": 73,
-    "defense": 57,
-    "physical": 58,
-    "goalTending": 69
+    "speed": 57,
+    "shooting": 57,
+    "passing": 55,
+    "dribbling": 46,
+    "defense": 50,
+    "physical": 44,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 57
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 46
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 50
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 44
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 56
     }
   ]
 }

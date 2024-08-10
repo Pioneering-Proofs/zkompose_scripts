@@ -1,56 +1,61 @@
 {
-  "name": "Guadalupe Will",
-  "jerseyNumber": 28,
-  "description": "Number 28 Guadalupe Will. Overall rating of 52.",
+  "name": "Mrs. Lela Padberg",
+  "jersey_number": 77,
+  "description": "Number 77 Mrs. Lela Padberg. Overall rating of 69.",
   "external_url": "https://example.com/player/4",
   "image": "ipfs://QmR2nqRQAgfpDjWX73UmtadvuAiYAddaEBXutkEzc6CKKS",
-  "tier": 4,
-  "overallRating": 52,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 50,
-    "shooting": 34,
-    "passing": 45,
-    "dribbling": 50,
-    "defense": 34,
-    "physical": 51,
-    "goalTending": 38
+    "speed": 67,
+    "shooting": 51,
+    "passing": 50,
+    "dribbling": 66,
+    "defense": 53,
+    "physical": 65,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 50
+      "value": 67
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 34
+      "value": 51
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 45
+      "value": 50
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 50
+      "value": 66
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 34
+      "value": 53
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 51
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 38
+      "value": 62
     }
   ]
 }

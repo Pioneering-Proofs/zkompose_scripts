@@ -1,56 +1,61 @@
 {
-  "name": "Travis Buckridge",
-  "jerseyNumber": 6,
-  "description": "Number 6 Travis Buckridge. Overall rating of 74.",
+  "name": "Mable Brown",
+  "jersey_number": 7,
+  "description": "Number 7 Mable Brown. Overall rating of 76.",
   "external_url": "https://example.com/player/796",
   "image": "ipfs://QmSN5nYVXmqQXBCXj2yYM5eNER25xTsrPJsAMdyLbf6krR",
   "tier": 2,
-  "overallRating": 74,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 55,
-    "passing": 55,
-    "dribbling": 64,
-    "defense": 73,
-    "physical": 57,
-    "goalTending": 71
+    "speed": 58,
+    "shooting": 65,
+    "passing": 56,
+    "dribbling": 72,
+    "defense": 63,
+    "physical": 64,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 55
+      "value": 56
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 64
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 56
     }
   ]
 }

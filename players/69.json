@@ -1,56 +1,61 @@
 {
-  "name": "Leigh Raynor",
-  "jerseyNumber": 45,
-  "description": "Number 45 Leigh Raynor. Overall rating of 74.",
+  "name": "Felicia Hermiston",
+  "jersey_number": 36,
+  "description": "Number 36 Felicia Hermiston. Overall rating of 77.",
   "external_url": "https://example.com/player/69",
   "image": "ipfs://QmZwHof44GAvkS4zVsWqoLFRrXaBXw8LqAttCqEyxhBgCE",
   "tier": 2,
-  "overallRating": 74,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 70,
-    "passing": 62,
-    "dribbling": 56,
-    "defense": 69,
-    "physical": 68,
-    "goalTending": 57
+    "speed": 63,
+    "shooting": 63,
+    "passing": 73,
+    "dribbling": 68,
+    "defense": 73,
+    "physical": 69,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 70
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 73
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 73
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 62
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Willis Cassin",
-  "jerseyNumber": 7,
-  "description": "Number 7 Willis Cassin. Overall rating of 71.",
+  "name": "Mario Schimmel",
+  "jersey_number": 17,
+  "description": "Number 17 Mario Schimmel. Overall rating of 75.",
   "external_url": "https://example.com/player/116",
   "image": "ipfs://QmVhzB5Qrj9NVD5ht8DBmfzq6wrPtdZf3uzDbH968q1fDb",
   "tier": 2,
-  "overallRating": 71,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 63,
-    "passing": 70,
-    "dribbling": 67,
-    "defense": 55,
-    "physical": 62,
-    "goalTending": 60
+    "speed": 56,
+    "shooting": 55,
+    "passing": 74,
+    "dribbling": 59,
+    "defense": 63,
+    "physical": 74,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 56
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 63
+      "value": 55
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 63
     }
   ]
 }

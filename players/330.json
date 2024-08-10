@@ -1,56 +1,61 @@
 {
-  "name": "Rhonda Weber",
-  "jerseyNumber": 29,
-  "description": "Number 29 Rhonda Weber. Overall rating of 54.",
+  "name": "Bobbie Green-Casper",
+  "jersey_number": 89,
+  "description": "Number 89 Bobbie Green-Casper. Overall rating of 69.",
   "external_url": "https://example.com/player/330",
   "image": "ipfs://QmW3RUBsM2RpAgtx3FLjSUod9BAmfCXC8E9E5KonYQvdok",
-  "tier": 4,
-  "overallRating": 54,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 54,
-    "shooting": 47,
-    "passing": 47,
-    "dribbling": 43,
-    "defense": 49,
-    "physical": 38,
-    "goalTending": 35
+    "speed": 52,
+    "shooting": 66,
+    "passing": 68,
+    "dribbling": 58,
+    "defense": 55,
+    "physical": 55,
+    "goal_tending": 50
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 54
+      "value": 52
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 47
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 47
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 43
+      "value": 58
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 49
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 38
+      "value": 55
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 35
+      "value": 50
     }
   ]
 }

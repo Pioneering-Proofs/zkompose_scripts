@@ -1,36 +1,41 @@
 {
-  "name": "Irving Sawayn Sr.",
-  "jerseyNumber": 12,
-  "description": "Number 12 Irving Sawayn Sr.. Overall rating of 89.",
+  "name": "Geneva Walker",
+  "jersey_number": 53,
+  "description": "Number 53 Geneva Walker. Overall rating of 85.",
   "external_url": "https://example.com/player/465",
   "image": "ipfs://QmNajVejTZTygCZvFyN6gakKtrRCSdEmhJWfSAvckzvgaZ",
   "tier": 1,
-  "overallRating": 89,
+  "overall_rating": 85,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
-    "shooting": 81,
-    "passing": 77,
+    "speed": 75,
+    "shooting": 84,
+    "passing": 78,
     "dribbling": 81,
-    "defense": 82,
-    "physical": 76,
-    "goalTending": 87
+    "defense": 68,
+    "physical": 78,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 75
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 81
+      "value": 84
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 77
+      "value": 78
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 82
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 76
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 87
+      "value": 68
     }
   ]
 }

@@ -1,54 +1,59 @@
 {
-  "name": "Bridget Blick",
-  "jerseyNumber": 62,
-  "description": "Number 62 Bridget Blick. Overall rating of 83.",
+  "name": "Mr. Irving Brakus Sr.",
+  "jersey_number": 10,
+  "description": "Number 10 Mr. Irving Brakus Sr.. Overall rating of 67.",
   "external_url": "https://example.com/player/834",
   "image": "ipfs://QmT8ZUqMYJZawSHNfzuYj2QoQVkfkX4VJ5x57R4kz2kp8h",
-  "tier": 1,
-  "overallRating": 83,
+  "tier": 3,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 76,
-    "shooting": 76,
-    "passing": 81,
-    "dribbling": 80,
-    "defense": 64,
-    "physical": 76,
-    "goalTending": 65
+    "speed": 48,
+    "shooting": 61,
+    "passing": 61,
+    "dribbling": 64,
+    "defense": 54,
+    "physical": 53,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 76
+      "value": 48
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 81
+      "value": 61
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 80
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 54
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 76
+      "value": 53
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 65
     }

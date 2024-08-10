@@ -1,56 +1,61 @@
 {
-  "name": "Frankie Hilll",
-  "jerseyNumber": 16,
-  "description": "Number 16 Frankie Hilll. Overall rating of 83.",
+  "name": "Sheri Effertz",
+  "jersey_number": 68,
+  "description": "Number 68 Sheri Effertz. Overall rating of 67.",
   "external_url": "https://example.com/player/259",
   "image": "ipfs://QmP9uRVat1MwuDmFYv76eSHDwQGiYmig2b9pnjBv53tAit",
-  "tier": 1,
-  "overallRating": 83,
+  "tier": 3,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 81,
-    "passing": 72,
-    "dribbling": 72,
-    "defense": 73,
-    "physical": 82,
-    "goalTending": 82
+    "speed": 55,
+    "shooting": 65,
+    "passing": 51,
+    "dribbling": 64,
+    "defense": 64,
+    "physical": 65,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 55
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 81
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 72
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 64
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 82
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 82
+      "value": 66
     }
   ]
 }

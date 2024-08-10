@@ -1,56 +1,61 @@
 {
-  "name": "Pauline Turner",
-  "jerseyNumber": 7,
-  "description": "Number 7 Pauline Turner. Overall rating of 84.",
+  "name": "Felicia Pagac",
+  "jersey_number": 85,
+  "description": "Number 85 Felicia Pagac. Overall rating of 74.",
   "external_url": "https://example.com/player/459",
   "image": "ipfs://QmbrbBQFVEiQderrK5GzNa1CSFeGNFruoiMZ3aFCxqDgNH",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 2,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 81,
-    "shooting": 70,
-    "passing": 81,
-    "dribbling": 77,
-    "defense": 73,
-    "physical": 78,
-    "goalTending": 75
+    "speed": 69,
+    "shooting": 55,
+    "passing": 56,
+    "dribbling": 70,
+    "defense": 54,
+    "physical": 60,
+    "goal_tending": 58
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 81
+      "value": 69
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 70
+      "value": 55
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 81
+      "value": 56
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 77
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 54
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 78
+      "value": 60
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 58
     }
   ]
 }

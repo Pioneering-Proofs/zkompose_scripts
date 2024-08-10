@@ -1,41 +1,46 @@
 {
-  "name": "Sonja Herzog",
-  "jerseyNumber": 25,
-  "description": "Number 25 Sonja Herzog. Overall rating of 79.",
+  "name": "Alexandra Rodriguez",
+  "jersey_number": 39,
+  "description": "Number 39 Alexandra Rodriguez. Overall rating of 73.",
   "external_url": "https://example.com/player/976",
   "image": "ipfs://QmTPsGxkH9W8GyspMpRvPXMymWgj4MqrwY5yVsWT1t7nhD",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 73,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
-    "shooting": 77,
-    "passing": 66,
-    "dribbling": 68,
+    "speed": 61,
+    "shooting": 71,
+    "passing": 70,
+    "dribbling": 54,
     "defense": 73,
-    "physical": 78,
-    "goalTending": 76
+    "physical": 70,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 77
+      "value": 71
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 66
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 54
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 78
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 71
     }
   ]
 }

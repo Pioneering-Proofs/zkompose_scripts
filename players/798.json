@@ -1,22 +1,27 @@
 {
-  "name": "Jimmie Bartell",
-  "jerseyNumber": 68,
-  "description": "Number 68 Jimmie Bartell. Overall rating of 76.",
+  "name": "Teri Medhurst",
+  "jersey_number": 24,
+  "description": "Number 24 Teri Medhurst. Overall rating of 76.",
   "external_url": "https://example.com/player/798",
   "image": "ipfs://QmQoLXVgMKP3KoZRWZ1aCfuqHigzS7EMfVMYVYpBdgnzWD",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 56,
-    "shooting": 62,
-    "passing": 75,
-    "dribbling": 62,
-    "defense": 66,
-    "physical": 76,
-    "goalTending": 75
+    "shooting": 56,
+    "passing": 72,
+    "dribbling": 72,
+    "defense": 67,
+    "physical": 58,
+    "goal_tending": 60
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 62
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 72
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 76
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 60
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Janis Schuster",
-  "jerseyNumber": 75,
-  "description": "Number 75 Janis Schuster. Overall rating of 76.",
+  "name": "Ramiro Deckow-Heidenreich",
+  "jersey_number": 38,
+  "description": "Number 38 Ramiro Deckow-Heidenreich. Overall rating of 66.",
   "external_url": "https://example.com/player/769",
   "image": "ipfs://QmVDgz5Vfr55CCnVW1w85txfp2xbP7r7TiUbTBkRtVgbsN",
-  "tier": 2,
-  "overallRating": 76,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 70,
-    "shooting": 76,
-    "passing": 67,
-    "dribbling": 57,
-    "defense": 56,
-    "physical": 73,
-    "goalTending": 66
+    "speed": 62,
+    "shooting": 61,
+    "passing": 63,
+    "dribbling": 58,
+    "defense": 52,
+    "physical": 64,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 70
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 57
+      "value": 58
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 56
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 61
     }
   ]
 }

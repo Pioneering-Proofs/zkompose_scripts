@@ -1,26 +1,31 @@
 {
-  "name": "Tami Cronin",
-  "jerseyNumber": 50,
-  "description": "Number 50 Tami Cronin. Overall rating of 70.",
+  "name": "Vicki McKenzie PhD",
+  "jersey_number": 26,
+  "description": "Number 26 Vicki McKenzie PhD. Overall rating of 70.",
   "external_url": "https://example.com/player/525",
   "image": "ipfs://QmfZZxfETjSRuEKYRXCZm9K2DsAWXDBGbFGouKLAfvpDyg",
   "tier": 2,
-  "overallRating": 70,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 64,
+    "speed": 65,
     "shooting": 51,
     "passing": 65,
-    "dribbling": 56,
-    "defense": 69,
-    "physical": 69,
-    "goalTending": 59
+    "dribbling": 57,
+    "defense": 64,
+    "physical": 53,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 64
+      "value": 65
     },
     {
       "display_type": "shooting",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 57
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 64
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 69
+      "value": 53
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 68
     }
   ]
 }

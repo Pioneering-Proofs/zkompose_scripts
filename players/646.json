@@ -1,56 +1,61 @@
 {
-  "name": "Clifton Wunsch",
-  "jerseyNumber": 50,
-  "description": "Number 50 Clifton Wunsch. Overall rating of 79.",
+  "name": "Franklin Paucek",
+  "jersey_number": 26,
+  "description": "Number 26 Franklin Paucek. Overall rating of 76.",
   "external_url": "https://example.com/player/646",
   "image": "ipfs://QmX2imemyfAKtAT8m1kFupcZJhNkS1b8KC7WU3ZtwyaGGR",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
-    "shooting": 76,
-    "passing": 64,
-    "dribbling": 73,
-    "defense": 67,
-    "physical": 68,
-    "goalTending": 72
+    "speed": 75,
+    "shooting": 59,
+    "passing": 62,
+    "dribbling": 60,
+    "defense": 71,
+    "physical": 75,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 75
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 59
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 75
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 63
     }
   ]
 }

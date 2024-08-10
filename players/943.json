@@ -1,56 +1,61 @@
 {
-  "name": "Damon Glover",
-  "jerseyNumber": 13,
-  "description": "Number 13 Damon Glover. Overall rating of 82.",
+  "name": "Bradley McGlynn",
+  "jersey_number": 68,
+  "description": "Number 68 Bradley McGlynn. Overall rating of 95.",
   "external_url": "https://example.com/player/943",
   "image": "ipfs://QmNb6BDXuBvnokK7ism6cYxapxxz2ZDmWWib24iFzh6Bpp",
-  "tier": 1,
-  "overallRating": 82,
+  "tier": 0,
+  "overall_rating": 95,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 79,
-    "passing": 80,
-    "dribbling": 73,
-    "defense": 69,
-    "physical": 73,
-    "goalTending": 75
+    "speed": 83,
+    "shooting": 94,
+    "passing": 87,
+    "dribbling": 89,
+    "defense": 76,
+    "physical": 94,
+    "goal_tending": 81
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 83
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 79
+      "value": 94
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 80
+      "value": 87
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 89
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 94
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 81
     }
   ]
 }

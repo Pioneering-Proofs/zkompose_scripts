@@ -1,26 +1,31 @@
 {
-  "name": "Irma Jast",
-  "jerseyNumber": 52,
-  "description": "Number 52 Irma Jast. Overall rating of 73.",
+  "name": "Miss Iris Schultz",
+  "jersey_number": 46,
+  "description": "Number 46 Miss Iris Schultz. Overall rating of 67.",
   "external_url": "https://example.com/player/507",
   "image": "ipfs://QmYJmgdgL8mfPnxHe6bRSuJf2GBsStRyhaGVfC3rrmLt7t",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 3,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 55,
+    "speed": 66,
     "shooting": 63,
-    "passing": 62,
-    "dribbling": 71,
-    "defense": 68,
-    "physical": 62,
-    "goalTending": 66
+    "passing": 57,
+    "dribbling": 51,
+    "defense": 51,
+    "physical": 65,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 55
+      "value": 66
     },
     {
       "display_type": "shooting",
@@ -30,25 +35,25 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 57
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 51
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 51
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 66
     }

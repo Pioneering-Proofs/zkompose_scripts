@@ -1,36 +1,41 @@
 {
-  "name": "Johanna Gislason",
-  "jerseyNumber": 6,
-  "description": "Number 6 Johanna Gislason. Overall rating of 60.",
+  "name": "Timmy Ziemann",
+  "jersey_number": 71,
+  "description": "Number 71 Timmy Ziemann. Overall rating of 77.",
   "external_url": "https://example.com/player/648",
   "image": "ipfs://QmUWfWzayMTeCALbqDXEvN9T5FdUeAC82RDyoNr9QAEZPL",
-  "tier": 3,
-  "overallRating": 60,
+  "tier": 2,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 50,
-    "shooting": 52,
-    "passing": 58,
+    "speed": 72,
+    "shooting": 60,
+    "passing": 65,
     "dribbling": 60,
-    "defense": 43,
-    "physical": 58,
-    "goalTending": 54
+    "defense": 63,
+    "physical": 76,
+    "goal_tending": 77
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 50
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 52
+      "value": 60
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 65
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 43
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 76
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 54
+      "value": 77
     }
   ]
 }

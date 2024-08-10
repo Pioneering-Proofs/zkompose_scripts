@@ -1,56 +1,61 @@
 {
-  "name": "Christopher Hartmann",
-  "jerseyNumber": 57,
-  "description": "Number 57 Christopher Hartmann. Overall rating of 78.",
+  "name": "Carrie Labadie",
+  "jersey_number": 48,
+  "description": "Number 48 Carrie Labadie. Overall rating of 72.",
   "external_url": "https://example.com/player/913",
   "image": "ipfs://QmRwnLuHvaM9USmmeKadTYeYosdtzFLpuM6yCKkJyRqzB7",
   "tier": 2,
-  "overallRating": 78,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 70,
-    "passing": 62,
-    "dribbling": 75,
-    "defense": 64,
-    "physical": 75,
-    "goalTending": 66
+    "speed": 62,
+    "shooting": 62,
+    "passing": 63,
+    "dribbling": 70,
+    "defense": 56,
+    "physical": 71,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 70
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 75
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 56
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 62
     }
   ]
 }

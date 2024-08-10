@@ -1,56 +1,61 @@
 {
-  "name": "Claude Spencer",
-  "jerseyNumber": 57,
-  "description": "Number 57 Claude Spencer. Overall rating of 57.",
+  "name": "Myrtle Crooks",
+  "jersey_number": 40,
+  "description": "Number 40 Myrtle Crooks. Overall rating of 83.",
   "external_url": "https://example.com/player/735",
   "image": "ipfs://QmWHsiJeNn8cmMdoBWGMt3uMhGHwvPthvE5bhojqs2FFP3",
-  "tier": 4,
-  "overallRating": 57,
+  "tier": 1,
+  "overall_rating": 83,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 40,
-    "shooting": 37,
-    "passing": 47,
-    "dribbling": 37,
-    "defense": 45,
-    "physical": 53,
-    "goalTending": 53
+    "speed": 74,
+    "shooting": 70,
+    "passing": 76,
+    "dribbling": 67,
+    "defense": 71,
+    "physical": 83,
+    "goal_tending": 77
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 40
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 37
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 47
+      "value": 76
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 37
+      "value": 67
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 45
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 83
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 53
+      "value": 77
     }
   ]
 }

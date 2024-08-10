@@ -1,56 +1,61 @@
 {
-  "name": "Cora Champlin",
-  "jerseyNumber": 95,
-  "description": "Number 95 Cora Champlin. Overall rating of 70.",
+  "name": "Bridget Brekke",
+  "jersey_number": 76,
+  "description": "Number 76 Bridget Brekke. Overall rating of 87.",
   "external_url": "https://example.com/player/113",
   "image": "ipfs://QmQhx2ciEyJ1S3EUJwMnaBiVzU2zrSCkS58LxL8Bsshzxs",
-  "tier": 2,
-  "overallRating": 70,
+  "tier": 1,
+  "overall_rating": 87,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 52,
-    "shooting": 61,
-    "passing": 54,
-    "dribbling": 68,
-    "defense": 60,
-    "physical": 61,
-    "goalTending": 56
+    "speed": 72,
+    "shooting": 76,
+    "passing": 70,
+    "dribbling": 84,
+    "defense": 71,
+    "physical": 78,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 52
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 54
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 84
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 56
+      "value": 70
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Joseph Effertz",
-  "jerseyNumber": 42,
-  "description": "Number 42 Joseph Effertz. Overall rating of 77.",
+  "name": "Edwin Mosciski",
+  "jersey_number": 68,
+  "description": "Number 68 Edwin Mosciski. Overall rating of 77.",
   "external_url": "https://example.com/player/227",
   "image": "ipfs://QmPsSSNWs3fT1VLFNP7WeRop7tUyDNcgutKDx1EJuvUdkr",
   "tier": 2,
-  "overallRating": 77,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 63,
-    "passing": 77,
-    "dribbling": 58,
-    "defense": 58,
-    "physical": 73,
-    "goalTending": 60
+    "speed": 58,
+    "shooting": 60,
+    "passing": 70,
+    "dribbling": 60,
+    "defense": 73,
+    "physical": 57,
+    "goal_tending": 74
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 63
+      "value": 60
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 77
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 73
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 74
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Timothy Ward",
-  "jerseyNumber": 93,
-  "description": "Number 93 Timothy Ward. Overall rating of 82.",
+  "name": "Victor Rath",
+  "jersey_number": 10,
+  "description": "Number 10 Victor Rath. Overall rating of 70.",
   "external_url": "https://example.com/player/321",
   "image": "ipfs://QmNckUFnoSXE8dMnh4PuojCjnmbTX4rKjt62KziERSRNfe",
-  "tier": 1,
-  "overallRating": 82,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 69,
-    "passing": 72,
-    "dribbling": 79,
-    "defense": 74,
-    "physical": 79,
-    "goalTending": 74
+    "speed": 68,
+    "shooting": 55,
+    "passing": 63,
+    "dribbling": 52,
+    "defense": 68,
+    "physical": 56,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 55
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 79
+      "value": 52
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 74
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 79
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 74
+      "value": 68
     }
   ]
 }

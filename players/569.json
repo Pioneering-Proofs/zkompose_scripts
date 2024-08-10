@@ -1,56 +1,61 @@
 {
-  "name": "Marilyn Wolf PhD",
-  "jerseyNumber": 32,
-  "description": "Number 32 Marilyn Wolf PhD. Overall rating of 66.",
+  "name": "Dr. Rachel Koss",
+  "jersey_number": 71,
+  "description": "Number 71 Dr. Rachel Koss. Overall rating of 80.",
   "external_url": "https://example.com/player/569",
   "image": "ipfs://QmVoEw1Wawm6VHDe7tyLaqtGiGSd7zdj3Jn1xsxt55bYzW",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 55,
-    "shooting": 64,
-    "passing": 60,
-    "dribbling": 65,
-    "defense": 48,
-    "physical": 56,
-    "goalTending": 53
+    "speed": 80,
+    "shooting": 62,
+    "passing": 63,
+    "dribbling": 74,
+    "defense": 66,
+    "physical": 78,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 55
+      "value": 80
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 48
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 53
+      "value": 68
     }
   ]
 }

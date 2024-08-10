@@ -1,56 +1,61 @@
 {
-  "name": "Jaime Reynolds",
-  "jerseyNumber": 15,
-  "description": "Number 15 Jaime Reynolds. Overall rating of 68.",
+  "name": "Antoinette Osinski",
+  "jersey_number": 53,
+  "description": "Number 53 Antoinette Osinski. Overall rating of 62.",
   "external_url": "https://example.com/player/716",
   "image": "ipfs://QmNmZWup2Ay4L1KoJpA2mpEhDqxwKnUJJJ1neytaDzB57q",
   "tier": 3,
-  "overallRating": 68,
+  "overall_rating": 62,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 53,
-    "shooting": 65,
-    "passing": 66,
-    "dribbling": 52,
-    "defense": 64,
-    "physical": 52,
-    "goalTending": 58
+    "speed": 46,
+    "shooting": 48,
+    "passing": 62,
+    "dribbling": 56,
+    "defense": 58,
+    "physical": 48,
+    "goal_tending": 47
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 53
+      "value": 46
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 48
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 66
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 52
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 52
+      "value": 48
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 47
     }
   ]
 }

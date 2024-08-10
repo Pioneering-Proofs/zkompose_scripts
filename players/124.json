@@ -1,56 +1,61 @@
 {
-  "name": "Abraham Gutmann",
-  "jerseyNumber": 10,
-  "description": "Number 10 Abraham Gutmann. Overall rating of 86.",
+  "name": "Joshua Mann",
+  "jersey_number": 73,
+  "description": "Number 73 Joshua Mann. Overall rating of 66.",
   "external_url": "https://example.com/player/124",
   "image": "ipfs://QmT7ZuqgZkTknrTTR5fYHE43TXfu8cruDbeUY3KwfmApvr",
-  "tier": 1,
-  "overallRating": 86,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 82,
-    "passing": 79,
-    "dribbling": 83,
-    "defense": 86,
-    "physical": 67,
-    "goalTending": 66
+    "speed": 61,
+    "shooting": 49,
+    "passing": 55,
+    "dribbling": 58,
+    "defense": 58,
+    "physical": 48,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 82
+      "value": 49
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 79
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 83
+      "value": 58
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 86
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 67
+      "value": 48
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 65
     }
   ]
 }

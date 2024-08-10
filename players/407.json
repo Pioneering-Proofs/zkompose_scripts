@@ -1,56 +1,61 @@
 {
-  "name": "Matt Smith Sr.",
-  "jerseyNumber": 92,
-  "description": "Number 92 Matt Smith Sr.. Overall rating of 75.",
+  "name": "Crystal Pfannerstill V",
+  "jersey_number": 71,
+  "description": "Number 71 Crystal Pfannerstill V. Overall rating of 74.",
   "external_url": "https://example.com/player/407",
   "image": "ipfs://Qme1kcsoR8FhU65sjbcUCdUFYK5316vJfXgzaMCp6LUizv",
   "tier": 2,
-  "overallRating": 75,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 75,
-    "shooting": 68,
-    "passing": 67,
-    "dribbling": 63,
-    "defense": 65,
-    "physical": 72,
-    "goalTending": 68
+    "speed": 66,
+    "shooting": 61,
+    "passing": 62,
+    "dribbling": 73,
+    "defense": 67,
+    "physical": 63,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 75
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 65
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 69
     }
   ]
 }

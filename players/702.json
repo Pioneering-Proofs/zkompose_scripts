@@ -1,56 +1,61 @@
 {
-  "name": "Mike Grimes",
-  "jerseyNumber": 56,
-  "description": "Number 56 Mike Grimes. Overall rating of 81.",
+  "name": "Marianne Heaney-Becker",
+  "jersey_number": 54,
+  "description": "Number 54 Marianne Heaney-Becker. Overall rating of 62.",
   "external_url": "https://example.com/player/702",
   "image": "ipfs://QmQrw1NeHy9Lm2w3wrxwgLiLyJHyy1maoByZYLkC8ywrDS",
-  "tier": 1,
-  "overallRating": 81,
+  "tier": 3,
+  "overall_rating": 62,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 73,
-    "shooting": 66,
-    "passing": 62,
-    "dribbling": 67,
-    "defense": 69,
-    "physical": 69,
-    "goalTending": 77
+    "speed": 56,
+    "shooting": 56,
+    "passing": 57,
+    "dribbling": 60,
+    "defense": 61,
+    "physical": 58,
+    "goal_tending": 42
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 73
+      "value": 56
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 57
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 69
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 42
     }
   ]
 }

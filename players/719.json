@@ -1,56 +1,61 @@
 {
-  "name": "Carroll Lueilwitz",
-  "jerseyNumber": 64,
-  "description": "Number 64 Carroll Lueilwitz. Overall rating of 79.",
+  "name": "Dr. Abel Pfannerstill",
+  "jersey_number": 78,
+  "description": "Number 78 Dr. Abel Pfannerstill. Overall rating of 66.",
   "external_url": "https://example.com/player/719",
   "image": "ipfs://QmXEM1cEM1UcPkUi1jd3cSZ6V9Q4b9q44tx9BENAZvsudP",
-  "tier": 2,
-  "overallRating": 79,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 72,
-    "passing": 62,
-    "dribbling": 69,
-    "defense": 62,
-    "physical": 75,
-    "goalTending": 68
+    "speed": 57,
+    "shooting": 53,
+    "passing": 60,
+    "dribbling": 64,
+    "defense": 47,
+    "physical": 57,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 57
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 53
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 69
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 62
+      "value": 47
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 54
     }
   ]
 }

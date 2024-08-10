@@ -1,56 +1,61 @@
 {
-  "name": "Paula Conn",
-  "jerseyNumber": 96,
-  "description": "Number 96 Paula Conn. Overall rating of 81.",
+  "name": "Mattie DuBuque",
+  "jersey_number": 47,
+  "description": "Number 47 Mattie DuBuque. Overall rating of 85.",
   "external_url": "https://example.com/player/733",
   "image": "ipfs://QmbihTNjfAH6pAhKL5RrH5kxxWAdijKaobCvgoz2Qoq3TU",
   "tier": 1,
-  "overallRating": 81,
+  "overall_rating": 85,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 76,
-    "shooting": 79,
-    "passing": 65,
-    "dribbling": 66,
-    "defense": 80,
-    "physical": 79,
-    "goalTending": 61
+    "speed": 80,
+    "shooting": 72,
+    "passing": 69,
+    "dribbling": 84,
+    "defense": 67,
+    "physical": 85,
+    "goal_tending": 81
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 76
+      "value": 80
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 79
+      "value": 72
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 84
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 80
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 79
+      "value": 85
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 81
     }
   ]
 }

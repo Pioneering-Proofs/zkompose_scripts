@@ -1,31 +1,36 @@
 {
-  "name": "Shannon Rohan IV",
-  "jerseyNumber": 22,
-  "description": "Number 22 Shannon Rohan IV. Overall rating of 70.",
+  "name": "Ernesto Konopelski",
+  "jersey_number": 84,
+  "description": "Number 84 Ernesto Konopelski. Overall rating of 75.",
   "external_url": "https://example.com/player/965",
   "image": "ipfs://QmVREBRyqLzmi2jNNDg6dSvGDgTfdDHZyXSCwcGShozEMG",
   "tier": 2,
-  "overallRating": 70,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 64,
+    "speed": 68,
+    "shooting": 67,
     "passing": 67,
-    "dribbling": 51,
-    "defense": 57,
-    "physical": 64,
-    "goalTending": 63
+    "dribbling": 58,
+    "defense": 63,
+    "physical": 75,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 67
     },
     {
       "display_type": "passing",
@@ -35,20 +40,20 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 51
+      "value": 58
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 75
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 63
     }

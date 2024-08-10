@@ -1,56 +1,61 @@
 {
-  "name": "Stewart Fadel",
-  "jerseyNumber": 29,
-  "description": "Number 29 Stewart Fadel. Overall rating of 66.",
+  "name": "Valerie Shanahan",
+  "jersey_number": 87,
+  "description": "Number 87 Valerie Shanahan. Overall rating of 99.",
   "external_url": "https://example.com/player/298",
   "image": "ipfs://QmdaJh8WM5A1wQoD96ZR9c9RjLjoh3eFRfvuKnUfwEfBXR",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 0,
+  "overall_rating": 99,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 57,
-    "shooting": 62,
-    "passing": 62,
-    "dribbling": 65,
-    "defense": 61,
-    "physical": 53,
-    "goalTending": 64
+    "speed": 92,
+    "shooting": 98,
+    "passing": 88,
+    "dribbling": 90,
+    "defense": 83,
+    "physical": 87,
+    "goal_tending": 95
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 57
+      "value": 92
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 62
+      "value": 98
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 88
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 90
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 83
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 87
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 95
     }
   ]
 }

@@ -1,46 +1,51 @@
 {
-  "name": "Bobbie Champlin",
-  "jerseyNumber": 58,
-  "description": "Number 58 Bobbie Champlin. Overall rating of 75.",
+  "name": "Franklin Runolfsdottir",
+  "jersey_number": 7,
+  "description": "Number 7 Franklin Runolfsdottir. Overall rating of 75.",
   "external_url": "https://example.com/player/696",
   "image": "ipfs://QmRCmp7MvpYrKrPgxxXvU6vCEmYbL8sqU8r1tYme9XNq7Y",
   "tier": 2,
-  "overallRating": 75,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 70,
-    "shooting": 64,
-    "passing": 60,
-    "dribbling": 75,
-    "defense": 57,
+    "speed": 60,
+    "shooting": 73,
+    "passing": 59,
+    "dribbling": 70,
+    "defense": 74,
     "physical": 74,
-    "goalTending": 73
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 70
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 73
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 59
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 75
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 74
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 73
+      "value": 70
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Angie Bernier",
-  "jerseyNumber": 70,
-  "description": "Number 70 Angie Bernier. Overall rating of 84.",
+  "name": "Natalie Kihn",
+  "jersey_number": 49,
+  "description": "Number 49 Natalie Kihn. Overall rating of 64.",
   "external_url": "https://example.com/player/708",
   "image": "ipfs://QmP4RxmvpQo2TLcxEZMDRU7xJESDsPzYQuK75amTNPFmHe",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 75,
-    "shooting": 82,
-    "passing": 81,
-    "dribbling": 76,
-    "defense": 82,
-    "physical": 83,
-    "goalTending": 81
+    "speed": 59,
+    "shooting": 46,
+    "passing": 49,
+    "dribbling": 63,
+    "defense": 55,
+    "physical": 48,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 75
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 82
+      "value": 46
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 81
+      "value": 49
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 76
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 82
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 83
+      "value": 48
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 81
+      "value": 63
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Kurt Collins",
-  "jerseyNumber": 16,
-  "description": "Number 16 Kurt Collins. Overall rating of 75.",
+  "name": "Cornelius Okuneva III",
+  "jersey_number": 4,
+  "description": "Number 4 Cornelius Okuneva III. Overall rating of 76.",
   "external_url": "https://example.com/player/164",
   "image": "ipfs://QmVCpnxa5nRmaQLPM8xqqUsjYL48ZoYZeHuFQ8SQxiNg9z",
   "tier": 2,
-  "overallRating": 75,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
-    "shooting": 69,
-    "passing": 66,
-    "dribbling": 68,
-    "defense": 62,
-    "physical": 74,
-    "goalTending": 68
+    "speed": 70,
+    "shooting": 74,
+    "passing": 74,
+    "dribbling": 74,
+    "defense": 66,
+    "physical": 66,
+    "goal_tending": 58
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 70
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 74
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 66
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 62
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 74
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 58
     }
   ]
 }

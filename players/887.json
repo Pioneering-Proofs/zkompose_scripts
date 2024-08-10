@@ -1,26 +1,31 @@
 {
-  "name": "Cecilia Denesik",
-  "jerseyNumber": 61,
-  "description": "Number 61 Cecilia Denesik. Overall rating of 79.",
+  "name": "Dana Reinger",
+  "jersey_number": 18,
+  "description": "Number 18 Dana Reinger. Overall rating of 78.",
   "external_url": "https://example.com/player/887",
   "image": "ipfs://QmWYMpSMDaqWvMxHSWQ9wav1rJGvAT4giXjsKh7PdFmwCv",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
+    "speed": 65,
     "shooting": 78,
     "passing": 60,
-    "dribbling": 76,
-    "defense": 67,
-    "physical": 71,
-    "goalTending": 72
+    "dribbling": 65,
+    "defense": 77,
+    "physical": 76,
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 65
     },
     {
       "display_type": "shooting",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 76
+      "value": 65
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 76
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 59
     }
   ]
 }

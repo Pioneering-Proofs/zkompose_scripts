@@ -1,26 +1,31 @@
 {
-  "name": "Ms. Miriam Wunsch Sr.",
-  "jerseyNumber": 21,
-  "description": "Number 21 Ms. Miriam Wunsch Sr.. Overall rating of 80.",
+  "name": "Leo Heathcote",
+  "jersey_number": 38,
+  "description": "Number 38 Leo Heathcote. Overall rating of 72.",
   "external_url": "https://example.com/player/364",
   "image": "ipfs://QmQC2XXuuh1ngnvPue3pe76YYk5SK3sMQgf6Y4vgWPufcf",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
+    "speed": 68,
     "shooting": 69,
-    "passing": 69,
-    "dribbling": 61,
-    "defense": 76,
+    "passing": 62,
+    "dribbling": 56,
+    "defense": 70,
     "physical": 69,
-    "goalTending": 62
+    "goal_tending": 57
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 68
     },
     {
       "display_type": "shooting",
@@ -30,17 +35,17 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 69
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 76
+      "value": 70
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 62
+      "value": 57
     }
   ]
 }

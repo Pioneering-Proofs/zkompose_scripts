@@ -1,56 +1,61 @@
 {
-  "name": "Tammy O'Keefe",
-  "jerseyNumber": 9,
-  "description": "Number 9 Tammy O'Keefe. Overall rating of 61.",
+  "name": "Vanessa Prohaska DVM",
+  "jersey_number": 20,
+  "description": "Number 20 Vanessa Prohaska DVM. Overall rating of 81.",
   "external_url": "https://example.com/player/899",
   "image": "ipfs://QmNcjnhkj1rGPFLDx8dp2cAWmYGBG1AVmw6eip8AHtVYwn",
-  "tier": 3,
-  "overallRating": 61,
+  "tier": 1,
+  "overall_rating": 81,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 53,
-    "shooting": 44,
-    "passing": 52,
-    "dribbling": 41,
-    "defense": 58,
-    "physical": 59,
-    "goalTending": 42
+    "speed": 74,
+    "shooting": 63,
+    "passing": 77,
+    "dribbling": 67,
+    "defense": 79,
+    "physical": 65,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 53
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 44
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 77
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 41
+      "value": 67
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 79
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 59
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 42
+      "value": 66
     }
   ]
 }

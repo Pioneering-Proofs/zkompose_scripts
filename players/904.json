@@ -1,56 +1,61 @@
 {
-  "name": "James Nitzsche",
-  "jerseyNumber": 29,
-  "description": "Number 29 James Nitzsche. Overall rating of 86.",
+  "name": "Eduardo McKenzie",
+  "jersey_number": 60,
+  "description": "Number 60 Eduardo McKenzie. Overall rating of 82.",
   "external_url": "https://example.com/player/904",
   "image": "ipfs://QmbsENFiGaSkcpBQ5hHyuWDsHq7S5wsc7mNaEYzWDPJVLX",
   "tier": 1,
-  "overallRating": 86,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 74,
-    "shooting": 83,
-    "passing": 77,
-    "dribbling": 71,
-    "defense": 84,
-    "physical": 71,
-    "goalTending": 74
+    "speed": 68,
+    "shooting": 66,
+    "passing": 70,
+    "dribbling": 63,
+    "defense": 79,
+    "physical": 63,
+    "goal_tending": 77
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 74
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 83
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 77
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 84
+      "value": 79
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 74
+      "value": 77
     }
   ]
 }

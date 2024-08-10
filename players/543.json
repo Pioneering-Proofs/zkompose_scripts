@@ -1,41 +1,46 @@
 {
-  "name": "Mr. Juan Feil",
-  "jerseyNumber": 98,
-  "description": "Number 98 Mr. Juan Feil. Overall rating of 84.",
+  "name": "Aubrey Cormier DVM",
+  "jersey_number": 40,
+  "description": "Number 40 Aubrey Cormier DVM. Overall rating of 69.",
   "external_url": "https://example.com/player/543",
   "image": "ipfs://QmNYHkroPzes3L4F76WkFQF6YbJqsvxV8JXQDToJLAs26S",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 82,
-    "shooting": 83,
-    "passing": 83,
-    "dribbling": 71,
+    "speed": 54,
+    "shooting": 53,
+    "passing": 60,
+    "dribbling": 65,
     "defense": 65,
-    "physical": 82,
-    "goalTending": 81
+    "physical": 62,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 82
+      "value": 54
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 83
+      "value": 53
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 83
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 65
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 82
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 81
+      "value": 54
     }
   ]
 }

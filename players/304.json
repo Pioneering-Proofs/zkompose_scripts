@@ -1,56 +1,61 @@
 {
-  "name": "Blanca Kris",
-  "jerseyNumber": 42,
-  "description": "Number 42 Blanca Kris. Overall rating of 75.",
+  "name": "Garry Robel",
+  "jersey_number": 87,
+  "description": "Number 87 Garry Robel. Overall rating of 68.",
   "external_url": "https://example.com/player/304",
   "image": "ipfs://QmWagkp86uRPWQMNxsvUu7eJHFPgUYr1epyArD2cgKVH1U",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 3,
+  "overall_rating": 68,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 59,
-    "shooting": 74,
-    "passing": 71,
-    "dribbling": 56,
-    "defense": 57,
-    "physical": 69,
-    "goalTending": 72
+    "speed": 48,
+    "shooting": 57,
+    "passing": 48,
+    "dribbling": 52,
+    "defense": 58,
+    "physical": 67,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 59
+      "value": 48
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 48
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 52
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 69
+      "value": 67
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 66
     }
   ]
 }

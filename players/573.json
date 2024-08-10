@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Preston Hoppe",
-  "jerseyNumber": 15,
-  "description": "Number 15 Mr. Preston Hoppe. Overall rating of 70.",
+  "name": "Beatrice Dietrich",
+  "jersey_number": 90,
+  "description": "Number 90 Beatrice Dietrich. Overall rating of 79.",
   "external_url": "https://example.com/player/573",
   "image": "ipfs://QmRTpGysHocjSoTw7QaerttiTXX63yHMBma5XYbPCCZeAq",
   "tier": 2,
-  "overallRating": 70,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 51,
-    "passing": 52,
-    "dribbling": 66,
-    "defense": 66,
-    "physical": 64,
-    "goalTending": 57
+    "speed": 63,
+    "shooting": 59,
+    "passing": 78,
+    "dribbling": 76,
+    "defense": 76,
+    "physical": 59,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 51
+      "value": 59
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 78
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 76
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 62
     }
   ]
 }

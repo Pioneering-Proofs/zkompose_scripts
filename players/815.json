@@ -1,26 +1,31 @@
 {
-  "name": "Leticia Sauer",
-  "jerseyNumber": 18,
-  "description": "Number 18 Leticia Sauer. Overall rating of 81.",
+  "name": "Franklin Green III",
+  "jersey_number": 29,
+  "description": "Number 29 Franklin Green III. Overall rating of 72.",
   "external_url": "https://example.com/player/815",
   "image": "ipfs://QmReuyATCAEwizhSQzk9ZFLjmnH5hbAsAHpYaDM8ZtUqfn",
-  "tier": 1,
-  "overallRating": 81,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
+    "speed": 62,
     "shooting": 69,
-    "passing": 77,
-    "dribbling": 73,
-    "defense": 65,
-    "physical": 79,
-    "goalTending": 65
+    "passing": 66,
+    "dribbling": 69,
+    "defense": 52,
+    "physical": 67,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 62
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 77
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 65
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 79
+      "value": 67
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 64
     }
   ]
 }

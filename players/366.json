@@ -1,22 +1,27 @@
 {
-  "name": "Vicki Stehr",
-  "jerseyNumber": 41,
-  "description": "Number 41 Vicki Stehr. Overall rating of 71.",
+  "name": "Don Hermann",
+  "jersey_number": 99,
+  "description": "Number 99 Don Hermann. Overall rating of 71.",
   "external_url": "https://example.com/player/366",
   "image": "ipfs://QmRUffrwH63dY5ofKLXaiP1YDdw1791oJuT73YRxzxYwTf",
   "tier": 2,
-  "overallRating": 71,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 69,
-    "shooting": 68,
-    "passing": 62,
-    "dribbling": 58,
-    "defense": 64,
-    "physical": 62,
-    "goalTending": 59
+    "shooting": 65,
+    "passing": 67,
+    "dribbling": 63,
+    "defense": 68,
+    "physical": 66,
+    "goal_tending": 61
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 67
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 61
     }
   ]
 }

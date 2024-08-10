@@ -13,7 +13,9 @@
   },
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
+    "@supabase/supabase-js": "^2.45.1",
     "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
     "ipfs-only-hash": "^4.0.0"
   }
 }

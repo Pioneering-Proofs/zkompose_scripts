@@ -1,46 +1,51 @@
 {
-  "name": "Clinton Larkin",
-  "jerseyNumber": 29,
-  "description": "Number 29 Clinton Larkin. Overall rating of 76.",
+  "name": "Deanna Hudson",
+  "jersey_number": 89,
+  "description": "Number 89 Deanna Hudson. Overall rating of 72.",
   "external_url": "https://example.com/player/7",
   "image": "ipfs://QmQyjANKjTYefBqYsRSMVFySFUendKo4boHxB6m43CoqFg",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 56,
-    "shooting": 56,
-    "passing": 75,
-    "dribbling": 74,
-    "defense": 58,
+    "speed": 58,
+    "shooting": 71,
+    "passing": 52,
+    "dribbling": 69,
+    "defense": 68,
     "physical": 63,
-    "goalTending": 64
+    "goal_tending": 60
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 56
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 56
+      "value": 71
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 52
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 68
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 60
     }
   ]
 }

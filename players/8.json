@@ -1,56 +1,61 @@
 {
-  "name": "Bruce Koch",
-  "jerseyNumber": 49,
-  "description": "Number 49 Bruce Koch. Overall rating of 80.",
+  "name": "Leigh Zemlak-VonRueden",
+  "jersey_number": 75,
+  "description": "Number 75 Leigh Zemlak-VonRueden. Overall rating of 63.",
   "external_url": "https://example.com/player/8",
   "image": "ipfs://QmbxscHe6vzYk9LKiLirjd8pmASWLeemp1QLFFutS1rx5K",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 3,
+  "overall_rating": 63,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
-    "shooting": 69,
-    "passing": 71,
-    "dribbling": 68,
-    "defense": 64,
-    "physical": 60,
-    "goalTending": 76
+    "speed": 50,
+    "shooting": 44,
+    "passing": 59,
+    "dribbling": 48,
+    "defense": 61,
+    "physical": 61,
+    "goal_tending": 45
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 50
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 44
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 59
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 48
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 45
     }
   ]
 }

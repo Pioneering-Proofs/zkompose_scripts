@@ -1,56 +1,61 @@
 {
-  "name": "Kara Toy",
-  "jerseyNumber": 99,
-  "description": "Number 99 Kara Toy. Overall rating of 89.",
+  "name": "Shawna Koepp",
+  "jersey_number": 77,
+  "description": "Number 77 Shawna Koepp. Overall rating of 75.",
   "external_url": "https://example.com/player/982",
   "image": "ipfs://Qmah4B5t8C2WFehyWZ7WTqJ86i3PkE6tzzgWiaNS4kjgtE",
-  "tier": 1,
-  "overallRating": 89,
+  "tier": 2,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 86,
-    "shooting": 85,
-    "passing": 76,
-    "dribbling": 73,
-    "defense": 83,
-    "physical": 75,
-    "goalTending": 69
+    "speed": 55,
+    "shooting": 55,
+    "passing": 69,
+    "dribbling": 58,
+    "defense": 72,
+    "physical": 57,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 86
+      "value": 55
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 85
+      "value": 55
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 76
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 58
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 83
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 63
     }
   ]
 }

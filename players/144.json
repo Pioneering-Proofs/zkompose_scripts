@@ -1,56 +1,61 @@
 {
-  "name": "Natasha Schuster II",
-  "jerseyNumber": 69,
-  "description": "Number 69 Natasha Schuster II. Overall rating of 58.",
+  "name": "Ms. Kathy Hansen",
+  "jersey_number": 53,
+  "description": "Number 53 Ms. Kathy Hansen. Overall rating of 76.",
   "external_url": "https://example.com/player/144",
   "image": "ipfs://QmUTsqK7eLi2KFioNt65CeG2DszW6JuHAFRfGL4STGDK26",
-  "tier": 4,
-  "overallRating": 58,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 54,
-    "shooting": 43,
-    "passing": 39,
-    "dribbling": 54,
-    "defense": 39,
-    "physical": 53,
-    "goalTending": 40
+    "speed": 67,
+    "shooting": 70,
+    "passing": 57,
+    "dribbling": 74,
+    "defense": 69,
+    "physical": 61,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 54
+      "value": 67
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 43
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 39
+      "value": 57
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 54
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 39
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 40
+      "value": 63
     }
   ]
 }

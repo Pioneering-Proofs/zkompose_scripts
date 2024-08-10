@@ -1,56 +1,61 @@
 {
-  "name": "Cecelia Bergnaum",
-  "jerseyNumber": 96,
-  "description": "Number 96 Cecelia Bergnaum. Overall rating of 91.",
+  "name": "Claire Schoen",
+  "jersey_number": 16,
+  "description": "Number 16 Claire Schoen. Overall rating of 69.",
   "external_url": "https://example.com/player/595",
   "image": "ipfs://QmV7MW8mXMWVBYG1TFnVzHtehLNFPs931m9DqBANbkUTAK",
-  "tier": 0,
-  "overallRating": 91,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 91,
-    "passing": 72,
-    "dribbling": 85,
-    "defense": 85,
-    "physical": 78,
-    "goalTending": 71
+    "speed": 66,
+    "shooting": 55,
+    "passing": 64,
+    "dribbling": 53,
+    "defense": 51,
+    "physical": 58,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 91
+      "value": 55
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 85
+      "value": 53
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 85
+      "value": 51
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 78
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 52
     }
   ]
 }

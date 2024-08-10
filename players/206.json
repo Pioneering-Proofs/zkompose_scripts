@@ -1,26 +1,31 @@
 {
-  "name": "Mr. Rex Lueilwitz",
-  "jerseyNumber": 96,
-  "description": "Number 96 Mr. Rex Lueilwitz. Overall rating of 64.",
+  "name": "Misty Dietrich",
+  "jersey_number": 32,
+  "description": "Number 32 Misty Dietrich. Overall rating of 61.",
   "external_url": "https://example.com/player/206",
   "image": "ipfs://Qmf5pNVuxLcXia4WgKpUn2JG3beaZAS4UcZcim63NJQypt",
   "tier": 3,
-  "overallRating": 64,
+  "overall_rating": 61,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
+    "speed": 57,
     "shooting": 44,
-    "passing": 63,
-    "dribbling": 64,
-    "defense": 48,
-    "physical": 51,
-    "goalTending": 48
+    "passing": 60,
+    "dribbling": 51,
+    "defense": 59,
+    "physical": 46,
+    "goal_tending": 49
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 57
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 63
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 64
+      "value": 51
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 48
+      "value": 59
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 51
+      "value": 46
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 48
+      "value": 49
     }
   ]
 }

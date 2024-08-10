@@ -1,56 +1,61 @@
 {
-  "name": "Cynthia MacGyver",
-  "jerseyNumber": 53,
-  "description": "Number 53 Cynthia MacGyver. Overall rating of 71.",
+  "name": "Ms. Vivian Kuhn",
+  "jersey_number": 17,
+  "description": "Number 17 Ms. Vivian Kuhn. Overall rating of 79.",
   "external_url": "https://example.com/player/679",
   "image": "ipfs://QmZLLBwkLnSw4PGeDXLpj6Fpw1SpdoP4wRYzma2jmD6Jn5",
   "tier": 2,
-  "overallRating": 71,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 52,
-    "passing": 64,
-    "dribbling": 55,
-    "defense": 54,
-    "physical": 68,
-    "goalTending": 56
+    "speed": 76,
+    "shooting": 78,
+    "passing": 74,
+    "dribbling": 73,
+    "defense": 77,
+    "physical": 78,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 76
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 52
+      "value": 78
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 55
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 54
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 56
+      "value": 71
     }
   ]
 }

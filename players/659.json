@@ -1,56 +1,61 @@
 {
-  "name": "Carlos Ernser MD",
-  "jerseyNumber": 56,
-  "description": "Number 56 Carlos Ernser MD. Overall rating of 55.",
+  "name": "Earl Hermiston MD",
+  "jersey_number": 61,
+  "description": "Number 61 Earl Hermiston MD. Overall rating of 86.",
   "external_url": "https://example.com/player/659",
   "image": "ipfs://QmUK133Ur4maxyhxUs45R2MDNSda25YVmgc9gLyNQxMqK2",
-  "tier": 4,
-  "overallRating": 55,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 52,
-    "shooting": 44,
-    "passing": 42,
-    "dribbling": 45,
-    "defense": 54,
-    "physical": 42,
-    "goalTending": 53
+    "speed": 68,
+    "shooting": 76,
+    "passing": 84,
+    "dribbling": 70,
+    "defense": 84,
+    "physical": 69,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 52
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 44
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 42
+      "value": 84
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 45
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 54
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 42
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 53
+      "value": 71
     }
   ]
 }

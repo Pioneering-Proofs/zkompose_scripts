@@ -1,41 +1,46 @@
 {
-  "name": "Keith Hilll",
-  "jerseyNumber": 50,
-  "description": "Number 50 Keith Hilll. Overall rating of 73.",
+  "name": "Sabrina Cassin",
+  "jersey_number": 45,
+  "description": "Number 45 Sabrina Cassin. Overall rating of 65.",
   "external_url": "https://example.com/player/705",
   "image": "ipfs://QmYfReDY5pM3qzuuBG6xkaErA9TRZj9Cds2rEcQupqSYaZ",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 3,
+  "overall_rating": 65,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 55,
-    "passing": 62,
-    "dribbling": 69,
+    "speed": 61,
+    "shooting": 51,
+    "passing": 55,
+    "dribbling": 55,
     "defense": 61,
-    "physical": 72,
-    "goalTending": 57
+    "physical": 63,
+    "goal_tending": 49
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 51
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 69
+      "value": 55
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 49
     }
   ]
 }

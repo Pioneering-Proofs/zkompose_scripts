@@ -1,54 +1,59 @@
 {
-  "name": "Christy Ruecker",
-  "jerseyNumber": 27,
-  "description": "Number 27 Christy Ruecker. Overall rating of 72.",
+  "name": "Nellie Simonis IV",
+  "jersey_number": 5,
+  "description": "Number 5 Nellie Simonis IV. Overall rating of 81.",
   "external_url": "https://example.com/player/936",
   "image": "ipfs://QmXt8MTwkc2vEDAUKH3Xj2AmeozAXfHyzBi3JeUDNdqjqC",
-  "tier": 2,
-  "overallRating": 72,
+  "tier": 1,
+  "overall_rating": 81,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
-    "shooting": 56,
-    "passing": 52,
-    "dribbling": 71,
-    "defense": 64,
-    "physical": 68,
-    "goalTending": 65
+    "speed": 78,
+    "shooting": 76,
+    "passing": 63,
+    "dribbling": 63,
+    "defense": 65,
+    "physical": 62,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 56
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 65
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 65
     }

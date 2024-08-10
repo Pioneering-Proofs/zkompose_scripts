@@ -1,56 +1,61 @@
 {
-  "name": "Roland Kertzmann",
-  "jerseyNumber": 85,
-  "description": "Number 85 Roland Kertzmann. Overall rating of 93.",
+  "name": "Julius Reinger-Littel",
+  "jersey_number": 62,
+  "description": "Number 62 Julius Reinger-Littel. Overall rating of 84.",
   "external_url": "https://example.com/player/616",
   "image": "ipfs://QmQ73r9nkhzv2DiRmKaQ3M4nRgDEu9k3RfjDXnpHcCScFX",
-  "tier": 0,
-  "overallRating": 93,
+  "tier": 1,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 90,
-    "shooting": 77,
-    "passing": 84,
-    "dribbling": 92,
-    "defense": 90,
-    "physical": 82,
-    "goalTending": 86
+    "speed": 78,
+    "shooting": 64,
+    "passing": 76,
+    "dribbling": 84,
+    "defense": 76,
+    "physical": 83,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 90
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 77
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 84
+      "value": 76
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 92
+      "value": 84
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 90
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 82
+      "value": 83
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 86
+      "value": 70
     }
   ]
 }

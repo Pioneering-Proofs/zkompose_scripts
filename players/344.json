@@ -1,56 +1,61 @@
 {
-  "name": "Chester Grady",
-  "jerseyNumber": 65,
-  "description": "Number 65 Chester Grady. Overall rating of 72.",
+  "name": "Ms. Leticia Gutmann",
+  "jersey_number": 94,
+  "description": "Number 94 Ms. Leticia Gutmann. Overall rating of 82.",
   "external_url": "https://example.com/player/344",
   "image": "ipfs://QmXN9eUCii5kabuVbi483qA8a56j97a2KDxVky5zCfGbZJ",
-  "tier": 2,
-  "overallRating": 72,
+  "tier": 1,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 62,
-    "passing": 68,
-    "dribbling": 62,
-    "defense": 52,
-    "physical": 52,
-    "goalTending": 56
+    "speed": 62,
+    "shooting": 82,
+    "passing": 62,
+    "dribbling": 73,
+    "defense": 76,
+    "physical": 77,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 62
+      "value": 82
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 52
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 52
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 56
+      "value": 67
     }
   ]
 }

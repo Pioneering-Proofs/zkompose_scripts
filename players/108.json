@@ -1,56 +1,61 @@
 {
-  "name": "Seth Dach",
-  "jerseyNumber": 66,
-  "description": "Number 66 Seth Dach. Overall rating of 84.",
+  "name": "Lyle Gleichner",
+  "jersey_number": 94,
+  "description": "Number 94 Lyle Gleichner. Overall rating of 66.",
   "external_url": "https://example.com/player/108",
   "image": "ipfs://QmbjVii5TGszCHhLT85Wv9vDRGVcBrJex75evRH1jDQf3f",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 81,
-    "passing": 75,
-    "dribbling": 70,
-    "defense": 64,
-    "physical": 78,
-    "goalTending": 71
+    "speed": 56,
+    "shooting": 63,
+    "passing": 51,
+    "dribbling": 63,
+    "defense": 54,
+    "physical": 65,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 56
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 81
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 70
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 54
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 78
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 61
     }
   ]
 }

@@ -1,31 +1,36 @@
 {
-  "name": "Marion Kuhic",
-  "jerseyNumber": 75,
-  "description": "Number 75 Marion Kuhic. Overall rating of 75.",
+  "name": "Ashley Kohler",
+  "jersey_number": 4,
+  "description": "Number 4 Ashley Kohler. Overall rating of 88.",
   "external_url": "https://example.com/player/294",
   "image": "ipfs://QmbR6Ar6HuNVWL8y1fgQZ1RxMvQvHHWJUf5enppkcDNxRg",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 1,
+  "overall_rating": 88,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 58,
+    "speed": 79,
+    "shooting": 78,
     "passing": 75,
-    "dribbling": 59,
-    "defense": 67,
-    "physical": 57,
-    "goalTending": 66
+    "dribbling": 82,
+    "defense": 71,
+    "physical": 72,
+    "goal_tending": 84
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 79
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 58
+      "value": 78
     },
     {
       "display_type": "passing",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 59
+      "value": 82
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 84
     }
   ]
 }

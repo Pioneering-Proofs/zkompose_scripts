@@ -1,56 +1,61 @@
 {
-  "name": "Adrienne Howe",
-  "jerseyNumber": 82,
-  "description": "Number 82 Adrienne Howe. Overall rating of 65.",
+  "name": "Phil Bergstrom",
+  "jersey_number": 44,
+  "description": "Number 44 Phil Bergstrom. Overall rating of 73.",
   "external_url": "https://example.com/player/655",
   "image": "ipfs://Qmf9DuWKYj1AeuRCHxEhYuM6JExKAMBDHTrWgz1EAd4uVw",
-  "tier": 3,
-  "overallRating": 65,
+  "tier": 2,
+  "overall_rating": 73,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 52,
-    "shooting": 58,
-    "passing": 64,
-    "dribbling": 54,
-    "defense": 46,
-    "physical": 46,
-    "goalTending": 47
+    "speed": 72,
+    "shooting": 71,
+    "passing": 60,
+    "dribbling": 63,
+    "defense": 54,
+    "physical": 65,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 52
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 58
+      "value": 71
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 54
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 46
+      "value": 54
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 46
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 47
+      "value": 62
     }
   ]
 }

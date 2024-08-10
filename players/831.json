@@ -1,41 +1,46 @@
 {
-  "name": "Julian Kris",
-  "jerseyNumber": 37,
-  "description": "Number 37 Julian Kris. Overall rating of 74.",
+  "name": "Mitchell Gleason",
+  "jersey_number": 51,
+  "description": "Number 51 Mitchell Gleason. Overall rating of 77.",
   "external_url": "https://example.com/player/831",
   "image": "ipfs://QmSQ5qhV7ctbMQ1HQkZrKpUfX7sXUFgNnTwTK4wJWhbErp",
   "tier": 2,
-  "overallRating": 74,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 58,
-    "shooting": 68,
-    "passing": 72,
-    "dribbling": 71,
+    "speed": 61,
+    "shooting": 57,
+    "passing": 75,
+    "dribbling": 65,
     "defense": 60,
     "physical": 59,
-    "goalTending": 71
+    "goal_tending": 60
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 58
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 65
     },
     {
       "display_type": "defense",
@@ -48,9 +53,9 @@
       "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 60
     }
   ]
 }

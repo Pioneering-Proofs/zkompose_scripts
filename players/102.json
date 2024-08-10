@@ -1,26 +1,31 @@
 {
-  "name": "Hubert Schuppe",
-  "jerseyNumber": 80,
-  "description": "Number 80 Hubert Schuppe. Overall rating of 76.",
+  "name": "Dr. Hector Anderson",
+  "jersey_number": 6,
+  "description": "Number 6 Dr. Hector Anderson. Overall rating of 76.",
   "external_url": "https://example.com/player/102",
   "image": "ipfs://QmdZ7BCUbehkTv8JUiN5TgxzF4kZ3NZwDRumcYYL3ixvfG",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 74,
+    "speed": 68,
     "shooting": 61,
-    "passing": 70,
-    "dribbling": 62,
-    "defense": 70,
-    "physical": 56,
-    "goalTending": 57
+    "passing": 64,
+    "dribbling": 65,
+    "defense": 73,
+    "physical": 68,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 74
+      "value": 68
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 65
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 73
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 68
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 71
     }
   ]
 }

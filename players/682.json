@@ -1,56 +1,61 @@
 {
-  "name": "Elbert Beatty V",
-  "jerseyNumber": 40,
-  "description": "Number 40 Elbert Beatty V. Overall rating of 77.",
+  "name": "Reginald Stokes",
+  "jersey_number": 65,
+  "description": "Number 65 Reginald Stokes. Overall rating of 78.",
   "external_url": "https://example.com/player/682",
   "image": "ipfs://QmVDR6YcwPaivr5jQQAjdevnLgBjUcxV3ijpeSWa2Hxbff",
   "tier": 2,
-  "overallRating": 77,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 75,
-    "shooting": 61,
-    "passing": 66,
-    "dribbling": 57,
-    "defense": 57,
-    "physical": 64,
-    "goalTending": 63
+    "speed": 65,
+    "shooting": 69,
+    "passing": 71,
+    "dribbling": 77,
+    "defense": 66,
+    "physical": 70,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 75
+      "value": 65
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 66
+      "value": 71
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 57
+      "value": 77
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 63
+      "value": 64
     }
   ]
 }

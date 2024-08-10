@@ -1,56 +1,61 @@
 {
-  "name": "Teresa Murphy",
-  "jerseyNumber": 28,
-  "description": "Number 28 Teresa Murphy. Overall rating of 75.",
+  "name": "Hubert Terry Sr.",
+  "jersey_number": 10,
+  "description": "Number 10 Hubert Terry Sr.. Overall rating of 77.",
   "external_url": "https://example.com/player/603",
   "image": "ipfs://QmNVns2NAcvJbK2RMYobSJi1WGYVtY2sYLhZ13A9Ad5P23",
   "tier": 2,
-  "overallRating": 75,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 59,
-    "shooting": 58,
-    "passing": 71,
-    "dribbling": 64,
-    "defense": 67,
-    "physical": 75,
-    "goalTending": 58
+    "speed": 71,
+    "shooting": 72,
+    "passing": 74,
+    "dribbling": 63,
+    "defense": 57,
+    "physical": 76,
+    "goal_tending": 74
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 59
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 58
+      "value": 72
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 64
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 57
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 76
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 74
     }
   ]
 }

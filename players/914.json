@@ -1,56 +1,61 @@
 {
-  "name": "Rafael Hettinger",
-  "jerseyNumber": 84,
-  "description": "Number 84 Rafael Hettinger. Overall rating of 63.",
+  "name": "Ms. Erika Blanda-McCullough",
+  "jersey_number": 8,
+  "description": "Number 8 Ms. Erika Blanda-McCullough. Overall rating of 72.",
   "external_url": "https://example.com/player/914",
   "image": "ipfs://QmbtjeH2Zjq2e94BhV94wFHzobzTyGUn2TyokwhLLEtzPs",
-  "tier": 3,
-  "overallRating": 63,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 55,
-    "shooting": 59,
-    "passing": 62,
-    "dribbling": 46,
-    "defense": 43,
-    "physical": 49,
-    "goalTending": 46
+    "speed": 68,
+    "shooting": 66,
+    "passing": 65,
+    "dribbling": 57,
+    "defense": 52,
+    "physical": 62,
+    "goal_tending": 55
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 55
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 46
+      "value": 57
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 43
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 49
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 46
+      "value": 55
     }
   ]
 }

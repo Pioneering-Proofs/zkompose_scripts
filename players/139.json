@@ -1,36 +1,41 @@
 {
-  "name": "Sam Kreiger Sr.",
-  "jerseyNumber": 10,
-  "description": "Number 10 Sam Kreiger Sr.. Overall rating of 73.",
+  "name": "Gina Heaney",
+  "jersey_number": 69,
+  "description": "Number 69 Gina Heaney. Overall rating of 86.",
   "external_url": "https://example.com/player/139",
   "image": "ipfs://QmYGuSaSS6MqDXZUfXfBoi869CT67JEwZg6C88PL7Pu7M1",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 55,
-    "shooting": 55,
-    "passing": 67,
+    "speed": 68,
+    "shooting": 77,
+    "passing": 80,
     "dribbling": 72,
-    "defense": 61,
-    "physical": 65,
-    "goalTending": 70
+    "defense": 74,
+    "physical": 85,
+    "goal_tending": 85
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 55
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 80
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 74
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 85
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 70
+      "value": 85
     }
   ]
 }

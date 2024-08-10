@@ -1,26 +1,31 @@
 {
-  "name": "Nelson Abshire",
-  "jerseyNumber": 57,
-  "description": "Number 57 Nelson Abshire. Overall rating of 76.",
+  "name": "Luther Raynor",
+  "jersey_number": 32,
+  "description": "Number 32 Luther Raynor. Overall rating of 89.",
   "external_url": "https://example.com/player/181",
   "image": "ipfs://QmcW4LCWkXi8FuJdYreReEtJKJSHFNaCYXM5EUKRSDZuAB",
-  "tier": 2,
-  "overallRating": 76,
+  "tier": 1,
+  "overall_rating": 89,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
+    "speed": 85,
     "shooting": 69,
     "passing": 73,
-    "dribbling": 72,
-    "defense": 75,
-    "physical": 63,
-    "goalTending": 66
+    "dribbling": 75,
+    "defense": 79,
+    "physical": 86,
+    "goal_tending": 74
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 85
     },
     {
       "display_type": "shooting",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 72
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 75
+      "value": 79
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 63
+      "value": 86
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 74
     }
   ]
 }

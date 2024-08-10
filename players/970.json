@@ -1,56 +1,61 @@
 {
-  "name": "Eula Metz",
-  "jerseyNumber": 5,
-  "description": "Number 5 Eula Metz. Overall rating of 66.",
+  "name": "Orlando Boyle",
+  "jersey_number": 34,
+  "description": "Number 34 Orlando Boyle. Overall rating of 79.",
   "external_url": "https://example.com/player/970",
   "image": "ipfs://QmRY9V6gU6Fi2Vj9v1tmtMJrsB2nthZ8kMg8ZYt9sbgZXH",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 2,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 50,
-    "shooting": 64,
-    "passing": 51,
-    "dribbling": 61,
-    "defense": 66,
-    "physical": 64,
-    "goalTending": 57
+    "speed": 63,
+    "shooting": 72,
+    "passing": 68,
+    "dribbling": 75,
+    "defense": 68,
+    "physical": 61,
+    "goal_tending": 74
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 50
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 72
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 51
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 74
     }
   ]
 }

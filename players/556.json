@@ -1,56 +1,61 @@
 {
-  "name": "Rosa Keebler",
-  "jerseyNumber": 46,
-  "description": "Number 46 Rosa Keebler. Overall rating of 66.",
+  "name": "Nadine Schmitt",
+  "jersey_number": 9,
+  "description": "Number 9 Nadine Schmitt. Overall rating of 97.",
   "external_url": "https://example.com/player/556",
   "image": "ipfs://QmUX5dd5EUDyBbbjjSmh8HEuNp4dNGb7tbsPX57FvMFw9Z",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 0,
+  "overall_rating": 97,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 65,
-    "passing": 59,
-    "dribbling": 63,
-    "defense": 64,
-    "physical": 53,
-    "goalTending": 47
+    "speed": 86,
+    "shooting": 89,
+    "passing": 88,
+    "dribbling": 93,
+    "defense": 88,
+    "physical": 92,
+    "goal_tending": 78
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 86
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 89
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 88
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 93
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 88
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 92
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 47
+      "value": 78
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Natalie Steuber",
-  "jerseyNumber": 58,
-  "description": "Number 58 Natalie Steuber. Overall rating of 64.",
+  "name": "Victoria Spinka",
+  "jersey_number": 62,
+  "description": "Number 62 Victoria Spinka. Overall rating of 79.",
   "external_url": "https://example.com/player/342",
   "image": "ipfs://Qmca77D7Np5CUFA1GhY9shUhjBA2yyQsf36zhJMH1HtVGH",
-  "tier": 3,
-  "overallRating": 64,
+  "tier": 2,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 58,
-    "shooting": 49,
-    "passing": 61,
-    "dribbling": 62,
-    "defense": 56,
-    "physical": 47,
-    "goalTending": 64
+    "speed": 73,
+    "shooting": 59,
+    "passing": 73,
+    "dribbling": 79,
+    "defense": 64,
+    "physical": 59,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 58
+      "value": 73
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 49
+      "value": 59
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 61
+      "value": 73
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 79
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 56
+      "value": 64
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 47
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 69
     }
   ]
 }

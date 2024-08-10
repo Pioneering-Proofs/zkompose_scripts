@@ -1,56 +1,61 @@
 {
-  "name": "Preston Cruickshank",
-  "jerseyNumber": 82,
-  "description": "Number 82 Preston Cruickshank. Overall rating of 68.",
+  "name": "Mamie Mayert",
+  "jersey_number": 1,
+  "description": "Number 1 Mamie Mayert. Overall rating of 76.",
   "external_url": "https://example.com/player/662",
   "image": "ipfs://QmPUp7MdRxpnUGgvr9bxrUJAgm1oSWcEbGhyc32u2ndzDo",
-  "tier": 3,
-  "overallRating": 68,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 49,
-    "shooting": 55,
-    "passing": 64,
-    "dribbling": 62,
-    "defense": 67,
-    "physical": 64,
-    "goalTending": 55
+    "speed": 58,
+    "shooting": 63,
+    "passing": 59,
+    "dribbling": 56,
+    "defense": 56,
+    "physical": 60,
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 49
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 59
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 56
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 60
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 55
+      "value": 73
     }
   ]
 }

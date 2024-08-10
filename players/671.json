@@ -1,56 +1,61 @@
 {
-  "name": "Dora Gleichner",
-  "jerseyNumber": 58,
-  "description": "Number 58 Dora Gleichner. Overall rating of 63.",
+  "name": "Pat Strosin",
+  "jersey_number": 76,
+  "description": "Number 76 Pat Strosin. Overall rating of 81.",
   "external_url": "https://example.com/player/671",
   "image": "ipfs://QmNgFBfQEPVxRG5VPbX4HQrq7Fq1FYEChHJhQDovsawW4A",
-  "tier": 3,
-  "overallRating": 63,
+  "tier": 1,
+  "overall_rating": 81,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 43,
-    "passing": 50,
-    "dribbling": 60,
-    "defense": 47,
-    "physical": 55,
-    "goalTending": 50
+    "speed": 78,
+    "shooting": 79,
+    "passing": 70,
+    "dribbling": 73,
+    "defense": 69,
+    "physical": 63,
+    "goal_tending": 80
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 43
+      "value": 79
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 50
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 47
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 55
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 50
+      "value": 80
     }
   ]
 }

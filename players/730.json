@@ -1,56 +1,61 @@
 {
-  "name": "Gretchen Satterfield",
-  "jerseyNumber": 52,
-  "description": "Number 52 Gretchen Satterfield. Overall rating of 70.",
+  "name": "Marty Wunsch",
+  "jersey_number": 26,
+  "description": "Number 26 Marty Wunsch. Overall rating of 88.",
   "external_url": "https://example.com/player/730",
   "image": "ipfs://QmTMTqWXdXMrW9WxAR9pXAMWnaTUcUmk5u5SmFAe6Tk24K",
-  "tier": 2,
-  "overallRating": 70,
+  "tier": 1,
+  "overall_rating": 88,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 51,
-    "shooting": 55,
-    "passing": 69,
-    "dribbling": 70,
-    "defense": 55,
-    "physical": 61,
-    "goalTending": 51
+    "speed": 77,
+    "shooting": 82,
+    "passing": 83,
+    "dribbling": 85,
+    "defense": 77,
+    "physical": 82,
+    "goal_tending": 86
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 51
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 82
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 69
+      "value": 83
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 70
+      "value": 85
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 82
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 51
+      "value": 86
     }
   ]
 }

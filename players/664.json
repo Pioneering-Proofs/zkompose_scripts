@@ -1,56 +1,61 @@
 {
-  "name": "Veronica Lind",
-  "jerseyNumber": 65,
-  "description": "Number 65 Veronica Lind. Overall rating of 85.",
+  "name": "Clayton Grant",
+  "jersey_number": 51,
+  "description": "Number 51 Clayton Grant. Overall rating of 82.",
   "external_url": "https://example.com/player/664",
   "image": "ipfs://QmXcn9Xfg7mmDQTdQEpDu3tTYMgSRCXjZhYqAejfEeLjoc",
   "tier": 1,
-  "overallRating": 85,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 83,
-    "passing": 74,
-    "dribbling": 69,
-    "defense": 70,
-    "physical": 83,
-    "goalTending": 77
+    "speed": 62,
+    "shooting": 67,
+    "passing": 72,
+    "dribbling": 81,
+    "defense": 75,
+    "physical": 63,
+    "goal_tending": 81
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 83
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 72
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 69
+      "value": 81
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 75
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 83
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 81
     }
   ]
 }

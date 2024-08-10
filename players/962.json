@@ -1,56 +1,61 @@
 {
-  "name": "Alyssa Gerhold",
-  "jerseyNumber": 36,
-  "description": "Number 36 Alyssa Gerhold. Overall rating of 61.",
+  "name": "Alexis Marvin",
+  "jersey_number": 87,
+  "description": "Number 87 Alexis Marvin. Overall rating of 74.",
   "external_url": "https://example.com/player/962",
   "image": "ipfs://QmdhahCdBZCiLekC9gSnLXD9jKgrALAreFh5pkWTXVvy8q",
-  "tier": 3,
-  "overallRating": 61,
+  "tier": 2,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 44,
-    "shooting": 57,
-    "passing": 44,
-    "dribbling": 41,
-    "defense": 43,
-    "physical": 45,
-    "goalTending": 56
+    "speed": 58,
+    "shooting": 63,
+    "passing": 58,
+    "dribbling": 71,
+    "defense": 68,
+    "physical": 70,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 44
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 44
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 41
+      "value": 71
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 43
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 45
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 56
+      "value": 70
     }
   ]
 }

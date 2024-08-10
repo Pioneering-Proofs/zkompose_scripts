@@ -1,56 +1,61 @@
 {
-  "name": "Angela Beahan-Kunze",
-  "jerseyNumber": 7,
-  "description": "Number 7 Angela Beahan-Kunze. Overall rating of 73.",
+  "name": "Jacquelyn Jacobs",
+  "jersey_number": 87,
+  "description": "Number 87 Jacquelyn Jacobs. Overall rating of 74.",
   "external_url": "https://example.com/player/876",
   "image": "ipfs://QmPhaTfT8igssBekjE6mWii9P7nNp6VaY3gpHmMKFTKyTC",
   "tier": 2,
-  "overallRating": 73,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
-    "shooting": 64,
-    "passing": 53,
-    "dribbling": 72,
-    "defense": 61,
-    "physical": 72,
-    "goalTending": 64
+    "speed": 62,
+    "shooting": 70,
+    "passing": 72,
+    "dribbling": 66,
+    "defense": 57,
+    "physical": 71,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 53
+      "value": 72
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 72
+      "value": 66
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 57
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 54
     }
   ]
 }

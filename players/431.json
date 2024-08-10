@@ -1,26 +1,31 @@
 {
-  "name": "Wendy Stiedemann",
-  "jerseyNumber": 40,
-  "description": "Number 40 Wendy Stiedemann. Overall rating of 73.",
+  "name": "Rex Frami MD",
+  "jersey_number": 85,
+  "description": "Number 85 Rex Frami MD. Overall rating of 81.",
   "external_url": "https://example.com/player/431",
   "image": "ipfs://QmNvcuG6QW2oBgcGDePyGUR7FinhsiNEczkr9Pqh6BBtkh",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 1,
+  "overall_rating": 81,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 59,
+    "speed": 80,
     "shooting": 61,
-    "passing": 67,
-    "dribbling": 54,
-    "defense": 63,
-    "physical": 72,
-    "goalTending": 55
+    "passing": 78,
+    "dribbling": 66,
+    "defense": 65,
+    "physical": 69,
+    "goal_tending": 80
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 59
+      "value": 80
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 78
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 54
+      "value": 66
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 63
+      "value": 65
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 55
+      "value": 80
     }
   ]
 }

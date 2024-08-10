@@ -1,41 +1,46 @@
 {
-  "name": "Ruth Daniel II",
-  "jerseyNumber": 62,
-  "description": "Number 62 Ruth Daniel II. Overall rating of 80.",
+  "name": "Kristen Huel",
+  "jersey_number": 97,
+  "description": "Number 97 Kristen Huel. Overall rating of 68.",
   "external_url": "https://example.com/player/811",
   "image": "ipfs://QmPVZthREJA2J8cWUkdH5hLaEvKguAwLVmA2F1W7qtPsZF",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 3,
+  "overall_rating": 68,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 61,
-    "passing": 62,
-    "dribbling": 68,
+    "speed": 61,
+    "shooting": 49,
+    "passing": 65,
+    "dribbling": 67,
     "defense": 61,
-    "physical": 74,
-    "goalTending": 77
+    "physical": 51,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 49
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 67
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 74
+      "value": 51
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 66
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Dr. Troy Schmitt",
-  "jerseyNumber": 19,
-  "description": "Number 19 Dr. Troy Schmitt. Overall rating of 75.",
+  "name": "Barry Weber",
+  "jersey_number": 27,
+  "description": "Number 27 Barry Weber. Overall rating of 51.",
   "external_url": "https://example.com/player/280",
   "image": "ipfs://QmNyxpQX2TpH1NZGiPidkrusWND6h62ozqL2QYLzok4wj5",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 4,
+  "overall_rating": 51,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 68,
-    "passing": 74,
-    "dribbling": 66,
-    "defense": 58,
-    "physical": 57,
-    "goalTending": 55
+    "speed": 33,
+    "shooting": 51,
+    "passing": 46,
+    "dribbling": 34,
+    "defense": 41,
+    "physical": 32,
+    "goal_tending": 48
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 33
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 51
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 46
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 34
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 41
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 32
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 55
+      "value": 48
     }
   ]
 }

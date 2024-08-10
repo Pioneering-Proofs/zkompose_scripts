@@ -1,56 +1,61 @@
 {
-  "name": "Desiree Hartmann",
-  "jerseyNumber": 56,
-  "description": "Number 56 Desiree Hartmann. Overall rating of 82.",
+  "name": "Ralph Hettinger",
+  "jersey_number": 52,
+  "description": "Number 52 Ralph Hettinger. Overall rating of 66.",
   "external_url": "https://example.com/player/749",
   "image": "ipfs://QmRcXGngh4CAvSF1nVWsrUPF4qoCRQAGURicxzr2sdgZXq",
-  "tier": 1,
-  "overallRating": 82,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 80,
-    "passing": 71,
-    "dribbling": 81,
-    "defense": 66,
-    "physical": 74,
-    "goalTending": 72
+    "speed": 56,
+    "shooting": 57,
+    "passing": 58,
+    "dribbling": 63,
+    "defense": 63,
+    "physical": 59,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 56
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 80
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 81
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 74
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 56
     }
   ]
 }

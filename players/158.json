@@ -1,46 +1,51 @@
 {
-  "name": "Sonia Fahey",
-  "jerseyNumber": 48,
-  "description": "Number 48 Sonia Fahey. Overall rating of 73.",
+  "name": "Bert Bergnaum Jr.",
+  "jersey_number": 58,
+  "description": "Number 58 Bert Bergnaum Jr.. Overall rating of 75.",
   "external_url": "https://example.com/player/158",
   "image": "ipfs://QmX4iGqAWXMUzgoAA73CwVhr15ZvkohdhGmrC4PAwWr1bC",
   "tier": 2,
-  "overallRating": 73,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 73,
-    "passing": 58,
-    "dribbling": 71,
-    "defense": 65,
+    "speed": 72,
+    "shooting": 69,
+    "passing": 74,
+    "dribbling": 64,
+    "defense": 55,
     "physical": 63,
-    "goalTending": 69
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 73
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 65
+      "value": 55
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 67
     }
   ]
 }

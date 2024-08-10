@@ -1,56 +1,61 @@
 {
-  "name": "Dan Jacobs",
-  "jerseyNumber": 79,
-  "description": "Number 79 Dan Jacobs. Overall rating of 74.",
+  "name": "Justin Hirthe",
+  "jersey_number": 40,
+  "description": "Number 40 Justin Hirthe. Overall rating of 69.",
   "external_url": "https://example.com/player/444",
   "image": "ipfs://QmYPo7LKhMDq5kmFhiMCxBhA2gdKJk5SPr1uSr2TELi1UD",
-  "tier": 2,
-  "overallRating": 74,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
-    "shooting": 73,
-    "passing": 69,
-    "dribbling": 65,
-    "defense": 60,
-    "physical": 56,
-    "goalTending": 70
+    "speed": 65,
+    "shooting": 54,
+    "passing": 63,
+    "dribbling": 60,
+    "defense": 57,
+    "physical": 65,
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 65
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 73
+      "value": 54
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 69
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 57
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 70
+      "value": 59
     }
   ]
 }

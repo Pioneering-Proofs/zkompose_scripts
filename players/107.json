@@ -1,56 +1,61 @@
 {
-  "name": "Kristen Sauer",
-  "jerseyNumber": 86,
-  "description": "Number 86 Kristen Sauer. Overall rating of 55.",
+  "name": "Domingo Heller",
+  "jersey_number": 85,
+  "description": "Number 85 Domingo Heller. Overall rating of 65.",
   "external_url": "https://example.com/player/107",
   "image": "ipfs://QmVpAy6Kc2t3erhAScoZQSLUowkJDwrhqNDYVRg3rd9zF1",
-  "tier": 4,
-  "overallRating": 55,
+  "tier": 3,
+  "overall_rating": 65,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 53,
-    "shooting": 36,
-    "passing": 52,
-    "dribbling": 51,
-    "defense": 39,
-    "physical": 53,
-    "goalTending": 35
+    "speed": 51,
+    "shooting": 63,
+    "passing": 46,
+    "dribbling": 57,
+    "defense": 51,
+    "physical": 64,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 53
+      "value": 51
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 36
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 46
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 51
+      "value": 57
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 39
+      "value": 51
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 35
+      "value": 56
     }
   ]
 }

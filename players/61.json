@@ -1,56 +1,61 @@
 {
-  "name": "Dr. Neil Heaney",
-  "jerseyNumber": 3,
-  "description": "Number 3 Dr. Neil Heaney. Overall rating of 75.",
+  "name": "Kelvin Konopelski V",
+  "jersey_number": 56,
+  "description": "Number 56 Kelvin Konopelski V. Overall rating of 80.",
   "external_url": "https://example.com/player/61",
   "image": "ipfs://QmV7wtkVi91yxWNTiE1MFK8GzZi6RMr4eiCyNJf6Uw6xND",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
-    "shooting": 59,
-    "passing": 58,
-    "dribbling": 67,
-    "defense": 75,
-    "physical": 68,
-    "goalTending": 68
+    "speed": 75,
+    "shooting": 77,
+    "passing": 77,
+    "dribbling": 60,
+    "defense": 77,
+    "physical": 66,
+    "goal_tending": 72
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 75
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 77
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 75
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 72
     }
   ]
 }

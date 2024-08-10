@@ -1,56 +1,61 @@
 {
-  "name": "Ms. Rita Hilpert PhD",
-  "jerseyNumber": 32,
-  "description": "Number 32 Ms. Rita Hilpert PhD. Overall rating of 74.",
+  "name": "Julie Windler-Buckridge II",
+  "jersey_number": 95,
+  "description": "Number 95 Julie Windler-Buckridge II. Overall rating of 66.",
   "external_url": "https://example.com/player/510",
   "image": "ipfs://QmW368frJh2NT93jo4EfXD3npiWqNbqKEc9UgUVbjA35f2",
-  "tier": 2,
-  "overallRating": 74,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 72,
-    "passing": 73,
-    "dribbling": 73,
-    "defense": 54,
-    "physical": 65,
-    "goalTending": 63
+    "speed": 48,
+    "shooting": 48,
+    "passing": 62,
+    "dribbling": 51,
+    "defense": 51,
+    "physical": 64,
+    "goal_tending": 53
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 48
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 48
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 51
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 54
+      "value": 51
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 63
+      "value": 53
     }
   ]
 }

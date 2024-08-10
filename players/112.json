@@ -1,54 +1,59 @@
 {
-  "name": "Candice Kunde",
-  "jerseyNumber": 10,
-  "description": "Number 10 Candice Kunde. Overall rating of 56.",
+  "name": "Dianne Bode",
+  "jersey_number": 53,
+  "description": "Number 53 Dianne Bode. Overall rating of 69.",
   "external_url": "https://example.com/player/112",
   "image": "ipfs://QmR9WH9gH8KFjEjGHHCjqXbQzuANjuZjVmgJrhC9KbqckW",
-  "tier": 4,
-  "overallRating": 56,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 48,
-    "shooting": 49,
-    "passing": 52,
-    "dribbling": 54,
-    "defense": 50,
-    "physical": 50,
-    "goalTending": 53
+    "speed": 63,
+    "shooting": 55,
+    "passing": 56,
+    "dribbling": 49,
+    "defense": 65,
+    "physical": 65,
+    "goal_tending": 53
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 48
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 49
+      "value": 55
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 56
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 54
+      "value": 49
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 50
+      "value": 65
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 50
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 53
     }

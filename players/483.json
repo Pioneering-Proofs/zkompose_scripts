@@ -1,56 +1,61 @@
 {
-  "name": "Cheryl Harvey",
-  "jerseyNumber": 81,
-  "description": "Number 81 Cheryl Harvey. Overall rating of 80.",
+  "name": "Daniel Pouros",
+  "jersey_number": 21,
+  "description": "Number 21 Daniel Pouros. Overall rating of 70.",
   "external_url": "https://example.com/player/483",
   "image": "ipfs://QmdBZP2P3zALb2nCn2zq9qFjJT5YzyizymhA6fqWQbEWgp",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 74,
-    "shooting": 75,
-    "passing": 73,
-    "dribbling": 76,
-    "defense": 75,
-    "physical": 71,
-    "goalTending": 77
+    "speed": 52,
+    "shooting": 54,
+    "passing": 67,
+    "dribbling": 56,
+    "defense": 63,
+    "physical": 60,
+    "goal_tending": 57
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 74
+      "value": 52
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 75
+      "value": 54
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 67
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 76
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 75
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 60
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 57
     }
   ]
 }

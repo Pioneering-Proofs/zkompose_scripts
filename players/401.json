@@ -1,56 +1,61 @@
 {
-  "name": "Rafael Feeney",
-  "jerseyNumber": 86,
-  "description": "Number 86 Rafael Feeney. Overall rating of 85.",
+  "name": "Charlie Gibson",
+  "jersey_number": 50,
+  "description": "Number 50 Charlie Gibson. Overall rating of 61.",
   "external_url": "https://example.com/player/401",
   "image": "ipfs://QmfBRc7tVFk4UtvBhnUWnjSPifwgBR3SNjh2ZbUC6r6t1r",
-  "tier": 1,
-  "overallRating": 85,
+  "tier": 3,
+  "overall_rating": 61,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 82,
-    "passing": 70,
-    "dribbling": 74,
-    "defense": 68,
-    "physical": 79,
-    "goalTending": 68
+    "speed": 43,
+    "shooting": 46,
+    "passing": 48,
+    "dribbling": 57,
+    "defense": 41,
+    "physical": 52,
+    "goal_tending": 41
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 43
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 82
+      "value": 46
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 48
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 57
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 41
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 79
+      "value": 52
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 41
     }
   ]
 }

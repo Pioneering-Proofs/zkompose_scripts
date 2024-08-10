@@ -1,56 +1,61 @@
 {
-  "name": "Mattie MacGyver",
-  "jerseyNumber": 48,
-  "description": "Number 48 Mattie MacGyver. Overall rating of 66.",
+  "name": "Dr. Ismael Conroy",
+  "jersey_number": 93,
+  "description": "Number 93 Dr. Ismael Conroy. Overall rating of 69.",
   "external_url": "https://example.com/player/553",
   "image": "ipfs://QmNpc462j3i8PJTvAN8AK7sCoSJS7hnb7nYGo72XBJRB9N",
   "tier": 3,
-  "overallRating": 66,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 56,
-    "shooting": 63,
-    "passing": 61,
-    "dribbling": 56,
-    "defense": 60,
-    "physical": 62,
-    "goalTending": 63
+    "speed": 49,
+    "shooting": 51,
+    "passing": 62,
+    "dribbling": 68,
+    "defense": 49,
+    "physical": 65,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 56
+      "value": 49
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 63
+      "value": 51
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 61
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 49
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 63
+      "value": 66
     }
   ]
 }

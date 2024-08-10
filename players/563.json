@@ -1,56 +1,61 @@
 {
-  "name": "Matthew O'Connell",
-  "jerseyNumber": 54,
-  "description": "Number 54 Matthew O'Connell. Overall rating of 72.",
+  "name": "Marion Kutch",
+  "jersey_number": 3,
+  "description": "Number 3 Marion Kutch. Overall rating of 79.",
   "external_url": "https://example.com/player/563",
   "image": "ipfs://QmP589h4jqCyLMRjrZ8U6U2LbSr2xa53keNdU5mVzW6vG5",
   "tier": 2,
-  "overallRating": 72,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 70,
-    "passing": 58,
-    "dribbling": 57,
-    "defense": 68,
-    "physical": 56,
-    "goalTending": 53
+    "speed": 77,
+    "shooting": 65,
+    "passing": 75,
+    "dribbling": 77,
+    "defense": 63,
+    "physical": 69,
+    "goal_tending": 75
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 70
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 57
+      "value": 77
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 53
+      "value": 75
     }
   ]
 }

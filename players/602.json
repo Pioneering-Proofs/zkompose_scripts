@@ -1,56 +1,61 @@
 {
-  "name": "Sue Bradtke",
-  "jerseyNumber": 22,
-  "description": "Number 22 Sue Bradtke. Overall rating of 86.",
+  "name": "Natalie Hudson",
+  "jersey_number": 65,
+  "description": "Number 65 Natalie Hudson. Overall rating of 84.",
   "external_url": "https://example.com/player/602",
   "image": "ipfs://QmSon9kGXniVGDTQo9pQD1jiM2RMsV3EFnPiRndcF5qkx3",
   "tier": 1,
-  "overallRating": 86,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 86,
-    "shooting": 66,
-    "passing": 82,
-    "dribbling": 77,
-    "defense": 80,
-    "physical": 81,
-    "goalTending": 67
+    "speed": 77,
+    "shooting": 79,
+    "passing": 78,
+    "dribbling": 83,
+    "defense": 72,
+    "physical": 70,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 86
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 79
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 82
+      "value": 78
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 77
+      "value": 83
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 80
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 81
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 66
     }
   ]
 }

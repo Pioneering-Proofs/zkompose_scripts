@@ -1,46 +1,51 @@
 {
-  "name": "Vera Stamm",
-  "jerseyNumber": 20,
-  "description": "Number 20 Vera Stamm. Overall rating of 82.",
+  "name": "Devin Anderson",
+  "jersey_number": 31,
+  "description": "Number 31 Devin Anderson. Overall rating of 76.",
   "external_url": "https://example.com/player/666",
   "image": "ipfs://QmUH3m9BThEQpwqGjvLZMApVzEdfqoWXdBvXsdiCTu5KVb",
-  "tier": 1,
-  "overallRating": 82,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 82,
-    "passing": 74,
-    "dribbling": 81,
-    "defense": 66,
+    "speed": 56,
+    "shooting": 71,
+    "passing": 69,
+    "dribbling": 63,
+    "defense": 73,
     "physical": 71,
-    "goalTending": 67
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 56
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 82
+      "value": 71
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 81
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 73
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 59
     }
   ]
 }

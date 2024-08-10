@@ -1,56 +1,61 @@
 {
-  "name": "Anne Gutkowski",
-  "jerseyNumber": 11,
-  "description": "Number 11 Anne Gutkowski. Overall rating of 85.",
+  "name": "Mr. Nathan Becker I",
+  "jersey_number": 25,
+  "description": "Number 25 Mr. Nathan Becker I. Overall rating of 70.",
   "external_url": "https://example.com/player/128",
   "image": "ipfs://QmYbKFgf3N56PPTAENX1qWK6xbBJ2WYX1Vi9H6iJrnWjLT",
-  "tier": 1,
-  "overallRating": 85,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 81,
-    "shooting": 67,
-    "passing": 70,
-    "dribbling": 82,
-    "defense": 83,
-    "physical": 70,
-    "goalTending": 77
+    "speed": 62,
+    "shooting": 59,
+    "passing": 50,
+    "dribbling": 68,
+    "defense": 54,
+    "physical": 63,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 81
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 67
+      "value": 59
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 50
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 82
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 83
+      "value": 54
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 65
     }
   ]
 }

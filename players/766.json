@@ -1,41 +1,46 @@
 {
-  "name": "Edith Rippin",
-  "jerseyNumber": 46,
-  "description": "Number 46 Edith Rippin. Overall rating of 81.",
+  "name": "Shawna Rau",
+  "jersey_number": 26,
+  "description": "Number 26 Shawna Rau. Overall rating of 83.",
   "external_url": "https://example.com/player/766",
   "image": "ipfs://QmTD6HcnyqyHrvMNtcnQQMPpcKr97FyjApFPb9huLUQ7kE",
   "tier": 1,
-  "overallRating": 81,
+  "overall_rating": 83,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 69,
-    "passing": 75,
-    "dribbling": 67,
+    "speed": 73,
+    "shooting": 77,
+    "passing": 77,
+    "dribbling": 82,
     "defense": 70,
-    "physical": 75,
-    "goalTending": 80
+    "physical": 63,
+    "goal_tending": 79
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 73
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 77
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 82
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 80
+      "value": 79
     }
   ]
 }

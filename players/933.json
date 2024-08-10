@@ -1,56 +1,61 @@
 {
-  "name": "Horace Gislason",
-  "jerseyNumber": 43,
-  "description": "Number 43 Horace Gislason. Overall rating of 70.",
+  "name": "Earl Lubowitz",
+  "jersey_number": 70,
+  "description": "Number 70 Earl Lubowitz. Overall rating of 69.",
   "external_url": "https://example.com/player/933",
   "image": "ipfs://QmTZxLdkrD9JHMrVutFXEuEdMZhE12RoBQR5uR8z3sXhhc",
-  "tier": 2,
-  "overallRating": 70,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 52,
-    "shooting": 64,
-    "passing": 62,
-    "dribbling": 63,
-    "defense": 53,
-    "physical": 69,
-    "goalTending": 68
+    "speed": 66,
+    "shooting": 56,
+    "passing": 69,
+    "dribbling": 49,
+    "defense": 65,
+    "physical": 63,
+    "goal_tending": 51
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 52
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 49
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 53
+      "value": 65
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 69
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 51
     }
   ]
 }

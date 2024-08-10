@@ -1,56 +1,61 @@
 {
-  "name": "Dustin Lowe",
-  "jerseyNumber": 10,
-  "description": "Number 10 Dustin Lowe. Overall rating of 51.",
+  "name": "Georgia Muller",
+  "jersey_number": 28,
+  "description": "Number 28 Georgia Muller. Overall rating of 86.",
   "external_url": "https://example.com/player/954",
   "image": "ipfs://QmQuEbgEy5eZEpRXfWMCSUpY5XZoh5FcFqD8KDSZvrmhBX",
-  "tier": 4,
-  "overallRating": 51,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 50,
-    "shooting": 33,
-    "passing": 45,
-    "dribbling": 49,
-    "defense": 44,
-    "physical": 47,
-    "goalTending": 44
+    "speed": 71,
+    "shooting": 82,
+    "passing": 85,
+    "dribbling": 85,
+    "defense": 77,
+    "physical": 83,
+    "goal_tending": 80
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 50
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 33
+      "value": 82
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 45
+      "value": 85
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 49
+      "value": 85
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 44
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 47
+      "value": 83
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 44
+      "value": 80
     }
   ]
 }

@@ -1,46 +1,51 @@
 {
-  "name": "Charlene Schowalter",
-  "jerseyNumber": 67,
-  "description": "Number 67 Charlene Schowalter. Overall rating of 81.",
+  "name": "Ms. Shelly Kutch",
+  "jersey_number": 33,
+  "description": "Number 33 Ms. Shelly Kutch. Overall rating of 74.",
   "external_url": "https://example.com/player/523",
   "image": "ipfs://QmTe3o479UH5y5KB8mjkJJpU2LA9qeGjtomrzM4jBnPSQx",
-  "tier": 1,
-  "overallRating": 81,
+  "tier": 2,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 80,
-    "shooting": 75,
-    "passing": 61,
-    "dribbling": 61,
-    "defense": 66,
+    "speed": 70,
+    "shooting": 62,
+    "passing": 55,
+    "dribbling": 63,
+    "defense": 72,
     "physical": 69,
-    "goalTending": 62
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 80
+      "value": 70
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 75
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 61
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 72
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 62
+      "value": 64
     }
   ]
 }

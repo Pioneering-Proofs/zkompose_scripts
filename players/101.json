@@ -1,36 +1,41 @@
 {
-  "name": "Brendan Ullrich",
-  "jerseyNumber": 14,
-  "description": "Number 14 Brendan Ullrich. Overall rating of 69.",
+  "name": "Mrs. Jane Yundt",
+  "jersey_number": 15,
+  "description": "Number 15 Mrs. Jane Yundt. Overall rating of 72.",
   "external_url": "https://example.com/player/101",
   "image": "ipfs://QmctbT5EUT7BboFBmyHkwC4pckYcTvdxxnjC55qpC3cWLo",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 59,
-    "shooting": 51,
-    "passing": 50,
+    "speed": 67,
+    "shooting": 70,
+    "passing": 71,
     "dribbling": 60,
-    "defense": 49,
-    "physical": 54,
-    "goalTending": 69
+    "defense": 56,
+    "physical": 59,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 59
+      "value": 67
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 51
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 50
+      "value": 71
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 49
+      "value": 56
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 54
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 54
     }
   ]
 }

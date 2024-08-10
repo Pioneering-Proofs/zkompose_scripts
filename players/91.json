@@ -1,36 +1,41 @@
 {
-  "name": "Dr. Elsie Stanton",
-  "jerseyNumber": 80,
-  "description": "Number 80 Dr. Elsie Stanton. Overall rating of 77.",
+  "name": "Maurice Runolfsson",
+  "jersey_number": 36,
+  "description": "Number 36 Maurice Runolfsson. Overall rating of 75.",
   "external_url": "https://example.com/player/91",
   "image": "ipfs://QmWq97poATDMX2Db6swNNCHGDGu9v7omUWvUDMbU76tNhw",
   "tier": 2,
-  "overallRating": 77,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
-    "shooting": 69,
-    "passing": 62,
+    "speed": 61,
+    "shooting": 57,
+    "passing": 72,
     "dribbling": 73,
-    "defense": 67,
-    "physical": 73,
-    "goalTending": 57
+    "defense": 71,
+    "physical": 62,
+    "goal_tending": 72
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 72
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 72
     }
   ]
 }

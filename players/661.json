@@ -1,26 +1,31 @@
 {
-  "name": "Hugh Bruen",
-  "jerseyNumber": 64,
-  "description": "Number 64 Hugh Bruen. Overall rating of 76.",
+  "name": "Olga Legros MD",
+  "jersey_number": 17,
+  "description": "Number 17 Olga Legros MD. Overall rating of 88.",
   "external_url": "https://example.com/player/661",
   "image": "ipfs://QmXtSPu8o5C7Swid3JXjXeSy8QJWRC4bi86tFn44qq5SCm",
-  "tier": 2,
-  "overallRating": 76,
+  "tier": 1,
+  "overall_rating": 88,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 70,
+    "speed": 86,
     "shooting": 69,
-    "passing": 73,
-    "dribbling": 69,
-    "defense": 69,
-    "physical": 62,
-    "goalTending": 76
+    "passing": 82,
+    "dribbling": 82,
+    "defense": 72,
+    "physical": 84,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 70
+      "value": 86
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 82
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 69
+      "value": 82
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 84
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 70
     }
   ]
 }

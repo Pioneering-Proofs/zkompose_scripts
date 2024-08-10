@@ -1,56 +1,61 @@
 {
-  "name": "Juanita Walker",
-  "jerseyNumber": 95,
-  "description": "Number 95 Juanita Walker. Overall rating of 60.",
+  "name": "Bert Fritsch-Medhurst IV",
+  "jersey_number": 45,
+  "description": "Number 45 Bert Fritsch-Medhurst IV. Overall rating of 54.",
   "external_url": "https://example.com/player/372",
   "image": "ipfs://QmdwQ3VazMoB1Eo4qFM98eTbcqCWHa2y4CycGm5K9Tu2HB",
-  "tier": 3,
-  "overallRating": 60,
+  "tier": 4,
+  "overall_rating": 54,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 56,
-    "shooting": 59,
-    "passing": 45,
-    "dribbling": 58,
-    "defense": 42,
-    "physical": 56,
-    "goalTending": 58
+    "speed": 34,
+    "shooting": 50,
+    "passing": 51,
+    "dribbling": 50,
+    "defense": 45,
+    "physical": 43,
+    "goal_tending": 40
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 56
+      "value": 34
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 50
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 45
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 50
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 42
+      "value": 45
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 43
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 40
     }
   ]
 }

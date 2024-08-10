@@ -1,56 +1,61 @@
 {
-  "name": "Catherine Wilderman I",
-  "jerseyNumber": 1,
-  "description": "Number 1 Catherine Wilderman I. Overall rating of 79.",
+  "name": "Opal Oberbrunner",
+  "jersey_number": 50,
+  "description": "Number 50 Opal Oberbrunner. Overall rating of 80.",
   "external_url": "https://example.com/player/532",
   "image": "ipfs://QmfSQ59jwoJemcKWXxjG9Cxm4e1SVRXEdB2orZPPoPxEBj",
-  "tier": 2,
-  "overallRating": 79,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
-    "shooting": 77,
-    "passing": 64,
-    "dribbling": 62,
-    "defense": 78,
-    "physical": 78,
-    "goalTending": 73
+    "speed": 66,
+    "shooting": 61,
+    "passing": 79,
+    "dribbling": 70,
+    "defense": 74,
+    "physical": 79,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 77
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 79
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 74
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 78
+      "value": 79
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 73
+      "value": 62
     }
   ]
 }

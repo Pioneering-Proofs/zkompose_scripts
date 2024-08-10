@@ -1,56 +1,61 @@
 {
-  "name": "Mandy Crooks-Halvorson",
-  "jerseyNumber": 1,
-  "description": "Number 1 Mandy Crooks-Halvorson. Overall rating of 85.",
+  "name": "Earl O'Connell",
+  "jersey_number": 44,
+  "description": "Number 44 Earl O'Connell. Overall rating of 76.",
   "external_url": "https://example.com/player/502",
   "image": "ipfs://QmfAwdjAXWznD5bTdKgh2RdnSjeBmq1FHqnQXaV149PAwB",
-  "tier": 1,
-  "overallRating": 85,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 82,
-    "shooting": 76,
-    "passing": 67,
-    "dribbling": 83,
-    "defense": 65,
-    "physical": 76,
-    "goalTending": 72
+    "speed": 73,
+    "shooting": 66,
+    "passing": 68,
+    "dribbling": 71,
+    "defense": 72,
+    "physical": 65,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 82
+      "value": 73
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 83
+      "value": 71
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 65
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 76
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 63
     }
   ]
 }

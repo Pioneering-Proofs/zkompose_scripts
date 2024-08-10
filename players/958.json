@@ -1,56 +1,61 @@
 {
-  "name": "Nora Wintheiser",
-  "jerseyNumber": 35,
-  "description": "Number 35 Nora Wintheiser. Overall rating of 68.",
+  "name": "Marcella Okuneva",
+  "jersey_number": 56,
+  "description": "Number 56 Marcella Okuneva. Overall rating of 48.",
   "external_url": "https://example.com/player/958",
   "image": "ipfs://QmRn5JzBfSC8wvCmYo4NbvZdS1rSUtydz3XjeGVyaVhKew",
-  "tier": 3,
-  "overallRating": 68,
+  "tier": 4,
+  "overall_rating": 48,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 66,
-    "passing": 58,
-    "dribbling": 60,
-    "defense": 53,
-    "physical": 66,
-    "goalTending": 48
+    "speed": 45,
+    "shooting": 37,
+    "passing": 44,
+    "dribbling": 32,
+    "defense": 46,
+    "physical": 37,
+    "goal_tending": 46
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 45
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 37
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 44
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 32
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 53
+      "value": 46
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 66
+      "value": 37
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 48
+      "value": 46
     }
   ]
 }

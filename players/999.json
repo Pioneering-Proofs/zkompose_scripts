@@ -1,26 +1,31 @@
 {
-  "name": "Conrad Collins",
-  "jerseyNumber": 43,
-  "description": "Number 43 Conrad Collins. Overall rating of 78.",
+  "name": "Joel Erdman III",
+  "jersey_number": 75,
+  "description": "Number 75 Joel Erdman III. Overall rating of 80.",
   "external_url": "https://example.com/player/999",
   "image": "ipfs://QmaKenDESRy9Nb92Fc1fHM7Cfcz8HaZGM6XbtjKsVyzZeG",
-  "tier": 2,
-  "overallRating": 78,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
+    "speed": 75,
     "shooting": 75,
-    "passing": 68,
+    "passing": 79,
     "dribbling": 75,
-    "defense": 76,
-    "physical": 67,
-    "goalTending": 75
+    "defense": 78,
+    "physical": 78,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 75
     },
     {
       "display_type": "shooting",
@@ -30,7 +35,7 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 79
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 76
+      "value": 78
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 67
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 61
     }
   ]
 }

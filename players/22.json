@@ -1,56 +1,61 @@
 {
-  "name": "Rick Braun",
-  "jerseyNumber": 12,
-  "description": "Number 12 Rick Braun. Overall rating of 48.",
+  "name": "Matthew Romaguera",
+  "jersey_number": 17,
+  "description": "Number 17 Matthew Romaguera. Overall rating of 51.",
   "external_url": "https://example.com/player/22",
   "image": "ipfs://QmX4hHCMxLeY9JvkNQpbEJWvngRFQM5UW5gh2kcaTzymkZ",
   "tier": 4,
-  "overallRating": 48,
+  "overall_rating": 51,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 46,
-    "shooting": 33,
-    "passing": 38,
-    "dribbling": 31,
-    "defense": 44,
-    "physical": 30,
-    "goalTending": 43
+    "speed": 32,
+    "shooting": 40,
+    "passing": 50,
+    "dribbling": 49,
+    "defense": 49,
+    "physical": 31,
+    "goal_tending": 38
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 46
+      "value": 32
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 33
+      "value": 40
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 38
+      "value": 50
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 31
+      "value": 49
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 44
+      "value": 49
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 30
+      "value": 31
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 43
+      "value": 38
     }
   ]
 }

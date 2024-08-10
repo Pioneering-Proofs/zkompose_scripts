@@ -1,56 +1,61 @@
 {
-  "name": "Isabel Fahey",
-  "jerseyNumber": 12,
-  "description": "Number 12 Isabel Fahey. Overall rating of 88.",
+  "name": "Dr. Bennie Hoppe",
+  "jersey_number": 98,
+  "description": "Number 98 Dr. Bennie Hoppe. Overall rating of 74.",
   "external_url": "https://example.com/player/752",
   "image": "ipfs://QmYD7fqzDCqxswoWCdQrtikgquJ6ibh1J3VzespcLTWA6i",
-  "tier": 1,
-  "overallRating": 88,
+  "tier": 2,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 85,
-    "shooting": 84,
-    "passing": 86,
-    "dribbling": 69,
-    "defense": 79,
-    "physical": 80,
-    "goalTending": 87
+    "speed": 62,
+    "shooting": 67,
+    "passing": 71,
+    "dribbling": 70,
+    "defense": 61,
+    "physical": 65,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 85
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 84
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 86
+      "value": 71
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 69
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 79
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 80
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 87
+      "value": 68
     }
   ]
 }

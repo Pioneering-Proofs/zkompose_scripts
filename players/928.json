@@ -1,22 +1,27 @@
 {
-  "name": "Marshall Hyatt",
-  "jerseyNumber": 3,
-  "description": "Number 3 Marshall Hyatt. Overall rating of 74.",
+  "name": "Robin Larkin",
+  "jersey_number": 25,
+  "description": "Number 25 Robin Larkin. Overall rating of 73.",
   "external_url": "https://example.com/player/928",
   "image": "ipfs://QmWm73B3pEfG72LidP9QjsaJhSao7CdCe2d3xHXN4k6ijS",
   "tier": 2,
-  "overallRating": 74,
+  "overall_rating": 73,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 70,
-    "shooting": 73,
-    "passing": 58,
-    "dribbling": 67,
-    "defense": 73,
-    "physical": 60,
-    "goalTending": 70
+    "shooting": 69,
+    "passing": 66,
+    "dribbling": 68,
+    "defense": 68,
+    "physical": 67,
+    "goal_tending": 60
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 73
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 67
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 70
+      "value": 60
     }
   ]
 }

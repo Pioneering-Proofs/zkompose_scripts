@@ -1,56 +1,61 @@
 {
-  "name": "Kenny Rohan",
-  "jerseyNumber": 81,
-  "description": "Number 81 Kenny Rohan. Overall rating of 68.",
+  "name": "Maryann Ebert III",
+  "jersey_number": 31,
+  "description": "Number 31 Maryann Ebert III. Overall rating of 80.",
   "external_url": "https://example.com/player/199",
   "image": "ipfs://Qmf6pGdVqqAAQTrTCSP5xAD8r9yAWbrHapJZ4Lcb9u3uMD",
-  "tier": 3,
-  "overallRating": 68,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 56,
-    "shooting": 57,
-    "passing": 54,
-    "dribbling": 54,
-    "defense": 64,
-    "physical": 59,
-    "goalTending": 67
+    "speed": 60,
+    "shooting": 76,
+    "passing": 68,
+    "dribbling": 67,
+    "defense": 61,
+    "physical": 66,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 56
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 54
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 54
+      "value": 67
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 59
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 68
     }
   ]
 }

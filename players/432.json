@@ -1,56 +1,61 @@
 {
-  "name": "Mae Orn MD",
-  "jerseyNumber": 89,
-  "description": "Number 89 Mae Orn MD. Overall rating of 95.",
+  "name": "Clinton Beahan",
+  "jersey_number": 97,
+  "description": "Number 97 Clinton Beahan. Overall rating of 83.",
   "external_url": "https://example.com/player/432",
   "image": "ipfs://QmbyzroUHQVWtjKQkcME8yBhg77DWSvLkpNHZH19FvANJe",
-  "tier": 0,
-  "overallRating": 95,
+  "tier": 1,
+  "overall_rating": 83,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 76,
-    "shooting": 91,
-    "passing": 82,
-    "dribbling": 82,
-    "defense": 90,
-    "physical": 83,
-    "goalTending": 94
+    "speed": 67,
+    "shooting": 77,
+    "passing": 64,
+    "dribbling": 74,
+    "defense": 79,
+    "physical": 65,
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 76
+      "value": 67
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 91
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 82
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 82
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 90
+      "value": 79
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 83
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 94
+      "value": 73
     }
   ]
 }

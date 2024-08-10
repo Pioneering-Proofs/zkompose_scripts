@@ -1,26 +1,31 @@
 {
-  "name": "Mr. Roland Adams",
-  "jerseyNumber": 81,
-  "description": "Number 81 Mr. Roland Adams. Overall rating of 87.",
+  "name": "Jan Kling",
+  "jersey_number": 55,
+  "description": "Number 55 Jan Kling. Overall rating of 82.",
   "external_url": "https://example.com/player/546",
   "image": "ipfs://QmYUYUTcgasFn7HzQGiCuHWM9CzAa9er5B6Pfdq2PXM1yo",
   "tier": 1,
-  "overallRating": 87,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 70,
+    "speed": 77,
     "shooting": 80,
-    "passing": 75,
-    "dribbling": 87,
+    "passing": 71,
+    "dribbling": 62,
     "defense": 74,
-    "physical": 72,
-    "goalTending": 79
+    "physical": 77,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 70
+      "value": 77
     },
     {
       "display_type": "shooting",
@@ -30,12 +35,12 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 71
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 87
+      "value": 62
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 79
+      "value": 69
     }
   ]
 }

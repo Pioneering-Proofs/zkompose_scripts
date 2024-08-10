@@ -1,56 +1,61 @@
 {
-  "name": "Cynthia Harber",
-  "jerseyNumber": 35,
-  "description": "Number 35 Cynthia Harber. Overall rating of 99.",
+  "name": "Luther Huels",
+  "jersey_number": 7,
+  "description": "Number 7 Luther Huels. Overall rating of 71.",
   "external_url": "https://example.com/player/198",
   "image": "ipfs://QmcTyyyWKbpvfDGdMdNvkfKkKDkEDFtFnn5QfUN5eiAp4X",
-  "tier": 0,
-  "overallRating": 99,
+  "tier": 2,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 98,
-    "shooting": 96,
-    "passing": 94,
-    "dribbling": 83,
-    "defense": 98,
-    "physical": 92,
-    "goalTending": 97
+    "speed": 66,
+    "shooting": 70,
+    "passing": 65,
+    "dribbling": 58,
+    "defense": 54,
+    "physical": 65,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 98
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 96
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 94
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 83
+      "value": 58
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 98
+      "value": 54
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 92
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 97
+      "value": 69
     }
   ]
 }

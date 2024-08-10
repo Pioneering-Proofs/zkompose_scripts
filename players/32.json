@@ -1,56 +1,61 @@
 {
-  "name": "Elena Runolfsson",
-  "jerseyNumber": 92,
-  "description": "Number 92 Elena Runolfsson. Overall rating of 64.",
+  "name": "May Kohler",
+  "jersey_number": 3,
+  "description": "Number 3 May Kohler. Overall rating of 71.",
   "external_url": "https://example.com/player/32",
   "image": "ipfs://QmT4VYCF7aQeHWhtRGRoopNB1nKeNrSp1knAg85e96rfH5",
-  "tier": 3,
-  "overallRating": 64,
+  "tier": 2,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 51,
-    "shooting": 52,
-    "passing": 54,
-    "dribbling": 60,
-    "defense": 61,
-    "physical": 51,
-    "goalTending": 49
+    "speed": 59,
+    "shooting": 56,
+    "passing": 56,
+    "dribbling": 67,
+    "defense": 52,
+    "physical": 55,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 51
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 52
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 54
+      "value": 56
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 67
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 51
+      "value": 55
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 49
+      "value": 54
     }
   ]
 }

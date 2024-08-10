@@ -1,56 +1,61 @@
 {
-  "name": "Wayne Champlin",
-  "jerseyNumber": 4,
-  "description": "Number 4 Wayne Champlin. Overall rating of 84.",
+  "name": "Rosemary O'Conner",
+  "jersey_number": 68,
+  "description": "Number 68 Rosemary O'Conner. Overall rating of 71.",
   "external_url": "https://example.com/player/945",
   "image": "ipfs://Qmf1Ssbiui1zw8ofNHNfihGHnRMqw8nq8WxFbQ9665aKQj",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 2,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 66,
-    "passing": 71,
-    "dribbling": 84,
-    "defense": 68,
-    "physical": 83,
-    "goalTending": 76
+    "speed": 70,
+    "shooting": 52,
+    "passing": 64,
+    "dribbling": 57,
+    "defense": 64,
+    "physical": 58,
+    "goal_tending": 57
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 70
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 52
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 84
+      "value": 57
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 64
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 83
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 57
     }
   ]
 }

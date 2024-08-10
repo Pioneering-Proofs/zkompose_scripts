@@ -1,26 +1,31 @@
 {
-  "name": "Dwight Kuhlman PhD",
-  "jerseyNumber": 15,
-  "description": "Number 15 Dwight Kuhlman PhD. Overall rating of 78.",
+  "name": "Sophie Ziemann IV",
+  "jersey_number": 35,
+  "description": "Number 35 Sophie Ziemann IV. Overall rating of 79.",
   "external_url": "https://example.com/player/680",
   "image": "ipfs://QmZV9tkhJhbMHJRDhWbAwjV7T1NmpDVRzzsLBgQpwBJsiE",
   "tier": 2,
-  "overallRating": 78,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
+    "speed": 77,
     "shooting": 59,
-    "passing": 64,
-    "dribbling": 75,
-    "defense": 77,
-    "physical": 63,
-    "goalTending": 61
+    "passing": 61,
+    "dribbling": 76,
+    "defense": 72,
+    "physical": 59,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 77
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 61
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 75
+      "value": 76
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 77
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 63
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 69
     }
   ]
 }

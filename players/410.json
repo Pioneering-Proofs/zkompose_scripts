@@ -1,41 +1,46 @@
 {
-  "name": "Alma Vandervort DVM",
-  "jerseyNumber": 39,
-  "description": "Number 39 Alma Vandervort DVM. Overall rating of 75.",
+  "name": "Pam Heidenreich",
+  "jersey_number": 33,
+  "description": "Number 33 Pam Heidenreich. Overall rating of 78.",
   "external_url": "https://example.com/player/410",
   "image": "ipfs://QmdTFVBfF3rJYArjf1drCUJcnAeqYm3wBo4HG13C4HsUWX",
   "tier": 2,
-  "overallRating": 75,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 74,
-    "passing": 62,
-    "dribbling": 58,
+    "speed": 74,
+    "shooting": 77,
+    "passing": 69,
+    "dribbling": 71,
     "defense": 75,
-    "physical": 68,
-    "goalTending": 66
+    "physical": 74,
+    "goal_tending": 58
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 71
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 58
     }
   ]
 }

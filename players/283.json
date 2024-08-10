@@ -1,41 +1,46 @@
 {
-  "name": "Virginia Gulgowski",
-  "jerseyNumber": 38,
-  "description": "Number 38 Virginia Gulgowski. Overall rating of 70.",
+  "name": "Jan Cartwright",
+  "jersey_number": 54,
+  "description": "Number 54 Jan Cartwright. Overall rating of 71.",
   "external_url": "https://example.com/player/283",
   "image": "ipfs://QmViak3gYkoDHRX5D3ak36DCYU4pRpqwbWu97H1oNGRvB9",
   "tier": 2,
-  "overallRating": 70,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 64,
-    "passing": 58,
-    "dribbling": 61,
+    "speed": 62,
+    "shooting": 67,
+    "passing": 62,
+    "dribbling": 51,
     "defense": 54,
-    "physical": 51,
-    "goalTending": 70
+    "physical": 52,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 51
     },
     {
       "display_type": "defense",
@@ -45,10 +50,10 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 51
+      "value": 52
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 70
     }

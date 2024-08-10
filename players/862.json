@@ -1,56 +1,61 @@
 {
-  "name": "Omar O'Keefe",
-  "jerseyNumber": 49,
-  "description": "Number 49 Omar O'Keefe. Overall rating of 75.",
+  "name": "Lewis Kuhic",
+  "jersey_number": 86,
+  "description": "Number 86 Lewis Kuhic. Overall rating of 80.",
   "external_url": "https://example.com/player/862",
   "image": "ipfs://QmdSgWPZqGoHMHrG976FLgHD9CxNvonYcKCruKX1NY3mKu",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 71,
-    "passing": 62,
-    "dribbling": 74,
-    "defense": 72,
-    "physical": 67,
-    "goalTending": 68
+    "speed": 74,
+    "shooting": 78,
+    "passing": 69,
+    "dribbling": 70,
+    "defense": 60,
+    "physical": 77,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 71
+      "value": 78
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 72
+      "value": 60
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 67
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 65
     }
   ]
 }

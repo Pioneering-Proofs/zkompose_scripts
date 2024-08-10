@@ -1,41 +1,46 @@
 {
-  "name": "Camille Sipes",
-  "jerseyNumber": 21,
-  "description": "Number 21 Camille Sipes. Overall rating of 71.",
+  "name": "Verna Abernathy",
+  "jersey_number": 9,
+  "description": "Number 9 Verna Abernathy. Overall rating of 83.",
   "external_url": "https://example.com/player/346",
   "image": "ipfs://QmUe3iqC8QMsELSFSF8qBuouZyZQMKSaELWDdzaWFGjHMT",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 1,
+  "overall_rating": 83,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 69,
-    "passing": 60,
-    "dribbling": 51,
+    "speed": 76,
+    "shooting": 67,
+    "passing": 82,
+    "dribbling": 63,
     "defense": 69,
-    "physical": 63,
-    "goalTending": 57
+    "physical": 77,
+    "goal_tending": 78
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 76
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 82
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 51
+      "value": 63
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 63
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 78
     }
   ]
 }

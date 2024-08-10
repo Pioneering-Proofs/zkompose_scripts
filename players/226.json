@@ -1,46 +1,51 @@
 {
-  "name": "Shawn Emmerich DDS",
-  "jerseyNumber": 82,
-  "description": "Number 82 Shawn Emmerich DDS. Overall rating of 69.",
+  "name": "Dr. Ray Fahey",
+  "jersey_number": 97,
+  "description": "Number 97 Dr. Ray Fahey. Overall rating of 68.",
   "external_url": "https://example.com/player/226",
   "image": "ipfs://Qmb2TVDQ5uBMtSTXuAXfYw34jKTriqxvgqHmCcny31chYM",
   "tier": 3,
-  "overallRating": 69,
+  "overall_rating": 68,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 50,
-    "shooting": 54,
-    "passing": 59,
-    "dribbling": 59,
-    "defense": 50,
+    "speed": 63,
+    "shooting": 51,
+    "passing": 66,
+    "dribbling": 51,
+    "defense": 66,
     "physical": 65,
-    "goalTending": 51
+    "goal_tending": 49
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 50
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 54
+      "value": 51
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 59
+      "value": 51
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 50
+      "value": 66
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 51
+      "value": 49
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Ruth Jacobson",
-  "jerseyNumber": 58,
-  "description": "Number 58 Ruth Jacobson. Overall rating of 69.",
+  "name": "Ed Hansen",
+  "jersey_number": 63,
+  "description": "Number 63 Ed Hansen. Overall rating of 71.",
   "external_url": "https://example.com/player/378",
   "image": "ipfs://QmRag85XHr3koNYgZd6ev9cZXaNuiriT7gL5PrShS7XUy8",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 2,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 56,
-    "shooting": 55,
-    "passing": 66,
-    "dribbling": 57,
-    "defense": 53,
-    "physical": 67,
-    "goalTending": 53
+    "speed": 67,
+    "shooting": 64,
+    "passing": 64,
+    "dribbling": 68,
+    "defense": 57,
+    "physical": 58,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 56
+      "value": 67
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 66
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 57
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 53
+      "value": 57
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 67
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 53
+      "value": 67
     }
   ]
 }

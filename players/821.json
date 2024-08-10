@@ -1,22 +1,27 @@
 {
-  "name": "Dr. Agnes Tillman",
-  "jerseyNumber": 68,
-  "description": "Number 68 Dr. Agnes Tillman. Overall rating of 66.",
+  "name": "Gregory Bosco PhD",
+  "jersey_number": 81,
+  "description": "Number 81 Gregory Bosco PhD. Overall rating of 60.",
   "external_url": "https://example.com/player/821",
   "image": "ipfs://QmPP8JBbZfTAuVd9NuHXdmHnR4ufsjM2oVZSWLXjiNxoGw",
   "tier": 3,
-  "overallRating": 66,
+  "overall_rating": 60,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 49,
-    "shooting": 66,
-    "passing": 56,
-    "dribbling": 59,
-    "defense": 58,
-    "physical": 60,
-    "goalTending": 54
+    "shooting": 56,
+    "passing": 44,
+    "dribbling": 52,
+    "defense": 52,
+    "physical": 54,
+    "goal_tending": 52
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 44
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 59
+      "value": 52
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 54
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 54
+      "value": 52
     }
   ]
 }

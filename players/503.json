@@ -1,56 +1,61 @@
 {
-  "name": "Carmen Champlin",
-  "jerseyNumber": 28,
-  "description": "Number 28 Carmen Champlin. Overall rating of 71.",
+  "name": "Elias Blick",
+  "jersey_number": 92,
+  "description": "Number 92 Elias Blick. Overall rating of 82.",
   "external_url": "https://example.com/player/503",
   "image": "ipfs://QmTatQuqnujMzAyNJN2d6AjZ6oW1TZoMmVWn3mRPFU5Cux",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 1,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 57,
-    "shooting": 59,
-    "passing": 58,
-    "dribbling": 62,
-    "defense": 57,
-    "physical": 71,
-    "goalTending": 58
+    "speed": 71,
+    "shooting": 80,
+    "passing": 81,
+    "dribbling": 73,
+    "defense": 66,
+    "physical": 77,
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 57
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 80
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 81
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 73
     }
   ]
 }

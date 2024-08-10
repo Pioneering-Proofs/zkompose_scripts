@@ -1,56 +1,61 @@
 {
-  "name": "Allison Schultz",
-  "jerseyNumber": 23,
-  "description": "Number 23 Allison Schultz. Overall rating of 87.",
+  "name": "Mr. Aaron Haag DDS",
+  "jersey_number": 54,
+  "description": "Number 54 Mr. Aaron Haag DDS. Overall rating of 55.",
   "external_url": "https://example.com/player/952",
   "image": "ipfs://QmfXieZYCtvSWKWinbDsvBU8uKuMYxyKKvesmy28Z5mgYj",
-  "tier": 1,
-  "overallRating": 87,
+  "tier": 4,
+  "overall_rating": 55,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 84,
-    "shooting": 69,
-    "passing": 84,
-    "dribbling": 83,
-    "defense": 71,
-    "physical": 78,
-    "goalTending": 83
+    "speed": 43,
+    "shooting": 45,
+    "passing": 45,
+    "dribbling": 54,
+    "defense": 42,
+    "physical": 53,
+    "goal_tending": 50
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 84
+      "value": 43
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 45
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 84
+      "value": 45
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 83
+      "value": 54
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 71
+      "value": 42
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 78
+      "value": 53
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 83
+      "value": 50
     }
   ]
 }

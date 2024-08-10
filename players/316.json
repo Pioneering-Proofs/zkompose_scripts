@@ -1,46 +1,51 @@
 {
-  "name": "Joyce Harvey",
-  "jerseyNumber": 20,
-  "description": "Number 20 Joyce Harvey. Overall rating of 69.",
+  "name": "Thomas Rice",
+  "jersey_number": 91,
+  "description": "Number 91 Thomas Rice. Overall rating of 70.",
   "external_url": "https://example.com/player/316",
   "image": "ipfs://QmeiY52dyvRFx4tAmKEeza2idyg9Q4ENK9r75wXRTP4VzU",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 2,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 66,
-    "passing": 68,
-    "dribbling": 61,
-    "defense": 68,
+    "speed": 64,
+    "shooting": 54,
+    "passing": 53,
+    "dribbling": 69,
+    "defense": 66,
     "physical": 66,
-    "goalTending": 65
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 64
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 54
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 53
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 66
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 68
     }
   ]
 }

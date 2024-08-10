@@ -1,36 +1,41 @@
 {
-  "name": "Beverly Schuppe",
-  "jerseyNumber": 36,
-  "description": "Number 36 Beverly Schuppe. Overall rating of 77.",
+  "name": "Kim Gottlieb",
+  "jersey_number": 35,
+  "description": "Number 35 Kim Gottlieb. Overall rating of 72.",
   "external_url": "https://example.com/player/718",
   "image": "ipfs://QmVMjni3TcS7KNPhbzhKxs2joiLw5FT1sG4dFmzkpMGXrq",
   "tier": 2,
-  "overallRating": 77,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 73,
-    "shooting": 77,
-    "passing": 73,
+    "speed": 71,
+    "shooting": 70,
+    "passing": 67,
     "dribbling": 70,
-    "defense": 58,
-    "physical": 71,
-    "goalTending": 73
+    "defense": 66,
+    "physical": 58,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 73
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 77
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 67
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 73
+      "value": 66
     }
   ]
 }

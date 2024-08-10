@@ -1,56 +1,61 @@
 {
-  "name": "Stephanie Satterfield III",
-  "jerseyNumber": 87,
-  "description": "Number 87 Stephanie Satterfield III. Overall rating of 80.",
+  "name": "Marie Abernathy",
+  "jersey_number": 9,
+  "description": "Number 9 Marie Abernathy. Overall rating of 79.",
   "external_url": "https://example.com/player/522",
   "image": "ipfs://Qme8kdggwKJw6wLEkZkyLWRc62ZTeJR131Tt5ubnW427Cx",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 2,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
-    "shooting": 61,
-    "passing": 79,
-    "dribbling": 74,
-    "defense": 77,
-    "physical": 69,
-    "goalTending": 67
+    "speed": 78,
+    "shooting": 65,
+    "passing": 76,
+    "dribbling": 77,
+    "defense": 64,
+    "physical": 61,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 79
+      "value": 76
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 77
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 77
+      "value": 64
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 69
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 64
     }
   ]
 }

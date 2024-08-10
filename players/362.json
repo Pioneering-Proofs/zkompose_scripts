@@ -1,56 +1,61 @@
 {
-  "name": "Alonzo Reinger",
-  "jerseyNumber": 88,
-  "description": "Number 88 Alonzo Reinger. Overall rating of 75.",
+  "name": "Gwendolyn Wolf",
+  "jersey_number": 42,
+  "description": "Number 42 Gwendolyn Wolf. Overall rating of 68.",
   "external_url": "https://example.com/player/362",
   "image": "ipfs://QmT8SBLt6qgHeav8PnmP6jgA11xrdqBq23qzkfa1aMnVtq",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 3,
+  "overall_rating": 68,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 74,
-    "shooting": 61,
-    "passing": 56,
-    "dribbling": 74,
-    "defense": 58,
-    "physical": 60,
-    "goalTending": 67
+    "speed": 50,
+    "shooting": 53,
+    "passing": 65,
+    "dribbling": 64,
+    "defense": 55,
+    "physical": 54,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 74
+      "value": 50
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 53
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 54
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 65
     }
   ]
 }

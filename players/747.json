@@ -1,56 +1,61 @@
 {
-  "name": "Henry Lueilwitz",
-  "jerseyNumber": 76,
-  "description": "Number 76 Henry Lueilwitz. Overall rating of 71.",
+  "name": "Lee Stamm MD",
+  "jersey_number": 87,
+  "description": "Number 87 Lee Stamm MD. Overall rating of 65.",
   "external_url": "https://example.com/player/747",
   "image": "ipfs://QmbDfpMkyBpNbddCffyn3xpae8g8o2fuxNKPyM8UPtFw4a",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 3,
+  "overall_rating": 65,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 56,
-    "shooting": 68,
-    "passing": 53,
-    "dribbling": 68,
-    "defense": 68,
-    "physical": 68,
-    "goalTending": 57
+    "speed": 61,
+    "shooting": 55,
+    "passing": 65,
+    "dribbling": 55,
+    "defense": 57,
+    "physical": 46,
+    "goal_tending": 58
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 56
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 55
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 53
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 55
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 57
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 46
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 57
+      "value": 58
     }
   ]
 }

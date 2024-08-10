@@ -1,56 +1,61 @@
 {
-  "name": "Oscar Stark",
-  "jerseyNumber": 62,
-  "description": "Number 62 Oscar Stark. Overall rating of 78.",
+  "name": "Angelo Marks",
+  "jersey_number": 32,
+  "description": "Number 32 Angelo Marks. Overall rating of 87.",
   "external_url": "https://example.com/player/770",
   "image": "ipfs://QmdcHFCf5gkRRN53NDfPVaJHjmSgfEHM9ERJHYRDmY2sZi",
-  "tier": 2,
-  "overallRating": 78,
+  "tier": 1,
+  "overall_rating": 87,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 61,
-    "passing": 78,
-    "dribbling": 66,
-    "defense": 71,
-    "physical": 68,
-    "goalTending": 74
+    "speed": 80,
+    "shooting": 74,
+    "passing": 74,
+    "dribbling": 82,
+    "defense": 86,
+    "physical": 74,
+    "goal_tending": 83
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 80
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 74
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 78
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 82
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 71
+      "value": 86
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 74
+      "value": 83
     }
   ]
 }

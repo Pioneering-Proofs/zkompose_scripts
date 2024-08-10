@@ -1,56 +1,61 @@
 {
-  "name": "Edward Christiansen",
-  "jerseyNumber": 15,
-  "description": "Number 15 Edward Christiansen. Overall rating of 74.",
+  "name": "Dr. Brett Kris MD",
+  "jersey_number": 82,
+  "description": "Number 82 Dr. Brett Kris MD. Overall rating of 72.",
   "external_url": "https://example.com/player/497",
   "image": "ipfs://QmceMU68aVwoEF3P4QaRTiQdXxfcu9Kkq4dPQKYqN8mDVx",
   "tier": 2,
-  "overallRating": 74,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 70,
-    "shooting": 72,
-    "passing": 58,
-    "dribbling": 56,
-    "defense": 57,
-    "physical": 59,
-    "goalTending": 68
+    "speed": 66,
+    "shooting": 68,
+    "passing": 55,
+    "dribbling": 59,
+    "defense": 69,
+    "physical": 58,
+    "goal_tending": 53
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 70
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 68
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 59
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 53
     }
   ]
 }

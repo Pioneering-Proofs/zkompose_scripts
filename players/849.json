@@ -1,56 +1,61 @@
 {
-  "name": "Natalie Russel",
-  "jerseyNumber": 43,
-  "description": "Number 43 Natalie Russel. Overall rating of 87.",
+  "name": "Alyssa Nader",
+  "jersey_number": 75,
+  "description": "Number 75 Alyssa Nader. Overall rating of 78.",
   "external_url": "https://example.com/player/849",
   "image": "ipfs://QmRyYLK9jckW7wU82KEcYLRKrf8zeiFuh6fCN32brVjQXZ",
-  "tier": 1,
-  "overallRating": 87,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 84,
-    "shooting": 80,
-    "passing": 75,
-    "dribbling": 86,
-    "defense": 75,
-    "physical": 83,
-    "goalTending": 84
+    "speed": 66,
+    "shooting": 62,
+    "passing": 66,
+    "dribbling": 74,
+    "defense": 72,
+    "physical": 60,
+    "goal_tending": 74
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 84
+      "value": 66
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 80
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 86
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 75
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 83
+      "value": 60
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 84
+      "value": 74
     }
   ]
 }

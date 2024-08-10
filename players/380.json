@@ -1,56 +1,61 @@
 {
-  "name": "Janie Fritsch",
-  "jerseyNumber": 84,
-  "description": "Number 84 Janie Fritsch. Overall rating of 87.",
+  "name": "Tracy Hauck",
+  "jersey_number": 11,
+  "description": "Number 11 Tracy Hauck. Overall rating of 76.",
   "external_url": "https://example.com/player/380",
   "image": "ipfs://QmNzhCnZK1s3wdKVbpzRYZrt91DP5vdHnSmqKfpF4ez8Xk",
-  "tier": 1,
-  "overallRating": 87,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 69,
-    "passing": 75,
-    "dribbling": 71,
-    "defense": 72,
-    "physical": 85,
-    "goalTending": 78
+    "speed": 73,
+    "shooting": 72,
+    "passing": 58,
+    "dribbling": 73,
+    "defense": 57,
+    "physical": 72,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 73
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 72
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 71
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 72
+      "value": 57
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 85
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 78
+      "value": 64
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Richard Padberg",
-  "jerseyNumber": 13,
-  "description": "Number 13 Mr. Richard Padberg. Overall rating of 73.",
+  "name": "Joey Larson",
+  "jersey_number": 93,
+  "description": "Number 93 Joey Larson. Overall rating of 81.",
   "external_url": "https://example.com/player/728",
   "image": "ipfs://QmVy2CSokb4M3Piw7i11sPJ26PXEp4u2snD8hu9rwjzTay",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 1,
+  "overall_rating": 81,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 64,
-    "shooting": 69,
-    "passing": 54,
-    "dribbling": 60,
-    "defense": 53,
-    "physical": 62,
-    "goalTending": 60
+    "speed": 62,
+    "shooting": 71,
+    "passing": 61,
+    "dribbling": 80,
+    "defense": 72,
+    "physical": 78,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 64
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 71
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 54
+      "value": 61
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 80
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 53
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 66
     }
   ]
 }

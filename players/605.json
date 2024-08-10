@@ -1,56 +1,61 @@
 {
-  "name": "Shannon Jerde",
-  "jerseyNumber": 98,
-  "description": "Number 98 Shannon Jerde. Overall rating of 80.",
+  "name": "Pearl Hilpert",
+  "jersey_number": 33,
+  "description": "Number 33 Pearl Hilpert. Overall rating of 80.",
   "external_url": "https://example.com/player/605",
   "image": "ipfs://QmR3XKJZCt67AxJGJBJEVokXNjsdWXF6UWg6hPSbvQyXuw",
   "tier": 1,
-  "overallRating": 80,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 76,
-    "passing": 72,
-    "dribbling": 67,
-    "defense": 60,
-    "physical": 79,
-    "goalTending": 60
+    "speed": 70,
+    "shooting": 74,
+    "passing": 63,
+    "dribbling": 66,
+    "defense": 80,
+    "physical": 70,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 70
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 74
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 66
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 80
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 79
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 67
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Harold Ondricka",
-  "jerseyNumber": 96,
-  "description": "Number 96 Harold Ondricka. Overall rating of 79.",
+  "name": "Nicolas Fahey",
+  "jersey_number": 89,
+  "description": "Number 89 Nicolas Fahey. Overall rating of 79.",
   "external_url": "https://example.com/player/670",
   "image": "ipfs://QmSJdJ7uyKDC2dM2MvHXoWoHeFSboDKBUVS7oJvCAuNA2p",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 73,
-    "shooting": 60,
-    "passing": 65,
-    "dribbling": 65,
-    "defense": 78,
-    "physical": 65,
-    "goalTending": 72
+    "speed": 72,
+    "shooting": 72,
+    "passing": 69,
+    "dribbling": 75,
+    "defense": 63,
+    "physical": 75,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 73
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 60
+      "value": 72
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 75
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 67
     }
   ]
 }

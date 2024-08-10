@@ -1,56 +1,61 @@
 {
-  "name": "Dr. Hannah Schuster MD",
-  "jerseyNumber": 47,
-  "description": "Number 47 Dr. Hannah Schuster MD. Overall rating of 66.",
+  "name": "Iris Bruen",
+  "jersey_number": 9,
+  "description": "Number 9 Iris Bruen. Overall rating of 83.",
   "external_url": "https://example.com/player/763",
   "image": "ipfs://QmTfWMx6MwG1JC4tHzrqeMCmu4JAacNrDcwTpGG4DP5aur",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 1,
+  "overall_rating": 83,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 64,
-    "shooting": 60,
-    "passing": 48,
-    "dribbling": 62,
-    "defense": 55,
-    "physical": 60,
-    "goalTending": 60
+    "speed": 72,
+    "shooting": 64,
+    "passing": 79,
+    "dribbling": 80,
+    "defense": 73,
+    "physical": 69,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 64
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 60
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 48
+      "value": 79
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 80
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 73
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 60
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 70
     }
   ]
 }

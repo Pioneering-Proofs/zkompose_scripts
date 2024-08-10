@@ -1,56 +1,61 @@
 {
-  "name": "Belinda Dickinson",
-  "jerseyNumber": 91,
-  "description": "Number 91 Belinda Dickinson. Overall rating of 87.",
+  "name": "Loren VonRueden",
+  "jersey_number": 23,
+  "description": "Number 23 Loren VonRueden. Overall rating of 66.",
   "external_url": "https://example.com/player/279",
   "image": "ipfs://QmVmWg9UShRHEUPkXCDV3J2Rv5tGEWW2UAszhyRJvu1Qt9",
-  "tier": 1,
-  "overallRating": 87,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 82,
-    "shooting": 84,
-    "passing": 85,
-    "dribbling": 85,
-    "defense": 73,
-    "physical": 85,
-    "goalTending": 86
+    "speed": 49,
+    "shooting": 52,
+    "passing": 46,
+    "dribbling": 53,
+    "defense": 51,
+    "physical": 58,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 82
+      "value": 49
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 84
+      "value": 52
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 85
+      "value": 46
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 85
+      "value": 53
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 51
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 85
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 86
+      "value": 62
     }
   ]
 }

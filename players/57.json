@@ -1,56 +1,61 @@
 {
-  "name": "Jesus Frami",
-  "jerseyNumber": 62,
-  "description": "Number 62 Jesus Frami. Overall rating of 72.",
+  "name": "Alvin Reynolds",
+  "jersey_number": 20,
+  "description": "Number 20 Alvin Reynolds. Overall rating of 76.",
   "external_url": "https://example.com/player/57",
   "image": "ipfs://QmeNv87qo6ZXS9mDTymg2GaLSrFGuFbTSY1zTZztbtU2sJ",
   "tier": 2,
-  "overallRating": 72,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 55,
-    "passing": 58,
-    "dribbling": 55,
-    "defense": 67,
-    "physical": 58,
-    "goalTending": 70
+    "speed": 56,
+    "shooting": 57,
+    "passing": 68,
+    "dribbling": 60,
+    "defense": 62,
+    "physical": 59,
+    "goal_tending": 75
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 56
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 55
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 70
+      "value": 75
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Ernesto Keebler",
-  "jerseyNumber": 19,
-  "description": "Number 19 Ernesto Keebler. Overall rating of 76.",
+  "name": "Toby Roberts",
+  "jersey_number": 21,
+  "description": "Number 21 Toby Roberts. Overall rating of 71.",
   "external_url": "https://example.com/player/704",
   "image": "ipfs://Qmcp4AQeN7vuJdESi8Kp9HnCKzqJcFE1AYwiVF4jaPvtZ8",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 63,
-    "passing": 74,
-    "dribbling": 56,
-    "defense": 64,
-    "physical": 73,
-    "goalTending": 75
+    "speed": 58,
+    "shooting": 65,
+    "passing": 60,
+    "dribbling": 64,
+    "defense": 55,
+    "physical": 69,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 63
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 67
     }
   ]
 }

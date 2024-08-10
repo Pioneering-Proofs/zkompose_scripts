@@ -1,56 +1,61 @@
 {
-  "name": "Shannon Heidenreich",
-  "jerseyNumber": 74,
-  "description": "Number 74 Shannon Heidenreich. Overall rating of 78.",
+  "name": "Lillie Bradtke",
+  "jersey_number": 1,
+  "description": "Number 1 Lillie Bradtke. Overall rating of 87.",
   "external_url": "https://example.com/player/581",
   "image": "ipfs://QmeoiJvDvU9xWM2ruwWHioxCUwCsNBmu12RwArGonkbxTR",
-  "tier": 2,
-  "overallRating": 78,
+  "tier": 1,
+  "overall_rating": 87,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 59,
-    "passing": 74,
-    "dribbling": 58,
-    "defense": 78,
-    "physical": 74,
-    "goalTending": 62
+    "speed": 69,
+    "shooting": 78,
+    "passing": 81,
+    "dribbling": 74,
+    "defense": 84,
+    "physical": 85,
+    "goal_tending": 86
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 69
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 78
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 81
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 58
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 74
+      "value": 85
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 62
+      "value": 86
     }
   ]
 }

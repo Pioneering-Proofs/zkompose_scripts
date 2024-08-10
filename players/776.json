@@ -1,56 +1,61 @@
 {
-  "name": "Emma Durgan",
-  "jerseyNumber": 18,
-  "description": "Number 18 Emma Durgan. Overall rating of 89.",
+  "name": "Rosa Conn",
+  "jersey_number": 87,
+  "description": "Number 87 Rosa Conn. Overall rating of 69.",
   "external_url": "https://example.com/player/776",
   "image": "ipfs://QmURRT3FhfZPqJkatgqNEz6CoJfsvw9VHfmT7VXWovUcfR",
-  "tier": 1,
-  "overallRating": 89,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 87,
-    "shooting": 84,
-    "passing": 78,
-    "dribbling": 89,
-    "defense": 87,
-    "physical": 73,
-    "goalTending": 70
+    "speed": 54,
+    "shooting": 62,
+    "passing": 63,
+    "dribbling": 53,
+    "defense": 66,
+    "physical": 64,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 87
+      "value": 54
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 84
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 78
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 89
+      "value": 53
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 87
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 70
+      "value": 65
     }
   ]
 }

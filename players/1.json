@@ -1,56 +1,61 @@
 {
-  "name": "Nelson Davis",
-  "jerseyNumber": 69,
-  "description": "Number 69 Nelson Davis. Overall rating of 74.",
+  "name": "Rosemarie Reynolds",
+  "jersey_number": 38,
+  "description": "Number 38 Rosemarie Reynolds. Overall rating of 69.",
   "external_url": "https://example.com/player/1",
   "image": "ipfs://QmWy2Jzt4UPMErbjHepUm2oLtfMboznWdLKUPY3BHPqnbz",
-  "tier": 2,
-  "overallRating": 74,
+  "tier": 3,
+  "overall_rating": 69,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 64,
-    "shooting": 72,
-    "passing": 71,
-    "dribbling": 70,
-    "defense": 57,
-    "physical": 61,
-    "goalTending": 69
+    "speed": 67,
+    "shooting": 63,
+    "passing": 55,
+    "dribbling": 50,
+    "defense": 69,
+    "physical": 53,
+    "goal_tending": 55
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 64
+      "value": 67
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 70
+      "value": 50
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 53
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 55
     }
   ]
 }

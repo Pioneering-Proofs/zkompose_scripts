@@ -1,56 +1,61 @@
 {
-  "name": "Shannon Jerde",
-  "jerseyNumber": 32,
-  "description": "Number 32 Shannon Jerde. Overall rating of 73.",
+  "name": "Dean Steuber",
+  "jersey_number": 38,
+  "description": "Number 38 Dean Steuber. Overall rating of 72.",
   "external_url": "https://example.com/player/975",
   "image": "ipfs://QmUg7CjdXXHztAve5Sgxz9W23CcXHeb695z2nLMLzRsbtN",
   "tier": 2,
-  "overallRating": 73,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 59,
-    "passing": 71,
-    "dribbling": 53,
-    "defense": 69,
-    "physical": 62,
-    "goalTending": 64
+    "speed": 68,
+    "shooting": 64,
+    "passing": 53,
+    "dribbling": 69,
+    "defense": 58,
+    "physical": 67,
+    "goal_tending": 66
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 59
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 53
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 53
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 67
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 66
     }
   ]
 }

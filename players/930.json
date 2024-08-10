@@ -1,56 +1,61 @@
 {
-  "name": "Chelsea Orn-Anderson Sr.",
-  "jerseyNumber": 41,
-  "description": "Number 41 Chelsea Orn-Anderson Sr.. Overall rating of 77.",
+  "name": "Herman McCullough MD",
+  "jersey_number": 3,
+  "description": "Number 3 Herman McCullough MD. Overall rating of 82.",
   "external_url": "https://example.com/player/930",
   "image": "ipfs://QmVxzfgiw4wKBo7smAVYdsrtimvNoXUgoeJdzeYSSGKYLp",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 1,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 76,
-    "passing": 73,
-    "dribbling": 74,
-    "defense": 64,
-    "physical": 74,
-    "goalTending": 72
+    "speed": 79,
+    "shooting": 67,
+    "passing": 65,
+    "dribbling": 69,
+    "defense": 81,
+    "physical": 65,
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 79
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 81
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 74
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 73
     }
   ]
 }

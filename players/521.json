@@ -1,56 +1,61 @@
 {
-  "name": "Dr. Marcos Rau-White",
-  "jerseyNumber": 99,
-  "description": "Number 99 Dr. Marcos Rau-White. Overall rating of 63.",
+  "name": "Dr. Alfredo Powlowski",
+  "jersey_number": 42,
+  "description": "Number 42 Dr. Alfredo Powlowski. Overall rating of 56.",
   "external_url": "https://example.com/player/521",
   "image": "ipfs://QmYWSM75DL7vM4qCf2F9iVVZ7xRprhtcJngda2QBuuHebD",
-  "tier": 3,
-  "overallRating": 63,
+  "tier": 4,
+  "overall_rating": 56,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 47,
-    "shooting": 63,
-    "passing": 58,
-    "dribbling": 51,
-    "defense": 61,
-    "physical": 58,
-    "goalTending": 53
+    "speed": 36,
+    "shooting": 40,
+    "passing": 48,
+    "dribbling": 41,
+    "defense": 54,
+    "physical": 55,
+    "goal_tending": 55
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 47
+      "value": 36
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 63
+      "value": 40
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 48
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 51
+      "value": 41
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 54
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 55
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 53
+      "value": 55
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Mathew Wisozk",
-  "jerseyNumber": 45,
-  "description": "Number 45 Mathew Wisozk. Overall rating of 75.",
+  "name": "Charlie Kuphal",
+  "jersey_number": 3,
+  "description": "Number 3 Charlie Kuphal. Overall rating of 64.",
   "external_url": "https://example.com/player/609",
   "image": "ipfs://QmZTPJSysavL4t2MrjPLyUpR7aXk98WBKVdywdtF62GoUL",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
-    "shooting": 68,
-    "passing": 70,
-    "dribbling": 61,
-    "defense": 69,
-    "physical": 57,
-    "goalTending": 74
+    "speed": 44,
+    "shooting": 48,
+    "passing": 60,
+    "dribbling": 46,
+    "defense": 62,
+    "physical": 62,
+    "goal_tending": 48
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 44
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 48
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 46
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 74
+      "value": 48
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Stella Kunze Sr.",
-  "jerseyNumber": 55,
-  "description": "Number 55 Stella Kunze Sr.. Overall rating of 81.",
+  "name": "Lola Trantow V",
+  "jersey_number": 68,
+  "description": "Number 68 Lola Trantow V. Overall rating of 84.",
   "external_url": "https://example.com/player/781",
   "image": "ipfs://QmaKzs89mQoPz8nq7rMq4iP5y28sSfqc7VpAUsQpkj59dd",
   "tier": 1,
-  "overallRating": 81,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 78,
-    "shooting": 75,
-    "passing": 73,
-    "dribbling": 64,
-    "defense": 68,
-    "physical": 73,
-    "goalTending": 76
+    "speed": 83,
+    "shooting": 76,
+    "passing": 82,
+    "dribbling": 73,
+    "defense": 82,
+    "physical": 71,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 78
+      "value": 83
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 75
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 82
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 64
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 82
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 68
     }
   ]
 }

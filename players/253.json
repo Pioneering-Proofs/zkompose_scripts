@@ -1,56 +1,61 @@
 {
-  "name": "Robert Shanahan",
-  "jerseyNumber": 60,
-  "description": "Number 60 Robert Shanahan. Overall rating of 83.",
+  "name": "Erik Osinski",
+  "jersey_number": 20,
+  "description": "Number 20 Erik Osinski. Overall rating of 62.",
   "external_url": "https://example.com/player/253",
   "image": "ipfs://QmWwxx1QnyyMtFxUF7iwEu25B5b1sjy84PM6xUQae9y37w",
-  "tier": 1,
-  "overallRating": 83,
+  "tier": 3,
+  "overall_rating": 62,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 80,
-    "shooting": 74,
-    "passing": 81,
-    "dribbling": 80,
-    "defense": 65,
-    "physical": 81,
-    "goalTending": 68
+    "speed": 53,
+    "shooting": 43,
+    "passing": 59,
+    "dribbling": 55,
+    "defense": 44,
+    "physical": 43,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 80
+      "value": 53
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 43
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 81
+      "value": 59
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 80
+      "value": 55
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 65
+      "value": 44
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 81
+      "value": 43
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 56
     }
   ]
 }

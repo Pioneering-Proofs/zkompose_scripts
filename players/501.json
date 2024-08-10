@@ -1,56 +1,61 @@
 {
-  "name": "Sharon Jacobs",
-  "jerseyNumber": 35,
-  "description": "Number 35 Sharon Jacobs. Overall rating of 77.",
+  "name": "Aubrey Walker",
+  "jersey_number": 40,
+  "description": "Number 40 Aubrey Walker. Overall rating of 94.",
   "external_url": "https://example.com/player/501",
   "image": "ipfs://QmW9cDMEGbaTT2tN7nxNCjj3erZWmGuf7mXdyEmZcT8Dbe",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 0,
+  "overall_rating": 94,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 75,
-    "shooting": 72,
-    "passing": 57,
-    "dribbling": 74,
-    "defense": 58,
-    "physical": 59,
-    "goalTending": 72
+    "speed": 81,
+    "shooting": 91,
+    "passing": 76,
+    "dribbling": 84,
+    "defense": 75,
+    "physical": 84,
+    "goal_tending": 93
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 75
+      "value": 81
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 91
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 57
+      "value": 76
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 84
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 75
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 59
+      "value": 84
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 93
     }
   ]
 }

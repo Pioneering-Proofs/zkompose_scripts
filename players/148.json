@@ -1,56 +1,61 @@
 {
-  "name": "Kerry Farrell",
-  "jerseyNumber": 38,
-  "description": "Number 38 Kerry Farrell. Overall rating of 56.",
+  "name": "Josh Gerhold",
+  "jersey_number": 93,
+  "description": "Number 93 Josh Gerhold. Overall rating of 80.",
   "external_url": "https://example.com/player/148",
   "image": "ipfs://Qma7k8kM9LyfGk3YoCbBzPsLJBbXkmDNq4ZQPFQak5YMnn",
-  "tier": 4,
-  "overallRating": 56,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 46,
-    "shooting": 52,
-    "passing": 49,
-    "dribbling": 54,
-    "defense": 38,
-    "physical": 38,
-    "goalTending": 51
+    "speed": 78,
+    "shooting": 71,
+    "passing": 77,
+    "dribbling": 60,
+    "defense": 76,
+    "physical": 68,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 46
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 52
+      "value": 71
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 49
+      "value": 77
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 54
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 38
+      "value": 76
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 38
+      "value": 68
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 51
+      "value": 64
     }
   ]
 }

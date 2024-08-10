@@ -1,56 +1,61 @@
 {
-  "name": "Penny Heidenreich DDS",
-  "jerseyNumber": 89,
-  "description": "Number 89 Penny Heidenreich DDS. Overall rating of 61.",
+  "name": "Edith Franey",
+  "jersey_number": 16,
+  "description": "Number 16 Edith Franey. Overall rating of 73.",
   "external_url": "https://example.com/player/188",
   "image": "ipfs://QmdACK8tZf6xNm5tPs4eKwEzqJZQTkgf1uL8tTCner22TS",
-  "tier": 3,
-  "overallRating": 61,
+  "tier": 2,
+  "overall_rating": 73,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 42,
-    "shooting": 60,
-    "passing": 53,
-    "dribbling": 43,
-    "defense": 49,
-    "physical": 53,
-    "goalTending": 43
+    "speed": 54,
+    "shooting": 62,
+    "passing": 64,
+    "dribbling": 56,
+    "defense": 59,
+    "physical": 71,
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 42
+      "value": 54
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 60
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 53
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 43
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 49
+      "value": 59
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 43
+      "value": 59
     }
   ]
 }

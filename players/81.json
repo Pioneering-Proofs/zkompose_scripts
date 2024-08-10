@@ -1,56 +1,61 @@
 {
-  "name": "Sarah Mann-Farrell",
-  "jerseyNumber": 62,
-  "description": "Number 62 Sarah Mann-Farrell. Overall rating of 82.",
+  "name": "Rodney Turner",
+  "jersey_number": 65,
+  "description": "Number 65 Rodney Turner. Overall rating of 54.",
   "external_url": "https://example.com/player/81",
   "image": "ipfs://QmWbww4x2qYsFquyMRryjpWvYiaavst9WxZsoCF6pgLDE4",
-  "tier": 1,
-  "overallRating": 82,
+  "tier": 4,
+  "overall_rating": 54,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 76,
-    "shooting": 80,
-    "passing": 72,
-    "dribbling": 81,
-    "defense": 70,
-    "physical": 77,
-    "goalTending": 63
+    "speed": 43,
+    "shooting": 43,
+    "passing": 44,
+    "dribbling": 45,
+    "defense": 42,
+    "physical": 46,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 76
+      "value": 43
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 80
+      "value": 43
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 44
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 81
+      "value": 45
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 42
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 77
+      "value": 46
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 63
+      "value": 52
     }
   ]
 }

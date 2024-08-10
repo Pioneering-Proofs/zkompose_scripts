@@ -1,56 +1,61 @@
 {
-  "name": "Geraldine Pagac",
-  "jerseyNumber": 58,
-  "description": "Number 58 Geraldine Pagac. Overall rating of 74.",
+  "name": "Jodi Carter",
+  "jersey_number": 17,
+  "description": "Number 17 Jodi Carter. Overall rating of 84.",
   "external_url": "https://example.com/player/925",
   "image": "ipfs://QmdJhkJCFPhssFwfitHAfC9ymhkC2HWh4LyTNUevjecFkq",
-  "tier": 2,
-  "overallRating": 74,
+  "tier": 1,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 54,
-    "shooting": 74,
-    "passing": 69,
-    "dribbling": 54,
-    "defense": 56,
-    "physical": 58,
-    "goalTending": 67
+    "speed": 78,
+    "shooting": 77,
+    "passing": 79,
+    "dribbling": 82,
+    "defense": 69,
+    "physical": 77,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 54
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 69
+      "value": 79
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 54
+      "value": 82
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 56
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 69
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Alton Macejkovic",
-  "jerseyNumber": 80,
-  "description": "Number 80 Alton Macejkovic. Overall rating of 84.",
+  "name": "Mr. Phillip Ledner",
+  "jersey_number": 21,
+  "description": "Number 21 Mr. Phillip Ledner. Overall rating of 82.",
   "external_url": "https://example.com/player/168",
   "image": "ipfs://Qmc9TX1QMrLJEeL3FsZBVXd1TaFg3n4EiFA4JxrcJjN932",
   "tier": 1,
-  "overallRating": 84,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 73,
-    "shooting": 65,
-    "passing": 74,
-    "dribbling": 65,
-    "defense": 65,
-    "physical": 83,
-    "goalTending": 67
+    "speed": 80,
+    "shooting": 72,
+    "passing": 68,
+    "dribbling": 63,
+    "defense": 64,
+    "physical": 66,
+    "goal_tending": 75
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 73
+      "value": 80
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 72
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 65
+      "value": 64
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 83
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 67
+      "value": 75
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Evelyn Conn",
-  "jerseyNumber": 4,
-  "description": "Number 4 Evelyn Conn. Overall rating of 77.",
+  "name": "Ella McCullough",
+  "jersey_number": 79,
+  "description": "Number 79 Ella McCullough. Overall rating of 80.",
   "external_url": "https://example.com/player/693",
   "image": "ipfs://QmVTCcG5vWbihmeQwksZAMWSepj5iBMCvm2aGiTSL4zaQg",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 62,
-    "passing": 74,
-    "dribbling": 65,
-    "defense": 74,
-    "physical": 66,
-    "goalTending": 61
+    "speed": 77,
+    "shooting": 63,
+    "passing": 68,
+    "dribbling": 79,
+    "defense": 69,
+    "physical": 80,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 62
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 79
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 74
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 66
+      "value": 80
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 71
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Grant Rice",
-  "jerseyNumber": 71,
-  "description": "Number 71 Grant Rice. Overall rating of 83.",
+  "name": "Kay O'Connell",
+  "jersey_number": 32,
+  "description": "Number 32 Kay O'Connell. Overall rating of 90.",
   "external_url": "https://example.com/player/214",
   "image": "ipfs://QmbKzJCjM6Y4pM2o1R3ciMJ9CapNp18vSMgVYs2VutJQaj",
-  "tier": 1,
-  "overallRating": 83,
+  "tier": 0,
+  "overall_rating": 90,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
-    "shooting": 64,
-    "passing": 68,
-    "dribbling": 73,
-    "defense": 70,
-    "physical": 63,
-    "goalTending": 80
+    "speed": 71,
+    "shooting": 87,
+    "passing": 88,
+    "dribbling": 70,
+    "defense": 80,
+    "physical": 74,
+    "goal_tending": 76
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 87
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 88
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 80
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 63
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 80
+      "value": 76
     }
   ]
 }

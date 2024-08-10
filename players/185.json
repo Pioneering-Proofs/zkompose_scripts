@@ -1,22 +1,27 @@
 {
-  "name": "Mr. Stewart Hahn",
-  "jerseyNumber": 73,
-  "description": "Number 73 Mr. Stewart Hahn. Overall rating of 75.",
+  "name": "Lucille Klein",
+  "jersey_number": 43,
+  "description": "Number 43 Lucille Klein. Overall rating of 82.",
   "external_url": "https://example.com/player/185",
   "image": "ipfs://QmeWVW9nVLRUpjNSdM9LEdb6VY6hmkbEHar2v2GiPDvqdS",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 1,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 72,
-    "shooting": 62,
-    "passing": 58,
-    "dribbling": 69,
-    "defense": 56,
-    "physical": 72,
-    "goalTending": 72
+    "shooting": 82,
+    "passing": 70,
+    "dribbling": 72,
+    "defense": 69,
+    "physical": 71,
+    "goal_tending": 79
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 62
+      "value": 82
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 69
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 56
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 79
     }
   ]
 }

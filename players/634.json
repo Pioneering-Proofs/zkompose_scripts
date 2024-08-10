@@ -1,56 +1,61 @@
 {
-  "name": "Elvira McGlynn",
-  "jerseyNumber": 18,
-  "description": "Number 18 Elvira McGlynn. Overall rating of 77.",
+  "name": "Angela Schmitt",
+  "jersey_number": 99,
+  "description": "Number 99 Angela Schmitt. Overall rating of 57.",
   "external_url": "https://example.com/player/634",
   "image": "ipfs://QmSQdwvnvQnu6ACTQQhY5Gc1bqu2VLw6b1Epvy6msBcvZQ",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 4,
+  "overall_rating": 57,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 75,
-    "shooting": 75,
-    "passing": 62,
-    "dribbling": 64,
-    "defense": 57,
-    "physical": 72,
-    "goalTending": 68
+    "speed": 41,
+    "shooting": 57,
+    "passing": 51,
+    "dribbling": 49,
+    "defense": 40,
+    "physical": 38,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 75
+      "value": 41
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 75
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 51
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 64
+      "value": 49
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 40
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 38
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 52
     }
   ]
 }

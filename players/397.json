@@ -1,56 +1,61 @@
 {
-  "name": "Luke Weber",
-  "jerseyNumber": 98,
-  "description": "Number 98 Luke Weber. Overall rating of 70.",
+  "name": "Leona Ebert II",
+  "jersey_number": 74,
+  "description": "Number 74 Leona Ebert II. Overall rating of 89.",
   "external_url": "https://example.com/player/397",
   "image": "ipfs://QmatUZw8HYRNfXwQDYaAJucTPvf7aDGnPS4xd4pK3UwVdB",
-  "tier": 2,
-  "overallRating": 70,
+  "tier": 1,
+  "overall_rating": 89,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 69,
-    "passing": 62,
-    "dribbling": 68,
-    "defense": 55,
-    "physical": 67,
-    "goalTending": 52
+    "speed": 87,
+    "shooting": 77,
+    "passing": 85,
+    "dribbling": 87,
+    "defense": 85,
+    "physical": 77,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 87
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 85
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 87
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 85
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 67
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 52
+      "value": 69
     }
   ]
 }

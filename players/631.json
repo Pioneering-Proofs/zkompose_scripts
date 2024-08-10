@@ -1,56 +1,61 @@
 {
-  "name": "Courtney Mertz",
-  "jerseyNumber": 33,
-  "description": "Number 33 Courtney Mertz. Overall rating of 75.",
+  "name": "Lucy Olson",
+  "jersey_number": 50,
+  "description": "Number 50 Lucy Olson. Overall rating of 89.",
   "external_url": "https://example.com/player/631",
   "image": "ipfs://QmTX8driceZ3b6oKitqKCnWPNqCR6Zs4nhG49M6L7JtbAZ",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 1,
+  "overall_rating": 89,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 73,
-    "passing": 69,
-    "dribbling": 73,
-    "defense": 58,
-    "physical": 55,
-    "goalTending": 61
+    "speed": 84,
+    "shooting": 77,
+    "passing": 75,
+    "dribbling": 81,
+    "defense": 77,
+    "physical": 78,
+    "goal_tending": 89
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 84
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 73
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 69
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 81
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 55
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 89
     }
   ]
 }

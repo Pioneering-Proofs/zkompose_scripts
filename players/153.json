@@ -1,56 +1,61 @@
 {
-  "name": "Randy Kerluke",
-  "jerseyNumber": 52,
-  "description": "Number 52 Randy Kerluke. Overall rating of 69.",
+  "name": "Georgia Durgan",
+  "jersey_number": 13,
+  "description": "Number 13 Georgia Durgan. Overall rating of 79.",
   "external_url": "https://example.com/player/153",
   "image": "ipfs://QmSo8C4RkSRrog8f2ZTgPL7sPxrALgSof7y5odtLfgUpiz",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 2,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 68,
-    "passing": 59,
-    "dribbling": 59,
-    "defense": 60,
-    "physical": 53,
-    "goalTending": 58
+    "speed": 70,
+    "shooting": 61,
+    "passing": 72,
+    "dribbling": 64,
+    "defense": 78,
+    "physical": 70,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 70
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 72
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 59
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 78
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 71
     }
   ]
 }

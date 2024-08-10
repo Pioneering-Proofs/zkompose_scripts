@@ -1,56 +1,61 @@
 {
-  "name": "Becky Schmeler-Abbott",
-  "jerseyNumber": 96,
-  "description": "Number 96 Becky Schmeler-Abbott. Overall rating of 87.",
+  "name": "Dale Bailey",
+  "jersey_number": 7,
+  "description": "Number 7 Dale Bailey. Overall rating of 64.",
   "external_url": "https://example.com/player/167",
   "image": "ipfs://QmXHJeZREWH7cVssHXcHXq234Y23vZiB3LTbf5tnQeJZLG",
-  "tier": 1,
-  "overallRating": 87,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 78,
-    "shooting": 69,
-    "passing": 85,
-    "dribbling": 72,
-    "defense": 84,
-    "physical": 74,
-    "goalTending": 75
+    "speed": 49,
+    "shooting": 63,
+    "passing": 52,
+    "dribbling": 64,
+    "defense": 58,
+    "physical": 55,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 78
+      "value": 49
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 85
+      "value": 52
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 72
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 84
+      "value": 58
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 74
+      "value": 55
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 61
     }
   ]
 }

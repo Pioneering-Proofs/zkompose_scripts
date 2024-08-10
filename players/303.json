@@ -1,56 +1,61 @@
 {
-  "name": "Bernard Dare IV",
-  "jerseyNumber": 40,
-  "description": "Number 40 Bernard Dare IV. Overall rating of 86.",
+  "name": "Craig Medhurst",
+  "jersey_number": 94,
+  "description": "Number 94 Craig Medhurst. Overall rating of 65.",
   "external_url": "https://example.com/player/303",
   "image": "ipfs://QmfD74DVKNQ3Mpt24zn6Dg3fa6smeBThqB3SjgtuSHHVSc",
-  "tier": 1,
-  "overallRating": 86,
+  "tier": 3,
+  "overall_rating": 65,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 75,
-    "shooting": 82,
-    "passing": 76,
-    "dribbling": 79,
-    "defense": 74,
-    "physical": 75,
-    "goalTending": 71
+    "speed": 61,
+    "shooting": 64,
+    "passing": 48,
+    "dribbling": 45,
+    "defense": 56,
+    "physical": 58,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 75
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 82
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 76
+      "value": 48
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 79
+      "value": 45
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 74
+      "value": 56
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 56
     }
   ]
 }

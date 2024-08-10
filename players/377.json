@@ -1,56 +1,61 @@
 {
-  "name": "Bonnie Aufderhar MD",
-  "jerseyNumber": 92,
-  "description": "Number 92 Bonnie Aufderhar MD. Overall rating of 95.",
+  "name": "Emanuel Conroy-Witting",
+  "jersey_number": 20,
+  "description": "Number 20 Emanuel Conroy-Witting. Overall rating of 50.",
   "external_url": "https://example.com/player/377",
   "image": "ipfs://QmdwHAw71qQAStKax8mZRExc22F1PLCfMxYwLJPH6tfdLg",
-  "tier": 0,
-  "overallRating": 95,
+  "tier": 4,
+  "overall_rating": 50,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 82,
-    "shooting": 80,
-    "passing": 84,
-    "dribbling": 94,
-    "defense": 83,
-    "physical": 79,
-    "goalTending": 93
+    "speed": 46,
+    "shooting": 46,
+    "passing": 38,
+    "dribbling": 41,
+    "defense": 34,
+    "physical": 48,
+    "goal_tending": 34
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 82
+      "value": 46
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 80
+      "value": 46
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 84
+      "value": 38
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 94
+      "value": 41
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 83
+      "value": 34
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 79
+      "value": 48
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 93
+      "value": 34
     }
   ]
 }

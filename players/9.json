@@ -1,22 +1,27 @@
 {
-  "name": "Carlos Mitchell",
-  "jerseyNumber": 44,
-  "description": "Number 44 Carlos Mitchell. Overall rating of 85.",
+  "name": "Chester Fay-Schultz",
+  "jersey_number": 50,
+  "description": "Number 50 Chester Fay-Schultz. Overall rating of 90.",
   "external_url": "https://example.com/player/9",
   "image": "ipfs://QmVYEos4gPorohM9d2pRr3YuZfMDymccwXUqLjnNZ374PP",
-  "tier": 1,
-  "overallRating": 85,
+  "tier": 0,
+  "overall_rating": 90,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 70,
-    "shooting": 68,
-    "passing": 84,
-    "dribbling": 84,
-    "defense": 70,
-    "physical": 65,
-    "goalTending": 72
+    "shooting": 77,
+    "passing": 87,
+    "dribbling": 74,
+    "defense": 87,
+    "physical": 74,
+    "goal_tending": 78
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -25,32 +30,32 @@
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 84
+      "value": 87
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 84
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 87
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 78
     }
   ]
 }

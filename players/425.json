@@ -1,26 +1,31 @@
 {
-  "name": "Terrence Krajcik IV",
-  "jerseyNumber": 5,
-  "description": "Number 5 Terrence Krajcik IV. Overall rating of 72.",
+  "name": "Sally Bernier",
+  "jersey_number": 23,
+  "description": "Number 23 Sally Bernier. Overall rating of 76.",
   "external_url": "https://example.com/player/425",
   "image": "ipfs://QmNRfPFxa5qf31qTaKs48DGSXf6KZTQwb9DnxASeZYaxwz",
   "tier": 2,
-  "overallRating": 72,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 67,
+    "speed": 59,
     "shooting": 68,
-    "passing": 67,
-    "dribbling": 59,
-    "defense": 60,
-    "physical": 64,
-    "goalTending": 59
+    "passing": 70,
+    "dribbling": 73,
+    "defense": 67,
+    "physical": 75,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 67
+      "value": 59
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 59
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 67
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 75
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 69
     }
   ]
 }

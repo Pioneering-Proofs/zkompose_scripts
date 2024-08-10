@@ -1,56 +1,61 @@
 {
-  "name": "Oscar Kutch",
-  "jerseyNumber": 86,
-  "description": "Number 86 Oscar Kutch. Overall rating of 87.",
+  "name": "Maryann Hermiston Jr.",
+  "jersey_number": 91,
+  "description": "Number 91 Maryann Hermiston Jr.. Overall rating of 76.",
   "external_url": "https://example.com/player/405",
   "image": "ipfs://QmZ3eLnUnNKeNVMPyUP7adu1jrgReW61RucGjYceVPKWj4",
-  "tier": 1,
-  "overallRating": 87,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 84,
-    "shooting": 72,
-    "passing": 72,
-    "dribbling": 82,
-    "defense": 78,
-    "physical": 85,
-    "goalTending": 77
+    "speed": 57,
+    "shooting": 70,
+    "passing": 69,
+    "dribbling": 73,
+    "defense": 71,
+    "physical": 73,
+    "goal_tending": 60
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 84
+      "value": 57
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 82
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 85
+      "value": 73
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 60
     }
   ]
 }

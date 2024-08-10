@@ -1,56 +1,61 @@
 {
-  "name": "Bridget Gleason",
-  "jerseyNumber": 19,
-  "description": "Number 19 Bridget Gleason. Overall rating of 91.",
+  "name": "Salvatore Hills",
+  "jersey_number": 6,
+  "description": "Number 6 Salvatore Hills. Overall rating of 86.",
   "external_url": "https://example.com/player/772",
   "image": "ipfs://QmRSoWJvxWfyZfC6AvW5X26v2L8VvSsKC92vbrUGHxfwej",
-  "tier": 0,
-  "overallRating": 91,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 74,
-    "shooting": 75,
-    "passing": 72,
-    "dribbling": 72,
-    "defense": 78,
-    "physical": 91,
-    "goalTending": 82
+    "speed": 75,
+    "shooting": 77,
+    "passing": 68,
+    "dribbling": 85,
+    "defense": 84,
+    "physical": 69,
+    "goal_tending": 79
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 74
+      "value": 75
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 75
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 72
+      "value": 85
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 91
+      "value": 69
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 82
+      "value": 79
     }
   ]
 }

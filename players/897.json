@@ -1,56 +1,61 @@
 {
-  "name": "Jake Gleichner",
-  "jerseyNumber": 79,
-  "description": "Number 79 Jake Gleichner. Overall rating of 75.",
+  "name": "Katherine Kub Sr.",
+  "jersey_number": 47,
+  "description": "Number 47 Katherine Kub Sr.. Overall rating of 86.",
   "external_url": "https://example.com/player/897",
   "image": "ipfs://Qmd6TusexZFvBP6hQ7mCvNxCD47f6fRxQzaARcbSeDDrMF",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 57,
-    "shooting": 64,
-    "passing": 71,
-    "dribbling": 70,
-    "defense": 59,
-    "physical": 58,
-    "goalTending": 72
+    "speed": 75,
+    "shooting": 81,
+    "passing": 66,
+    "dribbling": 82,
+    "defense": 75,
+    "physical": 71,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 57
+      "value": 75
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 81
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 70
+      "value": 82
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 59
+      "value": 75
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 68
     }
   ]
 }

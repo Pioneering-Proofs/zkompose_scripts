@@ -1,54 +1,59 @@
 {
-  "name": "Joanna Rogahn",
-  "jerseyNumber": 38,
-  "description": "Number 38 Joanna Rogahn. Overall rating of 97.",
+  "name": "Beatrice Waters",
+  "jersey_number": 73,
+  "description": "Number 73 Beatrice Waters. Overall rating of 78.",
   "external_url": "https://example.com/player/106",
   "image": "ipfs://QmbsjpBpar1xuJskb9ER8NYJ8eVMDLL8BpMgpcvcwYeHHy",
-  "tier": 0,
-  "overallRating": 97,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 83,
-    "shooting": 80,
-    "passing": 84,
-    "dribbling": 94,
-    "defense": 95,
-    "physical": 82,
-    "goalTending": 77
+    "speed": 74,
+    "shooting": 74,
+    "passing": 62,
+    "dribbling": 58,
+    "defense": 74,
+    "physical": 62,
+    "goal_tending": 77
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 83
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 80
+      "value": 74
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 84
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 94
+      "value": 58
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 95
+      "value": 74
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 82
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 77
     }

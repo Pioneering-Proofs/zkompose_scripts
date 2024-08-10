@@ -1,46 +1,51 @@
 {
-  "name": "Meghan Mueller",
-  "jerseyNumber": 51,
-  "description": "Number 51 Meghan Mueller. Overall rating of 72.",
+  "name": "Saul Sporer",
+  "jersey_number": 45,
+  "description": "Number 45 Saul Sporer. Overall rating of 65.",
   "external_url": "https://example.com/player/370",
   "image": "ipfs://QmYzKgMjbyF8HZYnaqC6xSXeAyS8Hni8suW9X96a4o4CUo",
-  "tier": 2,
-  "overallRating": 72,
+  "tier": 3,
+  "overall_rating": 65,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 57,
-    "passing": 62,
-    "dribbling": 68,
-    "defense": 58,
+    "speed": 61,
+    "shooting": 51,
+    "passing": 48,
+    "dribbling": 63,
+    "defense": 55,
     "physical": 64,
-    "goalTending": 54
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 61
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 51
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 48
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 55
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 54
+      "value": 56
     }
   ]
 }

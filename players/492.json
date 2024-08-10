@@ -1,56 +1,61 @@
 {
-  "name": "Bernard Ullrich",
-  "jerseyNumber": 14,
-  "description": "Number 14 Bernard Ullrich. Overall rating of 59.",
+  "name": "Earl Dietrich",
+  "jersey_number": 48,
+  "description": "Number 48 Earl Dietrich. Overall rating of 64.",
   "external_url": "https://example.com/player/492",
   "image": "ipfs://QmXVzEEVW5HTavvdd7diJAMm9crV9KzFNeyGHBC6MJbcZC",
-  "tier": 4,
-  "overallRating": 59,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 55,
-    "shooting": 55,
-    "passing": 40,
-    "dribbling": 46,
-    "defense": 57,
-    "physical": 49,
-    "goalTending": 42
+    "speed": 44,
+    "shooting": 45,
+    "passing": 60,
+    "dribbling": 56,
+    "defense": 61,
+    "physical": 63,
+    "goal_tending": 51
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 55
+      "value": 44
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 45
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 40
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 46
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 61
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 49
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 42
+      "value": 51
     }
   ]
 }

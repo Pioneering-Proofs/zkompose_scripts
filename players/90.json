@@ -1,56 +1,61 @@
 {
-  "name": "Alicia Yost",
-  "jerseyNumber": 24,
-  "description": "Number 24 Alicia Yost. Overall rating of 74.",
+  "name": "Barry Fay",
+  "jersey_number": 47,
+  "description": "Number 47 Barry Fay. Overall rating of 79.",
   "external_url": "https://example.com/player/90",
   "image": "ipfs://QmPfWGn5k3rRsxMjL94bJyMNktd7yCobsEtRdKrtC7Uh2Q",
   "tier": 2,
-  "overallRating": 74,
+  "overall_rating": 79,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 74,
-    "shooting": 54,
-    "passing": 58,
-    "dribbling": 65,
-    "defense": 60,
-    "physical": 57,
-    "goalTending": 71
+    "speed": 78,
+    "shooting": 77,
+    "passing": 78,
+    "dribbling": 61,
+    "defense": 63,
+    "physical": 62,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 74
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 54
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 78
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 61
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 62
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 67
     }
   ]
 }

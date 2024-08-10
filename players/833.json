@@ -1,56 +1,61 @@
 {
-  "name": "Frank Cruickshank III",
-  "jerseyNumber": 55,
-  "description": "Number 55 Frank Cruickshank III. Overall rating of 84.",
+  "name": "Regina Quigley",
+  "jersey_number": 28,
+  "description": "Number 28 Regina Quigley. Overall rating of 77.",
   "external_url": "https://example.com/player/833",
   "image": "ipfs://QmS2WUEU1b2thDg9dQzu6deoAF9GJNL9WJ2U4ccMs44VxH",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 2,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 81,
-    "shooting": 75,
-    "passing": 76,
-    "dribbling": 73,
-    "defense": 84,
-    "physical": 70,
-    "goalTending": 75
+    "speed": 71,
+    "shooting": 73,
+    "passing": 70,
+    "dribbling": 63,
+    "defense": 74,
+    "physical": 68,
+    "goal_tending": 57
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 81
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 75
+      "value": 73
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 76
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 84
+      "value": 74
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 68
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 57
     }
   ]
 }

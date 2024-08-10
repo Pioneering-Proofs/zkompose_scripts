@@ -1,56 +1,61 @@
 {
-  "name": "Cindy Okuneva",
-  "jerseyNumber": 16,
-  "description": "Number 16 Cindy Okuneva. Overall rating of 66.",
+  "name": "Dr. Aaron Lang",
+  "jersey_number": 39,
+  "description": "Number 39 Dr. Aaron Lang. Overall rating of 67.",
   "external_url": "https://example.com/player/799",
   "image": "ipfs://Qmaan2XxF274An5DXnX6LeaSju9brVQAuh11A239CshX8D",
   "tier": 3,
-  "overallRating": 66,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 59,
-    "shooting": 57,
-    "passing": 60,
-    "dribbling": 51,
-    "defense": 46,
-    "physical": 65,
-    "goalTending": 48
+    "speed": 60,
+    "shooting": 61,
+    "passing": 66,
+    "dribbling": 63,
+    "defense": 55,
+    "physical": 64,
+    "goal_tending": 58
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 59
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 51
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 46
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 48
+      "value": 58
     }
   ]
 }

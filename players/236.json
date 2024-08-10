@@ -1,56 +1,61 @@
 {
-  "name": "Mike Brekke",
-  "jerseyNumber": 21,
-  "description": "Number 21 Mike Brekke. Overall rating of 56.",
+  "name": "Bertha Deckow",
+  "jersey_number": 17,
+  "description": "Number 17 Bertha Deckow. Overall rating of 66.",
   "external_url": "https://example.com/player/236",
   "image": "ipfs://QmUsR7dYjxNnEUuC7qnwhfqzaPb3ReG4D1iQp7BTpULtTZ",
-  "tier": 4,
-  "overallRating": 56,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 53,
-    "shooting": 52,
-    "passing": 40,
-    "dribbling": 37,
-    "defense": 37,
-    "physical": 45,
-    "goalTending": 46
+    "speed": 62,
+    "shooting": 49,
+    "passing": 62,
+    "dribbling": 63,
+    "defense": 64,
+    "physical": 52,
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 53
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 52
+      "value": 49
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 40
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 37
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 37
+      "value": 64
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 45
+      "value": 52
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 46
+      "value": 59
     }
   ]
 }

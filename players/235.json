@@ -1,56 +1,61 @@
 {
-  "name": "June Trantow",
-  "jerseyNumber": 49,
-  "description": "Number 49 June Trantow. Overall rating of 58.",
+  "name": "Mike Herzog",
+  "jersey_number": 83,
+  "description": "Number 83 Mike Herzog. Overall rating of 54.",
   "external_url": "https://example.com/player/235",
   "image": "ipfs://Qmd5pKLMCSdTsZtKhndBqVnetjFkBc3U9x55y66os1cJQp",
   "tier": 4,
-  "overallRating": 58,
+  "overall_rating": 54,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 56,
-    "shooting": 46,
-    "passing": 45,
-    "dribbling": 43,
-    "defense": 41,
-    "physical": 48,
-    "goalTending": 56
+    "speed": 39,
+    "shooting": 51,
+    "passing": 53,
+    "dribbling": 54,
+    "defense": 40,
+    "physical": 50,
+    "goal_tending": 43
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 56
+      "value": 39
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 46
+      "value": 51
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 45
+      "value": 53
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 43
+      "value": 54
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 41
+      "value": 40
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 48
+      "value": 50
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 56
+      "value": 43
     }
   ]
 }

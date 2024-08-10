@@ -1,56 +1,61 @@
 {
-  "name": "Aaron Johnson-Crona",
-  "jerseyNumber": 58,
-  "description": "Number 58 Aaron Johnson-Crona. Overall rating of 79.",
+  "name": "Dixie Mante II",
+  "jersey_number": 35,
+  "description": "Number 35 Dixie Mante II. Overall rating of 77.",
   "external_url": "https://example.com/player/281",
   "image": "ipfs://QmRPxGkeuZbYzAkmnnf118d9bPECUhuYKz5wTs3XdEFNnD",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 77,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 71,
-    "passing": 63,
-    "dribbling": 78,
-    "defense": 63,
-    "physical": 61,
-    "goalTending": 68
+    "speed": 70,
+    "shooting": 76,
+    "passing": 75,
+    "dribbling": 73,
+    "defense": 68,
+    "physical": 65,
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 70
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 71
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 63
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 63
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 59
     }
   ]
 }

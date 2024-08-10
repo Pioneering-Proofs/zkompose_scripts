@@ -1,56 +1,61 @@
 {
-  "name": "Rose Hauck",
-  "jerseyNumber": 91,
-  "description": "Number 91 Rose Hauck. Overall rating of 79.",
+  "name": "Alberto Botsford",
+  "jersey_number": 77,
+  "description": "Number 77 Alberto Botsford. Overall rating of 75.",
   "external_url": "https://example.com/player/14",
   "image": "ipfs://QmQwMYkv2XcWPuNadC9WGPVZrq11962Jqcvb13bHEKqrNZ",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 75,
-    "shooting": 77,
-    "passing": 59,
-    "dribbling": 60,
-    "defense": 78,
-    "physical": 78,
-    "goalTending": 75
+    "speed": 71,
+    "shooting": 73,
+    "passing": 63,
+    "dribbling": 74,
+    "defense": 73,
+    "physical": 67,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 75
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 77
+      "value": 73
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 73
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 78
+      "value": 67
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 63
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Ms. Victoria Daugherty",
-  "jerseyNumber": 91,
-  "description": "Number 91 Ms. Victoria Daugherty. Overall rating of 71.",
+  "name": "Ricardo Gibson",
+  "jersey_number": 69,
+  "description": "Number 69 Ricardo Gibson. Overall rating of 84.",
   "external_url": "https://example.com/player/100",
   "image": "ipfs://QmTCEbWPCu7TVvm8CFu6vZD6PnPpZjHg7wqd8XUDFpEuZp",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 1,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 56,
-    "shooting": 70,
-    "passing": 56,
-    "dribbling": 68,
-    "defense": 55,
-    "physical": 64,
-    "goalTending": 64
+    "speed": 72,
+    "shooting": 76,
+    "passing": 70,
+    "dribbling": 78,
+    "defense": 69,
+    "physical": 73,
+    "goal_tending": 84
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 56
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 70
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 78
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 69
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 64
+      "value": 73
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 84
     }
   ]
 }

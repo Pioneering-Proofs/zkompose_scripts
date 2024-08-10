@@ -1,56 +1,61 @@
 {
-  "name": "Laurie Wunsch Sr.",
-  "jerseyNumber": 26,
-  "description": "Number 26 Laurie Wunsch Sr.. Overall rating of 70.",
+  "name": "Doris Schaefer",
+  "jersey_number": 96,
+  "description": "Number 96 Doris Schaefer. Overall rating of 70.",
   "external_url": "https://example.com/player/475",
   "image": "ipfs://Qma1h31jqb419BKZiFAx3MjbyGuTPRfG5x1jWF9mpQKmmF",
   "tier": 2,
-  "overallRating": 70,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 54,
-    "shooting": 67,
-    "passing": 62,
-    "dribbling": 56,
-    "defense": 52,
-    "physical": 68,
-    "goalTending": 68
+    "speed": 55,
+    "shooting": 69,
+    "passing": 50,
+    "dribbling": 70,
+    "defense": 50,
+    "physical": 61,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 54
+      "value": 55
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 67
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 50
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 52
+      "value": 50
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 52
     }
   ]
 }

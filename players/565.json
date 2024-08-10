@@ -1,56 +1,61 @@
 {
-  "name": "Sharon Runolfsdottir",
-  "jerseyNumber": 95,
-  "description": "Number 95 Sharon Runolfsdottir. Overall rating of 46.",
+  "name": "Dr. Marcella Keebler",
+  "jersey_number": 30,
+  "description": "Number 30 Dr. Marcella Keebler. Overall rating of 89.",
   "external_url": "https://example.com/player/565",
   "image": "ipfs://QmdD4Gi7RCrykDKYAa1tW5bsTBCU6dRhjdyaYCRnGG4YCe",
-  "tier": 4,
-  "overallRating": 46,
+  "tier": 1,
+  "overall_rating": 89,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 43,
-    "shooting": 33,
-    "passing": 35,
-    "dribbling": 43,
-    "defense": 36,
-    "physical": 41,
-    "goalTending": 31
+    "speed": 71,
+    "shooting": 69,
+    "passing": 86,
+    "dribbling": 85,
+    "defense": 82,
+    "physical": 78,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 43
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 33
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 35
+      "value": 86
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 43
+      "value": 85
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 36
+      "value": 82
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 41
+      "value": 78
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 31
+      "value": 70
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Darren Treutel IV",
-  "jerseyNumber": 78,
-  "description": "Number 78 Darren Treutel IV. Overall rating of 68.",
+  "name": "Robin Barrows",
+  "jersey_number": 79,
+  "description": "Number 79 Robin Barrows. Overall rating of 72.",
   "external_url": "https://example.com/player/383",
   "image": "ipfs://QmbgX2huq4gTYJxbjVPzrD9QQe1NDRN1D8WpiT2vaXGF8P",
-  "tier": 3,
-  "overallRating": 68,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 48,
-    "passing": 67,
-    "dribbling": 48,
-    "defense": 54,
-    "physical": 53,
-    "goalTending": 63
+    "speed": 59,
+    "shooting": 64,
+    "passing": 71,
+    "dribbling": 67,
+    "defense": 55,
+    "physical": 66,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 48
+      "value": 64
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 71
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 48
+      "value": 67
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 54
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 63
+      "value": 54
     }
   ]
 }

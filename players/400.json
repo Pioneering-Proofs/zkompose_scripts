@@ -1,56 +1,61 @@
 {
-  "name": "Bernice Anderson",
-  "jerseyNumber": 2,
-  "description": "Number 2 Bernice Anderson. Overall rating of 91.",
+  "name": "Andrea Leuschke",
+  "jersey_number": 15,
+  "description": "Number 15 Andrea Leuschke. Overall rating of 71.",
   "external_url": "https://example.com/player/400",
   "image": "ipfs://QmXBcgSWTg8iuwh57Y8RA7xqy18q5XCRxQqC8qTwygWTJe",
-  "tier": 0,
-  "overallRating": 91,
+  "tier": 2,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 80,
-    "shooting": 81,
-    "passing": 72,
-    "dribbling": 73,
-    "defense": 91,
-    "physical": 88,
-    "goalTending": 82
+    "speed": 52,
+    "shooting": 68,
+    "passing": 59,
+    "dribbling": 66,
+    "defense": 53,
+    "physical": 56,
+    "goal_tending": 59
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 80
+      "value": 52
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 81
+      "value": 68
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 59
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 66
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 91
+      "value": 53
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 88
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 82
+      "value": 59
     }
   ]
 }

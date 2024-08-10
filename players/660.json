@@ -1,56 +1,61 @@
 {
-  "name": "Arnold Lebsack",
-  "jerseyNumber": 57,
-  "description": "Number 57 Arnold Lebsack. Overall rating of 93.",
+  "name": "Irma Howell",
+  "jersey_number": 67,
+  "description": "Number 67 Irma Howell. Overall rating of 86.",
   "external_url": "https://example.com/player/660",
   "image": "ipfs://QmVm54F7trYxWvARdmAN1Y1mmG4VrZ4cK7yqWj3wv4Nsr8",
-  "tier": 0,
-  "overallRating": 93,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 85,
-    "shooting": 93,
-    "passing": 88,
-    "dribbling": 86,
-    "defense": 88,
-    "physical": 91,
-    "goalTending": 80
+    "speed": 86,
+    "shooting": 77,
+    "passing": 81,
+    "dribbling": 69,
+    "defense": 72,
+    "physical": 76,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 85
+      "value": 86
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 93
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 88
+      "value": 81
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 86
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 88
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 91
+      "value": 76
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 80
+      "value": 68
     }
   ]
 }

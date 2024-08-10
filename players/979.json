@@ -1,56 +1,61 @@
 {
-  "name": "Leticia Hessel",
-  "jerseyNumber": 25,
-  "description": "Number 25 Leticia Hessel. Overall rating of 92.",
+  "name": "Patsy Weber",
+  "jersey_number": 74,
+  "description": "Number 74 Patsy Weber. Overall rating of 49.",
   "external_url": "https://example.com/player/979",
   "image": "ipfs://QmPCn1reStUvTXnZyZCjKMAJWwoaSX582sUfNhr1v9p35R",
-  "tier": 0,
-  "overallRating": 92,
+  "tier": 4,
+  "overall_rating": 49,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 85,
-    "shooting": 78,
-    "passing": 89,
-    "dribbling": 73,
-    "defense": 91,
-    "physical": 84,
-    "goalTending": 91
+    "speed": 33,
+    "shooting": 47,
+    "passing": 36,
+    "dribbling": 40,
+    "defense": 37,
+    "physical": 41,
+    "goal_tending": 31
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 85
+      "value": 33
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 78
+      "value": 47
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 89
+      "value": 36
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 40
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 91
+      "value": 37
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 84
+      "value": 41
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 91
+      "value": 31
     }
   ]
 }

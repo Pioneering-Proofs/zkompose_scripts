@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Calvin Schumm",
-  "jerseyNumber": 82,
-  "description": "Number 82 Mr. Calvin Schumm. Overall rating of 89.",
+  "name": "Karen Kuhn MD",
+  "jersey_number": 16,
+  "description": "Number 16 Karen Kuhn MD. Overall rating of 75.",
   "external_url": "https://example.com/player/906",
   "image": "ipfs://QmRYdNZxzhFkYk6nF8iiaV4YdNu9cBdXZA42Uoqj4oko75",
-  "tier": 1,
-  "overallRating": 89,
+  "tier": 2,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 88,
-    "shooting": 88,
-    "passing": 78,
-    "dribbling": 77,
-    "defense": 87,
-    "physical": 85,
-    "goalTending": 79
+    "speed": 71,
+    "shooting": 63,
+    "passing": 58,
+    "dribbling": 65,
+    "defense": 73,
+    "physical": 70,
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 88
+      "value": 71
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 88
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 78
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 77
+      "value": 65
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 87
+      "value": 73
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 85
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 79
+      "value": 73
     }
   ]
 }

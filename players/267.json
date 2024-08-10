@@ -1,56 +1,61 @@
 {
-  "name": "Kim Williamson",
-  "jerseyNumber": 51,
-  "description": "Number 51 Kim Williamson. Overall rating of 84.",
+  "name": "Phyllis McKenzie",
+  "jersey_number": 66,
+  "description": "Number 66 Phyllis McKenzie. Overall rating of 60.",
   "external_url": "https://example.com/player/267",
   "image": "ipfs://QmPZwUpgHZAzpLecz1TUAjbRXbLyxB7vkuqfjWtTdv1bgJ",
-  "tier": 1,
-  "overallRating": 84,
+  "tier": 3,
+  "overall_rating": 60,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 77,
-    "shooting": 74,
-    "passing": 78,
-    "dribbling": 78,
-    "defense": 68,
-    "physical": 82,
-    "goalTending": 66
+    "speed": 58,
+    "shooting": 42,
+    "passing": 49,
+    "dribbling": 43,
+    "defense": 48,
+    "physical": 56,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 77
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 42
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 78
+      "value": 49
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 43
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 68
+      "value": 48
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 82
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 56
     }
   ]
 }

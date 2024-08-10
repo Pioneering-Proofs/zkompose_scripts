@@ -1,41 +1,46 @@
 {
-  "name": "Curtis Willms",
-  "jerseyNumber": 52,
-  "description": "Number 52 Curtis Willms. Overall rating of 83.",
+  "name": "Micheal Effertz",
+  "jersey_number": 84,
+  "description": "Number 84 Micheal Effertz. Overall rating of 71.",
   "external_url": "https://example.com/player/308",
   "image": "ipfs://QmWWCKNRyZYVsnrzZ9wiQvZfx3JE3LbF6GpibCNmcodnJn",
-  "tier": 1,
-  "overallRating": 83,
+  "tier": 2,
+  "overall_rating": 71,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 83,
-    "shooting": 66,
-    "passing": 78,
-    "dribbling": 70,
+    "speed": 55,
+    "shooting": 67,
+    "passing": 65,
+    "dribbling": 54,
     "defense": 67,
-    "physical": 65,
-    "goalTending": 82
+    "physical": 70,
+    "goal_tending": 51
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 83
+      "value": 55
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 78
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 70
+      "value": 54
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 82
+      "value": 51
     }
   ]
 }

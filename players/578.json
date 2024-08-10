@@ -1,36 +1,41 @@
 {
-  "name": "Charlene Kreiger",
-  "jerseyNumber": 7,
-  "description": "Number 7 Charlene Kreiger. Overall rating of 64.",
+  "name": "Cecelia Mueller",
+  "jersey_number": 11,
+  "description": "Number 11 Cecelia Mueller. Overall rating of 65.",
   "external_url": "https://example.com/player/578",
   "image": "ipfs://QmWFEZzuc7U13ru8qFwSSRSmiPuEF2kC4p3UPxhUpSwJK7",
   "tier": 3,
-  "overallRating": 64,
+  "overall_rating": 65,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 44,
-    "passing": 56,
+    "speed": 51,
+    "shooting": 48,
+    "passing": 48,
     "dribbling": 52,
-    "defense": 53,
-    "physical": 56,
-    "goalTending": 59
+    "defense": 65,
+    "physical": 60,
+    "goal_tending": 49
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 51
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 44
+      "value": 48
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 48
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 53
+      "value": 65
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 56
+      "value": 60
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 49
     }
   ]
 }

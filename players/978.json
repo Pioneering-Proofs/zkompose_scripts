@@ -1,56 +1,61 @@
 {
-  "name": "Naomi Runolfsdottir",
-  "jerseyNumber": 69,
-  "description": "Number 69 Naomi Runolfsdottir. Overall rating of 77.",
+  "name": "Ruben Spinka",
+  "jersey_number": 19,
+  "description": "Number 19 Ruben Spinka. Overall rating of 60.",
   "external_url": "https://example.com/player/978",
   "image": "ipfs://QmTZ3LvCfiKyS6eZCmZbv3WGzgAoTy9WLAZe4wFC3VjoXz",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 3,
+  "overall_rating": 60,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 58,
-    "shooting": 61,
-    "passing": 74,
-    "dribbling": 73,
-    "defense": 64,
-    "physical": 76,
-    "goalTending": 65
+    "speed": 50,
+    "shooting": 54,
+    "passing": 57,
+    "dribbling": 47,
+    "defense": 59,
+    "physical": 46,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 58
+      "value": 50
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 54
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 57
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 47
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 59
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 76
+      "value": 46
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 52
     }
   ]
 }

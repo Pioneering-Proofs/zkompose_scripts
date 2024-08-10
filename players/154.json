@@ -1,56 +1,61 @@
 {
-  "name": "Rosalie Jerde III",
-  "jerseyNumber": 65,
-  "description": "Number 65 Rosalie Jerde III. Overall rating of 77.",
+  "name": "Darrell Veum III",
+  "jersey_number": 74,
+  "description": "Number 74 Darrell Veum III. Overall rating of 67.",
   "external_url": "https://example.com/player/154",
   "image": "ipfs://QmXcGsiYim7N8VSyQvPYefttYv15vbLsaM5Vc3cKSUPCZy",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 3,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 73,
-    "shooting": 71,
-    "passing": 68,
-    "dribbling": 70,
-    "defense": 57,
-    "physical": 76,
-    "goalTending": 61
+    "speed": 51,
+    "shooting": 58,
+    "passing": 65,
+    "dribbling": 62,
+    "defense": 66,
+    "physical": 64,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 73
+      "value": 51
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 71
+      "value": 58
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 70
+      "value": 62
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 76
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 54
     }
   ]
 }

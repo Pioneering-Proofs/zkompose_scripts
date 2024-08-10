@@ -1,56 +1,61 @@
 {
-  "name": "Eddie Kub",
-  "jerseyNumber": 8,
-  "description": "Number 8 Eddie Kub. Overall rating of 71.",
+  "name": "Clifton Kulas",
+  "jersey_number": 8,
+  "description": "Number 8 Clifton Kulas. Overall rating of 67.",
   "external_url": "https://example.com/player/524",
   "image": "ipfs://QmT38EohPvjiiWsRMgm1KbA9mbfFkfr3B4vmyFpn6cwbDA",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 3,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 68,
-    "shooting": 53,
-    "passing": 51,
-    "dribbling": 63,
-    "defense": 60,
-    "physical": 55,
-    "goalTending": 66
+    "speed": 53,
+    "shooting": 57,
+    "passing": 64,
+    "dribbling": 66,
+    "defense": 66,
+    "physical": 51,
+    "goal_tending": 49
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 68
+      "value": 53
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 53
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 51
+      "value": 64
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 66
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 55
+      "value": 51
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 49
     }
   ]
 }

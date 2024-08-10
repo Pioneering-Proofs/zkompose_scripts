@@ -1,56 +1,61 @@
 {
-  "name": "Saul Turner",
-  "jerseyNumber": 67,
-  "description": "Number 67 Saul Turner. Overall rating of 74.",
+  "name": "Megan Ledner I",
+  "jersey_number": 91,
+  "description": "Number 91 Megan Ledner I. Overall rating of 91.",
   "external_url": "https://example.com/player/687",
   "image": "ipfs://QmQKsdLfjpxFcidfcHdwcKWs5JFQJrLinxxuNaxJLPX1Lc",
-  "tier": 2,
-  "overallRating": 74,
+  "tier": 0,
+  "overall_rating": 91,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 72,
-    "passing": 61,
-    "dribbling": 55,
-    "defense": 63,
-    "physical": 61,
-    "goalTending": 72
+    "speed": 85,
+    "shooting": 79,
+    "passing": 88,
+    "dribbling": 81,
+    "defense": 74,
+    "physical": 74,
+    "goal_tending": 91
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 85
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 79
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 61
+      "value": 88
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 55
+      "value": 81
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 63
+      "value": 74
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 91
     }
   ]
 }

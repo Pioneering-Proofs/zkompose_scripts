@@ -1,56 +1,61 @@
 {
-  "name": "Spencer Howe",
-  "jerseyNumber": 61,
-  "description": "Number 61 Spencer Howe. Overall rating of 75.",
+  "name": "Scott Jacobs V",
+  "jersey_number": 37,
+  "description": "Number 37 Scott Jacobs V. Overall rating of 56.",
   "external_url": "https://example.com/player/323",
   "image": "ipfs://QmVpz4SEUUbLwSW2Kdf4stA75HDFDDP1GFBwP1aKdiREQS",
-  "tier": 2,
-  "overallRating": 75,
+  "tier": 4,
+  "overall_rating": 56,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
-    "shooting": 65,
-    "passing": 72,
-    "dribbling": 74,
-    "defense": 55,
-    "physical": 57,
-    "goalTending": 66
+    "speed": 49,
+    "shooting": 38,
+    "passing": 42,
+    "dribbling": 52,
+    "defense": 45,
+    "physical": 54,
+    "goal_tending": 38
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 49
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 38
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 42
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 52
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 45
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 54
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 38
     }
   ]
 }

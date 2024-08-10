@@ -1,56 +1,61 @@
 {
-  "name": "Tamara Romaguera",
-  "jerseyNumber": 97,
-  "description": "Number 97 Tamara Romaguera. Overall rating of 73.",
+  "name": "Jeremiah Lakin",
+  "jersey_number": 41,
+  "description": "Number 41 Jeremiah Lakin. Overall rating of 59.",
   "external_url": "https://example.com/player/618",
   "image": "ipfs://QmaRpgiUvSxWwmRhN7JuqbZWVPLo8i5uQ9UhPydaeCiU4m",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 4,
+  "overall_rating": 59,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 53,
-    "shooting": 57,
-    "passing": 56,
-    "dribbling": 56,
-    "defense": 70,
-    "physical": 68,
-    "goalTending": 55
+    "speed": 50,
+    "shooting": 56,
+    "passing": 42,
+    "dribbling": 42,
+    "defense": 55,
+    "physical": 50,
+    "goal_tending": 39
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 53
+      "value": 50
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 42
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 56
+      "value": 42
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 50
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 55
+      "value": 39
     }
   ]
 }

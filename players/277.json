@@ -1,56 +1,61 @@
 {
-  "name": "Edith Stoltenberg",
-  "jerseyNumber": 50,
-  "description": "Number 50 Edith Stoltenberg. Overall rating of 66.",
+  "name": "Mr. Jimmy Weissnat",
+  "jersey_number": 14,
+  "description": "Number 14 Mr. Jimmy Weissnat. Overall rating of 86.",
   "external_url": "https://example.com/player/277",
   "image": "ipfs://QmaHmiw1jkZRqm8cec6raEuq3igQ8LU6mPJEpk51gKVWZd",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 1,
+  "overall_rating": 86,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 51,
-    "shooting": 54,
-    "passing": 46,
-    "dribbling": 65,
-    "defense": 60,
-    "physical": 59,
-    "goalTending": 64
+    "speed": 84,
+    "shooting": 66,
+    "passing": 72,
+    "dribbling": 75,
+    "defense": 81,
+    "physical": 71,
+    "goal_tending": 85
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 51
+      "value": 84
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 54
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 46
+      "value": 72
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 60
+      "value": 81
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 59
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 64
+      "value": 85
     }
   ]
 }

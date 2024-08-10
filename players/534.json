@@ -1,56 +1,61 @@
 {
-  "name": "Elvira Beatty-Herzog",
-  "jerseyNumber": 95,
-  "description": "Number 95 Elvira Beatty-Herzog. Overall rating of 90.",
+  "name": "Shannon Cummerata",
+  "jersey_number": 32,
+  "description": "Number 32 Shannon Cummerata. Overall rating of 63.",
   "external_url": "https://example.com/player/534",
   "image": "ipfs://QmZDth6giSEcKvLAfK6kUHmt2HJD9cnUJtZ4MRuVaYYfuM",
-  "tier": 0,
-  "overallRating": 90,
+  "tier": 3,
+  "overall_rating": 63,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 89,
-    "shooting": 85,
-    "passing": 72,
-    "dribbling": 78,
-    "defense": 80,
-    "physical": 86,
-    "goalTending": 79
+    "speed": 43,
+    "shooting": 45,
+    "passing": 56,
+    "dribbling": 43,
+    "defense": 55,
+    "physical": 63,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 89
+      "value": 43
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 85
+      "value": 45
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 56
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 43
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 80
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 86
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 79
+      "value": 62
     }
   ]
 }

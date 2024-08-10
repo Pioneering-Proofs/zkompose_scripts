@@ -1,26 +1,31 @@
 {
-  "name": "Eddie Veum",
-  "jerseyNumber": 98,
-  "description": "Number 98 Eddie Veum. Overall rating of 73.",
+  "name": "Gordon Romaguera",
+  "jersey_number": 45,
+  "description": "Number 45 Gordon Romaguera. Overall rating of 80.",
   "external_url": "https://example.com/player/564",
   "image": "ipfs://QmPVdqaRMLwtmpSucxteYojm79GdvKMvaM8rmH4CDMxcyd",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
+    "speed": 67,
     "shooting": 69,
-    "passing": 57,
-    "dribbling": 66,
-    "defense": 58,
-    "physical": 63,
-    "goalTending": 60
+    "passing": 68,
+    "dribbling": 64,
+    "defense": 70,
+    "physical": 65,
+    "goal_tending": 77
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 67
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 57
+      "value": 68
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 64
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 70
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 63
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 77
     }
   ]
 }

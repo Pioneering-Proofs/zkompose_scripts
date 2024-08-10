@@ -1,56 +1,61 @@
 {
-  "name": "Ms. Arlene Torp",
-  "jerseyNumber": 4,
-  "description": "Number 4 Ms. Arlene Torp. Overall rating of 80.",
+  "name": "Gloria Christiansen",
+  "jersey_number": 79,
+  "description": "Number 79 Gloria Christiansen. Overall rating of 78.",
   "external_url": "https://example.com/player/486",
   "image": "ipfs://QmamWrCgzVEe4kWmbUCeVYcBAj4EGQLwNWndCLzefysxU3",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 65,
-    "passing": 70,
-    "dribbling": 75,
-    "defense": 73,
-    "physical": 62,
-    "goalTending": 76
+    "speed": 63,
+    "shooting": 77,
+    "passing": 59,
+    "dribbling": 74,
+    "defense": 62,
+    "physical": 66,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 77
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 59
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 75
+      "value": 74
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 62
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 76
+      "value": 64
     }
   ]
 }

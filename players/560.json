@@ -1,46 +1,51 @@
 {
-  "name": "Sally Cormier MD",
-  "jerseyNumber": 39,
-  "description": "Number 39 Sally Cormier MD. Overall rating of 80.",
+  "name": "Cristina Rogahn",
+  "jersey_number": 1,
+  "description": "Number 1 Cristina Rogahn. Overall rating of 83.",
   "external_url": "https://example.com/player/560",
   "image": "ipfs://Qma5Xz7boB7jw4mDwdLN4DohSRi8Ns5pnYsPehQCrJL2Kr",
   "tier": 1,
-  "overallRating": 80,
+  "overall_rating": 83,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 72,
-    "passing": 65,
-    "dribbling": 77,
-    "defense": 66,
+    "speed": 76,
+    "shooting": 70,
+    "passing": 73,
+    "dribbling": 81,
+    "defense": 81,
     "physical": 66,
-    "goalTending": 77
+    "goal_tending": 73
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 76
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 72
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 73
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 77
+      "value": 81
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 66
+      "value": 81
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 73
     }
   ]
 }

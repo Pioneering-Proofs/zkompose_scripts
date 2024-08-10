@@ -1,36 +1,41 @@
 {
-  "name": "Tommy Nikolaus",
-  "jerseyNumber": 97,
-  "description": "Number 97 Tommy Nikolaus. Overall rating of 69.",
+  "name": "Marie Osinski",
+  "jersey_number": 58,
+  "description": "Number 58 Marie Osinski. Overall rating of 66.",
   "external_url": "https://example.com/player/126",
   "image": "ipfs://QmRSBFS8oiYZXhw3kjJ975oGWctQr4sqLuTTC2QL9dYzMn",
   "tier": 3,
-  "overallRating": 69,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 65,
-    "passing": 66,
+    "speed": 46,
+    "shooting": 49,
+    "passing": 62,
     "dribbling": 65,
-    "defense": 49,
-    "physical": 66,
-    "goalTending": 58
+    "defense": 52,
+    "physical": 58,
+    "goal_tending": 54
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 46
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 49
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 66
+      "value": 62
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 49
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 66
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 54
     }
   ]
 }

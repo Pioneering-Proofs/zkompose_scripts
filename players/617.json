@@ -1,56 +1,61 @@
 {
-  "name": "Dr. Salvador VonRueden",
-  "jerseyNumber": 96,
-  "description": "Number 96 Dr. Salvador VonRueden. Overall rating of 95.",
+  "name": "Gwen Cormier",
+  "jersey_number": 12,
+  "description": "Number 12 Gwen Cormier. Overall rating of 78.",
   "external_url": "https://example.com/player/617",
   "image": "ipfs://QmZUcxVhEALhk71QHWDLdnGRSBaPBz3PKhTnM943qnznQf",
-  "tier": 0,
-  "overallRating": 95,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 94,
-    "shooting": 84,
-    "passing": 80,
-    "dribbling": 90,
-    "defense": 91,
-    "physical": 83,
-    "goalTending": 93
+    "speed": 60,
+    "shooting": 65,
+    "passing": 78,
+    "dribbling": 63,
+    "defense": 68,
+    "physical": 77,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 94
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 84
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 80
+      "value": 78
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 90
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 91
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 83
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 93
+      "value": 68
     }
   ]
 }

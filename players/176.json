@@ -1,56 +1,61 @@
 {
-  "name": "Shannon Kautzer",
-  "jerseyNumber": 26,
-  "description": "Number 26 Shannon Kautzer. Overall rating of 66.",
+  "name": "Ada Moen",
+  "jersey_number": 46,
+  "description": "Number 46 Ada Moen. Overall rating of 62.",
   "external_url": "https://example.com/player/176",
   "image": "ipfs://QmaLC4uUDiqwYFweGDFo24vt3TcBPCQkF2YHj7BWZyKifK",
   "tier": 3,
-  "overallRating": 66,
+  "overall_rating": 62,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 59,
-    "shooting": 65,
-    "passing": 65,
-    "dribbling": 53,
-    "defense": 55,
-    "physical": 58,
-    "goalTending": 49
+    "speed": 57,
+    "shooting": 59,
+    "passing": 60,
+    "dribbling": 55,
+    "defense": 60,
+    "physical": 42,
+    "goal_tending": 60
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 59
+      "value": 57
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 65
+      "value": 59
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 53
+      "value": 55
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 55
+      "value": 60
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 42
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 49
+      "value": 60
     }
   ]
 }

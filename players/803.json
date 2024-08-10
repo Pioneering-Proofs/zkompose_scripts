@@ -1,41 +1,46 @@
 {
-  "name": "Aubrey Brown",
-  "jerseyNumber": 63,
-  "description": "Number 63 Aubrey Brown. Overall rating of 73.",
+  "name": "Mark Heathcote",
+  "jersey_number": 36,
+  "description": "Number 36 Mark Heathcote. Overall rating of 72.",
   "external_url": "https://example.com/player/803",
   "image": "ipfs://QmXKkFQjPSczG78rC3YNERKSNzL4ZzYgxbyzhf7x2wchMi",
   "tier": 2,
-  "overallRating": 73,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 68,
-    "passing": 58,
-    "dribbling": 67,
+    "speed": 64,
+    "shooting": 63,
+    "passing": 70,
+    "dribbling": 71,
     "defense": 55,
-    "physical": 53,
-    "goalTending": 72
+    "physical": 58,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 64
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 63
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 71
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 70
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Dr. Ernesto Bechtelar",
-  "jerseyNumber": 15,
-  "description": "Number 15 Dr. Ernesto Bechtelar. Overall rating of 82.",
+  "name": "Leona Sanford",
+  "jersey_number": 41,
+  "description": "Number 41 Leona Sanford. Overall rating of 59.",
   "external_url": "https://example.com/player/848",
   "image": "ipfs://QmdGDtvHB61gWtWJrapEyq9Z43xuQNhpsFNiNeybwLR1og",
-  "tier": 1,
-  "overallRating": 82,
+  "tier": 4,
+  "overall_rating": 59,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 77,
-    "passing": 67,
-    "dribbling": 74,
-    "defense": 69,
-    "physical": 82,
-    "goalTending": 65
+    "speed": 58,
+    "shooting": 42,
+    "passing": 39,
+    "dribbling": 43,
+    "defense": 50,
+    "physical": 59,
+    "goal_tending": 52
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 77
+      "value": 42
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 67
+      "value": 39
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 74
+      "value": 43
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 50
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 82
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 52
     }
   ]
 }

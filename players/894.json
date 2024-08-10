@@ -1,56 +1,61 @@
 {
-  "name": "Kim Hartmann",
-  "jerseyNumber": 5,
-  "description": "Number 5 Kim Hartmann. Overall rating of 73.",
+  "name": "Frank Yost IV",
+  "jersey_number": 7,
+  "description": "Number 7 Frank Yost IV. Overall rating of 64.",
   "external_url": "https://example.com/player/894",
   "image": "ipfs://QmQ3utVnbZ7HFHSa651v1XP1uJCCnpt3h7cT4CnD15hLkY",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
-    "shooting": 64,
-    "passing": 59,
-    "dribbling": 65,
-    "defense": 61,
-    "physical": 59,
-    "goalTending": 72
+    "speed": 55,
+    "shooting": 48,
+    "passing": 52,
+    "dribbling": 61,
+    "defense": 55,
+    "physical": 47,
+    "goal_tending": 56
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 55
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 48
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 52
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 65
+      "value": 61
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 59
+      "value": 47
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 56
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Ken Waelchi",
-  "jerseyNumber": 74,
-  "description": "Number 74 Ken Waelchi. Overall rating of 63.",
+  "name": "Irma Runolfsson",
+  "jersey_number": 24,
+  "description": "Number 24 Irma Runolfsson. Overall rating of 76.",
   "external_url": "https://example.com/player/122",
   "image": "ipfs://QmRjA7BnpnuZcXA7smyS3eAuKERcWDtb1AmBDvEgEsVgZ9",
-  "tier": 3,
-  "overallRating": 63,
+  "tier": 2,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 45,
-    "shooting": 45,
-    "passing": 63,
-    "dribbling": 47,
-    "defense": 56,
-    "physical": 57,
-    "goalTending": 60
+    "speed": 69,
+    "shooting": 70,
+    "passing": 62,
+    "dribbling": 62,
+    "defense": 72,
+    "physical": 56,
+    "goal_tending": 67
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 45
+      "value": 69
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 45
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 63
+      "value": 62
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 47
+      "value": 62
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 56
+      "value": 72
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 56
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 67
     }
   ]
 }

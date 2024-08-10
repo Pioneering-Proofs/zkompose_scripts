@@ -1,56 +1,61 @@
 {
-  "name": "Andre Ward-Gutmann",
-  "jerseyNumber": 58,
-  "description": "Number 58 Andre Ward-Gutmann. Overall rating of 94.",
+  "name": "Roger Fisher",
+  "jersey_number": 83,
+  "description": "Number 83 Roger Fisher. Overall rating of 88.",
   "external_url": "https://example.com/player/250",
   "image": "ipfs://QmWhJbGvhXVAGjHmi96H7gsd5wQgGeDbbXiWY1QN2oHd3e",
-  "tier": 0,
-  "overallRating": 94,
+  "tier": 1,
+  "overall_rating": 88,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 79,
-    "shooting": 74,
-    "passing": 80,
-    "dribbling": 77,
-    "defense": 77,
-    "physical": 91,
-    "goalTending": 91
+    "speed": 77,
+    "shooting": 70,
+    "passing": 75,
+    "dribbling": 84,
+    "defense": 73,
+    "physical": 77,
+    "goal_tending": 88
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 79
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 70
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 80
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 77
+      "value": 84
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 77
+      "value": 73
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 91
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 91
+      "value": 88
     }
   ]
 }

@@ -1,26 +1,31 @@
 {
-  "name": "Geraldine O'Reilly",
-  "jerseyNumber": 33,
-  "description": "Number 33 Geraldine O'Reilly. Overall rating of 76.",
+  "name": "Marie Runte",
+  "jersey_number": 34,
+  "description": "Number 34 Marie Runte. Overall rating of 76.",
   "external_url": "https://example.com/player/341",
   "image": "ipfs://QmSx4WFJL19zhbdJ3UerphuogdaXhdypZpWnvEwLHdqV2c",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 76,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 69,
+    "speed": 60,
     "shooting": 74,
-    "passing": 57,
-    "dribbling": 64,
-    "defense": 74,
-    "physical": 66,
-    "goalTending": 72
+    "passing": 74,
+    "dribbling": 61,
+    "defense": 60,
+    "physical": 72,
+    "goal_tending": 58
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 69
+      "value": 60
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 57
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 64
+      "value": 61
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 74
+      "value": 60
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 66
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 72
+      "value": 58
     }
   ]
 }

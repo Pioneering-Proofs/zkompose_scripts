@@ -1,26 +1,31 @@
 {
-  "name": "Madeline Stroman",
-  "jerseyNumber": 14,
-  "description": "Number 14 Madeline Stroman. Overall rating of 72.",
+  "name": "Miss Hope Shields",
+  "jersey_number": 65,
+  "description": "Number 65 Miss Hope Shields. Overall rating of 82.",
   "external_url": "https://example.com/player/822",
   "image": "ipfs://QmatAWmqMpGCNnMtJXKFN9N2iddB8sur19PZgn55wuSTv3",
-  "tier": 2,
-  "overallRating": 72,
+  "tier": 1,
+  "overall_rating": 82,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 55,
+    "speed": 67,
     "shooting": 70,
-    "passing": 56,
-    "dribbling": 62,
-    "defense": 69,
-    "physical": 52,
-    "goalTending": 61
+    "passing": 72,
+    "dribbling": 80,
+    "defense": 63,
+    "physical": 77,
+    "goal_tending": 80
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 55
+      "value": 67
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 56
+      "value": 72
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 80
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 69
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 52
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 80
     }
   ]
 }

@@ -1,56 +1,61 @@
 {
-  "name": "Thelma Schultz",
-  "jerseyNumber": 99,
-  "description": "Number 99 Thelma Schultz. Overall rating of 63.",
+  "name": "Dr. Taylor Breitenberg PhD",
+  "jersey_number": 57,
+  "description": "Number 57 Dr. Taylor Breitenberg PhD. Overall rating of 84.",
   "external_url": "https://example.com/player/275",
   "image": "ipfs://QmRv4rzN6PfvAb4T4F5fohZ7514KPA5383kQ7FX1Kp5Gyo",
-  "tier": 3,
-  "overallRating": 63,
+  "tier": 1,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 58,
-    "shooting": 56,
-    "passing": 60,
-    "dribbling": 44,
-    "defense": 58,
-    "physical": 57,
-    "goalTending": 49
+    "speed": 83,
+    "shooting": 83,
+    "passing": 75,
+    "dribbling": 75,
+    "defense": 78,
+    "physical": 79,
+    "goal_tending": 77
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 58
+      "value": 83
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 56
+      "value": 83
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 60
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 44
+      "value": 75
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 78
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 79
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 49
+      "value": 77
     }
   ]
 }

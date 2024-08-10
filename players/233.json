@@ -1,56 +1,61 @@
 {
-  "name": "Violet Rath",
-  "jerseyNumber": 2,
-  "description": "Number 2 Violet Rath. Overall rating of 83.",
+  "name": "Heidi Lemke",
+  "jersey_number": 21,
+  "description": "Number 21 Heidi Lemke. Overall rating of 85.",
   "external_url": "https://example.com/player/233",
   "image": "ipfs://Qmb2V4jrpSrWu6EegdRTGX4w36gLdCQt9bwjFTovYHv75A",
   "tier": 1,
-  "overallRating": 83,
+  "overall_rating": 85,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 81,
-    "passing": 79,
-    "dribbling": 66,
-    "defense": 79,
-    "physical": 67,
-    "goalTending": 79
+    "speed": 78,
+    "shooting": 79,
+    "passing": 82,
+    "dribbling": 73,
+    "defense": 74,
+    "physical": 79,
+    "goal_tending": 76
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 78
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 81
+      "value": 79
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 79
+      "value": 82
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 73
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 79
+      "value": 74
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 67
+      "value": 79
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 79
+      "value": 76
     }
   ]
 }

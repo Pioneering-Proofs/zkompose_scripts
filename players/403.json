@@ -1,54 +1,59 @@
 {
-  "name": "Dr. Stanley Lakin",
-  "jerseyNumber": 20,
-  "description": "Number 20 Dr. Stanley Lakin. Overall rating of 70.",
+  "name": "Ernesto Reichert",
+  "jersey_number": 28,
+  "description": "Number 28 Ernesto Reichert. Overall rating of 75.",
   "external_url": "https://example.com/player/403",
   "image": "ipfs://QmRJu6rsV17jxxXtgt35XgLyeoznvnBTaduc9k1qBLJ36C",
   "tier": 2,
-  "overallRating": 70,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 59,
-    "shooting": 50,
-    "passing": 53,
-    "dribbling": 70,
-    "defense": 50,
-    "physical": 54,
-    "goalTending": 63
+    "speed": 58,
+    "shooting": 75,
+    "passing": 58,
+    "dribbling": 69,
+    "defense": 66,
+    "physical": 70,
+    "goal_tending": 63
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 59
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 50
+      "value": 75
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 53
+      "value": 58
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 70
+      "value": 69
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 50
+      "value": 66
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 54
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
       "value": 63
     }

@@ -1,56 +1,61 @@
 {
-  "name": "Lindsay Bayer",
-  "jerseyNumber": 97,
-  "description": "Number 97 Lindsay Bayer. Overall rating of 66.",
+  "name": "Tina Hessel",
+  "jersey_number": 82,
+  "description": "Number 82 Tina Hessel. Overall rating of 85.",
   "external_url": "https://example.com/player/33",
   "image": "ipfs://QmNxtyW51LfTgKd6F6NxGdm9LCzq9J4LicV2FnaWqcReaW",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 1,
+  "overall_rating": 85,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 50,
-    "shooting": 55,
-    "passing": 65,
-    "dribbling": 63,
-    "defense": 61,
-    "physical": 63,
-    "goalTending": 61
+    "speed": 84,
+    "shooting": 75,
+    "passing": 74,
+    "dribbling": 65,
+    "defense": 84,
+    "physical": 70,
+    "goal_tending": 83
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 50
+      "value": 84
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 75
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 65
+      "value": 74
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 65
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 84
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 63
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 61
+      "value": 83
     }
   ]
 }

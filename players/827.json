@@ -1,56 +1,61 @@
 {
-  "name": "Jo Christiansen",
-  "jerseyNumber": 4,
-  "description": "Number 4 Jo Christiansen. Overall rating of 66.",
+  "name": "Mr. Irvin Ratke",
+  "jersey_number": 45,
+  "description": "Number 45 Mr. Irvin Ratke. Overall rating of 81.",
   "external_url": "https://example.com/player/827",
   "image": "ipfs://QmWG8LGaX7uzwEy1QXHUbm2hgQ4ju8sneHc1xbHZKQbHiD",
-  "tier": 3,
-  "overallRating": 66,
+  "tier": 1,
+  "overall_rating": 81,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 46,
-    "passing": 51,
-    "dribbling": 60,
-    "defense": 49,
-    "physical": 53,
-    "goalTending": 65
+    "speed": 77,
+    "shooting": 80,
+    "passing": 75,
+    "dribbling": 72,
+    "defense": 77,
+    "physical": 65,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 46
+      "value": 80
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 51
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 60
+      "value": 72
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 49
+      "value": 77
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 65
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 68
     }
   ]
 }

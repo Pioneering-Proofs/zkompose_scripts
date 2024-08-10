@@ -1,36 +1,41 @@
 {
-  "name": "Rhonda Mueller",
-  "jerseyNumber": 34,
-  "description": "Number 34 Rhonda Mueller. Overall rating of 74.",
+  "name": "Audrey Marks Sr.",
+  "jersey_number": 25,
+  "description": "Number 25 Audrey Marks Sr.. Overall rating of 73.",
   "external_url": "https://example.com/player/775",
   "image": "ipfs://QmSCP3AhCamh9MWGNwA51Sq3WSt89gCF4EL1FZQWKQKm2u",
   "tier": 2,
-  "overallRating": 74,
+  "overall_rating": 73,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 59,
-    "shooting": 68,
-    "passing": 64,
+    "speed": 60,
+    "shooting": 65,
+    "passing": 55,
     "dribbling": 70,
     "defense": 54,
-    "physical": 70,
-    "goalTending": 66
+    "physical": 72,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 59
+      "value": 60
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 65
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 55
     },
     {
       "display_type": "dribbling",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 71
     }
   ]
 }

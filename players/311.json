@@ -1,56 +1,61 @@
 {
-  "name": "Jaime Ryan",
-  "jerseyNumber": 15,
-  "description": "Number 15 Jaime Ryan. Overall rating of 76.",
+  "name": "Opal Kilback",
+  "jersey_number": 51,
+  "description": "Number 51 Opal Kilback. Overall rating of 99.",
   "external_url": "https://example.com/player/311",
   "image": "ipfs://QmcYqspYySexF1tVckz3EyTtt4BqqSEcUf1y6NPaf8wFJV",
-  "tier": 2,
-  "overallRating": 76,
+  "tier": 0,
+  "overall_rating": 99,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
-    "shooting": 57,
-    "passing": 61,
-    "dribbling": 73,
-    "defense": 76,
-    "physical": 74,
-    "goalTending": 65
+    "speed": 82,
+    "shooting": 85,
+    "passing": 96,
+    "dribbling": 90,
+    "defense": 91,
+    "physical": 92,
+    "goal_tending": 86
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 82
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 85
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 61
+      "value": 96
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 73
+      "value": 90
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 76
+      "value": 91
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 74
+      "value": 92
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 86
     }
   ]
 }

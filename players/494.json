@@ -1,56 +1,61 @@
 {
-  "name": "Olga Reinger",
-  "jerseyNumber": 38,
-  "description": "Number 38 Olga Reinger. Overall rating of 71.",
+  "name": "Mercedes Wiegand",
+  "jersey_number": 67,
+  "description": "Number 67 Mercedes Wiegand. Overall rating of 54.",
   "external_url": "https://example.com/player/494",
   "image": "ipfs://QmYkAFL3n8PD2gEpFJmTJa2zZAZwVESqnRqpXgfCCzNwWG",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 4,
+  "overall_rating": 54,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
-    "shooting": 67,
-    "passing": 64,
-    "dribbling": 61,
-    "defense": 70,
-    "physical": 61,
-    "goalTending": 51
+    "speed": 52,
+    "shooting": 38,
+    "passing": 52,
+    "dribbling": 47,
+    "defense": 52,
+    "physical": 46,
+    "goal_tending": 36
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 52
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 67
+      "value": 38
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 64
+      "value": 52
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 47
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 52
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 46
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 51
+      "value": 36
     }
   ]
 }

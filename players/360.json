@@ -1,26 +1,31 @@
 {
-  "name": "Yolanda Herzog I",
-  "jerseyNumber": 68,
-  "description": "Number 68 Yolanda Herzog I. Overall rating of 93.",
+  "name": "Lowell Murazik-Heidenreich",
+  "jersey_number": 38,
+  "description": "Number 38 Lowell Murazik-Heidenreich. Overall rating of 93.",
   "external_url": "https://example.com/player/360",
   "image": "ipfs://QmdETTB38pZqDKx5362FGtJhZy4pZ9DfEyWAEgWQCze3xt",
   "tier": 0,
-  "overallRating": 93,
+  "overall_rating": 93,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 84,
+    "speed": 90,
     "shooting": 86,
-    "passing": 85,
+    "passing": 83,
     "dribbling": 85,
-    "defense": 86,
-    "physical": 84,
-    "goalTending": 91
+    "defense": 85,
+    "physical": 81,
+    "goal_tending": 88
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 84
+      "value": 90
     },
     {
       "display_type": "shooting",
@@ -30,7 +35,7 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 85
+      "value": 83
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 86
+      "value": 85
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 84
+      "value": 81
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 91
+      "value": 88
     }
   ]
 }

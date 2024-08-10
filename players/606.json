@@ -1,56 +1,61 @@
 {
-  "name": "Arlene Donnelly",
-  "jerseyNumber": 47,
-  "description": "Number 47 Arlene Donnelly. Overall rating of 88.",
+  "name": "Sammy Terry",
+  "jersey_number": 79,
+  "description": "Number 79 Sammy Terry. Overall rating of 66.",
   "external_url": "https://example.com/player/606",
   "image": "ipfs://QmYPJFM27At75T3kogMb2R3gHk4fhkzFNVqmiyuL3KdLN2",
-  "tier": 1,
-  "overallRating": 88,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 82,
-    "shooting": 79,
-    "passing": 72,
-    "dribbling": 87,
-    "defense": 88,
-    "physical": 86,
-    "goalTending": 87
+    "speed": 62,
+    "shooting": 56,
+    "passing": 63,
+    "dribbling": 57,
+    "defense": 55,
+    "physical": 61,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 82
+      "value": 62
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 79
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 72
+      "value": 63
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 87
+      "value": 57
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 88
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 86
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 87
+      "value": 61
     }
   ]
 }

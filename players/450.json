@@ -1,56 +1,61 @@
 {
-  "name": "Jeannette Rosenbaum",
-  "jerseyNumber": 7,
-  "description": "Number 7 Jeannette Rosenbaum. Overall rating of 71.",
+  "name": "Larry Wisoky",
+  "jersey_number": 33,
+  "description": "Number 33 Larry Wisoky. Overall rating of 66.",
   "external_url": "https://example.com/player/450",
   "image": "ipfs://QmP2MjQKvVjHBFvyK4WNhFNT4gNpzfKsfbZoMAhuZnKGuY",
-  "tier": 2,
-  "overallRating": 71,
+  "tier": 3,
+  "overall_rating": 66,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 66,
-    "shooting": 66,
-    "passing": 52,
-    "dribbling": 67,
-    "defense": 54,
-    "physical": 58,
-    "goalTending": 59
+    "speed": 57,
+    "shooting": 53,
+    "passing": 54,
+    "dribbling": 57,
+    "defense": 60,
+    "physical": 57,
+    "goal_tending": 65
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 66
+      "value": 57
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 66
+      "value": 53
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 52
+      "value": 54
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 57
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 54
+      "value": 60
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 65
     }
   ]
 }

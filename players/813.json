@@ -1,56 +1,61 @@
 {
-  "name": "Jessie Kub",
-  "jerseyNumber": 70,
-  "description": "Number 70 Jessie Kub. Overall rating of 66.",
+  "name": "Brian Sauer",
+  "jersey_number": 72,
+  "description": "Number 72 Brian Sauer. Overall rating of 68.",
   "external_url": "https://example.com/player/813",
   "image": "ipfs://QmThRPEMWzSgRvcY7L1Mwm5W7YGdGTYfQ9yHH8V9Wdwf8v",
   "tier": 3,
-  "overallRating": 66,
+  "overall_rating": 68,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 64,
-    "shooting": 55,
-    "passing": 59,
-    "dribbling": 66,
-    "defense": 52,
-    "physical": 58,
-    "goalTending": 48
+    "speed": 54,
+    "shooting": 56,
+    "passing": 60,
+    "dribbling": 68,
+    "defense": 50,
+    "physical": 61,
+    "goal_tending": 64
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 64
+      "value": 54
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 56
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 59
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 68
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 52
+      "value": 50
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 61
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 48
+      "value": 64
     }
   ]
 }

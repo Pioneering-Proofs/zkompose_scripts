@@ -1,56 +1,61 @@
 {
-  "name": "Ms. Shirley Wolff",
-  "jerseyNumber": 44,
-  "description": "Number 44 Ms. Shirley Wolff. Overall rating of 63.",
+  "name": "Dr. Joann Russel",
+  "jersey_number": 34,
+  "description": "Number 34 Dr. Joann Russel. Overall rating of 90.",
   "external_url": "https://example.com/player/574",
   "image": "ipfs://Qmaea29K5KWELfQoXbXSuakiqAxLSHfL2zde1vG63aCQe9",
-  "tier": 3,
-  "overallRating": 63,
+  "tier": 0,
+  "overall_rating": 90,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 44,
-    "shooting": 52,
-    "passing": 46,
-    "dribbling": 62,
-    "defense": 50,
-    "physical": 61,
-    "goalTending": 63
+    "speed": 82,
+    "shooting": 78,
+    "passing": 70,
+    "dribbling": 90,
+    "defense": 71,
+    "physical": 70,
+    "goal_tending": 78
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 44
+      "value": 82
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 52
+      "value": 78
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 46
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 62
+      "value": 90
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 50
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 63
+      "value": 78
     }
   ]
 }

@@ -1,41 +1,46 @@
 {
-  "name": "Eunice Cummings",
-  "jerseyNumber": 19,
-  "description": "Number 19 Eunice Cummings. Overall rating of 86.",
+  "name": "Winston Jakubowski",
+  "jersey_number": 94,
+  "description": "Number 94 Winston Jakubowski. Overall rating of 89.",
   "external_url": "https://example.com/player/166",
   "image": "ipfs://Qma7afcPazgkZ4U8pwR93cK3TU8Kpy1mJrmqbjLgaG6A2R",
   "tier": 1,
-  "overallRating": 86,
+  "overall_rating": 89,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 82,
-    "shooting": 69,
-    "passing": 75,
-    "dribbling": 75,
+    "speed": 76,
+    "shooting": 73,
+    "passing": 88,
+    "dribbling": 87,
     "defense": 74,
-    "physical": 69,
-    "goalTending": 71
+    "physical": 77,
+    "goal_tending": 79
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 82
+      "value": 76
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 69
+      "value": 73
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 88
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 75
+      "value": 87
     },
     {
       "display_type": "defense",
@@ -45,12 +50,12 @@
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 69
+      "value": 77
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 71
+      "value": 79
     }
   ]
 }

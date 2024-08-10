@@ -1,56 +1,61 @@
 {
-  "name": "Angelica VonRueden",
-  "jerseyNumber": 55,
-  "description": "Number 55 Angelica VonRueden. Overall rating of 81.",
+  "name": "Brendan Torp",
+  "jersey_number": 10,
+  "description": "Number 10 Brendan Torp. Overall rating of 78.",
   "external_url": "https://example.com/player/347",
   "image": "ipfs://QmSMHfUAzkriup8h5yXuMX82MaEACp92BMZDZwpRx18zCG",
-  "tier": 1,
-  "overallRating": 81,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 80,
-    "shooting": 61,
-    "passing": 79,
-    "dribbling": 66,
-    "defense": 78,
-    "physical": 73,
-    "goalTending": 65
+    "speed": 73,
+    "shooting": 67,
+    "passing": 76,
+    "dribbling": 65,
+    "defense": 74,
+    "physical": 68,
+    "goal_tending": 60
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 80
+      "value": 73
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 61
+      "value": 67
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 79
+      "value": 76
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 65
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 78
+      "value": 74
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 68
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 65
+      "value": 60
     }
   ]
 }

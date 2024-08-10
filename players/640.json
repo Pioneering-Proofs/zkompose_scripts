@@ -1,26 +1,31 @@
 {
-  "name": "Dr. Luther Pouros",
-  "jerseyNumber": 97,
-  "description": "Number 97 Dr. Luther Pouros. Overall rating of 80.",
+  "name": "Dr. Anthony Toy",
+  "jersey_number": 82,
+  "description": "Number 82 Dr. Anthony Toy. Overall rating of 72.",
   "external_url": "https://example.com/player/640",
   "image": "ipfs://Qmcd8fU5TkMmCBK3RNrn9JETb6XhpM7jdDfXYVPhj861zo",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
+    "speed": 60,
     "shooting": 60,
-    "passing": 75,
-    "dribbling": 78,
-    "defense": 70,
-    "physical": 73,
-    "goalTending": 66
+    "passing": 69,
+    "dribbling": 54,
+    "defense": 62,
+    "physical": 72,
+    "goal_tending": 60
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 60
     },
     {
       "display_type": "shooting",
@@ -30,27 +35,27 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 75
+      "value": 69
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 54
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 70
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 66
+      "value": 60
     }
   ]
 }

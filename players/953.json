@@ -1,36 +1,41 @@
 {
-  "name": "Amos Jacobs",
-  "jerseyNumber": 74,
-  "description": "Number 74 Amos Jacobs. Overall rating of 70.",
+  "name": "Kerry Upton",
+  "jersey_number": 93,
+  "description": "Number 93 Kerry Upton. Overall rating of 61.",
   "external_url": "https://example.com/player/953",
   "image": "ipfs://QmSP72M1PX5N2tx8Kd5wsFNkqEqjnmR5xDd5kH9Gt8c2zQ",
-  "tier": 2,
-  "overallRating": 70,
+  "tier": 3,
+  "overall_rating": 61,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 68,
-    "passing": 68,
+    "speed": 52,
+    "shooting": 41,
+    "passing": 59,
     "dribbling": 54,
-    "defense": 65,
-    "physical": 52,
-    "goalTending": 62
+    "defense": 45,
+    "physical": 58,
+    "goal_tending": 41
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 52
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 68
+      "value": 41
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 59
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 65
+      "value": 45
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 52
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 62
+      "value": 41
     }
   ]
 }

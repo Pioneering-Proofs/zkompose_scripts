@@ -1,56 +1,61 @@
 {
-  "name": "Jenny Wilkinson",
-  "jerseyNumber": 46,
-  "description": "Number 46 Jenny Wilkinson. Overall rating of 79.",
+  "name": "Dr. Clinton Kutch",
+  "jersey_number": 59,
+  "description": "Number 59 Dr. Clinton Kutch. Overall rating of 74.",
   "external_url": "https://example.com/player/909",
   "image": "ipfs://QmcYuiL8P2bZCUVtUUUtb1bU2kv1Rztqg9aemySAGoEQsS",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 76,
-    "shooting": 78,
-    "passing": 79,
-    "dribbling": 75,
-    "defense": 64,
-    "physical": 65,
-    "goalTending": 73
+    "speed": 72,
+    "shooting": 62,
+    "passing": 72,
+    "dribbling": 55,
+    "defense": 65,
+    "physical": 68,
+    "goal_tending": 70
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 76
+      "value": 72
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 78
+      "value": 62
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 79
+      "value": 72
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 75
+      "value": 55
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 64
+      "value": 65
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 65
+      "value": 68
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 73
+      "value": 70
     }
   ]
 }

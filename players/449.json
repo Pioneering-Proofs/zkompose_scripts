@@ -1,56 +1,61 @@
 {
-  "name": "Gregg Gerlach",
-  "jerseyNumber": 49,
-  "description": "Number 49 Gregg Gerlach. Overall rating of 83.",
+  "name": "Dr. Thomas Schuppe Jr.",
+  "jersey_number": 93,
+  "description": "Number 93 Dr. Thomas Schuppe Jr.. Overall rating of 84.",
   "external_url": "https://example.com/player/449",
   "image": "ipfs://Qma87S2s8CEXhattaFDbCVtPHHpGMQXQkBaeFS3RDBRCpE",
   "tier": 1,
-  "overallRating": 83,
+  "overall_rating": 84,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 64,
-    "passing": 73,
-    "dribbling": 75,
-    "defense": 82,
-    "physical": 82,
-    "goalTending": 77
+    "speed": 77,
+    "shooting": 66,
+    "passing": 80,
+    "dribbling": 80,
+    "defense": 81,
+    "physical": 71,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 64
+      "value": 66
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 80
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 75
+      "value": 80
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 82
+      "value": 81
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 82
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 77
+      "value": 68
     }
   ]
 }

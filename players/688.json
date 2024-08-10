@@ -1,56 +1,61 @@
 {
-  "name": "Lynne Terry",
-  "jerseyNumber": 57,
-  "description": "Number 57 Lynne Terry. Overall rating of 96.",
+  "name": "Tiffany Hansen DVM",
+  "jersey_number": 27,
+  "description": "Number 27 Tiffany Hansen DVM. Overall rating of 72.",
   "external_url": "https://example.com/player/688",
   "image": "ipfs://QmRC4TZamrRjaidSRMqhbDfNsxBAVn8br54Zou2u9hPUCH",
-  "tier": 0,
-  "overallRating": 96,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 96,
-    "shooting": 91,
-    "passing": 79,
-    "dribbling": 91,
-    "defense": 83,
-    "physical": 95,
-    "goalTending": 78
+    "speed": 58,
+    "shooting": 61,
+    "passing": 65,
+    "dribbling": 71,
+    "defense": 56,
+    "physical": 57,
+    "goal_tending": 53
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 96
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 91
+      "value": 61
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 79
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 91
+      "value": 71
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 83
+      "value": 56
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 95
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 78
+      "value": 53
     }
   ]
 }

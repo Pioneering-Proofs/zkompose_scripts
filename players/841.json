@@ -1,22 +1,27 @@
 {
-  "name": "Mary McGlynn",
-  "jerseyNumber": 92,
-  "description": "Number 92 Mary McGlynn. Overall rating of 77.",
+  "name": "Mrs. Vicki Collier",
+  "jersey_number": 12,
+  "description": "Number 12 Mrs. Vicki Collier. Overall rating of 67.",
   "external_url": "https://example.com/player/841",
   "image": "ipfs://QmZ2jFBGMebAuiBEYXHdJ65YiaJ7HQMyi3mairGyCNbdUK",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 3,
+  "overall_rating": 67,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
     "speed": 65,
     "shooting": 66,
     "passing": 60,
-    "dribbling": 61,
-    "defense": 75,
-    "physical": 75,
-    "goalTending": 60
+    "dribbling": 55,
+    "defense": 55,
+    "physical": 59,
+    "goal_tending": 51
   },
   "attributes": [
+    {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
     {
       "display_type": "speed",
       "trait_type": "Speed",
@@ -35,22 +40,22 @@
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 61
+      "value": 55
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 75
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 75
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 51
     }
   ]
 }

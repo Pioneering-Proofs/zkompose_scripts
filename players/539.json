@@ -1,56 +1,61 @@
 {
-  "name": "Pedro Barton",
-  "jerseyNumber": 85,
-  "description": "Number 85 Pedro Barton. Overall rating of 60.",
+  "name": "Andrea Donnelly",
+  "jersey_number": 62,
+  "description": "Number 62 Andrea Donnelly. Overall rating of 75.",
   "external_url": "https://example.com/player/539",
   "image": "ipfs://QmXnD2dGAgAhvKpXuBSmEpkUfdtQLsaHV4ZsPHi1bUpaBq",
-  "tier": 3,
-  "overallRating": 60,
+  "tier": 2,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 47,
-    "shooting": 50,
-    "passing": 58,
-    "dribbling": 48,
-    "defense": 40,
-    "physical": 52,
-    "goalTending": 41
+    "speed": 74,
+    "shooting": 57,
+    "passing": 75,
+    "dribbling": 56,
+    "defense": 63,
+    "physical": 73,
+    "goal_tending": 68
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 47
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 50
+      "value": 57
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 58
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 48
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 40
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 52
+      "value": 73
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 41
+      "value": 68
     }
   ]
 }

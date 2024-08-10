@@ -1,56 +1,61 @@
 {
-  "name": "Alonzo Labadie",
-  "jerseyNumber": 79,
-  "description": "Number 79 Alonzo Labadie. Overall rating of 69.",
+  "name": "Ms. Pamela Hegmann-Orn",
+  "jersey_number": 46,
+  "description": "Number 46 Ms. Pamela Hegmann-Orn. Overall rating of 72.",
   "external_url": "https://example.com/player/740",
   "image": "ipfs://QmXCacL5okzvEJfbyKJSJ6oZ4ZSvAy8mrdao8cZJSgvza1",
-  "tier": 3,
-  "overallRating": 69,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 62,
-    "shooting": 57,
-    "passing": 68,
-    "dribbling": 68,
-    "defense": 67,
-    "physical": 57,
-    "goalTending": 60
+    "speed": 68,
+    "shooting": 60,
+    "passing": 70,
+    "dribbling": 70,
+    "defense": 63,
+    "physical": 59,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 62
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 57
+      "value": 60
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 70
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 67
+      "value": 63
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 57
+      "value": 59
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 61
     }
   ]
 }

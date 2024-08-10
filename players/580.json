@@ -1,56 +1,61 @@
 {
-  "name": "Dustin Tremblay",
-  "jerseyNumber": 18,
-  "description": "Number 18 Dustin Tremblay. Overall rating of 56.",
+  "name": "Jon Jast",
+  "jersey_number": 41,
+  "description": "Number 41 Jon Jast. Overall rating of 78.",
   "external_url": "https://example.com/player/580",
   "image": "ipfs://QmcGh2Z3sxRN1vdRuXq7tm1STNaQPmXK4keKV5btSfrzCD",
-  "tier": 4,
-  "overallRating": 56,
+  "tier": 2,
+  "overall_rating": 78,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 52,
-    "shooting": 55,
-    "passing": 47,
-    "dribbling": 55,
-    "defense": 38,
-    "physical": 53,
-    "goalTending": 36
+    "speed": 59,
+    "shooting": 59,
+    "passing": 71,
+    "dribbling": 61,
+    "defense": 75,
+    "physical": 60,
+    "goal_tending": 69
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 52
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 59
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 47
+      "value": 71
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 55
+      "value": 61
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 38
+      "value": 75
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 53
+      "value": 60
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 36
+      "value": 69
     }
   ]
 }

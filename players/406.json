@@ -1,56 +1,61 @@
 {
-  "name": "Roger Rath",
-  "jerseyNumber": 49,
-  "description": "Number 49 Roger Rath. Overall rating of 80.",
+  "name": "Ramona Hansen",
+  "jersey_number": 35,
+  "description": "Number 35 Ramona Hansen. Overall rating of 59.",
   "external_url": "https://example.com/player/406",
   "image": "ipfs://QmauVNxDk3btvK9jRQ1PThTMtn2b9n9VCcb86EdksCWLp5",
-  "tier": 1,
-  "overallRating": 80,
+  "tier": 4,
+  "overall_rating": 59,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 70,
-    "shooting": 74,
-    "passing": 76,
-    "dribbling": 67,
-    "defense": 61,
-    "physical": 61,
-    "goalTending": 60
+    "speed": 46,
+    "shooting": 53,
+    "passing": 50,
+    "dribbling": 59,
+    "defense": 55,
+    "physical": 58,
+    "goal_tending": 51
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 70
+      "value": 46
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 53
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 76
+      "value": 50
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 55
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 61
+      "value": 58
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 51
     }
   ]
 }

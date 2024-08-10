@@ -1,56 +1,61 @@
 {
-  "name": "Mr. Erik Fay IV",
-  "jerseyNumber": 2,
-  "description": "Number 2 Mr. Erik Fay IV. Overall rating of 76.",
+  "name": "Mr. Robin Altenwerth",
+  "jersey_number": 97,
+  "description": "Number 97 Mr. Robin Altenwerth. Overall rating of 83.",
   "external_url": "https://example.com/player/350",
   "image": "ipfs://QmSEsBjxinL2k17i1hhTNxeLrbNRDcUKyT7maseJtyJiBL",
-  "tier": 2,
-  "overallRating": 76,
+  "tier": 1,
+  "overall_rating": 83,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 73,
-    "shooting": 73,
-    "passing": 71,
-    "dribbling": 67,
-    "defense": 73,
-    "physical": 73,
-    "goalTending": 58
+    "speed": 77,
+    "shooting": 80,
+    "passing": 70,
+    "dribbling": 76,
+    "defense": 78,
+    "physical": 72,
+    "goal_tending": 80
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 73
+      "value": 77
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 73
+      "value": 80
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 71
+      "value": 70
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 67
+      "value": 76
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 78
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 73
+      "value": 72
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 58
+      "value": 80
     }
   ]
 }

@@ -1,36 +1,41 @@
 {
-  "name": "Joyce Wuckert",
-  "jerseyNumber": 5,
-  "description": "Number 5 Joyce Wuckert. Overall rating of 77.",
+  "name": "Danny Runolfsson II",
+  "jersey_number": 30,
+  "description": "Number 30 Danny Runolfsson II. Overall rating of 64.",
   "external_url": "https://example.com/player/119",
   "image": "ipfs://QmU7cy94t7TMjhhu16NpGGJAnFXygWYNck1DcPaJPM66aX",
-  "tier": 2,
-  "overallRating": 77,
+  "tier": 3,
+  "overall_rating": 64,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 60,
-    "shooting": 76,
-    "passing": 70,
+    "speed": 63,
+    "shooting": 48,
+    "passing": 48,
     "dribbling": 61,
-    "defense": 73,
-    "physical": 68,
-    "goalTending": 59
+    "defense": 48,
+    "physical": 57,
+    "goal_tending": 44
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 60
+      "value": 63
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 76
+      "value": 48
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 48
     },
     {
       "display_type": "dribbling",
@@ -40,17 +45,17 @@
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 48
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 68
+      "value": 57
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 59
+      "value": 44
     }
   ]
 }

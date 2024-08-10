@@ -1,56 +1,61 @@
 {
-  "name": "Harriet Bradtke IV",
-  "jerseyNumber": 76,
-  "description": "Number 76 Harriet Bradtke IV. Overall rating of 77.",
+  "name": "Kathy Kuhlman-Boyer",
+  "jersey_number": 58,
+  "description": "Number 58 Kathy Kuhlman-Boyer. Overall rating of 74.",
   "external_url": "https://example.com/player/266",
   "image": "ipfs://QmTYRBTypmqt7JpJhMqFmf6LDnZYdqLjeSpCvbGGbUZGi3",
   "tier": 2,
-  "overallRating": 77,
+  "overall_rating": 74,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 61,
-    "shooting": 63,
-    "passing": 70,
-    "dribbling": 68,
-    "defense": 73,
-    "physical": 72,
-    "goalTending": 69
+    "speed": 59,
+    "shooting": 74,
+    "passing": 55,
+    "dribbling": 62,
+    "defense": 71,
+    "physical": 66,
+    "goal_tending": 62
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 61
+      "value": 59
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 63
+      "value": 74
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 70
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 68
+      "value": 62
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 72
+      "value": 66
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 69
+      "value": 62
     }
   ]
 }

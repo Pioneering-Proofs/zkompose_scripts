@@ -1,56 +1,61 @@
 {
-  "name": "Della Erdman",
-  "jerseyNumber": 4,
-  "description": "Number 4 Della Erdman. Overall rating of 73.",
+  "name": "William Howe",
+  "jersey_number": 23,
+  "description": "Number 23 William Howe. Overall rating of 80.",
   "external_url": "https://example.com/player/761",
   "image": "ipfs://QmeEdx4BZhJ6YzV2RRuxMSZWuoVDBRWt64nCkfhDCdBWVj",
-  "tier": 2,
-  "overallRating": 73,
+  "tier": 1,
+  "overall_rating": 80,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 71,
-    "shooting": 58,
-    "passing": 54,
-    "dribbling": 55,
-    "defense": 71,
-    "physical": 58,
-    "goalTending": 60
+    "speed": 76,
+    "shooting": 76,
+    "passing": 75,
+    "dribbling": 63,
+    "defense": 79,
+    "physical": 63,
+    "goal_tending": 75
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 71
+      "value": 76
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 58
+      "value": 76
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 54
+      "value": 75
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 55
+      "value": 63
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 71
+      "value": 79
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 58
+      "value": 63
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 60
+      "value": 75
     }
   ]
 }

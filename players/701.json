@@ -1,56 +1,61 @@
 {
-  "name": "Claudia Murazik",
-  "jerseyNumber": 45,
-  "description": "Number 45 Claudia Murazik. Overall rating of 79.",
+  "name": "Cory Howell",
+  "jersey_number": 31,
+  "description": "Number 31 Cory Howell. Overall rating of 72.",
   "external_url": "https://example.com/player/701",
   "image": "ipfs://QmYefiVsGYBLXMh3oCLyDrFRy6H1TBSHet5nqCr7ayMeUw",
   "tier": 2,
-  "overallRating": 79,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 72,
-    "shooting": 70,
-    "passing": 68,
-    "dribbling": 78,
-    "defense": 61,
-    "physical": 71,
-    "goalTending": 75
+    "speed": 54,
+    "shooting": 71,
+    "passing": 55,
+    "dribbling": 60,
+    "defense": 53,
+    "physical": 52,
+    "goal_tending": 71
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 72
+      "value": 54
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 70
+      "value": 71
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 68
+      "value": 55
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 78
+      "value": 60
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 61
+      "value": 53
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 71
+      "value": 52
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 75
+      "value": 71
     }
   ]
 }

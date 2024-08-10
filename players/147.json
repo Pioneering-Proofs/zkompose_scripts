@@ -1,56 +1,61 @@
 {
-  "name": "Rafael Shields",
-  "jerseyNumber": 11,
-  "description": "Number 11 Rafael Shields. Overall rating of 76.",
+  "name": "Philip Crist",
+  "jersey_number": 14,
+  "description": "Number 14 Philip Crist. Overall rating of 70.",
   "external_url": "https://example.com/player/147",
   "image": "ipfs://QmQNhaT1UYBfTB5AULz2GCpXWp3hgBPsroSX71jEnJTcKU",
   "tier": 2,
-  "overallRating": 76,
+  "overall_rating": 70,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 63,
-    "shooting": 74,
-    "passing": 74,
-    "dribbling": 63,
-    "defense": 73,
-    "physical": 70,
-    "goalTending": 68
+    "speed": 68,
+    "shooting": 69,
+    "passing": 60,
+    "dribbling": 54,
+    "defense": 68,
+    "physical": 64,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 63
+      "value": 68
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 74
+      "value": 69
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 74
+      "value": 60
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 63
+      "value": 54
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 73
+      "value": 68
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 70
+      "value": 64
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 68
+      "value": 61
     }
   ]
 }

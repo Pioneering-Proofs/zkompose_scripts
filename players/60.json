@@ -1,26 +1,31 @@
 {
-  "name": "Erick Yost",
-  "jerseyNumber": 71,
-  "description": "Number 71 Erick Yost. Overall rating of 75.",
+  "name": "Warren Lebsack",
+  "jersey_number": 45,
+  "description": "Number 45 Warren Lebsack. Overall rating of 75.",
   "external_url": "https://example.com/player/60",
   "image": "ipfs://QmbjtnRv2k4YpVeraca24Cbakwv4RmMYdaqGvox3eWL65J",
   "tier": 2,
-  "overallRating": 75,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 65,
+    "speed": 73,
     "shooting": 55,
-    "passing": 73,
-    "dribbling": 66,
-    "defense": 57,
+    "passing": 65,
+    "dribbling": 62,
+    "defense": 67,
     "physical": 74,
-    "goalTending": 62
+    "goal_tending": 74
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 65
+      "value": 73
     },
     {
       "display_type": "shooting",
@@ -30,17 +35,17 @@
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 73
+      "value": 65
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 66
+      "value": 62
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 57
+      "value": 67
     },
     {
       "display_type": "physical",
@@ -48,9 +53,9 @@
       "value": 74
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 62
+      "value": 74
     }
   ]
 }

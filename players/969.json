@@ -1,56 +1,61 @@
 {
-  "name": "Victor Stehr",
-  "jerseyNumber": 92,
-  "description": "Number 92 Victor Stehr. Overall rating of 52.",
+  "name": "Rick Huels",
+  "jersey_number": 26,
+  "description": "Number 26 Rick Huels. Overall rating of 72.",
   "external_url": "https://example.com/player/969",
   "image": "ipfs://QmfH3dM7UpbkYjVmnbGP9HrrdDM2TwN2XWkDVXwQ7QaSzD",
-  "tier": 4,
-  "overallRating": 52,
+  "tier": 2,
+  "overall_rating": 72,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 38,
-    "shooting": 47,
-    "passing": 40,
-    "dribbling": 33,
-    "defense": 34,
-    "physical": 48,
-    "goalTending": 36
+    "speed": 58,
+    "shooting": 58,
+    "passing": 66,
+    "dribbling": 59,
+    "defense": 71,
+    "physical": 70,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 38
+      "value": 58
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 47
+      "value": 58
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 40
+      "value": 66
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 33
+      "value": 59
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 34
+      "value": 71
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 48
+      "value": 70
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 36
+      "value": 61
     }
   ]
 }

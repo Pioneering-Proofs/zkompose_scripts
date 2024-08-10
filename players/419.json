@@ -1,56 +1,61 @@
 {
-  "name": "Della Konopelski",
-  "jerseyNumber": 76,
-  "description": "Number 76 Della Konopelski. Overall rating of 64.",
+  "name": "Molly Kunze",
+  "jersey_number": 5,
+  "description": "Number 5 Molly Kunze. Overall rating of 75.",
   "external_url": "https://example.com/player/419",
   "image": "ipfs://QmdURqKsatGLgPBhvVjWo5bVegwSMzuvz35DN2yVsXpvcw",
-  "tier": 3,
-  "overallRating": 64,
+  "tier": 2,
+  "overall_rating": 75,
+  "skill_multiplier": 1,
   "skill": {
-    "multiplier": 1,
-    "speed": 46,
-    "shooting": 55,
-    "passing": 62,
-    "dribbling": 48,
-    "defense": 58,
-    "physical": 45,
-    "goalTending": 45
+    "speed": 74,
+    "shooting": 72,
+    "passing": 71,
+    "dribbling": 56,
+    "defense": 62,
+    "physical": 71,
+    "goal_tending": 61
   },
   "attributes": [
     {
+      "display_type": "skill_multiplier",
+      "trait_type": "Skill Multiplier",
+      "value": 1
+    },
+    {
       "display_type": "speed",
       "trait_type": "Speed",
-      "value": 46
+      "value": 74
     },
     {
       "display_type": "shooting",
       "trait_type": "Shooting",
-      "value": 55
+      "value": 72
     },
     {
       "display_type": "passing",
       "trait_type": "Passing",
-      "value": 62
+      "value": 71
     },
     {
       "display_type": "dribbling",
       "trait_type": "Dribbling",
-      "value": 48
+      "value": 56
     },
     {
       "display_type": "defense",
       "trait_type": "Defense",
-      "value": 58
+      "value": 62
     },
     {
       "display_type": "physical",
       "trait_type": "Physical Strength",
-      "value": 45
+      "value": 71
     },
     {
-      "display_type": "goalTending",
+      "display_type": "goal_tending",
       "trait_type": "Goal Tending",
-      "value": 45
+      "value": 61
     }
   ]
 }
