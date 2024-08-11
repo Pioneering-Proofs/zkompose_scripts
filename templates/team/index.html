@@ -260,7 +260,7 @@
       const playerSectionDiv = document.getElementById(positionId);
       const { name, jersey_number, overall_rating, position, tier } = player;
       const playerDiv = document.createElement('div');
-      const imgUri = image !== -1 ? `./players/${positionId}/${index}/img.svg` : `./player_svgs/${positionId}.svg`;
+      const imgUri = index !== -1 ? `./players/${positionId}/${index}/img.svg` : `./players/${positionId}/img.svg`;
       const tierText = tierNumToText(tier);
       
       playerDiv.classList.add('player', tierText);
@@ -339,31 +339,40 @@
     </svg>
     <div id="players">
       <div id="goal_tender" class="player-group">
-        <div class="player diamond">
-          <img src="./player_svgs/0.svg">
-          <div class="stat">98</div>
-          <p class="jersey-num">No. 7</p>
-          <p class="name">Cristiano Ronaldo</p>
-        </div>
       </div>
       <div id="defense" class="player-group">
-        <div class="player"></div>
-        <div class="player"></div>
-        <div class="player"></div>
-        <div class="player"></div>
       </div>
       <div id="mid" class="player-group">
-        <div class="player"></div>
-        <div class="player"></div>
-        <div class="player"></div>
       </div>
       <div id="offense" class="player-group">
-        <div class="player"></div>
-        <div class="player"></div>
-        <div class="player"></div>
       </div>
     </div>
   </div>
 
 </body>
 </html>
+
+<!-- 
+struct Team {
+  name: str,
+  logo_uri: str,
+  owner: str,
+  team_rating: u8,
+  roster: Roster {
+    goal_tender: Player,
+    defense: [Player; 4],
+    mid: [Player; 3],
+    offense: [Player; 3]
+  },
+}
+
+struct Player {
+  cid: str,
+  token_id: str,
+  name: str,
+  img_uri: str,
+  jersey_number: u8,
+  overall_rating: u8,
+  tier: TierEnum,
+} 
+  -->
