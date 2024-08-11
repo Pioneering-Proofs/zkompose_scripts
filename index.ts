@@ -3,14 +3,6 @@ import { faker } from '@faker-js/faker';
 // @ts-ignore
 import Hash from 'ipfs-only-hash';
 
-// {
-//   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-//   "external_url": "https://openseacreatures.io/3", 
-//   "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-//   "name": "Dave Starbelly",
-//   "attributes": [ ... ]
-// }
-
 interface Player {
   name: string;
   description: string;
@@ -49,8 +41,8 @@ function normalRandom(): number {
   return Math.sqrt(-2.0 * Math.log(u)) * Math.cos(2.0 * Math.PI * v);
 }
 
-function generateOverallRating(): number {
-  let rating = Math.round(normalRandom() * STANDARD_DEVIATION + MEDIAN_OVERALL_RATING);
+function generateOverallRating(stdDev: number, median: number): number {
+  let rating = Math.round(normalRandom() * stdDev + median);
   return Math.max(40, Math.min(99, rating));
 }
 
@@ -77,9 +69,9 @@ function calculateTier(overallRating: number): number {
   return 4; // Bench
 }
 
-const generatePlayers = async () => {
-  for (let i = 0; i < PLAYER_COUNT; i++) {
-    const overallRating = generateOverallRating();
+const generatePlayers = async (playerCount: number, stdDev: number, median: number) => {
+  for (let i = 0; i < playerCount; i++) {
+    const overallRating = generateOverallRating(stdDev, median);
     const skillScores = generateSkillScores(overallRating);
     const name = faker.person.fullName();
     const jersey_number = faker.number.int({ min: 1, max: 99 });
@@ -119,8 +111,8 @@ const generatePlayers = async () => {
       ]
     };
 
-    fs.writeFileSync(`players/${i}.json`, JSON.stringify(player, null, 2));
+    fs.writeFileSync(`players/${i}.json`, JSON.stringify(player));
   }
 }
 
-generatePlayers();
+generatePlayers(PLAYER_COUNT, STANDARD_DEVIATION, MEDIAN_OVERALL_RATING);
